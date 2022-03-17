@@ -1,0 +1,40 @@
+---
+id: OASISxacml-3.0-nested-ent-v1.0-CS01
+title:
+- type: main
+  content: XACML v3.0 Related and Nested Entities Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xacml-3.0-nested-ent-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: xacml-3.0-nested-ent-v1.0-CS01
+date:
+- type: issued
+  value: '2015-10-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: It is not unusual for access control policy to be dependent on attributes
+    that are not naturally properties of the access subject or resource, but rather
+    are properties of entities that are related to the access subject or resource.
+    This profile defines the means to reference such attributes from within XACML
+    policies for processing by a policy decision point.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

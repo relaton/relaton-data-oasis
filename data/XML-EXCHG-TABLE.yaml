@@ -1,0 +1,38 @@
+---
+id: OASISxml-exchg-table
+title:
+- type: main
+  content: XML Exchange Table Model Document Type Definition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xml-exchg-table
+  type: OASIS
+  primary: true
+docnumber: xml-exchg-table
+date:
+- type: issued
+  value: '1999-09-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: An XML expression of the Exchange subset of the full CALS table model DTD,
+    providing high probability that tagged tables will interoperate across majority
+    of products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: memorandum
+editorialgroup:
+- name: Tables Technical Committee
+technology_area:
+- Content-Technologies

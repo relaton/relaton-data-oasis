@@ -1,0 +1,39 @@
+---
+id: OASISBDX-AS4-v1.0
+title:
+- type: main
+  content: AS4 Interoperability Profile for Four-Corner Networks Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BDX-AS4-v1.0
+  type: OASIS
+  primary: true
+docnumber: BDX-AS4-v1.0
+date:
+- type: issued
+  value: '2021-11-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an interoperability profile of the AS4 Profile of ebMS 3.0 for
+    use in four-corner networks where entities exchange business documents through
+    intermediary gateway services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Business Document Exchange (BDXR) TC
+technology_area:
+- e-Business
+- Messaging

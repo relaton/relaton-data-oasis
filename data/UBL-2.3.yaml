@@ -1,0 +1,36 @@
+---
+id: OASISUBL-2.3
+title:
+- type: main
+  content: Universal Business Language Version 2.3
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UBL-2.3
+  type: OASIS
+  primary: true
+docnumber: UBL-2.3
+date:
+- type: issued
+  value: '2021-06-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: UBL is the leading interchange format for business documents.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Universal Business Language (UBL) TC
+technology_area:
+- e-Business

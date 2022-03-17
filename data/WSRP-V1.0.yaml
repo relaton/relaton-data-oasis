@@ -1,0 +1,38 @@
+---
+id: OASISWSRP-v1.0
+title:
+- type: main
+  content: Web Services for Remote Portlets (WSRP) v1.0 [OASIS 200304]
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WSRP-v1.0
+  type: OASIS
+  primary: true
+docnumber: WSRP-v1.0
+date:
+- type: issued
+  value: '2003-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Enables an application designer or administrator to pick from a rich choice
+    of compliant remote content and application providers, and integrate them with
+    just a few mouse clicks and no programming effort.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services for Remote Portlets TC
+technology_area:
+- Web-Services

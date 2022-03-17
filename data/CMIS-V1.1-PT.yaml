@@ -1,0 +1,85 @@
+---
+id: OASISCMIS-v1.1-Pt
+title:
+- type: main
+  content: Content Management Interoperability Services (CMIS) Version 1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/cmis/CMIS/v1.1/os/CMIS-v1.1-os.html
+  type: src
+type: standard
+docid:
+- id: OASIS CMIS-v1.1-Pt
+  type: OASIS
+  primary: true
+docnumber: CMIS-v1.1-Pt
+date:
+- type: issued
+  value: '2013-05-23'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Florian
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Müller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Ryan
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: McVeigh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Jens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS CMIS-v1.1
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Content-Technologies

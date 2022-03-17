@@ -1,0 +1,38 @@
+---
+id: OASISDSML-v2.0
+title:
+- type: main
+  content: Directory Services Markup Language (DSML) v2.0 [OASIS 200201]
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS DSML-v2.0
+  type: OASIS
+  primary: true
+docnumber: DSML-v2.0
+date:
+- type: issued
+  value: '2002-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Providing a means for representing directory structural information as
+    an XML document, as well as providing a method for expressing directory queries
+    and updates (and the results of these operations) as XML documents
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Directory Services Markup Language TC
+technology_area:
+- Content-Technologies

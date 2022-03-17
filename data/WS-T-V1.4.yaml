@@ -1,0 +1,38 @@
+---
+id: OASISWS-T-v1.4
+title:
+- type: main
+  content: WS-Trust v1.4
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-T-v1.4
+  type: OASIS
+  primary: true
+docnumber: WS-T-v1.4
+date:
+- type: issued
+  value: '2009-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines extensions that build on [WS-Security] to provide a framework for
+    requesting and issuing security tokens, and to broker trust relationships. This
+    document incorporates errata approved by the Technical Committee on 25 April 2012.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Secure Exchange (WS-SX) TC
+technology_area:
+- Web-Services

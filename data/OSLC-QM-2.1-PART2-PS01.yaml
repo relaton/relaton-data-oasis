@@ -1,0 +1,85 @@
+---
+id: OASISOSLC-qm-2.1-Part2-PS01
+title:
+- type: main
+  content: 'OSLC Quality Management Version 2.1. Part 2: Vocabulary'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/qm/v2.1/ps01/quality-management-vocab.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-qm-2.1-Part2-PS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-qm-2.1-Part2-PS01
+date:
+- type: issued
+  value: '2020-08-27'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Jim
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Amsden
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Andrii
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Berezovskyi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Gray
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-QM-2.1-PS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Lifecycle-Integration

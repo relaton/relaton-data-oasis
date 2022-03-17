@@ -1,0 +1,38 @@
+---
+id: OASISsstc-md-iop-v1.0
+title:
+- type: main
+  content: SAML V2.0 Metadata Interoperability Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS sstc-md-iop-v1.0
+  type: OASIS
+  primary: true
+docnumber: sstc-md-iop-v1.0
+date:
+- type: issued
+  value: '2019-10-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a set of rules for SAML metadata producers and consumers to follow
+    such that federated relationships can be interoperably provisioned, and controlled
+    at runtime in a secure, understandable, and self-contained fashion.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

@@ -1,0 +1,38 @@
+---
+id: OASISWSS
+title:
+- type: main
+  content: Web Services Security
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WSS
+  type: OASIS
+  primary: true
+docnumber: WSS
+date:
+- type: issued
+  value: '2004-12-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Describes how to use Security Assertions Markup Language (SAML) V1.1 assertions
+    and ISO/IEC 21000-5 Rights Expressions with the Web Services Security (WSS): SOAP
+    Message Security [WS-Security] specification.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Security TC
+technology_area:
+- Web-Services

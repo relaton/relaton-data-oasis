@@ -1,0 +1,39 @@
+---
+id: OASISWS-Calendar-PIM-v1.0-CS02
+title:
+- type: main
+  content: WS-Calendar Platform Independent Model (PIM) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Calendar-PIM-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: WS-Calendar-PIM-v1.0-CS02
+date:
+- type: issued
+  value: '2015-08-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Defines conformance and improves interoperation of calendar and schedule models with each other and with WS-Calendar and Xcal, which are in turn based on IETF RFCs.
+    This is a Platform Independent Model under the Object Management Group’s Model-Driven Architecture. The Platform Dependent Model to which this specification relates is the full model for WS-Calendar as expressed in XML (xCal).
+    The focus of this Platform Independent Model is on describing and passing schedule and interval information with information attachments.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Calendar (WS-Calendar) TC
+technology_area:
+- Web-Services

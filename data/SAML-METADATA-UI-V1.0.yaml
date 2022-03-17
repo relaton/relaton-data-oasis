@@ -1,0 +1,39 @@
+---
+id: OASISSAML-Metadata-UI-v1.0
+title:
+- type: main
+  content: SAML V2.0 Metadata Extensions for Login and Discovery User Interface Version
+    1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-Metadata-UI-v1.0
+  type: OASIS
+  primary: true
+docnumber: SAML-Metadata-UI-v1.0
+date:
+- type: issued
+  value: '2019-10-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a set of extensions to SAML metadata that provide information necessary
+    for user agents to present effective user interfaces and, in the case of identity
+    provider discovery, recommend appropriate choices to the user.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

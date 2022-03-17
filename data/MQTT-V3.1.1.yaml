@@ -1,0 +1,57 @@
+---
+id: OASISmqtt-v3.1.1
+title:
+- type: main
+  content: MQTT v3.1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS mqtt-v3.1.1
+  type: OASIS
+  primary: true
+docnumber: mqtt-v3.1.1
+date:
+- type: issued
+  value: '2014-10-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A Client Server publish/subscribe messaging transport protocol. It is light
+    weight, open, simple, and designed so as to be easy to implement. These characteristics
+    make it ideal for use in many situations, including constrained environments such
+    as for communication in Machine to Machine (M2M) and Internet of Things (IoT)
+    contexts.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS mqtt-v3.1.1-Pt
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS mqtt-v3.1.1-errata01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS mqtt-v3.1.1-plus-errata01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Message Queuing Telemetry Transport (MQTT) TC
+technology_area:
+- IoT
+- Messaging

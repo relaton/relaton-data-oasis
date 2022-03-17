@@ -1,0 +1,39 @@
+---
+id: OASISLegalRuleML-Core-v1.0
+title:
+- type: main
+  content: LegalRuleML Core Specification Version 1.0 – OASIS Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS LegalRuleML-Core-v1.0
+  type: OASIS
+  primary: true
+docnumber: LegalRuleML-Core-v1.0
+date:
+- type: issued
+  value: '2021-08-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defining a standard (expressed with XML-schema and Relax NG on the basis
+    of Consumer RuleML 1.02) that is able to represent the particularities of the
+    legal normative rules with a rich, articulated, and meaningful mark-up language.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS LegalRuleML TC
+technology_area:
+- e-Business
+- eGov/Legal

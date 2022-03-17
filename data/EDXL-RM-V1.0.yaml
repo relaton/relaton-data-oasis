@@ -1,0 +1,41 @@
+---
+id: OASISEDXL-RM-v1.0
+title:
+- type: main
+  content: Emergency Data Exchange Language Resource Messaging (EDXL-RM) v1.0 incorporating
+    Approved Errata
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EDXL-RM-v1.0
+  type: OASIS
+  primary: true
+docnumber: EDXL-RM-v1.0
+date:
+- type: issued
+  value: '2008-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a suite of standard messages for data sharing among emergency
+    and other information systems that deal in requesting and providing emergency
+    equipment, supplies, people and teams. This format may be used over any data transmission
+    system, including but not limited to the SOAP HTTP binding.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Emergency Management TC
+technology_area:
+- Emergency-Management
+- Messaging

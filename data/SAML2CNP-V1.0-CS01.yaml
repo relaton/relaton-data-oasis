@@ -1,0 +1,37 @@
+---
+id: OASISSAML2CNP-V1.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Change Notify Protocol Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML2CNP-V1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2CNP-V1.0-CS01
+date:
+- type: issued
+  value: '2011-09-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes request and response messages for informing SAML endpoints about
+    available changes to subjects and attributes associated with subjects.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

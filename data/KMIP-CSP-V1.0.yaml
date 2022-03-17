@@ -1,0 +1,38 @@
+---
+id: OASISKMIP-CSP-v1.0
+title:
+- type: main
+  content: KMIP Cryptographic Services Profile v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS KMIP-CSP-v1.0
+  type: OASIS
+  primary: true
+docnumber: KMIP-CSP-v1.0
+date:
+- type: issued
+  value: '2015-05-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the use of KMIP operations to support cryptographic services
+    being performed by a KMIP server on behalf of a KMIP client for key management
+    operations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+technology_area:
+- Security

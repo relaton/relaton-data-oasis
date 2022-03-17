@@ -1,0 +1,85 @@
+---
+id: OASISTAXII-v1.1.1-Services-CS01-Pt2
+title:
+- type: main
+  content: 'TAXII(TM) Version 1.1.1. Part 2: Services'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/cti/taxii/v1.1.1/cs01/part2-services/taxii-v1.1.1-cs01-part2-services.html
+  type: src
+type: standard
+docid:
+- id: OASIS TAXII-v1.1.1-Services-CS01-Pt2
+  type: OASIS
+  primary: true
+docnumber: TAXII-v1.1.1-Services-CS01-Pt2
+date:
+- type: issued
+  value: '2016-05-05'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Mark
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Davidson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Charles
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Schmidt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Bret
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS TAXII-v1.1.1-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Cybersecurity

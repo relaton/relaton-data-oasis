@@ -1,0 +1,37 @@
+---
+id: OASISDSS-MD-v1.0-CS02
+title:
+- type: main
+  content: Digital Signature Service Metadata Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS DSS-MD-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: DSS-MD-v1.0-CS02
+date:
+- type: issued
+  value: '2019-12-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines JSON and XML structures and discovery mechanisms for metadata related
+    to digital signature services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Digital Signature Services eXtended (DSS-X) TC
+technology_area:
+- Security

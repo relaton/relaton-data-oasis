@@ -1,0 +1,38 @@
+---
+id: OASISentity-mgmt
+title:
+- type: main
+  content: Entity Management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS entity-mgmt
+  type: OASIS
+  primary: true
+docnumber: entity-mgmt
+date:
+- type: issued
+  value: '1997-09-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an entity catalog that handles the simple cases of mapping an external
+    entity’s public identifier and/or entity name to a file name, URL, or other storage
+    object identifier.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: resolution
+editorialgroup:
+- name: Entity Resolution TC
+technology_area:
+- Content-Technologies

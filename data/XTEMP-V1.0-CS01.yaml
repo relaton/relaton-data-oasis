@@ -1,0 +1,39 @@
+---
+id: OASISXTemp-V1.0-CS01
+title:
+- type: main
+  content: XML Testing and Event-driven Monitoring of Processes (XTemp) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XTemp-V1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: XTemp-V1.0-CS01
+date:
+- type: issued
+  value: '2011-12-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: XTemp is an XML mark-up language that is event-centric and intended for
+    the analysis of a sequence of events that represent traces of business processes.
+    It is designed for both log analysis and real-time execution. It leverages XPath
+    and XSLT.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
+technology_area:
+- Content-Technologies

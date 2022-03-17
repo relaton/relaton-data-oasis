@@ -1,0 +1,39 @@
+---
+id: OASISBusiness-Document-NDR-v1.0
+title:
+- type: main
+  content: Business Document Naming and Design Rules Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS Business-Document-NDR-v1.0
+  type: OASIS
+  primary: true
+docnumber: Business-Document-NDR-v1.0
+date:
+- type: issued
+  value: '2017-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Prescribes a set of naming and design rules used to create XML document
+    model validation artefacts (W3C Schema XSD files and OASIS Context/value association
+    files) associated with abstract information bundles formally described using the
+    Core Component Technical Specification 2.01 [CCTS].
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Universal Business Language (UBL) TC
+technology_area:
+- e-Business

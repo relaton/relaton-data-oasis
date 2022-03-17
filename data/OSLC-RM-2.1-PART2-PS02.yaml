@@ -1,0 +1,69 @@
+---
+id: OASISOSLC-RM-2.1-Part2-PS02
+title:
+- type: main
+  content: 'OSLC Requirements Management Version 2.1. Part 2: Vocabulary'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/rm/v2.1/ps02/requirements-management-vocab.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-RM-2.1-Part2-PS02
+  type: OASIS
+  primary: true
+docnumber: OSLC-RM-2.1-Part2-PS02
+date:
+- type: issued
+  value: '2021-05-28'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Mark
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Schulte
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Jad
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: El-khoury
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-RM-2.1-PS02
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Lifecycle-Integration

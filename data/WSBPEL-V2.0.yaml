@@ -1,0 +1,39 @@
+---
+id: OASISWSBPEL-v2.0
+title:
+- type: main
+  content: Web Services Business Process Execution Language v2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WSBPEL-v2.0
+  type: OASIS
+  primary: true
+docnumber: WSBPEL-v2.0
+date:
+- type: issued
+  value: '2007-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Defines a language for specifying business process behavior based on Web Services. This language is called Web Services Business Process Execution Language (abbreviated to WS-BPEL in the rest of this document). Processes in WS-BPEL export and import functionality by using Web Service interfaces exclusively.
+    Business processes can be described in two ways. Executable business processes model actual behavior of a participant in a business interaction. Abstract business processes are partially specified processes that are not intended to be executed. An Abstract Process may hide some of the required concrete operational details. Abstract Processes serve a descriptive role, with more than one possible use case, including observable behavior and process template. WS-BPEL is meant to be used to model the behavior of both Executable and Abstract Processes.
+    WS-BPEL provides a language for the specification of Executable and Abstract business processes. By doing so, it extends the Web Services interaction model and enables it to support business transactions. WS-BPEL defines an interoperable integration model that should facilitate the expansion of automated process integration in both the intra-corporate and the business-to-business spaces.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Business Process Execution Language (WSBPEL) TC
+technology_area:
+- Web-Services

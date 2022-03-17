@@ -1,0 +1,40 @@
+---
+id: OASISSOA-EERP-bSLA-v1.0-CS01
+title:
+- type: main
+  content: SOA-EERP Business Service Level Agreement Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SOA-EERP-bSLA-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SOA-EERP-bSLA-v1.0-CS01
+date:
+- type: issued
+  value: '2010-11-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifies the XML vocabulary for business service level agreement (bSLA),
+    one of three Specifications for end-to-end resource planning (EERP). Business
+    service level agreement describes the agreement between two parties, service requester
+    and service provider, on business-related characteristics or attributes of a service.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
+    TC
+technology_area:
+- SOA

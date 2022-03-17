@@ -1,0 +1,64 @@
+---
+id: OASISSTIX-v2.0-CS01
+title:
+- type: main
+  content: STIX(TM) Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS STIX-v2.0-CS01
+  type: OASIS
+  primary: true
+docnumber: STIX-v2.0-CS01
+date:
+- type: issued
+  value: '2017-07-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A language for expressing cyber threat and observable information. This
+    document defines concepts that apply across all of STIX and defines the overall
+    structure of the STIX language.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v2.0-Pt1-Core-CS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v2.0-Pt2-Objects-CS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v2.0-Pt3-Cyb-Core-CS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v2.0-Pt4-Cyb-Objects-CS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v2.0-Pt5-Patterning-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Cyber Threat Intelligence (CTI) TC
+technology_area:
+- Cybersecurity

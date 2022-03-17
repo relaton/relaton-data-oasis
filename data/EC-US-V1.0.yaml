@@ -1,0 +1,39 @@
+---
+id: OASISEC-US-v1.0
+title:
+- type: main
+  content: XACML 3.0 Export Compliance-US (EC-US) Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EC-US-v1.0
+  type: OASIS
+  primary: true
+docnumber: EC-US-v1.0
+date:
+- type: issued
+  value: '2015-01-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a profile for the use of XACML in expressing policies for complying
+    with USA government regulations for export compliance (EC). It defines standard
+    attribute identifiers useful in such policies, and recommends attribute value
+    ranges for certain attributes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

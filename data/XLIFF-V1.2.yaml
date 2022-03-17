@@ -1,0 +1,40 @@
+---
+id: OASISXLIFF-v1.2
+title:
+- type: main
+  content: XML Localisation Interchange File Format (XLIFF) v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XLIFF-v1.2
+  type: OASIS
+  primary: true
+docnumber: XLIFF-v1.2
+date:
+- type: issued
+  value: '2008-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the XML Localization Interchange File Format (XLIFF). The purpose
+    of this vocabulary is to store localizable data and carry it from one step of
+    the localization process to the other, while allowing interoperability between
+    tools.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS XML Localisation Interchange File Format (XLIFF) TC
+technology_area:
+- Content-Technologies
+- Localization

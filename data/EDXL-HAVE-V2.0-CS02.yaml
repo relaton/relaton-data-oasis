@@ -1,0 +1,43 @@
+---
+id: OASISEDXL-HAVE-v2.0-CS02
+title:
+- type: main
+  content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange
+    (HAVE) Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EDXL-HAVE-v2.0-CS02
+  type: OASIS
+  primary: true
+docnumber: EDXL-HAVE-v2.0-CS02
+date:
+- type: issued
+  value: '2019-03-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: An XML messaging standard primarily for exchange of information related
+    to health facilities in the context of emergency management. HAVE supports sharing
+    information about facility services, bed counts, operations, capacities, and resource
+    needs so first responders, emergency managers, coordinating organizations, hospitals,
+    care facilities, and the health community can provide each other with a coherent
+    view of the health system.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Emergency Management TC
+technology_area:
+- Emergency-Management
+- Messaging

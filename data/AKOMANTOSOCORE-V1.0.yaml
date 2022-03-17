@@ -1,0 +1,53 @@
+---
+id: OASISAkomaNtosoCore-v1.0
+title:
+- type: main
+  content: Akoma Ntoso Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS AkomaNtosoCore-v1.0
+  type: OASIS
+  primary: true
+docnumber: AkomaNtosoCore-v1.0
+date:
+- type: issued
+  value: '2018-08-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defining a common legal document standard for the specification of parliamentary,
+    legislative, and judicial documents, for their interchange between institutions
+    anywhere in the world, and for the creation of a common data and metadata model
+    that allows experience, expertise, and tools to be shared and extended by all
+    participating peers, courts, Parliaments, Assemblies, Congresses, and administrative
+    branches of governments.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS AkomaNtosoCore-v1.0-Pt1-Vocabulary
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS AkomaNtosoCore-v1.0-Pt2-Specifications
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS LegalDocumentML (LegalDocML) TC
+technology_area:
+- Content-Technologies
+- eGov/Legal

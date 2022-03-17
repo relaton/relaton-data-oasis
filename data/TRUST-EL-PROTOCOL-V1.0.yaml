@@ -1,0 +1,40 @@
+---
+id: OASISTrust-El-Protocol-v1.0
+title:
+- type: main
+  content: Authentication Step-Up Protocol and Metadata Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS Trust-El-Protocol-v1.0
+  type: OASIS
+  primary: true
+docnumber: Trust-El-Protocol-v1.0
+date:
+- type: issued
+  value: '2017-05-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describing a common metadata set, mechanisms and protocol elements for
+    Trust Elevation information exchanges in order to promote the use of Trust Elevation
+    elements to facilitate standardization among the many technologies and approaches
+    currently in use for credential & authentication risk mitigation.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
+    TC
+technology_area:
+- Privacy/Identity

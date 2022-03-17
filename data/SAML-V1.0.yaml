@@ -1,0 +1,37 @@
+---
+id: OASISSAML-v1.0
+title:
+- type: main
+  content: Security Assertion Markup Language (SAML) v1.0 [OASIS 200205]
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-v1.0
+  type: OASIS
+  primary: true
+docnumber: SAML-v1.0
+date:
+- type: issued
+  value: '2002-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the syntax and semantics for XML-encoded assertions about authentication,
+    attributes, and authorization, and for the protocols that convey this information.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Security Services TC
+technology_area:
+- Security

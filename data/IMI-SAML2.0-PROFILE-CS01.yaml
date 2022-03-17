@@ -1,0 +1,39 @@
+---
+id: OASISIMI-SAML2.0-PROFILE-CS01
+title:
+- type: main
+  content: SAML V2.0 Information Card Token Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS IMI-SAML2.0-PROFILE-CS01
+  type: OASIS
+  primary: true
+docnumber: IMI-SAML2.0-PROFILE-CS01
+date:
+- type: issued
+  value: '2010-07-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a set of rules for Identity Providers and Relying Parties to
+    follow when using SAML V2.0 assertions as managed Information Card security tokens,
+    so that interoperability and security is achieved commensurate with other SAML
+    authentication profiles.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Identity Metasystem Interoperability (IMI) TC
+technology_area:
+- Security

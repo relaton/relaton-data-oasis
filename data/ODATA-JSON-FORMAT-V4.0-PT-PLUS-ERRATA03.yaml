@@ -1,0 +1,85 @@
+---
+id: OASISOData-JSON-Format-v4.0-Pt-plus-errata03
+title:
+- type: main
+  content: OData JSON Format Version 4.0 Plus Errata 03
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/odata/odata-json-format/v4.0/errata03/os/odata-json-format-v4.0-errata03-os-complete.html
+  type: src
+type: standard
+docid:
+- id: OASIS OData-JSON-Format-v4.0-Pt-plus-errata03
+  type: OASIS
+  primary: true
+docnumber: OData-JSON-Format-v4.0-Pt-plus-errata03
+date:
+- type: issued
+  value: '2016-06-02'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Ralf
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Michael
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Pizzo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Mark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OData-JSON-Format-v4.0
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Messaging

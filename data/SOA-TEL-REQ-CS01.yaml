@@ -1,0 +1,38 @@
+---
+id: OASISsoa-tel-req-CS01
+title:
+- type: main
+  content: Telecom SOA Requirements Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS soa-tel-req-CS01
+  type: OASIS
+  primary: true
+docnumber: soa-tel-req-CS01
+date:
+- type: issued
+  value: '2010-06-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Collecting requirements related to technical issues and gaps of SOA standards (specified by OASIS and other SDOs) utilized within the context of Telecoms. Such technical issues are documented in SOA-TEL’s TC first deliverable “Telecom Use Cases and Issues, v.1.0”.
+    For each of the issues within the “Telecom Use Cases and Issues, v.1.0”, specific requirements are provided within this document. Where possible, non prescriptive solution proposals to the identified issues and requirements are also described, in order to possibly assist those Technical Committees (within OASIS and other SDOs) responsible for the development and maintenance of the SOA related standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS SOA for Telecom (SOA-Tel) TC
+technology_area:
+- SOA

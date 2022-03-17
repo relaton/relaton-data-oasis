@@ -1,0 +1,39 @@
+---
+id: OASISSAML2.0-deploy-x509-CS01
+title:
+- type: main
+  content: SAML V2.0 Deployment Profiles for X.509 Subjects
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML2.0-deploy-x509-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2.0-deploy-x509-CS01
+date:
+- type: issued
+  value: '2008-03-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifies how a principal who has been issued an X.509 identity certificate
+    is represented as a SAML Subject, how an assertion regarding such a principal
+    is produced and consumed, and finally how two entities exchange attributes about
+    such a principal.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

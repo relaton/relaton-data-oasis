@@ -1,0 +1,40 @@
+---
+id: OASISxmile-v1.0
+title:
+- type: main
+  content: XML Interchange Language for System Dynamics (XMILE) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xmile-v1.0
+  type: OASIS
+  primary: true
+docnumber: xmile-v1.0
+date:
+- type: issued
+  value: '2015-12-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an open XML protocol for the sharing, interoperability, and reuse
+    of SD models and simulations. This document describes the XMILE language and format
+    anyone who wishes to use SD models or embed them in their applications, such as
+    vendors of SD software, Big Data, cloud, mobile, and social media solutions, as
+    well as end users and consultants in the SD field.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS XML Interchange Language (XMILE) for System Dynamics TC
+technology_area:
+- Content-Technologies

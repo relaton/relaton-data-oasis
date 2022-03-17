@@ -1,0 +1,39 @@
+---
+id: OASISSAML-Async-SLO-CS01
+title:
+- type: main
+  content: SAML V2.0 Asynchronous Single Logout Profile Extension Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-Async-SLO-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-Async-SLO-CS01
+date:
+- type: issued
+  value: '2012-11-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an extension to the SAML 2.0 Single Logout Protocol that allows
+    the initiator to indicate that it does not expect to receive a response from the
+    session authority. This improves user interface interoperability in deployments
+    that want the identity provider to control the user experience during logout.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

@@ -1,0 +1,40 @@
+---
+id: OASISCDP-v1.0-CS01
+title:
+- type: main
+  content: Customer Data Platform Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS CDP-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: CDP-v1.0-CS01
+date:
+- type: issued
+  value: '2019-10-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Aims to standardize exchange of customer data across systems and silos
+    by defining a web-based API using GraphQL. The GraphQL api is a self-documented
+    and strongly typed interface. It is designed to be dynamically extended, and allows
+    extensive implementation specific customization.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Context Server (CXS) TC
+technology_area:
+- Content-Technologies
+- e-Business

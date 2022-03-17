@@ -1,0 +1,39 @@
+---
+id: OASISUnstructured-Operation-Markup-Language-v1.0
+title:
+- type: main
+  content: UOML (Unstructured Operation Markup Language) Part 1 v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS Unstructured-Operation-Markup-Language-v1.0
+  type: OASIS
+  primary: true
+docnumber: Unstructured-Operation-Markup-Language-v1.0
+date:
+- type: issued
+  value: '2008-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a markup language for unstructured document operation, including
+    the definitions of abstract document model and document operating instructions
+    to the abstract document model.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended (UOML-X)
+    TC"
+technology_area:
+- Content-Technologies

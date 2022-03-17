@@ -1,0 +1,42 @@
+---
+id: OASISEMIX-v1.0-CS02
+title:
+- type: main
+  content: Energy Market Information Exchange (EMIX) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EMIX-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: EMIX-v1.0-CS02
+date:
+- type: issued
+  value: '2012-01-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Defines an information model and XML vocabulary for the interoperable and standard exchange of prices and product definitions in transactive energy markets:
+    ·         Price information
+    ·         Bid information
+    ·         Time for use or availability
+    ·         Units and quantity to be traded
+    ·         Characteristics of what is traded
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Energy Market Information Exchange (eMIX) TC
+technology_area:
+- Energy

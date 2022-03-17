@@ -1,0 +1,40 @@
+---
+id: OASISEDXL-SitRep-CS02
+title:
+- type: main
+  content: Emergency Data Exchange Language Situation Reporting (EDXL-SitRep) Version
+    1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EDXL-SitRep-CS02
+  type: OASIS
+  primary: true
+docnumber: EDXL-SitRep-CS02
+date:
+- type: issued
+  value: '2016-10-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a set of standard reports and elements that can be used for data
+    sharing among emergency information systems, and that provide incident information
+    for situation awareness on which incident command can base decisions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Emergency Management TC
+technology_area:
+- Emergency-Management
+- Messaging

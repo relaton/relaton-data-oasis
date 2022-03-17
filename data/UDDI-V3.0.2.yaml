@@ -1,0 +1,39 @@
+---
+id: OASISUDDI-v3.0.2
+title:
+- type: main
+  content: Universal Description, Discovery and Integration v3.0.2 (UDDI)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UDDI-v3.0.2
+  type: OASIS
+  primary: true
+docnumber: UDDI-v3.0.2
+date:
+- type: issued
+  value: '2005-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Universal Description Discovery & Integration (UDDI) is the definition
+    of a set of services supporting the description and discovery of businesses, organizations,
+    and other Web services providers, the Web services they make available, and the
+    technical interfaces which may be used to access those services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS UDDI Specification TC
+technology_area:
+- Web-Services

@@ -1,0 +1,39 @@
+---
+id: OASISSAF-v1.0
+title:
+- type: main
+  content: Symptoms Automation Framework (SAF) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAF-v1.0
+  type: OASIS
+  primary: true
+docnumber: SAF-v1.0
+date:
+- type: issued
+  value: '2014-01-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a reference architecture for the Symptoms Automation Framework,
+    a tool in the automatic detection, optimization, and remediation of operational
+    aspects of complex systems, notably data centers. It also provides a non-normative
+    XML data model, based on a pseudo schema and an XSD.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Symptoms Automation Framework (SAF) TC
+technology_area:
+- Lifecycle-Integration

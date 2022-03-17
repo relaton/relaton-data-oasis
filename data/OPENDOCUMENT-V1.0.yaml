@@ -1,0 +1,37 @@
+---
+id: OASISOpenDocument-v1.0
+title:
+- type: main
+  content: OpenDocument Format for Office Applications (OpenDocument) v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OpenDocument-v1.0
+  type: OASIS
+  primary: true
+docnumber: OpenDocument-v1.0
+date:
+- type: issued
+  value: '2005-05-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: An open, XML-based file format for office applications, based on OpenOffice.org
+    XML [OOo].
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Open Document Format for Office Applications (OpenDocument) TC
+technology_area:
+- Content-Technologies

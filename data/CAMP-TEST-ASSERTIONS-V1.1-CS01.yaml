@@ -1,0 +1,41 @@
+---
+id: OASISCAMP-Test-Assertions-v1.1-CS01
+title:
+- type: main
+  content: Cloud Application Management for Platforms (CAMP) Test Assertions Version
+    1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS CAMP-Test-Assertions-v1.1-CS01
+  type: OASIS
+  primary: true
+docnumber: CAMP-Test-Assertions-v1.1-CS01
+date:
+- type: issued
+  value: '2014-11-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the Test Assertions for version 1.1 of the OASIS Cloud Application
+    Management for Platforms (CAMP) specification. These Test Assertions support the
+    testing activity by acting as a bridge between the normative statements in the
+    specification and the executable test cases that are parts of a conformance test
+    suite.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Cloud Application Management for Platforms (CAMP) TC
+technology_area:
+- Cloud

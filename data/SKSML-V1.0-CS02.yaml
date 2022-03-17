@@ -1,0 +1,43 @@
+---
+id: OASISsksml-v1.0-CS02
+title:
+- type: main
+  content: Symmetric Key Services Markup Language (SKSML) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS sksml-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: sksml-v1.0-CS02
+date:
+- type: issued
+  value: '2011-01-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the first (1.0) version of the Symmetric Key Services Markup Language
+    (SKSML), an XML-based messaging protocol, by which applications executing on computing
+    devices may request and receive symmetric key-management services from centralized
+    key-management servers, securely, over networks. Applications using SKSML are
+    expected to either implement the SKSML protocol, or use a software library – called
+    the Symmetric Key Client Library (SKCL) – that implements this protocol. SKSML
+    messages are transported securely over standard HTTP using XML Security (XML Signature
+    and XML Encryption).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Enterprise Key Management Infrastructure (EKMI) TC
+technology_area:
+- Messaging

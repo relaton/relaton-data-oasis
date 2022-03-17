@@ -1,0 +1,38 @@
+---
+id: OASISBIASPROFILE
+title:
+- type: main
+  content: Biometric Identity Assurance Services (BIAS) SOAP Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BIASPROFILE
+  type: OASIS
+  primary: true
+docnumber: BIASPROFILE
+date:
+- type: issued
+  value: '2012-05-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifies a SOAP profile that implements the Biometric Identity Assurance
+    Services (BIAS) abstract operations specified in INCITS 442 as SOAP messages.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Biometric Identity Assurance Services (BIAS) Integration TC
+technology_area:
+- Privacy/Identity
+- Security

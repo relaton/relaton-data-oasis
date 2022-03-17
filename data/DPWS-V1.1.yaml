@@ -1,0 +1,38 @@
+---
+id: OASISDPWS-v1.1
+title:
+- type: main
+  content: Devices Profile for Web Services (DPWS) v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS DPWS-v1.1
+  type: OASIS
+  primary: true
+docnumber: DPWS-v1.1
+date:
+- type: issued
+  value: '2009-07-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a minimal set of implementation constraints to enable secure Web
+    service messaging, discovery, description, and eventing on resource-constrained
+    endpoints.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD) TC
+technology_area:
+- Web-Services

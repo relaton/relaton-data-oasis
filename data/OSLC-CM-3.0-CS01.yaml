@@ -1,0 +1,52 @@
+---
+id: OASISOSLC-CM-3.0-CS01
+title:
+- type: main
+  content: OSLC Change Management Version 3.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OSLC-CM-3.0-CS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-CM-3.0-CS01
+date:
+- type: issued
+  value: '2018-06-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Defines the OSLC Change Management domain, a RESTful web services interface
+    for the management of product change requests, activities, tasks and relationships
+    between those and related resources such as requirements, test cases, or architectural
+    resources. To support these scenarios, this specification defines a set of HTTP-based
+    RESTful interfaces in terms of HTTP methods: GET, POST, PUT and DELETE, HTTP response
+    codes, content type handling and resource formats.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-CM-3.0-Part1-CS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-CM-3.0-Part2-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS OSLC Lifecycle Integration Domains TC
+technology_area:
+- Lifecycle-Integration

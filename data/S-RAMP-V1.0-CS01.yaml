@@ -1,0 +1,55 @@
+---
+id: OASISS-RAMP-v1.0-CS01
+title:
+- type: main
+  content: S-RAMP Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS S-RAMP-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: S-RAMP-v1.0-CS01
+date:
+- type: issued
+  value: '2013-12-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Vendors offer tools to facilitate various activities across the life cycle
+    of a SOA artifact, such as design, assembly, quality assurance, deployment and
+    runtime operation of SOA based applications and business processes.  The lack
+    of a standardized information model and interaction protocol for artifacts and
+    their metadata residing in a SOA repository means that tools must be customized
+    for use with each different vendor’s SOA repository product.  This reduces choice,
+    flexibility and adds costs for customers when choosing tools. This specification
+    defines a SOA artifact data model together with bindings that describe the syntax
+    for interacting with a SOA repository.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS S-RAMP-v1.0-Foundation-CS01-Pt1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS S-RAMP-v1.0-atom-binding-CS01-Pt2
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC
+technology_area:
+- SOA

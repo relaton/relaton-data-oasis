@@ -1,0 +1,38 @@
+---
+id: OASISkmip-spec-v1.4
+title:
+- type: main
+  content: Key Management Interoperability Protocol Specification Version 1.4
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS kmip-spec-v1.4
+  type: OASIS
+  primary: true
+docnumber: kmip-spec-v1.4
+date:
+- type: issued
+  value: '2017-11-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Intended for developers and architects who wish to design systems and applications
+    that interoperate using the Key Management Interoperability Protocol Specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+technology_area:
+- Cloud
+- Security

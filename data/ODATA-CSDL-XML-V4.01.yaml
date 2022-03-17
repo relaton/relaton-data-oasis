@@ -1,0 +1,39 @@
+---
+id: OASISOData-CSDL-XML-v4.01
+title:
+- type: main
+  content: OData Common Schema Definition Language (CSDL) XML Representation Version
+    4.01
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OData-CSDL-XML-v4.01
+  type: OASIS
+  primary: true
+docnumber: OData-CSDL-XML-v4.01
+date:
+- type: issued
+  value: '2020-05-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Common Schema Definition Language (CSDL) defines specific representations
+    of the entity data model exposed by an OData service. This document specifically
+    defines the XML representation of CSDL.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Open Data Protocol (OData) TC
+technology_area:
+- Messaging

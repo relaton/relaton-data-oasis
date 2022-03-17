@@ -1,0 +1,40 @@
+---
+id: OASISSAML-assur-prof-v1.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Identity Assurance Profiles Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-assur-prof-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-assur-prof-v1.0-CS01
+date:
+- type: issued
+  value: '2010-11-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifies methods of representing assurance information in two different
+    aspects of SAML. It provides guidelines for the use of SAML’s Authentication Context
+    [SAMLAC] mechanisms to express authentication assurance information within authentication
+    requests and assertions. Separately, it defines an attribute suitable for inclusion
+    in SAML Metadata [SAMLMeta] for enumerating an Identity Provider’s assurance certifications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

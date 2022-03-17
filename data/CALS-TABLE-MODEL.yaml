@@ -1,0 +1,36 @@
+---
+id: OASIScals-table-model
+title:
+- type: main
+  content: CALS Table Model DTD
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS cals-table-model
+  type: OASIS
+  primary: true
+docnumber: cals-table-model
+date:
+- type: issued
+  value: '1995-10-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Recommended updates to the CALS table model DTD model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: memorandum
+editorialgroup:
+- name: Tables Technical Committee
+technology_area:
+- Content-Technologies

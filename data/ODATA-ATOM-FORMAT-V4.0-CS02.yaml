@@ -1,0 +1,41 @@
+---
+id: OASISOData-Atom-Format-v4.0-CS02
+title:
+- type: main
+  content: OData Atom Format Version 4.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OData-Atom-Format-v4.0-CS02
+  type: OASIS
+  primary: true
+docnumber: OData-Atom-Format-v4.0-CS02
+date:
+- type: issued
+  value: '2013-11-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'The Open Data Protocol (OData) for representing and interacting with structured
+    content is comprised of a set of specifications. The core specification for the
+    protocol is in OData Version 4.0 Part 1: Protocol. This document extends the core
+    specification by defining representations for OData requests and responses using
+    an Atom format.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Open Data Protocol (OData) TC
+technology_area:
+- Cloud
+- Messaging

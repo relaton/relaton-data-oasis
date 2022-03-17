@@ -1,0 +1,38 @@
+---
+id: OASISBDX-SMP-v2.0
+title:
+- type: main
+  content: Service Metadata Publishing (SMP) Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BDX-SMP-v2.0
+  type: OASIS
+  primary: true
+docnumber: BDX-SMP-v2.0
+date:
+- type: issued
+  value: '2021-02-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Standard describes the request/response exchanges between a Service Metadata
+    Publisher and a client wishing to discover endpoint information in a 4-corner
+    network
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Business Document Exchange (BDXR) TC
+technology_area:
+- e-Business

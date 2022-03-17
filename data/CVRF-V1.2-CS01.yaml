@@ -1,0 +1,39 @@
+---
+id: OASISCVRF-v1.2-CS01
+title:
+- type: main
+  content: CSAF Common Vulnerability Reporting Framework (CVRF) Version 1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS CVRF-v1.2-CS01
+  type: OASIS
+  primary: true
+docnumber: CVRF-v1.2-CS01
+date:
+- type: issued
+  value: '2017-09-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Definitive reference for the CSAF CVRF language which supports creation,
+    update, and interoperable exchange of security advisories as structured information
+    on products, vulnerabilities and the status of impact and remediation among interested
+    parties.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Common Security Advisory Framework (CSAF) TC
+technology_area:
+- Cybersecurity

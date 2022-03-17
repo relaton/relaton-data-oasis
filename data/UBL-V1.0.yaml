@@ -1,0 +1,39 @@
+---
+id: OASISUBL-v1.0
+title:
+- type: main
+  content: 'Universal Business Language (UBL) v1.0:'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UBL-v1.0
+  type: OASIS
+  primary: true
+docnumber: UBL-v1.0
+date:
+- type: issued
+  value: '2004-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the Universal Business Language, a generic XML interchange format
+    for business documents that can be restricted or extended to meet the requirements
+    of particular industries.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Universal Business Language TC
+technology_area:
+- Content-Technologies
+- e-Business

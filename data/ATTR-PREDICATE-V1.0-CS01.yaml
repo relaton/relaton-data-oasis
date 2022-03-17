@@ -1,0 +1,39 @@
+---
+id: OASISAttr-Predicate-V1.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Attribute Predicate Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS Attr-Predicate-V1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: Attr-Predicate-V1.0-CS01
+date:
+- type: issued
+  value: '2011-11-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Provides a mechanism to allow a SAML authority to certify that a given
+    Boolean predicate holds over one or more of a subject’s attribute values, without
+    revealing the exact values of these attributes. The profile further defines a
+    query format for attribute predicates.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

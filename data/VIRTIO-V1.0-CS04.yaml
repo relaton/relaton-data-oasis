@@ -1,0 +1,42 @@
+---
+id: OASISVIRTIO-v1.0-CS04
+title:
+- type: main
+  content: Virtual I/O Device (VIRTIO) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS VIRTIO-v1.0-CS04
+  type: OASIS
+  primary: true
+docnumber: VIRTIO-v1.0-CS04
+date:
+- type: issued
+  value: '2016-03-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the specifications of the “virtio” family of devices. These devices
+    are found in virtual environments, yet by design they look like physical devices
+    to the guest within the virtual machine – and this document treats them as such.
+    This similarity allows the guest to use standard drivers and discovery mechanisms.
+    The purpose of virtio and this specification is that virtual environments and
+    guests should have a straightforward, efficient, standard and extensible mechanism
+    for virtual devices, rather than boutique per-environment or per-OS mechanisms.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Virtual I/O Device (VIRTIO) TC
+technology_area:
+- IoT

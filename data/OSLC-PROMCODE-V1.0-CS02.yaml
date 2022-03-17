@@ -1,0 +1,54 @@
+---
+id: OASISOSLC-PROMCODE-v1.0-CS02
+title:
+- type: main
+  content: OSLC PROMCODE Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OSLC-PROMCODE-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: OSLC-PROMCODE-v1.0-CS02
+date:
+- type: issued
+  value: '2021-11-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines standard information for managing contracted software delivery
+    based on the OSLC framework
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-PROMCODE-v1.0-Spec-CS02-Pt1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-PROMCODE-v1.0-Vocab-CS02-Pt2
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-PROMCODE-v1.0-Shapes-CS02-Pt3
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OSLC Lifecycle Integration for Project Management of Contracted Delivery (OSLC
+    PROMCODE) TC
+technology_area:
+- Lifecycle-Integration

@@ -1,0 +1,38 @@
+---
+id: OASISSAML2.0-metadata-entity-CS01
+title:
+- type: main
+  content: SAML V2.0 Metadata Extension for Entity Attributes Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML2.0-metadata-entity-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2.0-metadata-entity-CS01
+date:
+- type: issued
+  value: '2009-08-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an extension element for use in attaching SAML attributes to an  or  element,
+    to communicate an arbitrary set of additional information about an entity in its
+    metadata.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

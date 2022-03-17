@@ -1,0 +1,39 @@
+---
+id: OASISTAXII-v2.1
+title:
+- type: main
+  content: TAXII™ Version 2.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS TAXII-v2.1
+  type: OASIS
+  primary: true
+docnumber: TAXII-v2.1
+date:
+- type: issued
+  value: '2021-06-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: An application layer protocol for the communication of cyber threat information
+    in a simple and scalable manner. This specification defines the TAXII RESTful
+    API and its resources along with the requirements for TAXII Client and Server
+    implementations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Cyber Threat Intelligence (CTI) TC
+technology_area:
+- Cybersecurity

@@ -1,0 +1,39 @@
+---
+id: OASISXACML-SAML-v2.0-CS02
+title:
+- type: main
+  content: XACML SAML Profile Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XACML-SAML-v2.0-CS02
+  type: OASIS
+  primary: true
+docnumber: XACML-SAML-v2.0-CS02
+date:
+- type: issued
+  value: '2014-08-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Defines a profile for the integration of the OASIS Security Assertion Markup Language (SAML) Version 2.0 with all versions of XACML.  SAML 2.0 complements XACML functionality in many ways, so a number of somewhat independent functions are described in this profile: 1) use of SAML 2.0 Attribute Assertions with XACML, including the use of SAML Attribute Assertions in a SOAP Header to convey Attributes that can be consumed by an XACML PDP 2) use of SAML to carry XACML authorization decisions, authorization decision queries, and authorization decision responses 3) use of SAML to carry XACML policies, policy queries, and policy query responses 4) use of XACML authorization decisions or policies as Advice in SAML Assertions 5) use of XACML responses in SAML Assertions as authorization tokens.
+    Particular implementations may provide only a subset of these functions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Privacy/Identity
+- Security

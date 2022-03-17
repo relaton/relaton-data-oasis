@@ -1,0 +1,42 @@
+---
+id: OASISecontracts-v1.0
+title:
+- type: main
+  content: eContracts Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS econtracts-v1.0
+  type: OASIS
+  primary: true
+docnumber: econtracts-v1.0
+date:
+- type: issued
+  value: '2007-04-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the generic hierarchical structure of a wide range of contract
+    documents. The TC envisages that the primary use of the eContracts Schema will
+    be to facilitate the maintenance of precedent or template contract documents and
+    contract terms by persons who wish to use them to create new contract documents
+    with automated tools. Use cases covered include negotiated business contracts,
+    ticket contracts, standard form business and consumer contracts and click-through
+    agreements.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS LegalXML eContracts TC
+technology_area:
+- Content-Technologies

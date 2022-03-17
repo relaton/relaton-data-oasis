@@ -1,0 +1,38 @@
+---
+id: OASISSAM-TSS-v1.0-CS02
+title:
+- type: main
+  content: SAM Threshold Sharing Schemes Version 1.0 – Committee Specification 02
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAM-TSS-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: SAM-TSS-v1.0-CS02
+date:
+- type: issued
+  value: '2021-08-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: For developers and architects who wish to design systems and applications
+    that utilize threshold sharing schemes in an interoperable manner.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Algorithms and Methods (SAM) TC
+technology_area:
+- Cybersecurity
+- Security

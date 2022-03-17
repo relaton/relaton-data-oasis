@@ -1,0 +1,38 @@
+---
+id: OASISSAML2.0-text-challenge-CS01
+title:
+- type: main
+  content: SAML V2.0 Text-Based Challenge/ Response Token AuthenticationContext Class
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML2.0-text-challenge-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2.0-text-challenge-CS01
+date:
+- type: issued
+  value: '2007-05-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Covers a subset of challenge/response schemes including those that are based on cryptographic functions and time-based tokens. The notion of text-based challenge/response tokens are not covered by any of the current authentication context definitions.
+    This document proposes an authentication context class to cover the general case of text-based challenge/response tokens to facilitate signaling their use in SAML. Such schemes include, for example, scratch tokens, numbered list tokens, grid tokens, etc. associated with a challenge/response authentication function. This document also proposes an extension that enables text-based challenge/response token parameters to be specified in relevant authentication contexts. This extension would be included in the  of such contexts.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

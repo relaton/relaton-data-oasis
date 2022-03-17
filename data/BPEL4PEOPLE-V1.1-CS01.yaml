@@ -1,0 +1,38 @@
+---
+id: OASISbpel4people-v1.1-CS01
+title:
+- type: main
+  content: WS-BPEL Extension for People (BPEL4People) Specification Version 1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS bpel4people-v1.1-CS01
+  type: OASIS
+  primary: true
+docnumber: bpel4people-v1.1-CS01
+date:
+- type: issued
+  value: '2010-08-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Introduces a model for business processes based on Web services. A BPEL process orchestrates interactions among different Web services. The language encompasses features needed to describe complex control flows, including error handling and compensation behavior. In practice, however many business process scenarios require human interactions. A process definition should incorporate people as another type of participants, because humans may also take part in business processes and can influence the process execution.
+    This specification introduces a BPEL extension to address human interactions in BPEL as a first-class citizen. It defines a new type of basic activity which uses human tasks as an implementation, and allows specifying tasks local to a process or use tasks defined outside of the process definition. This extension is based on the WS-HumanTask specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS BPEL4People TC
+technology_area:
+- Web-Services

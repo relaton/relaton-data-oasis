@@ -1,0 +1,39 @@
+---
+id: OASISebMS-saml-conformance-CS01
+title:
+- type: main
+  content: SAML Conformance Clause for AS4/ebMS Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ebMS-saml-conformance-CS01
+  type: OASIS
+  primary: true
+docnumber: ebMS-saml-conformance-CS01
+date:
+- type: issued
+  value: '2014-01-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Provides a specification as to how an ebMS3/AS4 MSH can support SAML in addition to the username/password and X.509 token profiles of WS-Security for authentication.
+    The usage of the username/password and X.509 token profiles of WS-Security are defined in some detail in ebMS3 and AS4. SAML is included in ebMS3 but is not defined in detail. AS4 does not discuss SAML.
+    This document will define the use of SAML in ebMS3 and apply that to the scenarios addressed by AS4.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS ebXML Messaging Services TC
+technology_area:
+- Security

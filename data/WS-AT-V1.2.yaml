@@ -1,0 +1,42 @@
+---
+id: OASISWS-AT-v1.2
+title:
+- type: main
+  content: WS-AtomicTransaction v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-AT-v1.2
+  type: OASIS
+  primary: true
+docnumber: WS-AT-v1.2
+date:
+- type: issued
+  value: '2009-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Provides the definition of the Atomic Transaction coordination type that
+    is to be used with the extensible coordination framework described in WS-Coordination.
+    This specification defines three specific agreement coordination protocols for
+    the Atomic Transaction coordination type: completion, volatile two-phase commit,
+    and durable two-phase commit. Developers can use any or all of these protocols
+    when building applications that require consistent agreement on the outcome of
+    short-lived distributed activities that have the all-or-nothing property.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Transaction (WS-TX) TC
+technology_area:
+- Web-Services

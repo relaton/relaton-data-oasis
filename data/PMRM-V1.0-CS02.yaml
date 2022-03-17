@@ -1,0 +1,41 @@
+---
+id: OASISPMRM-v1.0-CS02
+title:
+- type: main
+  content: Privacy Management Reference Model and Methodology (PMRM) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS PMRM-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: PMRM-v1.0-CS02
+date:
+- type: issued
+  value: '2016-05-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Provides a model and a methodology to
+    ·         understand and analyze privacy policies and their privacy management requirements in defined Use Cases; and
+    ·         select the technical Services, Functions and Mechanisms that must be implemented to support requisite Privacy Controls.
+    It is particularly valuable for Use Cases in which Personal Information (PI) flows across regulatory, policy, jurisdictional, and system boundaries.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Privacy Management Reference Model (PMRM) TC
+technology_area:
+- Cloud
+- Privacy/Identity

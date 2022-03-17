@@ -1,0 +1,39 @@
+---
+id: OASISebXML-RR-v4.0
+title:
+- type: main
+  content: ebXML RegRep v4.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ebXML-RR-v4.0
+  type: OASIS
+  primary: true
+docnumber: ebXML-RR-v4.0
+date:
+- type: issued
+  value: '2012-01-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A a standard defining the service interfaces, protocols and information
+    model for an integrated registry and repository. The repository stores digital
+    content while the registry stores metadata that describes the content in the repository.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS ebXML Registry TC
+technology_area:
+- e-Business
+- Messaging

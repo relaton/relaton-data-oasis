@@ -1,0 +1,85 @@
+---
+id: OASISOData-Part1
+title:
+- type: main
+  content: 'OData Version 4.01. Part 1: Protocol'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/odata/odata/v4.01/os/part1-protocol/odata-v4.01-os-part1-protocol.html
+  type: src
+type: standard
+docid:
+- id: OASIS OData-Part1
+  type: OASIS
+  primary: true
+docnumber: OData-Part1
+date:
+- type: issued
+  value: '2020-04-23'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Michael
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Pizzo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Ralf
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Martin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OData
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Messaging

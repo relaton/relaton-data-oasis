@@ -1,0 +1,39 @@
+---
+id: OASISBasicSecurityProfile-v1.1-CS01
+title:
+- type: main
+  content: Basic Security Profile Version 1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BasicSecurityProfile-v1.1-CS01
+  type: OASIS
+  primary: true
+docnumber: BasicSecurityProfile-v1.1-CS01
+date:
+- type: issued
+  value: '2014-10-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Extends the Basic Profile (either v1.1 or v1.0), consisting of a set of
+    clarifications, refinements, interpretations and amplifications to a combination
+    of non-proprietary Web services specifications in order to promote interoperability.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Basic Reliable and Secure Profiles (WS-BRSP) TC
+technology_area:
+- Security
+- Web-Services

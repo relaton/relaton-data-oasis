@@ -1,0 +1,39 @@
+---
+id: OASISSOA-RM-v1.0
+title:
+- type: main
+  content: Reference Model for Service Oriented Architecture (SOA-RM) v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SOA-RM-v1.0
+  type: OASIS
+  primary: true
+docnumber: SOA-RM-v1.0
+date:
+- type: issued
+  value: '2006-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    An abstract framework for understanding significant entities and relationships between them within a service-oriented environment, and for the development of consistent standards or specifications supporting that environment. It is based on unifying concepts of SOA and may be used by architects developing specific service oriented architectures or in training and explaining SOA.
+    A reference model is not directly tied to any standards, technologies or other concrete implementation details. It does seek to provide a common semantics that can be used unambiguously across and between different implementations. The relationship between the Reference Model and particular architectures, technologies and other aspects of SOA is illustrated in Figure 1.
+    While service-orientation may be a popular concept found in a broad variety of applications, this reference model focuses on the field of software architecture. The concepts and relationships described may apply to other “service” environments; however, this specification makes no attempt to completely account for use outside of the software domain.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS SOA Reference Model TC
+technology_area:
+- SOA

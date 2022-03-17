@@ -1,0 +1,39 @@
+---
+id: OASISAkomaNtosoNaming-v1.0
+title:
+- type: main
+  content: Akoma Ntoso Naming Convention Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS AkomaNtosoNaming-v1.0
+  type: OASIS
+  primary: true
+docnumber: AkomaNtosoNaming-v1.0
+date:
+- type: issued
+  value: '2019-02-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defining the naming convention for IRIs and ids related to the Akoma Ntoso
+    XML standard. Id attributes are optional, but whenever attributes ‘eId’ and ‘wId’
+    are used, the specifications in this document are mandatory.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS LegalDocumentML (LegalDocML) TC
+technology_area:
+- Content-Technologies
+- eGov/Legal

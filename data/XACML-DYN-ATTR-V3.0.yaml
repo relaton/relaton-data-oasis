@@ -1,0 +1,43 @@
+---
+id: OASISXACML-Dyn-Attr-v3.0
+title:
+- type: main
+  content: XACML v3.0 Dynamic Attribute Authority Version 1.0 – Committee Specification
+    01
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XACML-Dyn-Attr-v3.0
+  type: OASIS
+  primary: true
+docnumber: XACML-Dyn-Attr-v3.0
+date:
+- type: issued
+  value: '2022-01-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a new XACML system component, the Dynamic Attribute Authority,
+    which augments the request context of an XACML authorization request with additional
+    attributes and attribute values that are generated on demand according to a set
+    of rules. The rules are expressed as XACML policies, use obligations to specify
+    the additional attributes and values, and are processed in the normal manner of
+    a Policy Decision Point. d
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Cybersecurity
+- Privacy/Identity

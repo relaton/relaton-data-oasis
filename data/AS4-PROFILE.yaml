@@ -1,0 +1,42 @@
+---
+id: OASISAS4-Profile
+title:
+- type: main
+  content: AS4 Profile of ebMS 3.0 v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS AS4-Profile
+  type: OASIS
+  primary: true
+docnumber: AS4-Profile
+date:
+- type: issued
+  value: '2013-01-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OASIS ebMS 3.0 Standard combined multiple Web Service standards to
+    create a single comprehensive specification for defining the secure and reliable
+    exchange of documents using Web Services. The AS4 profile of the ebMS 3.0 specification
+    was developed in order to bring continuity to the principles and simplicity that
+    made AS2 successful, while adding better compliance to Web Services standards,
+    and features such as message pulling capability and a built-in Receipt mechanism.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS ebXML Messaging Services TC
+technology_area:
+- e-Business
+- Messaging

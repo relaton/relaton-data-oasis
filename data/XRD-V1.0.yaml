@@ -1,0 +1,36 @@
+---
+id: OASISXRD-v1.0
+title:
+- type: main
+  content: Extensible Resource Descriptor (XRD) v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XRD-v1.0
+  type: OASIS
+  primary: true
+docnumber: XRD-v1.0
+date:
+- type: issued
+  value: '2010-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines XRD, a simple generic format for describing and discovering resources.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Extensible Resource Identifier (XRI) TC
+technology_area:
+- Security

@@ -1,0 +1,38 @@
+---
+id: OASISSAML-metadata-iop-v1.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Metadata Interoperability Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-metadata-iop-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-metadata-iop-v1.0-CS01
+date:
+- type: issued
+  value: '2009-08-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a set of rules for SAML metadata producers and consumers to follow
+    such that federated relationships can be interoperably provisioned, and controlled
+    at runtime in a secure, understandable, and self-contained fashion.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

@@ -1,0 +1,43 @@
+---
+id: OASISanonterm-v1.0-CS01
+title:
+- type: main
+  content: Using the AMQP Anonymous Terminus for Message Routing Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS anonterm-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: anonterm-v1.0-CS01
+date:
+- type: issued
+  value: '2018-09-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: An open internet protocol for business messaging. AMQP defines links as
+    a unidirectional transport for messages between a source and a target. The target
+    of a link identifies the node to which messages are to be sent to. If a large
+    number of distinct destinations are in use, or if the destinations to be sent
+    to are not known ahead of time (for example, they are provided as a reply-to in
+    incoming messages) then creating a link per destination can be burdensome. This
+    document defines a mechanism whereby a single outgoing link can be used to transfer
+    messages which are then routed using the address carried in their “to” field.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Advanced Message Queuing Protocol (AMQP) TC
+technology_area:
+- Messaging

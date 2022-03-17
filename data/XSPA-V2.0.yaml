@@ -1,0 +1,39 @@
+---
+id: OASISXSPA-v2.0
+title:
+- type: main
+  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of XACML
+    v2.0 for Healthcare v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XSPA-v2.0
+  type: OASIS
+  primary: true
+docnumber: XSPA-v2.0
+date:
+- type: issued
+  value: '2009-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A profile of XACML used to support cross-enterprise security and privacy
+    authorization.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Privacy/Identity
+- Security

@@ -1,0 +1,40 @@
+---
+id: OASISSAML-holder-of-key-assert-v1.0-CS02
+title:
+- type: main
+  content: SAML V2.0 Holder-of-Key Assertion Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-holder-of-key-assert-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: SAML-holder-of-key-assert-v1.0-CS02
+date:
+- type: issued
+  value: '2010-01-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the issuing and processing of holder-of-key SAML assertions.
+    Specifically, we show how a SAML issuer binds X.509 data to a  element and how
+    a relying party confirms that a  element matches given X.509 data. The binding
+    material used by the SAML issuer and the matching data used by the relying party
+    are obtained from an X.509 certificate.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

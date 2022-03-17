@@ -1,0 +1,53 @@
+---
+id: OASISDocBook-5.0-Errata01
+title:
+- type: main
+  content: The DocBook Schema Version 5.0 Errata 01
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/docbook/specs/docbook-5.0-spec-errata01-os.html
+  type: src
+type: standard
+docid:
+- id: OASIS DocBook-5.0-Errata01
+  type: OASIS
+  primary: true
+docnumber: DocBook-5.0-Errata01
+date:
+- type: issued
+  value: '2018-03-29'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Robert
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Stayton
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS DocBook-5.0
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Content-Technologies

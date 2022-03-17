@@ -1,0 +1,66 @@
+---
+id: OASISOData-JSON-Format-v4.0
+title:
+- type: main
+  content: OData JSON Format v4.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OData-JSON-Format-v4.0
+  type: OASIS
+  primary: true
+docnumber: OData-JSON-Format-v4.0
+date:
+- type: issued
+  value: '2014-02-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: OData enables the creation and consumption of REST-based data services
+    which allow resources, identified using Uniform Resource Locators (URLs) and defined
+    in a data model, to be published and edited by Web clients using simple HTTP messages.
+    This document extends the core specification by defining representations for OData
+    requests and responses using a JSON format.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OData-JSON-Format-v4.0-Pt
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OData-JSON-Format-v4.0-Pt-plus-errata01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OData-JSON-Format-v4.0-plus-Errata02
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OData-JSON-Format-v4.0-errata03
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OData-JSON-Format-v4.0-Pt-plus-errata03
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Open Data Protocol (OData) TC
+technology_area:
+- Messaging

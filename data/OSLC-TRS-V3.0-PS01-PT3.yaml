@@ -1,0 +1,53 @@
+---
+id: OASISOSLC-TRS-v3.0-PS01-Pt3
+title:
+- type: main
+  content: 'OSLC Tracked Resource Set Version 3.0. Part 3: Constraints'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/trs/v3.0/ps01/tracked-resource-set-shapes.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-TRS-v3.0-PS01-Pt3
+  type: OASIS
+  primary: true
+docnumber: OSLC-TRS-v3.0-PS01-Pt3
+date:
+- type: issued
+  value: '2022-02-07'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Nick
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Crossley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Lifecycle-Integration

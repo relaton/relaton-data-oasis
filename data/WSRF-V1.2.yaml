@@ -1,0 +1,38 @@
+---
+id: OASISWSRF-v1.2
+title:
+- type: main
+  content: Web Services Resource Framework (WSRF) v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WSRF-v1.2
+  type: OASIS
+  primary: true
+docnumber: WSRF-v1.2
+date:
+- type: issued
+  value: '2006-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A family of OASIS-published specifications for web services. Web Services
+    Resource Framework provides a set of operations that web services can use to implement
+    stateful interactions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Resource Framework TC
+technology_area:
+- Web-Services

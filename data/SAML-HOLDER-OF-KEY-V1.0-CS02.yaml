@@ -1,0 +1,44 @@
+---
+id: OASISSAML-holder-of-key-v1.0-CS02
+title:
+- type: main
+  content: SAML V2.0 Holder-of-Key Web Browser SSO Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-holder-of-key-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: SAML-holder-of-key-v1.0-CS02
+date:
+- type: issued
+  value: '2010-08-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Allows for transport of holder-of-key assertions by standard HTTP user
+    agents with no modification of client software and maximum compatibility with
+    existing deployments. The flow is similar to standard Web Browser SSO, but an
+    X.509 certificate presented by the user agent via a TLS handshake supplies a key
+    to be used in a holder-of-key assertion. Proof of possession of the private key
+    corresponding to the public key in the certificate resulting from the TLS handshake
+    strengthens the assurance of the resulting authentication context and protects
+    against credential theft. Neither the identity provider nor the service provider
+    is required to validate the certificate.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

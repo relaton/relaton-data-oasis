@@ -1,0 +1,44 @@
+---
+id: OASIScontext-value-assoc-v1.0-CS01
+title:
+- type: main
+  content: Context/value association using genericode 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS context-value-assoc-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: context-value-assoc-v1.0-CS01
+date:
+- type: issued
+  value: '2010-04-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the file format used in a “context/value association” file (termed
+    in short as “a CVA file”). This file format is an XML vocabulary using address
+    expressions to specify hierarchical document contexts and their associated constraints.
+    A document context specifies one or more locations found in an XML document or
+    other similarly structured hierarchy of information. A constraint is expressed
+    as either an explicit expression evaluation or as a value inclusion in one or
+    more controlled vocabularies of values. This file format specification assumes
+    a controlled vocabulary of values is expressed in an external resource described
+    by the OASIS genericode standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Code List Representation Technical Committee
+technology_area:
+- Content-Technologies

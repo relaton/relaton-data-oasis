@@ -1,0 +1,41 @@
+---
+id: OASISxacml-dlp-nac-v1.0-CS01
+title:
+- type: main
+  content: XACML Data Loss Prevention / Network Access Control (DLP/NAC) Profile Version
+    1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xacml-dlp-nac-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: xacml-dlp-nac-v1.0-CS01
+date:
+- type: issued
+  value: '2015-02-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a profile for the use of XACML in expressing policies for data
+    loss prevention and network access control tools and technologies.  It defines
+    standard attribute identifiers useful in such policies, and recommends attribute
+    value ranges for certain attributes. It also defines several new functions for
+    comparing IP addresses and DNS names, not provided in the XACML 3.0 core specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

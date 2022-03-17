@@ -1,0 +1,41 @@
+---
+id: OASISciq-v1.0-CS02
+title:
+- type: main
+  content: Customer Information Quality Specifications Version 3.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ciq-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: ciq-v1.0-CS02
+date:
+- type: issued
+  value: '2008-10-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the OASIS Customer Information Quality Specifications Version 3.0,
+    a standard way of defining party information and relationships between parties
+    that is vendor neutral and open (i.e., independent of tools, systems, languages
+    and platforms) and enabled portability and interoperability of data, then it would
+    be possible to reduce the expensive and complex Integration problems associated
+    with new business initiatives.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Customer Information Quality TC
+technology_area:
+- e-Business

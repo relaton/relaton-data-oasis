@@ -1,0 +1,40 @@
+---
+id: OASISSAML-ReqAttrExt-v1.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Protocol Extension for Requesting Attributes per Request Version
+    1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-ReqAttrExt-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-ReqAttrExt-v1.0-CS01
+date:
+- type: issued
+  value: '2017-08-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an extension to the SAML V2.0 protocol specification [SAML2Core].
+    The extension allows Service Providers to specify ad-hoc sets of attributes per
+    request. This brings more flexibility than existing mechanisms, which are based
+    on signaling pre-defined sets of requested attributes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

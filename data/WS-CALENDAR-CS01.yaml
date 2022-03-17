@@ -1,0 +1,47 @@
+---
+id: OASISWS-Calendar-CS01
+title:
+- type: main
+  content: WS-Calendar Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Calendar-CS01
+  type: OASIS
+  primary: true
+docnumber: WS-Calendar-CS01
+date:
+- type: issued
+  value: '2011-07-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Describes: .       A semantic (or information) model for exchange of calendar information to coordinate activities .       A means of synchronizing and maintaining calendars
+    The specification includes XML vocabularies for the interoperable and standard exchange of:
+    .       Schedules, including sequences of schedules
+    .       Intervals, including sequences of Intervals
+    .       Other calendar information consistent with the IETF iCalendar standards
+    These vocabularies describe schedules and Intervals future, present, or past (historical).
+    The specification is divided into three parts.
+    1) The information model and XML vocabularies for exchanging schedule information
+    2) RESTful Services for calendar update and synchronization
+    3) Web services for calendar update and synchronization
+    The Technical Committee has decided not to publish Parts 2 and 3 until a later version.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Calendar (WS-Calendar) TC
+technology_area:
+- Web-Services

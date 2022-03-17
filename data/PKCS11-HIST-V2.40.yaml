@@ -1,0 +1,38 @@
+---
+id: OASISPKCS11-Hist-v2.40
+title:
+- type: main
+  content: 'PKCS #11 Cryptographic Token Interface Historical Mechanisms Specification
+    Version 2.40'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS PKCS11-Hist-v2.40
+  type: OASIS
+  primary: true
+docnumber: PKCS11-Hist-v2.40
+date:
+- type: issued
+  value: '2015-04-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Defines mechanisms for PKCS #11 that are no longer in general use.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS PKCS 11 TC
+technology_area:
+- Privacy/Identity
+- Security

@@ -1,0 +1,37 @@
+---
+id: OASISUBL-NDR-v1.0
+title:
+- type: main
+  content: Universal Business Language Naming & Design Rules v1.0 (UBL NDR)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UBL-NDR-v1.0
+  type: OASIS
+  primary: true
+docnumber: UBL-NDR-v1.0
+date:
+- type: issued
+  value: '2005-01-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Documents the naming and design rules and guidelines for the construction
+    of XML components for the UBL vocabulary.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Universal Business Language TC
+technology_area:
+- e-Business

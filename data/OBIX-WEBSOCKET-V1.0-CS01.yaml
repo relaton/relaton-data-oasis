@@ -1,0 +1,39 @@
+---
+id: OASISOBIX-WebSocket-v1.0-CS01
+title:
+- type: main
+  content: 'Bindings for OBIX: WebSocket Bindings Version 1.0'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OBIX-WebSocket-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: OBIX-WebSocket-v1.0-CS01
+date:
+- type: issued
+  value: '2015-09-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: OBIX provides the core information model and interaction pattern for communication
+    with building control systems. Specific implementations of OBIX must choose how
+    to bind OBIX interactions. This document specifies WebSocket binding for OBIX.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Open Building Information Exchange (oBIX) TC
+technology_area:
+- Energy
+- IoT

@@ -1,0 +1,47 @@
+---
+id: OASIStrust-el-framework-v1.0-CS01
+title:
+- type: main
+  content: Electronic Identity Credential Trust Elevation Framework Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS trust-el-framework-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: trust-el-framework-v1.0-CS01
+date:
+- type: issued
+  value: '2014-05-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Recommends particular methods as satisfying defined degrees of assurance
+    for elevating trust in an electronic identity credential, to assure the submitter’s
+    identity sufficiently to support elevation between each pair of assurance levels
+    to transact business where material amounts of economic value or personally identifiable
+    data are involved. Alternative and optional methods may be included. The description
+    of each recommended method shall include functional definitions of the types of
+    identity and assertion data employed by each method, and may include specification
+    of the data services required in each elevation, substantive data exchange patterns
+    or models, message exchange patterns or models, and such other elements as the
+    TC deems useful.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
+    TC
+technology_area:
+- Privacy/Identity
+- Security

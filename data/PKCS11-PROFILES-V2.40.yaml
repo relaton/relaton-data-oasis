@@ -1,0 +1,39 @@
+---
+id: OASISPKCS11-Profiles-v2.40
+title:
+- type: main
+  content: 'PKCS #11 Cryptographic Token Interface Profiles Version 2.40'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS PKCS11-Profiles-v2.40
+  type: OASIS
+  primary: true
+docnumber: PKCS11-Profiles-v2.40
+date:
+- type: issued
+  value: '2015-04-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Intended for developers and architects who wish to design systems and applications that conform to the PKCS #11 Cryptographic Token Interface standard.
+    The PKCS #11 Cryptographic Token Interface standard documents an API for devices that may hold cryptographic information and may perform cryptographic functions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS PKCS 11 TC
+technology_area:
+- Privacy/Identity
+- Security

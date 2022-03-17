@@ -1,0 +1,41 @@
+---
+id: OASISSAML-SESSION-TOKEN-v1.0-CS01
+title:
+- type: main
+  content: SAML 2.0 Session Token Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-SESSION-TOKEN-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-SESSION-TOKEN-v1.0-CS01
+date:
+- type: issued
+  value: '2011-11-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Web Servers and Application Servers generally maintain security state information
+    for currently active users, particularly once some type of authentication has
+    occurred. This specification defines a format for communicating such security
+    session state based on the OASIS SAML Assertion. It also specifies two different
+    mechanisms for communicating this information between servers via a standard Web
+    browser.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

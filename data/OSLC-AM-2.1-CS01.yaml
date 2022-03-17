@@ -1,0 +1,53 @@
+---
+id: OASISOSLC-AM-2.1-CS01
+title:
+- type: main
+  content: OSLC Architecture Management Version 2.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OSLC-AM-2.1-CS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-AM-2.1-CS01
+date:
+- type: issued
+  value: '2018-10-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Defines the OSLC Architecture Management domain, a RESTful web services
+    interface for the management of architectural resources and relationships between
+    those and related resources such as product change requests, activities, tasks,
+    requirements or test cases. To support these scenarios, this specification defines
+    a set of HTTP-based RESTful interfaces in terms of HTTP methods: GET, POST, PUT
+    and DELETE, as well as HTTP response codes, content type handling and resource
+    formats.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-AM-2.1-CS01-Pt1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-am-2.1-Part2-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS OSLC Lifecycle Integration Domains TC
+technology_area:
+- Lifecycle-Integration

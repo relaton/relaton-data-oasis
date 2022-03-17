@@ -1,0 +1,38 @@
+---
+id: OASISXRI-CS01
+title:
+- type: main
+  content: Extensible Resource Identifier (XRI) Syntax V2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XRI-CS01
+  type: OASIS
+  primary: true
+docnumber: XRI-CS01
+date:
+- type: issued
+  value: '2005-11-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This is the normative technical specification for XRI generic syntax. For
+    a non-normative introduction to the uses and features of XRIs, see Introduction
+    to XRIs [XRIIntro].
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Extensible Resource Identifier (XRI) TC
+technology_area:
+- Content-Technologies

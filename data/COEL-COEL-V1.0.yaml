@@ -1,0 +1,39 @@
+---
+id: OASISCOEL-COEL-v1.0
+title:
+- type: main
+  content: Classification of Everyday Living Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS COEL-COEL-v1.0
+  type: OASIS
+  primary: true
+docnumber: COEL-COEL-v1.0
+date:
+- type: issued
+  value: '2019-01-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the Classification of Everyday Living (COEL) version 1.0 specification
+    for the complete implementation of a compliant system. Examples and non-normative
+    material are also offered as guidance.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Classification of Everyday Living (COEL) TC
+technology_area:
+- e-Business
+- IoT

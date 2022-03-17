@@ -1,0 +1,40 @@
+---
+id: OASISOpenDocument-v1.2
+title:
+- type: main
+  content: Open Document Format for Office Applications (OpenDocument) Version 1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OpenDocument-v1.2
+  type: OASIS
+  primary: true
+docnumber: OpenDocument-v1.2
+date:
+- type: issued
+  value: '2011-09-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    This specification consists of this document as well as the following three parts:
+    Part 1 defines an XML schema for office applications and its semantics. The schema is suitable for office documents, including text documents, spreadsheets, charts and graphical documents like drawings or presentations, but is not restricted to these kinds of documents.
+    Part 2 defines a formula language to be used in OpenDocument documents.
+    Part 3 defines a package format to be used for OpenDocument documents.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Open Document Format for Office Applications (OpenDocument) TC
+technology_area:
+- Content-Technologies

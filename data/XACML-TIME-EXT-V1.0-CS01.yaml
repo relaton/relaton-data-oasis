@@ -1,0 +1,39 @@
+---
+id: OASISxacml-time-ext-v1.0-CS01
+title:
+- type: main
+  content: XACML v3.0 Time Extensions Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xacml-time-ext-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: xacml-time-ext-v1.0-CS01
+date:
+- type: issued
+  value: '2020-02-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines XACML functions for comparing time values that are not sensitive
+    to the time zone chosen for those values, defines functions for performing arithmetic
+    on date and time values and defines a data-type for representing the day of the
+    week along with functions to operate on values of the data‑type.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

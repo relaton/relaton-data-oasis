@@ -1,0 +1,38 @@
+---
+id: OASISIPC-v1.0
+title:
+- type: main
+  content: XACML Intellectual Property Control (IPC) Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS IPC-v1.0
+  type: OASIS
+  primary: true
+docnumber: IPC-v1.0
+date:
+- type: issued
+  value: '2015-01-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a profile for the use of XACML in expressing policies for intellectual
+    property control (IPC). It defines standard attribute identifiers useful in such
+    policies, and recommends attribute value ranges for certain attributes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

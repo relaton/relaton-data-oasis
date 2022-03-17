@@ -1,0 +1,39 @@
+---
+id: OASISOData-Data-Agg-v4.0-CS02
+title:
+- type: main
+  content: OData Extension for Data Aggregation Version 4.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OData-Data-Agg-v4.0-CS02
+  type: OASIS
+  primary: true
+docnumber: OData-Data-Agg-v4.0-CS02
+date:
+- type: issued
+  value: '2015-11-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Adds basic grouping and aggregation functionality (e.g. sum, min, and max)
+    to the Open Data Protocol (OData) without changing any of the base principles
+    of OData.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Open Data Protocol (OData) TC
+technology_area:
+- Cloud
+- Messaging

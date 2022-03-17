@@ -1,0 +1,38 @@
+---
+id: OASISSAML2.0-X.500-CS01
+title:
+- type: main
+  content: SAML V2.0 X.500/LDAP Attribute Profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML2.0-X.500-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2.0-X.500-CS01
+date:
+- type: issued
+  value: '2008-03-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A replacement for the X.500/LDAP Attribute Profile found in the original
+    SAML 2.0 Profiles specification [SAML2Prof]. The original profile results in well-formed
+    but schema-invalid XML and cannot be corrected without a normative change.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

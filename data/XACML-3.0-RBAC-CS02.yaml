@@ -1,0 +1,41 @@
+---
+id: OASISXACML-3.0-RBAC-CS02
+title:
+- type: main
+  content: XACML v3.0 Core and Hierarchical Role Based Access Control (RBAC) Profile
+    Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XACML-3.0-RBAC-CS02
+  type: OASIS
+  primary: true
+docnumber: XACML-3.0-RBAC-CS02
+date:
+- type: issued
+  value: '2014-10-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a profile for the use of XACML in expressing policies that use
+    role based access control (RBAC). It extends the XACML Profile for RBAC Version
+    1.0 to include a recommended Attribute field for roles, but reduces the scope
+    to address only “core” and “hierarchical” RBAC. This specification has also been
+    updated to apply to XACML v3.0.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

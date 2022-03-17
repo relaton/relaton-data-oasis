@@ -1,0 +1,38 @@
+---
+id: OASISSAML-attr-ext-v1.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Attribute Extensions Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-attr-ext-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-attr-ext-v1.0-CS01
+date:
+- type: issued
+  value: '2009-08-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines new XML attributes useful in extending the  element to communicate
+    additional information about SAML attributes, their origin, rules for handling
+    them, or any other kind of “meta-information” deemed interesting.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

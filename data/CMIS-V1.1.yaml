@@ -1,0 +1,60 @@
+---
+id: OASISCMIS-v1.1
+title:
+- type: main
+  content: Content Management Interoperability Services (CMIS) v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS CMIS-v1.1
+  type: OASIS
+  primary: true
+docnumber: CMIS-v1.1
+date:
+- type: issued
+  value: '2013-05-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Deﬁnes a domain model and Web Services, Restful AtomPub and browser (JSON)
+    bindings that can be used by applications to work with one or more Content Management
+    repositories/systems. The CMIS interface is designed to be layered on top of existing
+    Content Management systems and their existing programmatic interfaces. It is not
+    intended to prescribe how speciﬁc features should be implemented within those
+    CM systems, nor to exhaustively expose all of the CM system’s capabilities through
+    the CMIS interfaces. Rather, it is intended to deﬁne a generic/universal set of
+    capabilities provided by a CM system and a set of services for working with those
+    capabilities.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS CMIS-v1.1-Pt
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS CMIS-v1.1-Errata01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS CMIS-v1.1-Plus-Errata01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Content Management Interoperability Services (CMIS) TC
+technology_area:
+- Content-Technologies

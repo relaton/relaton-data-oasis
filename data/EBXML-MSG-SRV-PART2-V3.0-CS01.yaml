@@ -1,0 +1,40 @@
+---
+id: OASISebxml-msg-srv-part2-v3.0-CS01
+title:
+- type: main
+  content: 'OASIS ebXML Messaging Services Version 3.0: Part 2, Advanced Features'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ebxml-msg-srv-part2-v3.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ebxml-msg-srv-part2-v3.0-CS01
+date:
+- type: issued
+  value: '2011-05-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Complements the ebMS 3.0 Core Specification by specifying advanced messaging
+    functionality for message service configuration, message bundling, messaging across
+    intermediaries (multi-hop) and transfer of (compressed) messages as series of
+    smaller message fragments.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS ebXML Messaging Services TC
+technology_area:
+- e-Business
+- Messaging

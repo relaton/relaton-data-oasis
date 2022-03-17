@@ -1,0 +1,39 @@
+---
+id: OASISLink-Pairing-v1.0-CS01
+title:
+- type: main
+  content: AMQP Request-Response Messaging with Link Pairing Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS Link-Pairing-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: Link-Pairing-v1.0-CS01
+date:
+- type: issued
+  value: '2021-02-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: AMQP is a vendor-neutral, platform-agnostic protocol for passing real-time
+    data streams and business transactions. This document defines a common pattern
+    for pairing two unidirectional links to create a bidirectional message transport
+    between two endpoints.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Advanced Message Queuing Protocol (AMQP) TC
+technology_area:
+- Messaging

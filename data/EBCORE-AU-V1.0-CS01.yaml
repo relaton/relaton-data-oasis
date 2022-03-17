@@ -1,0 +1,46 @@
+---
+id: OASISebcore-au-v1.0-CS01
+title:
+- type: main
+  content: ebCore Agreement Update Specification Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ebcore-au-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ebcore-au-v1.0-CS01
+date:
+- type: issued
+  value: '2016-09-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines message exchanges and an XML schema to support the exchange of
+    messaging service communication agreement update requests and the associated responses
+    to such requests. The schema offers extensibility for various types of updates.
+    The main initial application of the specification is the exchange of X.509 certificates
+    for certificate rollover, for which a separate extension schema is provided. The
+    specification is based on the concept of messaging service communication agreements
+    and the creation of new agreements as independently identified updated copies
+    of existing agreements. The specification also provides an Agreement Termination
+    feature. The specification supports ebMS2, ebMS3 and AS4 but can also be used
+    with other protocols that have a concept of communication agreement. The specification
+    is independent of storage or interchange formats for configuration information.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS ebXML Core (ebCore) TC
+technology_area:
+- Messaging

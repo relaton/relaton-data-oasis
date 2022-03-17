@@ -1,0 +1,37 @@
+---
+id: OASISxacml-3.0-privacy-v1.0-CS02
+title:
+- type: main
+  content: XACML v3.0 Privacy Policy Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xacml-3.0-privacy-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: xacml-3.0-privacy-v1.0-CS02
+date:
+- type: issued
+  value: '2015-01-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a profile of XACML for expressing privacy policies.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Privacy/Identity
+- Security

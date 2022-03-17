@@ -1,0 +1,40 @@
+---
+id: OASISXSPA-SAML-v1.0
+title:
+- type: main
+  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of Security
+    Assertion Markup Language (SAML) for Healthcare v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XSPA-SAML-v1.0
+  type: OASIS
+  primary: true
+docnumber: XSPA-SAML-v1.0
+date:
+- type: issued
+  value: '2009-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a framework in which SAML is encompassed by cross-enterprise
+    security and privacy authorization (XSPA) to satisfy requirements pertaining to
+    information-centric security within the healthcare community.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Privacy/Identity
+- Security

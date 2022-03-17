@@ -1,0 +1,40 @@
+---
+id: OASISSAML
+title:
+- type: main
+  content: Metadata Profile for the OASIS Security Assertion Markup Language (SAML)
+    V1.x
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML
+  type: OASIS
+  primary: true
+docnumber: SAML
+date:
+- type: issued
+  value: '2007-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a profile of the OASIS SAML V2.0 metadata specification for use
+    in describing SAML V1.0 and V1.1 entities. Readers should be familiar with the
+    SAML V2.0 metadata specification [SAML2Meta] before reading this document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Privacy/Identity
+- Security

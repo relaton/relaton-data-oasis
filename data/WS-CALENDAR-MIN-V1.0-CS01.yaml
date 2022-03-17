@@ -1,0 +1,40 @@
+---
+id: OASISWS-Calendar-Min-v1.0-CS01
+title:
+- type: main
+  content: WS-Calendar Minimal PIM-Conformant Schema Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Calendar-Min-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: WS-Calendar-Min-v1.0-CS01
+date:
+- type: issued
+  value: '2016-09-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    The WS-Calendar MIN is a WS-Calendar conformant schema optimized for use in machine-to-machine (M2M) schedule negotiations.
+    iCalendar (RFC5545) and its peer specification XCAL (also in WS-Calendar 1.0) is a well-known and long used means to convey schedule-related information. iCalendar makes extensive use of extension and recursion. The WS-Calendar Platform Independent Model (PIM) constrains iCalendar and defines a simpler information model which shares iCalendar semantics and can be used to create as the common basis for any number of Platform Specific Models (PSMs).
+    Because an information model is abstract, it can apply to many transmission and serialization schemas. The PIM itself does not include a transmission and serialization schemas. Through transitive conformance such PSMs themselves conform to WS-Calendar.
+    The Minimal PIM-Conformant (MIN) schema defines an XML Schema that conforms with the PIM. MIN can be used by itself or as a seed-schema for other specifications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Calendar (WS-Calendar) TC
+technology_area:
+- Web-Services

@@ -1,0 +1,39 @@
+---
+id: OASISWS-Cal-SOAP-CS01
+title:
+- type: main
+  content: WS-Calendar SOAP-based Services Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Cal-SOAP-CS01
+  type: OASIS
+  primary: true
+docnumber: WS-Cal-SOAP-CS01
+date:
+- type: issued
+  value: '2013-02-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes standard messages and interactions for service interactions with
+    a system that hosts calendar-based information using SOAP. Hosted information
+    can be either traditional personal and enterprise calendar information or services
+    that support XML payloads developed in conformance with the WS-Calendar specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Calendar (WS-Calendar) TC
+technology_area:
+- Web-Services

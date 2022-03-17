@@ -1,0 +1,36 @@
+---
+id: OASISsstc-saml-attribute-kerberos-CS01
+title:
+- type: main
+  content: SAML V2.0 Kerberos Attribute Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS sstc-saml-attribute-kerberos-CS01
+  type: OASIS
+  primary: true
+docnumber: sstc-saml-attribute-kerberos-CS01
+date:
+- type: issued
+  value: '2011-08-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an attribute profile for the Kerberos protocol.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

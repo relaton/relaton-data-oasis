@@ -1,0 +1,40 @@
+---
+id: OASISDSS-v2.0-CS01
+title:
+- type: main
+  content: Digital Signature Service Core Protocols, Elements, and Bindings Version
+    2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS DSS-v2.0-CS01
+  type: OASIS
+  primary: true
+docnumber: DSS-v2.0-CS01
+date:
+- type: issued
+  value: '2019-07-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines JSON and XML based request/response protocols for signing and verifying
+    documents and other data. It also defines a timestamp format, and a signature
+    property for use with these protocols. Finally, it defines transport and security
+    bindings for the protocols.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Digital Signature Services eXtended (DSS-X) TC
+technology_area:
+- Security

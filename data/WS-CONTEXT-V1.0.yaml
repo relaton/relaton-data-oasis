@@ -1,0 +1,39 @@
+---
+id: OASISWS-Context-v1.0
+title:
+- type: main
+  content: Web Services Context (WS-Context) v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Context-v1.0
+  type: OASIS
+  primary: true
+docnumber: WS-Context-v1.0
+date:
+- type: issued
+  value: '2007-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Web services exchange XML documents with structured payloads. The processing semantics of an execution endpoint may be influenced by additional information that is defined at layers below the application protocol. When multiple Web services are used in combination, the ability to structure execution related data called context becomes important. This information is typically communicated via SOAP Headers. WS-Context provides a definition, a structuring mechanism, and service definitions for organizing and sharing context across multiple execution endpoints.
+    The ability to compose arbitrary units of work is a requirement in a variety of aspects of distributed applications such as workflow and business-to-business interactions. By composing work, we mean that it is possible for participants in an activity to be able to determine unambiguously whether or not they are participating in the same activity.
+    An activity is the execution of multiple Web services composed using some mechanism external to this specification, such as an orchestration or choreography. A common mechanism is needed to capture and manage contextual execution environment data shared, typically persistently, across execution instances.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Composite Application Framework (WS-CAF) TC
+technology_area:
+- Web-Services

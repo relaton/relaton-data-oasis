@@ -1,0 +1,40 @@
+---
+id: OASISMessage-Annotations-v1.0-CS01
+title:
+- type: main
+  content: Message Annotations for Response Routing Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS Message-Annotations-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: Message-Annotations-v1.0-CS01
+date:
+- type: issued
+  value: '2021-02-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: AMQP is a vendor-neutral, platform-agnostic protocol for passing real-time
+    data streams and business transactions. This document defines mechanisms to allow
+    messages which transit boundaries to be annotated with sufficient information
+    to allow responses to be directed back to the intended recipient.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Advanced Message Queuing Protocol (AMQP) TC
+technology_area:
+- e-Business
+- IoT

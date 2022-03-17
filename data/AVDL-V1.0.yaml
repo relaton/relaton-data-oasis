@@ -1,0 +1,38 @@
+---
+id: OASISAVDL-v1.0
+title:
+- type: main
+  content: Application Vulnerability Description Language (AVDL) v1.0 [OASIS 200403]
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS AVDL-v1.0
+  type: OASIS
+  primary: true
+docnumber: AVDL-v1.0
+date:
+- type: issued
+  value: '2004-06-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: AVDL is a security interoperability standard for creating a uniform method
+    of describing application security vulnerabilities using XML.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Application Vulnerability Description Language (AVDL) TC
+technology_area:
+- Cybersecurity
+- Web-Services

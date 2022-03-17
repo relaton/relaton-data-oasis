@@ -1,0 +1,53 @@
+---
+id: OASISOSLC-Discovery-3.0-CS01-Pt2
+title:
+- type: main
+  content: 'OSLC Core Version 3.0. Part 2: Discovery'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/oslc-core/oslc-core/v3.0/cs01/part2-discovery/oslc-core-v3.0-cs01-part2-discovery.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-Discovery-3.0-CS01-Pt2
+  type: OASIS
+  primary: true
+docnumber: OSLC-Discovery-3.0-CS01-Pt2
+date:
+- type: issued
+  value: '2017-04-04'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Jim
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Amsden
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Lifecycle-Integration

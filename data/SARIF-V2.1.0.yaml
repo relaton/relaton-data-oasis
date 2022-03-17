@@ -1,0 +1,40 @@
+---
+id: OASISSARIF-v2.1.0
+title:
+- type: main
+  content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SARIF-v2.1.0
+  type: OASIS
+  primary: true
+docnumber: SARIF-v2.1.0
+date:
+- type: issued
+  value: '2020-03-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: To form an overall picture of software quality, developers often need to
+    aggregate the results produced by a number of analytical tools, commercial, open
+    source, and home grown. SARIF (https://www.oasis-open.org/standard/sarifv2-1-os/)
+    defines a standard format for the output of static analysis tools, enabling developers
+    to combine the results and more quickly identify problems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Static Analysis Results Interchange Format (SARIF) TC
+technology_area:
+- Lifecycle-Integration

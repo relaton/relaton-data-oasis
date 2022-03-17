@@ -1,0 +1,37 @@
+---
+id: OASISWS-Security-2004-v1.0
+title:
+- type: main
+  content: Web Services Security v1.0 (WS-Security 2004) [OASIS 200401]
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Security-2004-v1.0
+  type: OASIS
+  primary: true
+docnumber: WS-Security-2004-v1.0
+date:
+- type: issued
+  value: '2004-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Builds on the Web Services security foundations as described in the WS-Security
+    specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Security TC
+technology_area:
+- Web-Services

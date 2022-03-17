@@ -1,0 +1,38 @@
+---
+id: OASISfrag-interchg
+title:
+- type: main
+  content: Fragment Interchange
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS frag-interchg
+  type: OASIS
+  primary: true
+docnumber: frag-interchg
+date:
+- type: issued
+  value: '1996-11-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defining a way to send fragments of an SGML document—regardless of whether
+    the fragments are predetermined entities or not—without having to send everything
+    up to the part in question.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: resolution
+editorialgroup:
+- name: Fragment Interchange Subcommittee
+technology_area:
+- Content-Technologies

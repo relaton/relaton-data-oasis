@@ -1,0 +1,70 @@
+---
+id: OASISmqtt-v3.1.1-Pt
+title:
+- type: main
+  content: MQTT Version 3.1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html
+  type: src
+type: standard
+docid:
+- id: OASIS mqtt-v3.1.1-Pt
+  type: OASIS
+  primary: true
+docnumber: mqtt-v3.1.1-Pt
+date:
+- type: issued
+  value: '2014-10-29'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Andrew
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Banks
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Rahul
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Gupta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS mqtt-v3.1.1
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- IoT
+- Messaging

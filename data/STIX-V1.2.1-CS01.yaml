@@ -1,0 +1,117 @@
+---
+id: OASISSTIX-v1.2.1-CS01
+title:
+- type: main
+  content: STIX(TM) Version 1.2.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS STIX-v1.2.1-CS01
+  type: OASIS
+  primary: true
+docnumber: STIX-v1.2.1-CS01
+date:
+- type: issued
+  value: '2016-05-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A collaborative, community-driven effort to define and develop a framework
+    for expressing cyber threat information to enable cyber threat information sharing
+    and cyber threat analysis. The STIX framework comprises a collection of extensible
+    component specifications along with an overarching core specification and supporting
+    specifications. This document serves as an overview of those specifications and
+    defines how they are used within the broader STIX framework.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Overview-CS01-Pt1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Common-CS01-Pt2
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Core-CS01-Pt3
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Indicator-CS01-Pt4
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-TTP-CS01-Pt5
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Incident-CS01-Pt6
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Threat-actor-CS01-Pt7
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Campaign-CS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-COA-CS01-Pt9
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Exploit-Target-CS01-Pt10
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Report-CS01-Pt11
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Extensions-CS01-Pt12
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Data-Marking-CS01-Pt13
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-Vocabularies-CS01-Pt14
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-UML-Model-CS01-Pt15
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Cyber Threat Intelligence (CTI) TC
+technology_area:
+- Cybersecurity

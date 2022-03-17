@@ -1,0 +1,70 @@
+---
+id: OASISCMIS-v1.1-Errata01
+title:
+- type: main
+  content: Content Management Interoperability Services (CMIS) Version 1.1 Errata
+    01
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/cmis/CMIS/v1.1/errata01/os/CMIS-v1.1-errata01-os.html
+  type: src
+type: standard
+docid:
+- id: OASIS CMIS-v1.1-Errata01
+  type: OASIS
+  primary: true
+docnumber: CMIS-v1.1-Errata01
+date:
+- type: issued
+  value: '2015-09-19'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Florian
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Müller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Ken
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Baclawski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS CMIS-v1.1
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Content-Technologies

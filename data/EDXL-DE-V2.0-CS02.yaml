@@ -1,0 +1,41 @@
+---
+id: OASISEDXL-DE-v2.0-CS02
+title:
+- type: main
+  content: Emergency Data Exchange Language (EDXL) Distribution Element Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EDXL-DE-v2.0-CS02
+  type: OASIS
+  primary: true
+docnumber: EDXL-DE-v2.0-CS02
+date:
+- type: issued
+  value: '2013-09-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Describes a standard message distribution format for data sharing among emergency information systems. The DE 2.0 serves two important purposes:
+    (1) The DE 2.0 allows an organization to wrap separate but related pieces of emergency information, including any of the EDXL message types, into a single “package” for easier and more useful distribution;
+    (2) The DE 2.0 allows an organization to “address” the package to organizations or individuals with specified roles, located in specified locations or those interested in specified keywords.
+    This version of the DE expands the ability to use local community-defined terms, uses a profile of the Geographic Markup Language (GML) , follows best practices for naming conventions, provides the capability to link content objects, supports extensions, and is reorganized for increased flexibility and reuse of common types. The DE 2.0 packages and addresses emergency information for effective distribution with improved standardization and ability to be tailored for user needs.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Emergency Management TC
+technology_area:
+- Emergency-Management
+- Messaging

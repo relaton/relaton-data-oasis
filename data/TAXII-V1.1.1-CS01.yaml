@@ -1,0 +1,62 @@
+---
+id: OASISTAXII-v1.1.1-CS01
+title:
+- type: main
+  content: TAXII(TM) Version 1.1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS TAXII-v1.1.1-CS01
+  type: OASIS
+  primary: true
+docnumber: TAXII-v1.1.1-CS01
+date:
+- type: issued
+  value: '2016-05-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Provides an overview of TAXII.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS TAXII-v1.1.1-Overview-CS01-Pt1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS TAXII-v1.1.1-Services-CS01-Pt2
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS TAXII-v1.1.1-HTTP-CS01-Pt3
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS TAXII-v1.1.1-XML-Msg-CS01-Pt4
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS TAXII-v1.1.1-Query-CS01-Pt5
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Cyber Threat Intelligence (CTI) TC
+technology_area:
+- Cybersecurity

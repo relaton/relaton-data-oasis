@@ -1,0 +1,40 @@
+---
+id: OASISBasicProfile-v2.0-CS01
+title:
+- type: main
+  content: Basic Profile Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BasicProfile-v2.0-CS01
+  type: OASIS
+  primary: true
+docnumber: BasicProfile-v2.0-CS01
+date:
+- type: issued
+  value: '2014-06-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document defines the WS-I Basic Profile 2.0 consisting of a set of
+    clarifications, refinements, interpretations and amplifications to a combination
+    of non-proprietary Web services specifications in order to promote interoperability.
+    It is an evolution of WS-I Basic Profile 1.1 and is based on SOAP 1.2. In particular
+    it adds support for WS-Addressing.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Basic Reliable and Secure Profiles (WS-BRSP) TC
+technology_area:
+- Web-Services

@@ -1,0 +1,39 @@
+---
+id: OASISPKCS11-Base-v3.0
+title:
+- type: main
+  content: 'PKCS #11 Cryptographic Token Interface Base Specification Version 3.0'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS PKCS11-Base-v3.0
+  type: OASIS
+  primary: true
+docnumber: PKCS11-Base-v3.0
+date:
+- type: issued
+  value: '2020-06-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a platform-independent API to cryptographic tokens, such as hardware
+    security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic
+    token interface” and pronounced as “crypto-key”).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS PKCS 11 TC
+technology_area:
+- Privacy/Identity
+- Security

@@ -1,0 +1,39 @@
+---
+id: OASISOpenC2-MQTT-v1.0] -CS01
+title:
+- type: main
+  content: Specification for Transfer of OpenC2 Messages via MQTT Version 1.0 – Committee
+    Specification 01
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OpenC2-MQTT-v1.0] -CS01
+  type: OASIS
+  primary: true
+docnumber: OpenC2-MQTT-v1.0] -CS01
+date:
+- type: issued
+  value: '2021-11-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the use of MQTT Version 5.0 as a transfer mechanism for OpenC2
+    messages.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Open Command and Control (OpenC2) TC
+technology_area:
+- Cybersecurity
+- Messaging

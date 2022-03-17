@@ -1,0 +1,44 @@
+---
+id: OASISPartyIdType-v1.0-CS01
+title:
+- type: main
+  content: OASIS ebCore Party Id Type Technical Specification Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS PartyIdType-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: PartyIdType-v1.0-CS01
+date:
+- type: issued
+  value: '2010-09-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'A mechanism for the identification of business partners in business documents
+    based on XML (or other structured formats) and message headers using URN-based
+    identifier types is required in many electronic business exchanges. This specification
+    specifies a formal URN-based mechanism for referencing party types from the ISO
+    6523, ISO 9735 and ISO 20022 identification scheme catalogs using the oasis URN
+    namespace. Sample applications include (but are not limited to): ebXML message
+    headers; ebXML collaboration protocol profiles and agreements; UBL, UN/CEFACT
+    and OAGIS XML business documents; the UN/CEFACT SBDH; and XBRL documents.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS ebXML Core (ebCore) TC
+technology_area:
+- e-Business
+- Web-Services

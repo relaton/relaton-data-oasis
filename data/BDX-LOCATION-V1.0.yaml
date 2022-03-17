@@ -1,0 +1,38 @@
+---
+id: OASISBDX-Location-v1.0
+title:
+- type: main
+  content: Business Document Metadata Service Location Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BDX-Location-v1.0
+  type: OASIS
+  primary: true
+docnumber: BDX-Location-v1.0
+date:
+- type: issued
+  value: '2017-08-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines service discovery method values for use in DNS Resource Record
+    service fields. The methods defined are instances of the generic pattern defined
+    within IETF RFCs for Dynamic Delegation Discovery Services (DDDS).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Business Document Exchange (BDXR) TC
+technology_area:
+- e-Business

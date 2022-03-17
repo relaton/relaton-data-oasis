@@ -1,0 +1,67 @@
+---
+id: OASISamqp-core
+title:
+- type: main
+  content: Advanced Message Queueing Protocol (AMQP) v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS amqp-core
+  type: OASIS
+  primary: true
+docnumber: amqp-core
+date:
+- type: issued
+  value: '2012-10-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: An open internet protocol for business messaging.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS amqp-core-overview-v1.0-Pt0
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS amqp-core-types-v1.0-Pt1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS amqp-core-transport-v1.0-Pt2
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS amqp-core-messaging-v1.0-Pt3
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS amqp-core-transactions-v1.0-Pt4
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS amqp-core-security-v1.0-Pt5
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Advanced Message Queuing Protocol (AMQP) TC
+technology_area:
+- Messaging

@@ -1,0 +1,38 @@
+---
+id: OASISrelaxng-ng-specification
+title:
+- type: main
+  content: RELAX NG Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS relaxng-ng-specification
+  type: OASIS
+  primary: true
+docnumber: relaxng-ng-specification
+date:
+- type: issued
+  value: '2001-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The definitive specification of RELAX NG, a simple schema language for
+    XML, based on [RELAX] and [TREX]. A RELAX NG schema specifies a pattern for the
+    structure and content of an XML document. A RELAX NG schema is itself an XML document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS RELAX NG TC
+technology_area:
+- Content-Technologies

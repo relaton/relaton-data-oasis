@@ -1,0 +1,38 @@
+---
+id: OASISODF-Access-Guidelines-v1.0-CS01
+title:
+- type: main
+  content: Open Document Format v1.1 Accessibility Guidelines Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ODF-Access-Guidelines-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ODF-Access-Guidelines-v1.0-CS01
+date:
+- type: issued
+  value: '2008-05-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A guide for Office Applications, that support version 1.1 of the OpenDocument
+    format, to promote and preserve accessible ODF documents. This guide is not a
+    comprehensive guide for content mapping to platform accessibility APIs.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Open Document Format for Office Applications (OpenDocument) TC
+technology_area:
+- Content-Technologies

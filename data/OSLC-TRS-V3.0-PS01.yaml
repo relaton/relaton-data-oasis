@@ -1,0 +1,55 @@
+---
+id: OASISOSLC-TRS-v3.0-PS01
+title:
+- type: main
+  content: OSLC Tracked Resource Set Version 3.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OSLC-TRS-v3.0-PS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-TRS-v3.0-PS01
+date:
+- type: issued
+  value: '2022-02-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Tracked Resource Set protocol allows a server to expose a set of resources
+    in a way that allows clients to discover that set of resources, to track additions
+    to and removals from the set, and to track state changes to the resources in the
+    set.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS01-Pt1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS01-Pt2
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS01-Pt3
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Open Services for Lifecycle Collaboration Open Project
+technology_area:
+- Lifecycle-Integration

@@ -1,0 +1,37 @@
+---
+id: OASISUBL-2.2
+title:
+- type: main
+  content: Universal Business Language Version 2.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UBL-2.2
+  type: OASIS
+  primary: true
+docnumber: UBL-2.2
+date:
+- type: issued
+  value: '2018-07-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defining a generic XML interchange format for business documents that can
+    be restricted or extended to meet the requirements of particular industries.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Universal Business Language TC
+technology_area:
+- e-Business

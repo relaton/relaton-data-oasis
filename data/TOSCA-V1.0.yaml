@@ -1,0 +1,39 @@
+---
+id: OASISTOSCA-v1.0
+title:
+- type: main
+  content: Topology and Orchestration Specification for Cloud Applications Version
+    1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS TOSCA-v1.0
+  type: OASIS
+  primary: true
+docnumber: TOSCA-v1.0
+date:
+- type: issued
+  value: '2013-11-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Introduces the formal description of Service Templates, including their
+    structure, properties, and behavior.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA)
+    TC
+technology_area:
+- Cloud

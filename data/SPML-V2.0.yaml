@@ -1,0 +1,37 @@
+---
+id: OASISSPML-v2.0
+title:
+- type: main
+  content: Service Provisioning Markup Language (SPML) v2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SPML-v2.0
+  type: OASIS
+  primary: true
+docnumber: SPML-v2.0
+date:
+- type: issued
+  value: '2006-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an XML-based framework for exchanging user, resource, and service
+    provisioning information within and between organizations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Provisioning Services TC
+technology_area:
+- e-Business

@@ -1,0 +1,39 @@
+---
+id: OASISBCM-v1.0
+title:
+- type: main
+  content: Business Centric Methodology (BCM) v1.0 Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BCM-v1.0
+  type: OASIS
+  primary: true
+docnumber: BCM-v1.0
+date:
+- type: issued
+  value: '2006-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Provides a set of layered methods for acquiring interoperable e-business
+    information within communities of interest. The Standard serves as a road map,
+    enabling organizations to identify and exploit business success factors in a technology-neutral
+    manner.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Business-centric Methodology (BCM) TC
+technology_area:
+- e-Business

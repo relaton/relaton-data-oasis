@@ -1,0 +1,43 @@
+---
+id: OASISCAMP-v1.2-CS01
+title:
+- type: main
+  content: Cloud Application Management for Platforms Version 1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS CAMP-v1.2-CS01
+  type: OASIS
+  primary: true
+docnumber: CAMP-v1.2-CS01
+date:
+- type: issued
+  value: '2018-05-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the artifacts and APIs that need to be offered by a Platform as
+    a Service (PaaS) cloud to manage the building, running, administration, monitoring
+    and patching of applications in the cloud. Its purpose is to enable interoperability
+    among self-service interfaces to PaaS clouds by defining artifacts and formats
+    that can be used with any conforming cloud and enable independent vendors to create
+    tools and services that interact with any conforming cloud using the defined interfaces.
+    Cloud vendors can use these interfaces to develop new PaaS offerings that will
+    interact with independently developed tools and components.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Cloud Application Management for Platforms (CAMP) TC
+technology_area:
+- Cloud

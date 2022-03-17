@@ -1,0 +1,42 @@
+---
+id: OASISSOA-RAF-CS01
+title:
+- type: main
+  content: Reference Architecture Foundation for Service Oriented Architecture Version
+    1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SOA-RAF-CS01
+  type: OASIS
+  primary: true
+docnumber: SOA-RAF-CS01
+date:
+- type: issued
+  value: '2012-12-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Specifies the OASIS Reference Architecture Foundation for Service Oriented Architecture (SOA-RAF). It follows from the concepts and relationships defined in the OASIS Reference Model for Service Oriented Architecture as well as work conducted in other organizations. While it remains abstract in nature, the current document describes the foundation upon which specific SOA concrete architectures can be built.
+    The focus of the SOA-RAF is on an approach to integrating business with the information technology needed to support it. These issues are always present but are all the more important when business integration involves crossing ownership boundaries.
+    The SOA-RAF follows the recommended practice of describing architecture in terms of models, views, and viewpoints, as prescribed in the ANSI/IEEE 1471-2000.
+    It has three main views: the Participation in a SOA Ecosystem view which focuses on the way that participants are part of a Service Oriented Architecture ecosystem; the Realization of a SOA Ecosystem view which addresses the requirements for constructing a SOA-based system in a SOA ecosystem; and the Ownership in a SOA Ecosystem view which focuses on what is meant to own a SOA-based system.
+    The SOA-RAF is of value to Enterprise Architects, Business and IT Architects as well as CIOs and other senior executives involved in strategic business and IT planning.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Service Oriented Architecture Reference Model TC
+technology_area:
+- e-Business

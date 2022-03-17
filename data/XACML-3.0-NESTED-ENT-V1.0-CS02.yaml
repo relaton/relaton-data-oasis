@@ -1,0 +1,37 @@
+---
+id: OASISxacml-3.0-nested-ent-v1.0-CS02
+title:
+- type: main
+  content: XACML v3.0 Related and Nested Entities Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xacml-3.0-nested-ent-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: xacml-3.0-nested-ent-v1.0-CS02
+date:
+- type: issued
+  value: '2021-02-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This profile defines the means to reference attributes from within XACML
+    policies for processing by a policy decision point.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

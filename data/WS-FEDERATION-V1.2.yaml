@@ -1,0 +1,38 @@
+---
+id: OASISWS-Federation-v1.2
+title:
+- type: main
+  content: Web Services Federation Language (WS-Federation) v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Federation-v1.2
+  type: OASIS
+  primary: true
+docnumber: WS-Federation-v1.2
+date:
+- type: issued
+  value: '2009-05-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Defines mechanisms to allow different security realms to federate, such that authorized access to resources managed in one realm can be provided to security principals whose identities and attributes are managed in other realms.   This includes mechanisms for brokering of identity, attribute, authentication and authorization assertions between realms, and privacy of federated claims.
+    By using the XML, SOAP and WSDL extensibility models, the WS-* specifications are designed to be composed with each other to provide a rich Web services environment. WS-Federation by itself does not provide a complete security solution for Web services.  WS-Federation is a building block that is used in conjunction with other Web service, transport, and application-specific protocols to accommodate a wide variety of security models.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Federation (WSFED) TC
+technology_area:
+- Web-Services

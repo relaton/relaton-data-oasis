@@ -1,0 +1,39 @@
+---
+id: OASISSAML2.0-context-ext-CS01
+title:
+- type: main
+  content: SAML 2.0 Shared Credentials Authentication Context Extension and Related
+    Classes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML2.0-context-ext-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2.0-context-ext-CS01
+date:
+- type: issued
+  value: '2007-05-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Defines an authentication context extension to the SAML 2.0 Authentication Context specification SAMLAC that allows providers to distinguish whether or not the credential by which a principal authenticates to the identity provider is known to be shared amongst a group of users or unique to that user. Two new Authentication Context classes and associated schemas are also introduced to distinguish between these two cases.
+    Readers should be familiar with SAMLAC before reading this document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

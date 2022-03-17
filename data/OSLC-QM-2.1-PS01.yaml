@@ -1,0 +1,58 @@
+---
+id: OASISOSLC-QM-2.1-PS01
+title:
+- type: main
+  content: OSLC Quality Management Version 2.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OSLC-QM-2.1-PS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-QM-2.1-PS01
+date:
+- type: issued
+  value: '2020-08-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Defines the OSLC Quality Management domain, a RESTful web services interface
+    for the management of product, service or software quality artefacts, activities,
+    tasks and relationships between those and related resources such as requirements,
+    defects, change requests or architectural resources. To support these scenarios,
+    this specification defines a set of HTTP-based RESTful interfaces in terms of
+    HTTP methods: GET, POST, PUT and DELETE, HTTP response codes, content type handling
+    and resource formats.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-QM-2.1-Part1-PS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-qm-2.1-Part2-PS01
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-qm-2.1-Part3-PS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+technology_area:
+- Lifecycle-Integration

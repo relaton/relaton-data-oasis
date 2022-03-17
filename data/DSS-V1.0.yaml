@@ -1,0 +1,39 @@
+---
+id: OASISDSS-v1.0
+title:
+- type: main
+  content: Digital Signature Services v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS DSS-v1.0
+  type: OASIS
+  primary: true
+docnumber: DSS-v1.0
+date:
+- type: issued
+  value: '2007-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines XML request/response protocols for signing and verifying XML documents
+    and other data.  It also defines an XML timestamp format, and an XML signature
+    property for use with these protocols.  Finally, it defines transport and security
+    bindings for the protocols.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Digital Signature Services TC
+technology_area:
+- Content-Technologies

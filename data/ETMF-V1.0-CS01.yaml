@@ -1,0 +1,38 @@
+---
+id: OASISeTMF-v1.0-CS01
+title:
+- type: main
+  content: Electronic Trial Master File (eTMF) Specification Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS eTMF-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: eTMF-v1.0-CS01
+date:
+- type: issued
+  value: '2016-10-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Publishes details of an interoperable content classification system with rules, policies and procedures for how electronic content can be shared and customized for clinical trials.  Machine readable, open standards-based technologies are used in a vendor neutral approach.
+    Instructions on converting the eTMF schema spreadsheet to an OWL RDF/XML ontology are available from IEEE.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Electronic Trial Master File (eTMF) Standard TC
+technology_area:
+- Content-Technologies

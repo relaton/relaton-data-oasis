@@ -1,0 +1,41 @@
+---
+id: OASISSAML-ecp-v2.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Enhanced Client or Proxy Profile Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-ecp-v2.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-ecp-v2.0-CS01
+date:
+- type: issued
+  value: '2013-08-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The SAML V2.0 Enhanced Client or Proxy profile is a SSO profile for use
+    with HTTP, and clients with the capability to directly contact a principal’s identity
+    provider(s) without requiring discovery and redirection by the service provider,
+    as in the case of a browser. This specification updates the original profile by
+    adding support for “Holder of Key” subject confirmation [SAML2HOK] and channel
+    bindings [ChanBind].
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

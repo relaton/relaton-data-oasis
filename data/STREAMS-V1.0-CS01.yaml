@@ -1,0 +1,39 @@
+---
+id: OASISstreams-v1.0-CS01
+title:
+- type: main
+  content: Schedule Signals and Streams Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS streams-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: streams-v1.0-CS01
+date:
+- type: issued
+  value: '2016-09-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a normative structure for conveying time series of information
+    that is conformant with the WS-Calendar Platform Independent Model (PIM). Specifications
+    that conform to the WS-Calendar PIM can be transformed into each other and into
+    the WS-Calendar 1.0 model. We term these conveyances “Streams”.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Calendar (WS-Calendar) TC
+technology_area:
+- Web-Services

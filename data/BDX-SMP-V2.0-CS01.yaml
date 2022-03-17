@@ -1,0 +1,47 @@
+---
+id: OASISBDX-SMP-v2.0-CS01
+title:
+- type: main
+  content: Service Metadata Publishing (SMP) Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS BDX-SMP-v2.0-CS01
+  type: OASIS
+  primary: true
+docnumber: BDX-SMP-v2.0-CS01
+date:
+- type: issued
+  value: '2019-05-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a protocol for publishing service metadata within a 4-corner
+    network. In a 4-corner network, entities are exchanging business documents through
+    intermediary gateway services (sometimes called Access Points). To successfully
+    send a business document in a 4-corner network, an entity must be able to discover
+    critical metadata about the recipient of the business document, such as types
+    of documents the recipient is capable of receiving and methods of transport supported.
+    The recipient makes this metadata available to other entities in the network through
+    a Service Metadata Publisher service. This specification describes the request/response
+    exchanges between a Service Metadata Publisher and a client wishing to discover
+    endpoint information. A client can either be an end-user business application
+    or a gateway/access point in the 4-corner network. It also defines the request
+    processing that must happen at the client.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Business Document Exchange (BDXR) TC
+technology_area:
+- e-Business

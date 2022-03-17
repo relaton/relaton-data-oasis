@@ -1,0 +1,39 @@
+---
+id: OASISoaxal-v1.0-CS01
+title:
+- type: main
+  content: Reference Model for Open Architecture for XML Authoring and Localization
+    Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS oaxal-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: oaxal-v1.0-CS01
+date:
+- type: issued
+  value: '2009-12-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Provides a comprehensive, efficient, and cost-effective model for building
+    an XML lifecycle production framework based completely on Open Standards from
+    OASIS, LISA OSCAR and W3C.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Open Architecture for XML Authoring and Localization (OAXAL) TC
+technology_area:
+- Lifecycle-Integration

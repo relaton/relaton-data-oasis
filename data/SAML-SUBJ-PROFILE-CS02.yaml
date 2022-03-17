@@ -1,0 +1,38 @@
+---
+id: OASISSAML-subj-profile-CS02
+title:
+- type: main
+  content: Subject-based Profiles for SAML V1.1 Assertions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-subj-profile-CS02
+  type: OASIS
+  primary: true
+docnumber: SAML-subj-profile-CS02
+date:
+- type: issued
+  value: '2008-10-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Places constraints upon SAML V1.1 subjects and assertions so that they
+    have properties similar to SAML V2.0 subjects and assertions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services TC
+technology_area:
+- Privacy/Identity
+- Security

@@ -1,0 +1,37 @@
+---
+id: OASISUBL-v2.0
+title:
+- type: main
+  content: Universal Business Language (UBL) v2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UBL-v2.0
+  type: OASIS
+  primary: true
+docnumber: UBL-v2.0
+date:
+- type: issued
+  value: '2006-12-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the Universal Business Language, version 2.0.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Universal Business Language TC
+technology_area:
+- Content-Technologies
+- e-Business

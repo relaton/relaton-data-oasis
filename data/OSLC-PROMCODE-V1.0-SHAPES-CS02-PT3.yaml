@@ -1,0 +1,165 @@
+---
+id: OASISOSLC-PROMCODE-v1.0-Shapes-CS02-Pt3
+title:
+- type: main
+  content: 'OSLC PROMCODE Version 1.0. Part 3: Constraints'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.oasis-open.org/oslc-promcode/promcode/v1.0/cs02/promcode-shapes.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-PROMCODE-v1.0-Shapes-CS02-Pt3
+  type: OASIS
+  primary: true
+docnumber: OSLC-PROMCODE-v1.0-Shapes-CS02-Pt3
+date:
+- type: issued
+  value: '2021-11-10'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Mikio
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Aoyama
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Yoshio
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Horiuchi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Tom
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Kamimura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Shinji
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Matsuoka
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Shigeaki
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Matsumoto
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Masaki
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Wakao
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Kazuo
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Yabuta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Hiroyuki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-PROMCODE-v1.0-CS02
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Lifecycle-Integration

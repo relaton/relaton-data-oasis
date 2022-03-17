@@ -1,0 +1,38 @@
+---
+id: OASISUIML-v4.0-CS01
+title:
+- type: main
+  content: User Interface Markup Language (UIML) Version 4.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UIML-v4.0-CS01
+  type: OASIS
+  primary: true
+docnumber: UIML-v4.0-CS01
+date:
+- type: issued
+  value: '2009-05-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Provides a vendor-neutral, canonical representation of any user interface
+    (UI) suitable for mapping to existing languages. UIML provides a highly device-independent
+    method to describe a user interface.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS User Interface Markup Language (UIML) TC
+technology_area:
+- Content-Technologies

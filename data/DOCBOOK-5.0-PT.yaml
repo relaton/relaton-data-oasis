@@ -1,0 +1,53 @@
+---
+id: OASISDocBook-5.0-Pt
+title:
+- type: main
+  content: The DocBook Schema Version 5.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/docbook/specs/docbook-5.0-spec-os.html
+  type: src
+type: standard
+docid:
+- id: OASIS DocBook-5.0-Pt
+  type: OASIS
+  primary: true
+docnumber: DocBook-5.0-Pt
+date:
+- type: issued
+  value: '2009-11-01'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Norman
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS DocBook-5.0
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Content-Technologies

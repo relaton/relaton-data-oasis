@@ -1,0 +1,37 @@
+---
+id: OASISOSLC-QM-2.1
+title:
+- type: main
+  content: OSLC Quality Management Version 2.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OSLC-QM-2.1
+  type: OASIS
+  primary: true
+docnumber: OSLC-QM-2.1
+date:
+- type: issued
+  value: '2022-01-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the OSLC quality management domain, a RESTful web services interface
+    for the management of product, service or software quality artifacts.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: Open Services for Lifecycle Collaboration Open Project
+technology_area:
+- Lifecycle-Integration

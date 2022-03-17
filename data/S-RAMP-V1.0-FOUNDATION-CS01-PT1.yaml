@@ -1,0 +1,69 @@
+---
+id: OASISS-RAMP-v1.0-Foundation-CS01-Pt1
+title:
+- type: main
+  content: 'S-RAMP Version 1.0. Part 1: Foundation'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/s-ramp/s-ramp/v1.0/cs01/part1-foundation/s-ramp-v1.0-cs01-part1-foundation.html
+  type: src
+type: standard
+docid:
+- id: OASIS S-RAMP-v1.0-Foundation-CS01-Pt1
+  type: OASIS
+  primary: true
+docnumber: S-RAMP-v1.0-Foundation-CS01-Pt1
+date:
+- type: issued
+  value: '2013-12-23'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Kurt
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Stam
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Eric
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Wittmann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS S-RAMP-v1.0-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- SOA

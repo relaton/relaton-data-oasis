@@ -1,0 +1,37 @@
+---
+id: OASISWSBD-v1.0-CS01
+title:
+- type: main
+  content: WS-Biometric Devices Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WSBD-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: WSBD-v1.0-CS01
+date:
+- type: issued
+  value: '2017-07-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: WS-Biometric Devices is a protocol for the command and control of biometric
+    sensors using the same protocols that underlie the web.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Biometric Services (BIOSERV) TC
+technology_area:
+- Web-Services

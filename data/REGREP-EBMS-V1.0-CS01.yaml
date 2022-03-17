@@ -1,0 +1,40 @@
+---
+id: OASISRegRep-ebMS-v1.0-CS01
+title:
+- type: main
+  content: ebXML Messaging Protocol Binding for RegRep Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS RegRep-ebMS-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: RegRep-ebMS-v1.0-CS01
+date:
+- type: issued
+  value: '2021-03-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifies a messaging protocol binding for the Registry Services of the
+    OASIS ebXML RegRep Version 4.0 OASIS Standard. This binding is compatible with
+    both the versions 2.0 and 3.0 of ebMS as well as the AS4 profile and complements
+    the existing protocol bindings specified in OASIS RegRep Version 4.0.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS ebXML Core (ebCore) TC
+technology_area:
+- e-Business
+- Messaging

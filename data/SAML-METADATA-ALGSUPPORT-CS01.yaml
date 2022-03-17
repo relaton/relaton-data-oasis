@@ -1,0 +1,40 @@
+---
+id: OASISSAML-metadata-algsupport-CS01
+title:
+- type: main
+  content: SAML v2.0 Metadata Profile for Algorithm Support Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-metadata-algsupport-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-metadata-algsupport-CS01
+date:
+- type: issued
+  value: '2011-02-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Includes an element allowing entities to describe the XML Encryption [XMLEnc]
+    algorithms they support. This specification defines metadata extension elements
+    to enable entities to describe the XML Signature [XMLSig] algorithms they support,
+    and a profile for using both elements to enable better algorithm agility for profiles
+    that rely on metadata.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

@@ -1,0 +1,50 @@
+---
+id: OASISEnergyInterop-v1.0
+title:
+- type: main
+  content: Energy Interoperation Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EnergyInterop-v1.0
+  type: OASIS
+  primary: true
+docnumber: EnergyInterop-v1.0
+date:
+- type: issued
+  value: '2014-06-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Describes an information model and a communication model to enable collaborative and transactive use of energy, service definitions consistent with the OASIS SOA Reference Model [SOA-RM], and XML vocabularies for the interoperable and standard exchange of:
+    ·         Dynamic price signals
+    ·         Reliability signals
+    ·         Emergency signals
+    ·         Communication of market participation information such as bids
+    ·         Load predictability and generation information
+    This work facilitates enterprise interaction with energy markets, which:
+    ·         Allows effective response to emergency and reliability events
+    ·         Allows taking advantage of lower energy costs by deferring or accelerating usage
+    ·         Enables trading of curtailment and generation
+    ·         Supports symmetry of interaction between providers and consumers of energy
+    ·         Provides for aggregation of provision, curtailment, and use
+    The definition of a price and of reliability information depends on the market context in which it exists. It is not in scope for this TC to define specifications for markets or for pricing models, but the TC has coordinated with others to ensure that commonly used market and pricing models are supported.
+    While this specification uses Web Services to describe the services, no requirement or expectation of specific messaging implementation is assumed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Energy Interoperation TC
+technology_area:
+- Energy

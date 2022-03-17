@@ -1,0 +1,38 @@
+---
+id: OASISKMIP-AME-v1.0
+title:
+- type: main
+  content: KMIP Additional Message Encodings v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS KMIP-AME-v1.0
+  type: OASIS
+  primary: true
+docnumber: KMIP-AME-v1.0
+date:
+- type: issued
+  value: '2015-05-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes additional (optional) message encodings as an alternative to
+    the (mandatory) raw TTLV (Tag, Type, Length, Value) encoding including HTTPS,
+    JSON and XML.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+technology_area:
+- Security

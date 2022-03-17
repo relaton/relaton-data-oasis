@@ -1,0 +1,101 @@
+---
+id: OASISSTIX-v1.2.1-Report-CS01-Pt11
+title:
+- type: main
+  content: 'STIX(TM) Version 1.2.1. Part 11: Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/cti/stix/v1.2.1/cs01/part11-report/stix-v1.2.1-cs01-part11-report.html
+  type: src
+type: standard
+docid:
+- id: OASIS STIX-v1.2.1-Report-CS01-Pt11
+  type: OASIS
+  primary: true
+docnumber: STIX-v1.2.1-Report-CS01-Pt11
+date:
+- type: issued
+  value: '2016-05-05'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Sean
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Barnum
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Desiree
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Beck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Aharon
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Chernin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Rich
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v1.2.1-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Cybersecurity

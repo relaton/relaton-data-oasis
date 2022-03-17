@@ -1,0 +1,39 @@
+---
+id: OASISkmip-profiles-v2.0
+title:
+- type: main
+  content: Key Management Interoperability Protocol Profiles Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS kmip-profiles-v2.0
+  type: OASIS
+  primary: true
+docnumber: kmip-profiles-v2.0
+date:
+- type: issued
+  value: '2019-10-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a set of normative constraints for employing KMIP within a particular
+    environment or context of use. They may, optionally, require the use of specific
+    KMIP functionality or in other respects define the processing rules to be followed
+    by profile actors.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+technology_area:
+- Security

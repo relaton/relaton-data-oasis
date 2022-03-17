@@ -1,0 +1,37 @@
+---
+id: OASISTAML-CS02-Pt2
+title:
+- type: main
+  content: Test Assertions Part 2 – Test Assertion Markup Language Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS TAML-CS02-Pt2
+  type: OASIS
+  primary: true
+docnumber: TAML-CS02-Pt2
+date:
+- type: issued
+  value: '2011-12-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an XML vocabulary for representing test assertions aligned with
+    the Test Assertions Model.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Test Assertions Guidelines (TAG) TC
+technology_area:
+- Lifecycle-Integration

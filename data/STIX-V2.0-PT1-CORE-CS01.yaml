@@ -1,0 +1,85 @@
+---
+id: OASISSTIX-v2.0-Pt1-Core-CS01
+title:
+- type: main
+  content: 'STIX(TM) Version 2.0. Part 1: STIX Core Concepts'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/cti/stix/v2.0/cs01/part1-stix-core/stix-v2.0-cs01-part1-stix-core.html
+  type: src
+type: standard
+docid:
+- id: OASIS STIX-v2.0-Pt1-Core-CS01
+  type: OASIS
+  primary: true
+docnumber: STIX-v2.0-Pt1-Core-CS01
+date:
+- type: issued
+  value: '2017-07-19'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Rich
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Piazza
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: John
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Wunder
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Bret
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS STIX-v2.0-CS01
+      format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+technology_area:
+- Cybersecurity

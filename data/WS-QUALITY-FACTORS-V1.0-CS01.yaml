@@ -1,0 +1,47 @@
+---
+id: OASISWS-Quality-Factors-v1.0-CS01
+title:
+- type: main
+  content: Web Services Quality Factors Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-Quality-Factors-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: WS-Quality-Factors-v1.0-CS01
+date:
+- type: issued
+  value: '2011-07-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Provides a standard for quality factors of web services in their development,
+    usage and management. Web services usually have distinguished characteristics.
+    They are service-oriented, network-based, variously bind-able, loosely-coupled,
+    platform independent, and standard-protocol based. As a result, a web service
+    system requires its own quality factors unlike installation-based software. For
+    instance, as the quality of web services can be altered in real-time according
+    to changes by the service provider, considering real-time properties of web services
+    is very meaningful in describing the web services quality. This document presents
+    the quality factors of web services with definition, classification, and sub-factors
+    case by case. For each quality factor, related specifications are cited with a
+    brief explanation. This specification can be generally extended to the definition
+    of quality of SOA and to provide the foundation for quality in the SOA system.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Web Services Quality Model TC
+technology_area:
+- Web-Services

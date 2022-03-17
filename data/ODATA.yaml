@@ -1,0 +1,52 @@
+---
+id: OASISOData
+title:
+- type: main
+  content: OData Version 4.01
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS OData
+  type: OASIS
+  primary: true
+docnumber: OData
+date:
+- type: issued
+  value: '2020-04-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: OData enables the creation and consumption of REST-based data services
+    which allow resources, identified using Uniform Resource Locators (URLs) and defined
+    in a data model, to be published and edited by Web clients using simple HTTP messages.
+    OData helps create a more open, programmable Web, and simplifies the querying
+    and sharing of data across applications for re-use in the enterprise, cloud, and
+    mobile devices.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OData-Part1
+      format: text/plain
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OData-Part2
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Open Data Protocol (OData) TC
+technology_area:
+- Messaging

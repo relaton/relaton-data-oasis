@@ -1,0 +1,39 @@
+---
+id: OASISDocBook-5.1
+title:
+- type: main
+  content: DocBook Version 5.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS DocBook-5.1
+  type: OASIS
+  primary: true
+docnumber: DocBook-5.1
+date:
+- type: issued
+  value: '2016-11-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    DocBook is a general purpose [XML] schema particularly well suited to books and papers about computer hardware and software (though it is by no means limited to these applications).
+    The Version 5.1 release introduces assemblies for topic-oriented authoring. It also addresses a selection of bugs and feature requests.
+    The Technical Committee provides the DocBook 5.1 schema in other schema languages, including W3C XML Schema and an XML DTD, but the RELAX NG Schema is the normative schema.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS DocBook TC
+technology_area:
+- Content-Technologies

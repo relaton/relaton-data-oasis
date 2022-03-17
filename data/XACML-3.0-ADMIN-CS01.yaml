@@ -1,0 +1,37 @@
+---
+id: OASISXACML-3.0-Admin-CS01
+title:
+- type: main
+  content: XACML v3.0 Administration and Delegation Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XACML-3.0-Admin-CS01
+  type: OASIS
+  primary: true
+docnumber: XACML-3.0-Admin-CS01
+date:
+- type: issued
+  value: '2010-08-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a profile for XACML 3.0 to enable it to express administration
+    and delegation policies.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

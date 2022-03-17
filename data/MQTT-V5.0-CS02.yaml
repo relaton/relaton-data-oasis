@@ -1,0 +1,41 @@
+---
+id: OASISmqtt-v5.0-CS02
+title:
+- type: main
+  content: MQTT Version 5.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS mqtt-v5.0-CS02
+  type: OASIS
+  primary: true
+docnumber: mqtt-v5.0-CS02
+date:
+- type: issued
+  value: '2018-05-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A Client Server publish/subscribe messaging transport protocol. It is light
+    weight, open, simple, and designed to be easy to implement. These characteristics
+    make it ideal for use in many situations, including constrained environments such
+    as for communication in Machine to Machine (M2M) and Internet of Things (IoT)
+    contexts.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Message Queuing Telemetry Transport (MQTT) TC
+technology_area:
+- IoT
+- Messaging

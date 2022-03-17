@@ -1,0 +1,38 @@
+---
+id: OASISlocalsig-v1.0-CS01
+title:
+- type: main
+  content: DSS Extension for Local Signature Computation Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS localsig-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: localsig-v1.0-CS01
+date:
+- type: issued
+  value: '2015-07-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    The core OASIS Digital Signature Service webservice [DSSCore] supports the creation of signatures on behalf of applications and / or users by utilizing server-based signature keys.
+    This Local Signature Computation profile extends the core functionality such that end users can bring (use) their own (secure) signature-creation device. Examples of such devices are smartcards or usb-tokens but also smartphones, mobile phones, tablets, pc’s or laptops with privately held signature keys.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Digital Signature Services eXtended (DSS-X) TC
+technology_area:
+- Security

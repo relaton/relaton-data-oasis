@@ -1,0 +1,44 @@
+---
+id: OASISXHE-V1.0-CS01
+title:
+- type: main
+  content: Exchange Header Envelope (XHE) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XHE-V1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: XHE-V1.0-CS01
+date:
+- type: issued
+  value: '2019-03-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a business-oriented artefact either referencing (as a header) or
+    containing (as an envelope) a payload of one or more business documents or other
+    artefacts with supplemental semantic information about the collection of payloads
+    as a whole. This is distinct from any transport-layer infrastructure header or
+    envelope that may be required to propagate documents from one system to another.
+    An exchange header envelope describes contextual information important to the
+    sender and receiver about the payloads, without having to modify the payloads
+    in any fashion.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Business Document Exchange (BDXR) TC
+technology_area:
+- Content-Technologies
+- e-Business

@@ -1,0 +1,38 @@
+---
+id: OASISUIMA-v1.0
+title:
+- type: main
+  content: Unstructured Information Management Architecture (UIMA) v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS UIMA-v1.0
+  type: OASIS
+  primary: true
+docnumber: UIMA-v1.0
+date:
+- type: issued
+  value: '2009-03-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines platform-independent data representations and interfaces for software
+    components or services called analytics, which analyze unstructured information
+    and assign semantics to regions of that unstructured information.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Unstructured Information Management Architecture (UIMA) TC
+technology_area:
+- Content-Technologies

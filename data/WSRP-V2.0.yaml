@@ -1,0 +1,39 @@
+---
+id: OASISWSRP-v2.0
+title:
+- type: main
+  content: Web Services for Remote Portlets (WSRP) v2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WSRP-v2.0
+  type: OASIS
+  primary: true
+docnumber: WSRP-v2.0
+date:
+- type: issued
+  value: '2008-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Integration of remote content and application logic into an End-User presentation has been a task requiring significant custom programming effort. Typically, vendors of aggregating applications, such as a portal, write special adapters for applications and content providers to accommodate the variety of different interfaces and protocols those providers use. The goal of this specification is to enable an application designer or administrator to pick from a rich choice of compliant remote content and application providers, and integrate them with just a few mouse clicks and no programming effort. This revision of the specification adds Consumer managed coordination, additional lifecycle management and a set of related aggregation enhancements.
+    This specification is the effort of the OASIS Web Services for Remote Portlets (WSRP) Technical Committee which aims to simplify the effort required of integrating applications to quickly exploit new web services as they become available.
+    This standard layers on top of the existing web services stack, utilizing existing web services standards and will leverage emerging web service standards (such as policy) as they become available. The interfaces defined by this specification use the Web Services Description Language (WSDL).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services for Remote Portlets TC
+technology_area:
+- Web-Services

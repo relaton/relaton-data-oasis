@@ -1,0 +1,38 @@
+---
+id: OASISebXML-CPPA-v2
+title:
+- type: main
+  content: ebXML Collaborative Partner Profile Agreement (CPPA) v2 [OASIS 200206]
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ebXML-CPPA-v2
+  type: OASIS
+  primary: true
+docnumber: ebXML-CPPA-v2
+date:
+- type: issued
+  value: '2002-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines the Collaboration-Protocol Profile (CPP) and the Collaboration-Protocol
+    Agreement (CPA), a component of the suite of ebXML specifications. A CPP describes
+    the message exchange capabilities of a party to a business transaction.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS ebXML CPPA TC
+technology_area:
+- e-Business

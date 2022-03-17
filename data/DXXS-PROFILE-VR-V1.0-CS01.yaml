@@ -1,0 +1,40 @@
+---
+id: OASISdxxs-profile-vr-v1.0-CS01
+title:
+- type: main
+  content: OASIS DSS v1.0 Profile for Comprehensive Multi-Signature Verification Reports
+    Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS dxxs-profile-vr-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: dxxs-profile-vr-v1.0-CS01
+date:
+- type: issued
+  value: '2010-11-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a protocol and processing profile of the DSS Verifying Protocol
+    specified in Section 4 of [DSSCore], which allows to return individual signature
+    verification reports for each signature in a verification request and include
+    detailed information of the different steps taken during verification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Digital Signature Services eXtended (DSS-X) TC
+technology_area:
+- Security

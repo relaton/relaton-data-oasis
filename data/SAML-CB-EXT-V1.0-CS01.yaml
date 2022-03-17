@@ -1,0 +1,40 @@
+---
+id: OASISSAML-CB-Ext-v1.0-CS01
+title:
+- type: main
+  content: SAML V2.0 Channel Binding Extensions Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML-CB-Ext-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-CB-Ext-v1.0-CS01
+date:
+- type: issued
+  value: '2013-07-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Enables extension-aware SAML requesters and responders to modify protocol
+    behavior in a generic, layered fashion. This specification defines an extension
+    to the SAML V2.0 protocol specification that supports the use of channel bindings
+    in conjunction with SAML profiles. It also includes a new SAML profile that applies
+    the extension to a set of profiles that fit a particular communication pattern.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Security Services (SAML) TC
+technology_area:
+- Security

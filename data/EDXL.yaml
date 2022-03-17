@@ -1,0 +1,40 @@
+---
+id: OASISEDXL
+title:
+- type: main
+  content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EDXL
+  type: OASIS
+  primary: true
+docnumber: EDXL
+date:
+- type: issued
+  value: '2008-11-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a standard message for data sharing among emergency information
+    systems using the XML-based Emergency Data Exchange Language (EDXL). This format
+    may be used over any data transmission system, including but not limited to the
+    SOAP HTTP binding.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Emergency Management TC
+technology_area:
+- Emergency-Management
+- Messaging

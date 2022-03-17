@@ -1,0 +1,39 @@
+---
+id: OASISWST-v1.1
+title:
+- type: main
+  content: Web Services Transaction v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WST-v1.1
+  type: OASIS
+  primary: true
+docnumber: WST-v1.1
+date:
+- type: issued
+  value: '2007-03-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes an extensible framework for providing protocols that coordinate
+    the actions of distributed applications. Such coordination protocols are used
+    to support a number of applications, including those that need to reach consistent
+    agreement on the outcome of distributed activities.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Transaction (WS-TX) TC
+technology_area:
+- Web-Services

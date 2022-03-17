@@ -1,0 +1,39 @@
+---
+id: OASISECF-v5.0-CS01
+title:
+- type: main
+  content: Electronic Court Filing Version 5.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ECF-v5.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ECF-v5.0-CS01
+date:
+- type: issued
+  value: '2019-04-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Consists of a set of non-proprietary XML and Web services specifications
+    developed to promote interoperability among electronic court filing vendors and
+    systems. ECF v5.0 is a major release that adds new functionality and capabilities
+    beyond the scope of the ECF 4.0 and 4.01 specifications that it supersedes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS LegalXML Electronic Court Filing TC
+technology_area:
+- eGov/Legal

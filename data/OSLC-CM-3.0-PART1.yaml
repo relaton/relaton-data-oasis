@@ -1,0 +1,53 @@
+---
+id: OASISOSLC-CM-3.0-Part1
+title:
+- type: main
+  content: 'OSLC Change Management Version 3.0. Part 1: Specification'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/cm/v3.0/os/change-mgt-spec.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-CM-3.0-Part1
+  type: OASIS
+  primary: true
+docnumber: OSLC-CM-3.0-Part1
+date:
+- type: issued
+  value: '2021-05-26'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Jim
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Amsden
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-CM-3.0
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Lifecycle-Integration

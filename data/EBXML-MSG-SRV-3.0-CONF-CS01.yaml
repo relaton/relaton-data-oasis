@@ -1,0 +1,44 @@
+---
+id: OASISebxml-msg-srv-3.0-conf-CS01
+title:
+- type: main
+  content: OASIS ebXML Messaging Services 3.0 Conformance Profiles
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ebxml-msg-srv-3.0-conf-CS01
+  type: OASIS
+  primary: true
+docnumber: ebxml-msg-srv-3.0-conf-CS01
+date:
+- type: issued
+  value: '2010-04-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A supplement to the ebMS-3 specification [ebMS3]. It defines some conformance
+    profiles that support specific messaging styles or context of use. Future releases
+    of this document are likely to be augmented with additional conformance profiles
+    that reflect the choices or needs of user communities. As a pre-condition to interoperability
+    it is necessary for two implementations to agree on which common conformance profile,
+    or which compatible conformance profiles, they will comply with. This document
+    and its future releases is intended as a medium to publish conformance profiles
+    that users and products will claim compliance with.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS ebXML Messaging Services TC
+technology_area:
+- e-Business
+- Messaging

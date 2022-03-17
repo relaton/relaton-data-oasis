@@ -1,0 +1,37 @@
+---
+id: OASISgenericode-v1.0-CS01
+title:
+- type: main
+  content: Code List Representation (Genericode) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS genericode-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: genericode-v1.0-CS01
+date:
+- type: issued
+  value: '2007-12-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the OASIS Code List Representation model and W3C XML Schema,
+    known collectively as “genericode”.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Code List Representation Technical Committee
+technology_area:
+- Content-Technologies

@@ -1,0 +1,102 @@
+---
+id: OASISAkomaNtosoCore-v1.0-Pt1-Vocabulary
+title:
+- type: main
+  content: 'Akoma Ntoso Version 1.0 Part 1: XML Vocabulary'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part1-vocabulary/akn-core-v1.0-os-part1-vocabulary.html
+  type: src
+type: standard
+docid:
+- id: OASIS AkomaNtosoCore-v1.0-Pt1-Vocabulary
+  type: OASIS
+  primary: true
+docnumber: AkomaNtosoCore-v1.0-Pt1-Vocabulary
+date:
+- type: issued
+  value: '2018-08-29'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Monica
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Roger
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Sperberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: Grant
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Vergottini
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      forename:
+      - content: and
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Fabio
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS AkomaNtosoCore-v1.0
+      format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+technology_area:
+- Content-Technologies
+- eGov/Legal

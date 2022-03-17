@@ -1,0 +1,55 @@
+---
+id: OASISPPS-CS01
+title:
+- type: main
+  content: Production Planning and Scheduling (PPS) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS PPS-CS01
+  type: OASIS
+  primary: true
+docnumber: PPS-CS01
+date:
+- type: issued
+  value: '2011-09-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Deals with problems of decision-making in all manufacturing companies who
+    want to have a sophisticated information system for production planning and scheduling.
+    PPS specification provides XML schema and communication protocols for information
+    exchange among manufacturing application programs in the web-services environment.
+    The Core Elements section focuses on information model of core elements which
+    can be used as ontology in the production planning and scheduling domain. Since
+    the elements have been designed without particular contexts in planning and scheduling,
+    they can be used in any specific type of messages as a building block depending
+    on the context of application programs. The Transaction Messages section focuses
+    on transaction messages that represent domain information sent or received by
+    application programs in accordance with the context of the communication, as well
+    as transaction rules for contexts such as pushing and pulling of the information
+    required. Finally, the Profile Specifications section focuses on profiles of application
+    programs that may exchange the messages. Application profile and implementation
+    profile are defined. Implementation profile shows capability of application programs
+    in terms of services for message exchange, selecting from all exchange items defined
+    in the application profile. The profile can be used for definition of a minimum
+    level of implementation of application programs which are involved in a community
+    of data exchange.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Production Planning and Scheduling TC
+technology_area:
+- Content-Technologies
+- e-Business

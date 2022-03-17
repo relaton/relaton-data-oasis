@@ -1,0 +1,39 @@
+---
+id: OASISICOM-ics-v1.0-CS01
+title:
+- type: main
+  content: Integrated Collaboration Object Model (ICOM) for Interoperable Collaboration
+    Services Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ICOM-ics-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ICOM-ics-v1.0-CS01
+date:
+- type: issued
+  value: '2013-01-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a framework for integrating a broad range of domain models for
+    collaboration activities in an integrated and interoperable collaboration environment.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS Integrated Collaboration Object Model for Interoperable Collaboration
+    Services (ICOM) TC
+technology_area:
+- Content-Technologies

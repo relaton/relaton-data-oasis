@@ -1,0 +1,43 @@
+---
+id: OASISSAML2KrbSSO-CS01
+title:
+- type: main
+  content: SAML V2.0 Kerberos Web Browser SSO Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS SAML2KrbSSO-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2KrbSSO-CS01
+date:
+- type: issued
+  value: '2012-02-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Allows for transport of assertions using the Kerberos subject confirmation
+    method by standard HTTP user agents with no modification of client software and
+    maximum compatibility with existing deployments.  The flow is similar to standard
+    Web Browser SSO, but a Kerberos AP-REQ message is presented by the user agent
+    via the HTTP Negotiate authentication scheme and the Kerberos GSS-API mechanism.
+    The presentation of a valid Kerberos AP-REQ message whose client principal name
+    matches the principal name given in the subject confirmation strengthens the assurance
+    of the resulting authentication context and protects against credential theft.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: Security Services (SAML) TC
+technology_area:
+- Security

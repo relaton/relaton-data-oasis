@@ -1,0 +1,38 @@
+---
+id: OASISxacml-3.0-dsig-v1.0-CS02
+title:
+- type: main
+  content: XACML v3.0 XML Digital Signature Profile Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS xacml-3.0-dsig-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: xacml-3.0-dsig-v1.0-CS02
+date:
+- type: issued
+  value: '2014-05-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification profiles use of the W3C XML-Signature Syntax and Processing
+    Standard in providing authentication and integrity protection for XACML schema
+    instances.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS eXtensible Access Control Markup Language (XACML) TC
+technology_area:
+- Security

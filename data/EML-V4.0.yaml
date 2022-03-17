@@ -1,0 +1,43 @@
+---
+id: OASISEML-v4.0
+title:
+- type: main
+  content: Election Markup Language (EML) v4.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS EML-v4.0
+  type: OASIS
+  primary: true
+docnumber: EML-v4.0
+date:
+- type: issued
+  value: '2006-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the background and purpose of the Election Markup Language, the
+    electoral processes from which it derives its structure and the security and audit
+    mechanisms it is designed to support. It also provides an explanation of the core
+    schemas used throughout, definitions of the simple and complex datatypes, plus
+    the EML schemas themselves. It also covers the conventions used in the specification
+    and the use of namespaces, as well as the guidance on the constraints, extendibility,
+    and splitting of messages.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Election and Voter Services TC
+technology_area:
+- eGov/Legal
+- Messaging

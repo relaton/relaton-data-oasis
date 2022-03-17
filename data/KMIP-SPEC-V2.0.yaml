@@ -1,0 +1,40 @@
+---
+id: OASISkmip-spec-v2.0
+title:
+- type: main
+  content: Key Management Interoperability Protocol Specification Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS kmip-spec-v2.0
+  type: OASIS
+  primary: true
+docnumber: kmip-spec-v2.0
+date:
+- type: issued
+  value: '2019-10-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifies the protocol used for the communication between clients and servers
+    performing certain management operations on objects stored and maintained by a
+    key management system, including symmetric and asymmetric cryptographic keys and
+    digital certificates.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+technology_area:
+- Privacy/Identity
+- Security

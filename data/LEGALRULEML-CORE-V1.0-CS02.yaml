@@ -1,0 +1,39 @@
+---
+id: OASISLegalRuleML-Core-v1.0-CS02
+title:
+- type: main
+  content: LegalRuleML Core Specification Version 1.0 – Committee Specification 02
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS LegalRuleML-Core-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: LegalRuleML-Core-v1.0-CS02
+date:
+- type: issued
+  value: '2020-04-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Extending the RuleML specifiation with formal features specific to legal
+    norms, guidelines, policies and reasoning. It defines a specification (expressed
+    with XML-schema and Relax NG) that is able to represent the particularities of
+    the legal normative rules with a rich, articulated, and meaningful markup language.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-03-17'
+doctype: specification
+editorialgroup:
+- name: OASIS LegalRuleML TC
+technology_area:
+- eGov/Legal
