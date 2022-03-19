@@ -79,7 +79,7 @@ relation:
     formattedref:
       content: OASIS TAXII-v1.1.1-CS01
       format: text/plain
-fetched: '2022-03-18'
+fetched: '2022-03-19'
 doctype: specification
 technology_area:
 - Cybersecurity
