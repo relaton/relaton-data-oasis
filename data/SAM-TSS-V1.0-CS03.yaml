@@ -2,7 +2,7 @@
 id: OASISSAM-TSS-v1.0-CS03
 title:
 - type: main
-  content: SAM Threshold Sharing Schemes Version 1.0 Committee Specification 03
+  content: SAM Threshold Sharing Schemes Version 1.0
   language:
   - en
   script:
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-03-23'
+fetched: '2022-03-24'
 doctype: specification
 editorialgroup:
 - name: OASIS Security Algorithms and Methods (SAM) TC
