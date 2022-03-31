@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-03-30'
+fetched: '2022-03-31'
 doctype: standard
 editorialgroup:
 - name: OASIS Unstructured Information Management Architecture (UIMA) TC
