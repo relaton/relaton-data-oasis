@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-03-31'
+fetched: '2022-04-01'
 doctype: standard
 editorialgroup:
 - name: OASIS SOA Reference Model TC
