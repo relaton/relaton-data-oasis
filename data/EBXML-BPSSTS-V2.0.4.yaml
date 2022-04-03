@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-02'
+fetched: '2022-04-03'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Business Process TC
