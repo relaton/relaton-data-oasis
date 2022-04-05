@@ -35,7 +35,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-04'
+fetched: '2022-04-05'
 doctype: specification
 editorialgroup:
 - name: OASIS Enterprise Key Management Infrastructure (EKMI) TC
