@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-09'
+fetched: '2022-04-10'
 doctype: standard
 editorialgroup:
 - name: OASIS Open Data Protocol (OData) TC
