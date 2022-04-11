@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-10'
+fetched: '2022-04-11'
 doctype: standard
 editorialgroup:
 - name: OASIS Darwin Information Typing Architecture (DITA) TC
