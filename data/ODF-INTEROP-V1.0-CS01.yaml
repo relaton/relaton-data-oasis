@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-11'
+fetched: '2022-04-12'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Document Format Interoperability and Conformance (OIC) TC
