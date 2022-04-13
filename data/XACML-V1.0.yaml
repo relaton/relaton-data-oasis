@@ -21,7 +21,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-04-12'
+fetched: '2022-04-13'
 doctype: standard
 editorialgroup:
 - name: OASIS Extensible Access Control Markup Language TC
