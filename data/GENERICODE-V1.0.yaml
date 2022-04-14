@@ -1,8 +1,8 @@
 ---
-id: OASISgenericode-v1.0-CS01
+id: OASISgenericode-v1.0
 title:
 - type: main
-  content: Code List Representation (Genericode) Version 1.0
+  content: Code List Representation (genericode) Version 1.0
   language:
   - en
   script:
@@ -10,13 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: OASIS genericode-v1.0-CS01
+- id: OASIS genericode-v1.0
   type: OASIS
   primary: true
-docnumber: genericode-v1.0-CS01
+docnumber: genericode-v1.0
 date:
 - type: issued
-  value: '2007-12-29'
+  value: '2022-04-06'
 language:
 - en
 script:
@@ -32,6 +32,6 @@ abstract:
 fetched: '2022-04-14'
 doctype: specification
 editorialgroup:
-- name: OASIS Code List Representation Technical Committee
+- name: OASIS Code List Representation TC
 technology_area:
 - Content-Technologies
