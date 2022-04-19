@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-18'
+fetched: '2022-04-19'
 doctype: specification
 editorialgroup:
 - name: OASIS Security Algorithms and Methods (SAM) TC

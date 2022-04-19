@@ -63,7 +63,7 @@ relation:
     formattedref:
       content: OASIS mqtt-v3.1.1
       format: text/plain
-fetched: '2022-04-18'
+fetched: '2022-04-19'
 doctype: standard
 technology_area:
 - IoT
