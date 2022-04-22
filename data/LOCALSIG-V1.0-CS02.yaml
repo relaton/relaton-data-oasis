@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-21'
+fetched: '2022-04-22'
 doctype: specification
 editorialgroup:
 - name: OASIS Digital Signature Services eXtended (DSS-X) TC

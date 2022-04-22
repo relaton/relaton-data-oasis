@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-21'
+fetched: '2022-04-22'
 doctype: standard
 editorialgroup:
 - name: OASIS Open Document Format for Office Applications (OpenDocument) TC

@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-21'
+fetched: '2022-04-22'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD) TC
