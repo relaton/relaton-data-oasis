@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-22'
+fetched: '2022-04-23'
 doctype: standard
 editorialgroup:
 - name: OASIS Message Queuing Telemetry Transport (MQTT) TC
