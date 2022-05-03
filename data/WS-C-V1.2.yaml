@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-02'
+fetched: '2022-05-03'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Transaction (WS-TX) TC
