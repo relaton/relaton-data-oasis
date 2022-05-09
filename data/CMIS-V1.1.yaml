@@ -52,7 +52,7 @@ relation:
     formattedref:
       content: OASIS CMIS-v1.1-Plus-Errata01
       format: text/plain
-fetched: '2022-05-08'
+fetched: '2022-05-09'
 doctype: standard
 editorialgroup:
 - name: OASIS Content Management Interoperability Services (CMIS) TC
