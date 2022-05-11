@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-10'
+fetched: '2022-05-11'
 doctype: standard
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project
