@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-13'
+fetched: '2022-05-14'
 doctype: specification
 editorialgroup:
 - name: OASIS Code List Representation TC
