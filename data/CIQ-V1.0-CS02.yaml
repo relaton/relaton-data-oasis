@@ -33,7 +33,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-15'
+fetched: '2022-05-16'
 doctype: specification
 editorialgroup:
 - name: OASIS Customer Information Quality TC
