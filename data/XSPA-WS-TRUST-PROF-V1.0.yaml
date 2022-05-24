@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-23'
+fetched: '2022-05-24'
 doctype: standard
 editorialgroup:
 - name: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
