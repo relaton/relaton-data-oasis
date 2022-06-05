@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-06-04'
+fetched: '2022-06-05'
 doctype: standard
 editorialgroup:
 - name: OASIS Business-centric Methodology (BCM) TC
