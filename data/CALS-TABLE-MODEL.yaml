@@ -28,7 +28,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-06-07'
+fetched: '2022-06-08'
 doctype: memorandum
 editorialgroup:
 - name: Tables Technical Committee
