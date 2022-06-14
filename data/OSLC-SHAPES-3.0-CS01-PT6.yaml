@@ -63,7 +63,7 @@ relation:
     formattedref:
       content: OASIS OSLC-CS01
       format: text/plain
-fetched: '2022-06-13'
+fetched: '2022-06-14'
 doctype: specification
 technology_area:
 - Lifecycle-Integration
