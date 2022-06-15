@@ -1,0 +1,53 @@
+---
+id: OASISOSLC-Config-1.0-Part4-PS01
+title:
+- type: main
+  content: 'OSLC Configuration Management Version 1.0. Part 4: RDF Vocabulary'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/config/v1.0/ps01/config-vocab.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-Config-1.0-Part4-PS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-Config-1.0-Part4-PS01
+date:
+- type: issued
+  value: '2022-05-30'
+contributor:
+- person:
+    name:
+      forename:
+      - content: Nick
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Crossley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-Config-1.0-PS01
+      format: text/plain
+fetched: '2022-06-15'
+doctype: specification
+technology_area:
+- Lifecycle-Integration
