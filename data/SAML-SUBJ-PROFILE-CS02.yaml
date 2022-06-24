@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-06-23'
+fetched: '2022-06-24'
 doctype: specification
 editorialgroup:
 - name: OASIS Security Services TC
