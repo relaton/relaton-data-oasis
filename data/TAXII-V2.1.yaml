@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-06-29'
+fetched: '2022-06-30'
 doctype: standard
 editorialgroup:
 - name: OASIS Cyber Threat Intelligence (CTI) TC
