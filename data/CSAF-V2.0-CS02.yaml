@@ -1,5 +1,5 @@
 ---
-id: OASIScsaf-v2.0-CS01
+id: OASIScsaf-v2.0-CS02
 title:
 - type: main
   content: Common Security Advisory Framework Version 2.0
@@ -10,13 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: OASIS csaf-v2.0-CS01
+- id: OASIS csaf-v2.0-CS02
   type: OASIS
   primary: true
-docnumber: csaf-v2.0-CS01
+docnumber: csaf-v2.0-CS02
 date:
 - type: issued
-  value: '2021-11-12'
+  value: '2022-06-29'
 language:
 - en
 script:
@@ -26,7 +26,7 @@ abstract:
     is the definitive reference for the language which supports creation, update,
     and interoperable exchange of security advisories as structured information on
     products, vulnerabilities and the status of impact and remediation among interested
-    parties.
+    parties.d
   language:
   - en
   script:
