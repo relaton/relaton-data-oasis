@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-07-08'
+fetched: '2022-07-09'
 doctype: standard
 editorialgroup:
 - name: OASIS Digital Signature Services TC
