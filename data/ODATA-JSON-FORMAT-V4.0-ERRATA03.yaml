@@ -79,7 +79,7 @@ relation:
     formattedref:
       content: OASIS OData-JSON-Format-v4.0
       format: text/plain
-fetched: '2022-07-09'
+fetched: '2022-07-10'
 doctype: standard
 technology_area:
 - Messaging
