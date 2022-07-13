@@ -1,8 +1,8 @@
 ---
-id: OASISrelax-ng
+id: OASISQR-CA-v1.0
 title:
 - type: main
-  content: RELAX NG Compact Syntax
+  content: Secure QR Code Authentication Version 1.0
   language:
   - en
   script:
@@ -10,19 +10,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: OASIS relax-ng
+- id: OASIS QR-CA-v1.0
   type: OASIS
   primary: true
-docnumber: relax-ng
+docnumber: QR-CA-v1.0
 date:
 - type: issued
-  value: '2002-11-01'
+  value: '2022-07-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Specifies a compact, non-XML syntax for [RELAX NG].
+- content: Describes the use of QR Codes and a mobile phone as a replacement for a
+    username and password
   language:
   - en
   script:
@@ -31,6 +32,7 @@ abstract:
 fetched: '2022-07-13'
 doctype: specification
 editorialgroup:
-- name: OASIS RELAX NG TC
+- name: Electronic Secure Authentication (ESAT) TC
 technology_area:
-- Content-Technologies
+- Privacy/Identity
+- Security
