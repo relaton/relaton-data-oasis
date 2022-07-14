@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-07-13'
+fetched: '2022-07-14'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Reliable Exchange (WS-RX) TC

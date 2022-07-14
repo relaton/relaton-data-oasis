@@ -47,7 +47,7 @@ relation:
     formattedref:
       content: OASIS OSLC-CM-3.0
       format: text/plain
-fetched: '2022-07-13'
+fetched: '2022-07-14'
 doctype: standard
 technology_area:
 - Lifecycle-Integration
