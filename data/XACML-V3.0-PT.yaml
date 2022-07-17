@@ -47,7 +47,7 @@ relation:
     formattedref:
       content: OASIS XACML-V3.0
       format: text/plain
-fetched: '2022-07-16'
+fetched: '2022-07-17'
 doctype: standard
 technology_area:
 - Security

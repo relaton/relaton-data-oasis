@@ -47,7 +47,7 @@ relation:
     formattedref:
       content: OASIS OSLC-AM-2.1-CS01
       format: text/plain
-fetched: '2022-07-16'
+fetched: '2022-07-17'
 doctype: specification
 technology_area:
 - Lifecycle-Integration
