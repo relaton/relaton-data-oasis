@@ -1,8 +1,8 @@
 ---
-id: OASISVIRTIO-v1.0-CS04
+id: OASISVIRTIO-v1.2
 title:
 - type: main
-  content: Virtual I/O Device (VIRTIO) Version 1.0
+  content: Virtual I/O Device (VIRTIO) Version 1.2
   language:
   - en
   script:
@@ -10,13 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: OASIS VIRTIO-v1.0-CS04
+- id: OASIS VIRTIO-v1.2
   type: OASIS
   primary: true
-docnumber: VIRTIO-v1.0-CS04
+docnumber: VIRTIO-v1.2
 date:
 - type: issued
-  value: '2016-03-03'
+  value: '2022-07-01'
 language:
 - en
 script:
@@ -37,6 +37,6 @@ abstract:
 fetched: '2022-07-18'
 doctype: specification
 editorialgroup:
-- name: OASIS Virtual I/O Device (VIRTIO) TC
+- name: Virtual I/O Device (VIRTIO) TC
 technology_area:
-- IoT
+- Virtualization
