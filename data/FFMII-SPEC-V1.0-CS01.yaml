@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-07-20'
+fetched: '2022-07-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Field Force Management (FFM) TC
