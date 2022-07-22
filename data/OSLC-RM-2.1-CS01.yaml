@@ -2,7 +2,7 @@
 id: OASISOSLC-RM-2.1-CS01
 title:
 - type: main
-  content: OSLC Requirements Management Version 2.1 Committee Specification 01
+  content: OSLC Requirements Management Version 2.1
   language:
   - en
   script:
@@ -44,7 +44,7 @@ relation:
     formattedref:
       content: OASIS OSLC-RM-2.1-Part2-CS01
       format: text/plain
-fetched: '2022-07-21'
+fetched: '2022-07-22'
 doctype: specification
 editorialgroup:
 - name: OASIS OSLC Lifecycle Integration Domains TC

@@ -2,7 +2,7 @@
 id: OASISOSLC-Query-3.0
 title:
 - type: main
-  content: OSLC Query Version 3.0 – OASIS Standard
+  content: OSLC Query Version 3.0
   language:
   - en
   script:
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-07-21'
+fetched: '2022-07-22'
 doctype: standard
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration (OSLC) OP

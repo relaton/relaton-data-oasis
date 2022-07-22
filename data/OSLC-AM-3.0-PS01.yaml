@@ -2,7 +2,7 @@
 id: OASISOSLC-AM-3.0-PS01
 title:
 - type: main
-  content: OSLC Architecture Management Version 3.0 Project Specification 01
+  content: OSLC Architecture Management Version 3.0
   language:
   - en
   script:
@@ -50,7 +50,7 @@ relation:
     formattedref:
       content: OASIS OSLC-AM-3.0-Part3-PS01
       format: text/plain
-fetched: '2022-07-21'
+fetched: '2022-07-22'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
