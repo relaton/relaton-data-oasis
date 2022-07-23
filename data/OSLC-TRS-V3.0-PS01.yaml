@@ -47,9 +47,9 @@ relation:
     formattedref:
       content: OASIS OSLC-TRS-v3.0-PS01-Pt3
       format: text/plain
-fetched: '2022-07-22'
+fetched: '2022-07-23'
 doctype: specification
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project
 technology_area:
-- Lifecycle-Integration
+- Software-development

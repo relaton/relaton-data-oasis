@@ -29,9 +29,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-07-22'
+fetched: '2022-07-23'
 doctype: standard
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project
 technology_area:
-- Lifecycle-Integration
+- Software-development

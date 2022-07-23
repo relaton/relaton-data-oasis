@@ -30,10 +30,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-07-22'
+fetched: '2022-07-23'
 doctype: specification
 editorialgroup:
 - name: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
     TC
-technology_area:
-- SOA
