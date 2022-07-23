@@ -1,0 +1,38 @@
+---
+id: OASISebXML-RSP-
+title:
+- type: main
+  content: ebXML Registry Services and Protocols v3.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS ebXML-RSP-
+  type: OASIS
+  primary: true
+docnumber: ebXML-RSP-
+date:
+- type: issued
+  value: '2005-05-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Defines the services and protocols for an ebXML Registry. A separate document,
+    ebXML Registry: Information Model [ebRIM], defines the types of metadata and content
+    that can be stored in an ebXML Registry.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-07-23'
+doctype: standard
+editorialgroup:
+- name: OASIS ebXML Registry TC
+technology_area:
+- Messaging

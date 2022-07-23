@@ -1,0 +1,37 @@
+---
+id: OASISTAM-
+title:
+- type: main
+  content: Test Assertions Model v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS TAM-
+  type: OASIS
+  primary: true
+docnumber: TAM-
+date:
+- type: issued
+  value: '2012-10-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a model for Test Assertions that are associated with a specification,
+    and defines their use and semantics.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-07-23'
+doctype: standard
+editorialgroup:
+- name: OASIS Test Assertions Guidelines (TAG) TC
+technology_area:
+- Software-development

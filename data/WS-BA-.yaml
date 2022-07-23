@@ -1,0 +1,42 @@
+---
+id: OASISWS-BA-
+title:
+- type: main
+  content: WS-BusinessActivity v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-BA-
+  type: OASIS
+  primary: true
+docnumber: WS-BA-
+date:
+- type: issued
+  value: '2009-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Provides the definition of two Business Activity coordination types: AtomicOutcome
+    or MixedOutcome, that are to be used with the extensible coordination framework
+    described in the WS-Coordination specification. This specification also defines
+    two specific Business Activity agreement coordination protocols for the Business
+    Activity coordination types: BusinessAgreementWithParticipantCompletion, and BusinessAgreementWithCoordinatorCompletion.
+    Developers can use these protocols when building applications that require consistent
+    agreement on the outcome of long-running distributed activities.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-07-23'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Transaction (WS-TX) TC
+technology_area:
+- Web-Services

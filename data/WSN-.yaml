@@ -1,0 +1,38 @@
+---
+id: OASISWSN-
+title:
+- type: main
+  content: WSN v1.3
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WSN-
+  type: OASIS
+  primary: true
+docnumber: WSN-
+date:
+- type: issued
+  value: '2006-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    The Event-driven, or Notification-based, interaction pattern is a commonly used pattern for inter-object communications. Examples exist in many domains, for example in publish/subscribe systems provided by Message Oriented Middleware vendors, or in system and device management domains. This notification pattern is increasingly being used in a Web services context.
+    WS-Notification is a family of related specifications that define a standard Web services approach to notification using a topic-based publish/subscribe pattern. It includes: standard message exchanges to be implemented by service providers that wish to participate in Notifications, standard message exchanges for a notification broker service provider (allowing publication of messages from entities that are not themselves service providers), operational requirements expected of service providers and requestors that participate in notifications, and an XML model that describes topics. The WS-Notification family of documents includes three normative specifications: WS-BaseNotification, [WS-BrokeredNotification], and [WS-Topics].
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-07-23'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Notification (WSN) TC
+technology_area:
+- Web-Services

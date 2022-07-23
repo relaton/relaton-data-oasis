@@ -1,0 +1,37 @@
+---
+id: OASISXML-C-
+title:
+- type: main
+  content: XML Catalogs v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS XML-C-
+  type: OASIS
+  primary: true
+docnumber: XML-C-
+date:
+- type: issued
+  value: '2005-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an entity catalog that maps both external identifiers and arbitrary
+    URI references to URI references.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-07-23'
+doctype: standard
+editorialgroup:
+- name: OASIS Entity Resolution TC
+technology_area:
+- Content-Technologies

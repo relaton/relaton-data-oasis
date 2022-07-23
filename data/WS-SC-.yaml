@@ -1,0 +1,37 @@
+---
+id: OASISWS-SC-
+title:
+- type: main
+  content: WS-SecureConversation v1.4
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-SC-
+  type: OASIS
+  primary: true
+docnumber: WS-SC-
+date:
+- type: issued
+  value: '2009-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines extensions that build on [WS-Security] to provide a framework for
+    requesting and issuing security tokens, and to broker trust relationships.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-07-23'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Secure Exchange (WS-SX) TC
+technology_area:
+- Web-Services

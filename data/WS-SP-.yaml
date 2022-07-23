@@ -1,0 +1,39 @@
+---
+id: OASISWS-SP-
+title:
+- type: main
+  content: WS-SecurityPolicy v1.3
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS WS-SP-
+  type: OASIS
+  primary: true
+docnumber: WS-SP-
+date:
+- type: issued
+  value: '2009-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Indicates the policy assertions for use with [WS-Policy] which apply to
+    WSS: SOAP Message Security [WSS10, WSS11], [WS-Trust] and [WS-SecureConversation].
+    This document incorporates Approved Errata approved by the Technical Committee
+    on 25 April 2012.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-07-23'
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Secure Exchange (WS-SX) TC
+technology_area:
+- Web-Services
