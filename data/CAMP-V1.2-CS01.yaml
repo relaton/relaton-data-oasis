@@ -35,7 +35,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-07-26'
+fetched: '2022-07-27'
 doctype: specification
 editorialgroup:
 - name: OASIS Cloud Application Management for Platforms (CAMP) TC

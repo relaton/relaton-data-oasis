@@ -67,7 +67,7 @@ relation:
     formattedref:
       content: OASIS OSLC-CoreVocab-3.0-CS01-Pt7
       format: text/plain
-fetched: '2022-07-26'
+fetched: '2022-07-27'
 doctype: specification
 editorialgroup:
 - name: OASIS OSLC Lifecycle Integration Core (OSLC Core) TC
