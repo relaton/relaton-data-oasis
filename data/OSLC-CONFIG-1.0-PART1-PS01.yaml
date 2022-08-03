@@ -47,7 +47,7 @@ relation:
     formattedref:
       content: OASIS OSLC-Config-1.0-PS01
       format: text/plain
-fetched: '2022-08-02'
+fetched: '2022-08-03'
 doctype: specification
 technology_area:
 - Software-development
