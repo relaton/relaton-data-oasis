@@ -28,7 +28,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-10'
+fetched: '2022-08-11'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Registry TC
