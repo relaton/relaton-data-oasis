@@ -17,23 +17,23 @@ docid:
 docnumber: TOSCA-v1.0
 date:
 - type: issued
-  value: '2013-11-24'
+  value: '2013-11-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Introduces the formal description of Service Templates, including their
-    structure, properties, and behavior.
+- content: Enable interoperable deployment of cloud services and their management
+    throughout the complete lifecycle (e.g. scaling, patching, monitoring, etc.) when
+    the applications are ported over alternative cloud environments.
   language:
   - en
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-12'
+fetched: '2022-08-13'
 doctype: standard
 editorialgroup:
-- name: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA)
-    TC
+- name: Topology and Orchestration Specification for Cloud Applications (TOSCA) TC
 technology_area:
 - Cloud

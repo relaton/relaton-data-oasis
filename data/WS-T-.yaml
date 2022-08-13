@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-12'
+fetched: '2022-08-13'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Secure Exchange (WS-SX) TC
