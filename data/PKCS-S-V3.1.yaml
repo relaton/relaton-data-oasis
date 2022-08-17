@@ -1,8 +1,8 @@
 ---
-id: OASISPKCS-P-v3.1
+id: OASISPKCS-S-v3.1
 title:
 - type: main
-  content: 'PKCS #11 Profiles Version 3.1'
+  content: 'PKCS #11 Specification Version 3.1'
   language:
   - en
   script:
@@ -10,20 +10,21 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: OASIS PKCS-P-v3.1
+- id: OASIS PKCS-S-v3.1
   type: OASIS
   primary: true
-docnumber: PKCS-P-v3.1
+docnumber: PKCS-S-v3.1
 date:
 - type: issued
-  value: '2022-07-14'
+  value: '2022-08-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'For developers and architects who wish to design systems and applications
-    that conform to the PKCS #11 Cryptographic Token Interface specification'
+- content: 'Defines data types, functions and other basic components of the PKCS #11
+    Cryptoki interface for devices that may hold cryptographic information and may
+    perform cryptographic functions.'
   language:
   - en
   script:
@@ -34,5 +35,4 @@ doctype: specification
 editorialgroup:
 - name: PKCS 11 TC
 technology_area:
-- Privacy/Identity
 - Security
