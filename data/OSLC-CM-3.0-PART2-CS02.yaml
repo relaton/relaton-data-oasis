@@ -79,7 +79,7 @@ relation:
     formattedref:
       content: OASIS OSLC-CM-3.0-CS02
       format: text/plain
-fetched: '2022-08-17'
+fetched: '2022-08-19'
 doctype: specification
 technology_area:
 - Software-development
