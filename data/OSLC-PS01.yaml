@@ -1,13 +1,13 @@
 ---
 id: OASISOSLC-PS01
 title:
-- type: main
-  content: OSLC Core Version 3.0
+- content: OSLC Core Version 3.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS OSLC-PS01
@@ -71,7 +71,7 @@ relation:
     formattedref:
       content: OASIS OSLC-CoreShapes-3.0-PS01-Pt8
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP

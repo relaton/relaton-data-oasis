@@ -1,13 +1,13 @@
 ---
 id: OASISOData-JSON-Format-v4.0-Pt
 title:
-- type: main
-  content: OData JSON Format Version 4.0
+- content: OData JSON Format Version 4.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/odata/odata-json-format/v4.0/os/odata-json-format-v4.0-os.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Ralf
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Handl
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Michael
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Pizzo
         language:
@@ -55,12 +57,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: and
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: and
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Mark
         language:
@@ -79,7 +82,7 @@ relation:
     formattedref:
       content: OASIS OData-JSON-Format-v4.0
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 technology_area:
 - Messaging

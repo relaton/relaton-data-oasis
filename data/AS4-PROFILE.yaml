@@ -1,13 +1,13 @@
 ---
 id: OASISAS4-Profile
 title:
-- type: main
-  content: AS4 Profile of ebMS 3.0 v1.0
+- content: AS4 Profile of ebMS 3.0 v1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS AS4-Profile
@@ -33,7 +33,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Messaging Services TC

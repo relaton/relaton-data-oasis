@@ -1,13 +1,13 @@
 ---
 id: OASISOData-Part2
 title:
-- type: main
-  content: 'OData Version 4.01. Part 2: URL Conventions'
+- content: 'OData Version 4.01. Part 2: URL Conventions'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/odata/odata/v4.01/os/part2-url-conventions/odata-v4.01-os-part2-url-conventions.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Michael
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Pizzo
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Ralf
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Handl
         language:
@@ -55,12 +57,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: and
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: and
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Martin
         language:
@@ -79,7 +82,7 @@ relation:
     formattedref:
       content: OASIS OData
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 technology_area:
 - Messaging

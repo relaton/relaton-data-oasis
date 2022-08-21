@@ -1,13 +1,13 @@
 ---
 id: OASISsksml-v1.0-CS02
 title:
-- type: main
-  content: Symmetric Key Services Markup Language (SKSML) Version 1.0
+- content: Symmetric Key Services Markup Language (SKSML) Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS sksml-v1.0-CS02
@@ -35,7 +35,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Enterprise Key Management Infrastructure (EKMI) TC

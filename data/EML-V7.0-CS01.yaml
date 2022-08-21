@@ -1,13 +1,13 @@
 ---
 id: OASISEML-v7.0-CS01
 title:
-- type: main
-  content: Election Markup Language (EML) Specification Version 7.0
+- content: Election Markup Language (EML) Specification Version 7.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS EML-v7.0-CS01
@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Election and Voter Services TC

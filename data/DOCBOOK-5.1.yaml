@@ -1,13 +1,13 @@
 ---
 id: OASISDocBook-5.1
 title:
-- type: main
-  content: DocBook Version 5.1
+- content: DocBook Version 5.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS DocBook-5.1
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS DocBook TC

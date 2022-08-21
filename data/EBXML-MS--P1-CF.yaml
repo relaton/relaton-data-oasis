@@ -1,13 +1,13 @@
 ---
 id: OASISebXML-MS--P1-CF
 title:
-- type: main
-  content: 'ebXML Messaging Services v3.0: Part 1, Core Features'
+- content: 'ebXML Messaging Services v3.0: Part 1, Core Features'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS ebXML-MS--P1-CF
@@ -35,7 +35,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Messaging Services TC

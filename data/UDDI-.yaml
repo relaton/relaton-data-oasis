@@ -1,13 +1,13 @@
 ---
 id: OASISUDDI-
 title:
-- type: main
-  content: UDDI v2 [OASIS 200302]
+- content: UDDI v2 [OASIS 200302]
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS UDDI-
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS UDDI Specifications TC

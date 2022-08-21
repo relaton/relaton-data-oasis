@@ -1,13 +1,13 @@
 ---
 id: OASISDSS-MD-v1.0-CS01
 title:
-- type: main
-  content: Digital Signature Service Metadata Version 1.0
+- content: Digital Signature Service Metadata Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS DSS-MD-v1.0-CS01
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Digital Signature Services eXtended (DSS-X) TC

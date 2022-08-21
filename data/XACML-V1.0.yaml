@@ -1,13 +1,13 @@
 ---
 id: OASISXACML-v1.0
 title:
-- type: main
-  content: Extensible Access Control Markup Language (XACML) v1.0 [OASIS 200301]
+- content: Extensible Access Control Markup Language (XACML) v1.0 [OASIS 200301]
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS XACML-v1.0
@@ -21,7 +21,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Extensible Access Control Markup Language TC

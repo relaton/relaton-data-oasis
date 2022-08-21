@@ -1,13 +1,13 @@
 ---
 id: OASISXACML-V3.0-Pt
 title:
-- type: main
-  content: eXtensible Access Control Markup Language (XACML) Version 3.0
+- content: eXtensible Access Control Markup Language (XACML) Version 3.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Erik
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Erik
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Rissanen
         language:
@@ -47,7 +48,7 @@ relation:
     formattedref:
       content: OASIS XACML-V3.0
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 technology_area:
 - Security

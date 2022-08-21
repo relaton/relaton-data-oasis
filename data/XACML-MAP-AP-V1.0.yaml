@@ -1,13 +1,13 @@
 ---
 id: OASISXACML-MAP-AP-v1.0
 title:
-- type: main
-  content: XACML MAP Authorization Profile Version 1.0
+- content: XACML MAP Authorization Profile Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS XACML-MAP-AP-v1.0
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC

@@ -1,14 +1,14 @@
 ---
 id: OASISXACML-v3.0-Errata01-complete
 title:
-- type: main
-  content: eXtensible Access Control Markup Language (XACML) Version 3.0 Plus Errata
+- content: eXtensible Access Control Markup Language (XACML) Version 3.0 Plus Errata
     01
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/xacml/3.0/errata01/os/xacml-3.0-core-spec-errata01-os-complete.html
   type: src
@@ -24,12 +24,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Erik
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Erik
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Rissanen
         language:
@@ -48,7 +49,7 @@ relation:
     formattedref:
       content: OASIS XACML-V3.0
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 technology_area:
 - Security

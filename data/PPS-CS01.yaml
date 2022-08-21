@@ -1,13 +1,13 @@
 ---
 id: OASISPPS-CS01
 title:
-- type: main
-  content: Production Planning and Scheduling (PPS) Version 1.0
+- content: Production Planning and Scheduling (PPS) Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS PPS-CS01
@@ -46,7 +46,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Production Planning and Scheduling TC

@@ -1,14 +1,14 @@
 ---
 id: OASISEDXL-TEP-v1.1-CS01
 title:
-- type: main
-  content: Emergency Data Exchange Language (EDXL) Tracking of Emergency Patients
+- content: Emergency Data Exchange Language (EDXL) Tracking of Emergency Patients
     (TEP) Version 1.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS EDXL-TEP-v1.1-CS01
@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Emergency Management TC

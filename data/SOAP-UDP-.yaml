@@ -1,13 +1,13 @@
 ---
 id: OASISSOAP-UDP-
 title:
-- type: main
-  content: SOAP-over-UDP v1.1
+- content: SOAP-over-UDP v1.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS SOAP-UDP-
@@ -28,7 +28,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD) TC

@@ -1,13 +1,13 @@
 ---
 id: OASISTAM-
 title:
-- type: main
-  content: Test Assertions Model v1.0
+- content: Test Assertions Model v1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS TAM-
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Test Assertions Guidelines (TAG) TC

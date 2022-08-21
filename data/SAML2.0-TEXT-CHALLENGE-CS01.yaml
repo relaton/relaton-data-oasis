@@ -1,13 +1,13 @@
 ---
 id: OASISSAML2.0-text-challenge-CS01
 title:
-- type: main
-  content: SAML V2.0 Text-Based Challenge/ Response Token AuthenticationContext Class
+- content: SAML V2.0 Text-Based Challenge/ Response Token AuthenticationContext Class
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS SAML2.0-text-challenge-CS01
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: Security Services (SAML) TC

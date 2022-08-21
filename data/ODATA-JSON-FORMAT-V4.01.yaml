@@ -1,13 +1,13 @@
 ---
 id: OASISOData-JSON-Format-v4.01
 title:
-- type: main
-  content: OData JSON Format v4.01
+- content: OData JSON Format v4.01
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS OData-JSON-Format-v4.01
@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Open Data Protocol (OData) TC

@@ -1,13 +1,13 @@
 ---
 id: OASISBasicProfile-v1.2-CS01
 title:
-- type: main
-  content: Basic Profile Version 1.2
+- content: Basic Profile Version 1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS BasicProfile-v1.2-CS01
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Web Services Basic Reliable and Secure Profiles (WS-BRSP) TC

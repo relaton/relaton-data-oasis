@@ -1,13 +1,13 @@
 ---
 id: OASISDocBook-v5.0.1-CS01
 title:
-- type: main
-  content: The DocBook Schema Version 5.0.1
+- content: The DocBook Schema Version 5.0.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS DocBook-v5.0.1-CS01
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS DocBook TC

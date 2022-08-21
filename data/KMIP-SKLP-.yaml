@@ -1,13 +1,13 @@
 ---
 id: OASISKMIP-SKLP-
 title:
-- type: main
-  content: KMIP Symmetric Key Lifecycle Profile v1.0
+- content: KMIP Symmetric Key Lifecycle Profile v1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS KMIP-SKLP-
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Key Management Interoperability Protocol (KMIP) TC

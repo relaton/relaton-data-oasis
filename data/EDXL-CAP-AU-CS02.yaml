@@ -1,14 +1,14 @@
 ---
 id: OASISEDXL-CAP-AU-CS02
 title:
-- type: main
-  content: Emergency Data Exchange Language (EDXL) Common Alerting Protocol (CAP)
+- content: Emergency Data Exchange Language (EDXL) Common Alerting Protocol (CAP)
     v1.2 Australia (AU) Profile Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS EDXL-CAP-AU-CS02
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Emergency Management TC

@@ -1,13 +1,13 @@
 ---
 id: OASISUIML-v4.0-CS01
 title:
-- type: main
-  content: User Interface Markup Language (UIML) Version 4.0
+- content: User Interface Markup Language (UIML) Version 4.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS UIML-v4.0-CS01
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS User Interface Markup Language (UIML) TC

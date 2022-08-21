@@ -1,13 +1,13 @@
 ---
 id: OASISCACAO-Security-Playbooks-v1.0-CS01
 title:
-- type: main
-  content: CACAO Security Playbooks Version 1.0
+- content: CACAO Security Playbooks Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS CACAO-Security-Playbooks-v1.0-CS01
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Collaborative Automated Course of Action Operations (CACAO) for Cyber

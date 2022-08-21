@@ -1,13 +1,13 @@
 ---
 id: OASISamqp-core-security-v1.0-Pt5
 title:
-- type: main
-  content: 'OASIS Advanced Message Queuing Protocol (AMQP) Version 1.0 Part 5: Security'
+- content: 'OASIS Advanced Message Queuing Protocol (AMQP) Version 1.0 Part 5: Security'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-security-v1.0-os.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Robert
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Godfrey
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: David
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Ingham
         language:
@@ -55,12 +57,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: and
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: and
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Rafael
         language:
@@ -79,7 +82,7 @@ relation:
     formattedref:
       content: OASIS amqp-core
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 technology_area:
 - Messaging

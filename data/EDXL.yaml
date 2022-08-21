@@ -1,13 +1,13 @@
 ---
 id: OASISEDXL
 title:
-- type: main
-  content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange
+- content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS EDXL
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Emergency Management TC

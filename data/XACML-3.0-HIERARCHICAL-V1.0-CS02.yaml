@@ -1,13 +1,13 @@
 ---
 id: OASISxacml-3.0-hierarchical-v1.0-CS02
 title:
-- type: main
-  content: XACML v3.0 Hierarchical Resource Profile Version 1.0
+- content: XACML v3.0 Hierarchical Resource Profile Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS xacml-3.0-hierarchical-v1.0-CS02
@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC

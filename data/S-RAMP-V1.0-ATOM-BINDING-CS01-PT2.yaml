@@ -1,13 +1,13 @@
 ---
 id: OASISS-RAMP-v1.0-atom-binding-CS01-Pt2
 title:
-- type: main
-  content: 'S-RAMP Version 1.0. Part 2: Atom Binding'
+- content: 'S-RAMP Version 1.0. Part 2: Atom Binding'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/s-ramp/s-ramp/v1.0/cs01/part2-atom-binding/s-ramp-v1.0-cs01-part2-atom-binding.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Martin
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Martin
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Smithson
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Vincent
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Vincent
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Brunssen
         language:
@@ -63,5 +65,5 @@ relation:
     formattedref:
       content: OASIS S-RAMP-v1.0-CS01
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification

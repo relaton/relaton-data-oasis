@@ -1,13 +1,13 @@
 ---
 id: OASISAkomaNtosoCore-v1.0-Pt1-Vocabulary
 title:
-- type: main
-  content: 'Akoma Ntoso Version 1.0 Part 1: XML Vocabulary'
+- content: 'Akoma Ntoso Version 1.0 Part 1: XML Vocabulary'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part1-vocabulary/akn-core-v1.0-os-part1-vocabulary.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Monica
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Palmirani
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Roger
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Roger
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Sperberg
         language:
@@ -55,12 +57,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Grant
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Grant
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Vergottini
         language:
@@ -71,12 +74,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: and
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: and
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Fabio
         language:
@@ -95,7 +99,7 @@ relation:
     formattedref:
       content: OASIS AkomaNtosoCore-v1.0
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 technology_area:
 - Content-Technologies

@@ -1,14 +1,14 @@
 ---
 id: OASISdssx-profiles-visualsig-v1.0-CS01
 title:
-- type: main
-  content: Visible Signature Profile of the OASIS Digital Signature Services Version
+- content: Visible Signature Profile of the OASIS Digital Signature Services Version
     1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS dssx-profiles-visualsig-v1.0-CS01
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Digital Signature Services eXtended (DSS-X) TC

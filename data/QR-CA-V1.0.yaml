@@ -1,13 +1,13 @@
 ---
 id: OASISQR-CA-v1.0
 title:
-- type: main
-  content: Secure QR Code Authentication Version 1.0
+- content: Secure QR Code Authentication Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS QR-CA-v1.0
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: Electronic Secure Authentication (ESAT) TC

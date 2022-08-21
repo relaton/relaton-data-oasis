@@ -1,13 +1,13 @@
 ---
 id: OASIStrust-el-framework-v1.0-CS01
 title:
-- type: main
-  content: Electronic Identity Credential Trust Elevation Framework Version 1.0
+- content: Electronic Identity Credential Trust Elevation Framework Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS trust-el-framework-v1.0-CS01
@@ -37,7 +37,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)

@@ -1,13 +1,13 @@
 ---
 id: OASIScals-table-model
 title:
-- type: main
-  content: CALS Table Model DTD
+- content: CALS Table Model DTD
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS cals-table-model
@@ -28,7 +28,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: memorandum
 editorialgroup:
 - name: Tables Technical Committee

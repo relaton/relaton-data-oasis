@@ -1,13 +1,13 @@
 ---
 id: OASISDITA-v1.3
 title:
-- type: main
-  content: Darwin Information Typing Architecture (DITA) v1.3
+- content: Darwin Information Typing Architecture (DITA) v1.3
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS DITA-v1.3
@@ -61,7 +61,7 @@ relation:
     formattedref:
       content: OASIS DITA-v1.3-errata02
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Darwin Information Typing Architecture (DITA) TC

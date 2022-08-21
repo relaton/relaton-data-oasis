@@ -1,13 +1,13 @@
 ---
 id: OASISWSRP-v1.0
 title:
-- type: main
-  content: Web Services for Remote Portlets (WSRP) v1.0 [OASIS 200304]
+- content: Web Services for Remote Portlets (WSRP) v1.0 [OASIS 200304]
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS WSRP-v1.0
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services for Remote Portlets TC

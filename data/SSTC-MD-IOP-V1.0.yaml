@@ -1,13 +1,13 @@
 ---
 id: OASISsstc-md-iop-v1.0
 title:
-- type: main
-  content: SAML V2.0 Metadata Interoperability Profile Version 1.0
+- content: SAML V2.0 Metadata Interoperability Profile Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS sstc-md-iop-v1.0
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: Security Services (SAML) TC

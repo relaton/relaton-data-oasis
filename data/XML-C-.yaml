@@ -1,13 +1,13 @@
 ---
 id: OASISXML-C-
 title:
-- type: main
-  content: XML Catalogs v1.1
+- content: XML Catalogs v1.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS XML-C-
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Entity Resolution TC

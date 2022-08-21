@@ -1,13 +1,13 @@
 ---
 id: OASISebXML-RIM-v3.0
 title:
-- type: main
-  content: ebXML Registry Information Model (RIM) v3.0
+- content: ebXML Registry Information Model (RIM) v3.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS ebXML-RIM-v3.0
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Registry TC

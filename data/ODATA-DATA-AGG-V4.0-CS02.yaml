@@ -1,13 +1,13 @@
 ---
 id: OASISOData-Data-Agg-v4.0-CS02
 title:
-- type: main
-  content: OData Extension for Data Aggregation Version 4.0
+- content: OData Extension for Data Aggregation Version 4.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS OData-Data-Agg-v4.0-CS02
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Data Protocol (OData) TC

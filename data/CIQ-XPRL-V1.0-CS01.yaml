@@ -1,14 +1,14 @@
 ---
 id: OASISciq-xprl-v1.0-CS01
 title:
-- type: main
-  content: Customer Information Quality Party Relationships (xPRL) Specification Version
+- content: Customer Information Quality Party Relationships (xPRL) Specification Version
     3.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS ciq-xprl-v1.0-CS01
@@ -35,7 +35,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Customer Information Quality TC

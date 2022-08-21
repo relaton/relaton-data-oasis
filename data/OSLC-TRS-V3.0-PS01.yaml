@@ -1,13 +1,13 @@
 ---
 id: OASISOSLC-TRS-v3.0-PS01
 title:
-- type: main
-  content: OSLC Tracked Resource Set Version 3.0
+- content: OSLC Tracked Resource Set Version 3.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS OSLC-TRS-v3.0-PS01
@@ -47,7 +47,7 @@ relation:
     formattedref:
       content: OASIS OSLC-TRS-v3.0-PS01-Pt3
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project

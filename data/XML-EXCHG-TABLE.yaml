@@ -1,13 +1,13 @@
 ---
 id: OASISxml-exchg-table
 title:
-- type: main
-  content: XML Exchange Table Model Document Type Definition
+- content: XML Exchange Table Model Document Type Definition
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS xml-exchg-table
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: memorandum
 editorialgroup:
 - name: Tables Technical Committee

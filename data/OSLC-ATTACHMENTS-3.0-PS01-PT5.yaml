@@ -1,13 +1,13 @@
 ---
 id: OASISOSLC-Attachments-3.0-PS01-Pt5
 title:
-- type: main
-  content: 'OSLC Core Version 3.0. Part 5: Attachments'
+- content: 'OSLC Core Version 3.0. Part 5: Attachments'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.oasis-open-projects.org/oslc-op/core/v3.0/ps01/attachments.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Jim
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Jim
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Amsden
         language:
@@ -47,7 +48,7 @@ relation:
     formattedref:
       content: OASIS OSLC-PS01
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 technology_area:
 - Software-development

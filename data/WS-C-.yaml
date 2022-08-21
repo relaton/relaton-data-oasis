@@ -1,13 +1,13 @@
 ---
 id: OASISWS-C-
 title:
-- type: main
-  content: WS-Coordination v1.2
+- content: WS-Coordination v1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS WS-C-
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Transaction (WS-TX) TC

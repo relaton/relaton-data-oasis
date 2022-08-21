@@ -1,13 +1,13 @@
 ---
 id: OASISBDX-Location-v1.0
 title:
-- type: main
-  content: Business Document Metadata Service Location Version 1.0
+- content: Business Document Metadata Service Location Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS BDX-Location-v1.0
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Business Document Exchange (BDXR) TC

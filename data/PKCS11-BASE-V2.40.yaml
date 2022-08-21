@@ -1,13 +1,13 @@
 ---
 id: OASISPKCS11-base-v2.40
 title:
-- type: main
-  content: 'PKCS #11 Cryptographic Token Interface Base Specification Version 2.40'
+- content: 'PKCS #11 Cryptographic Token Interface Base Specification Version 2.40'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS PKCS11-base-v2.40
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS PKCS 11 TC

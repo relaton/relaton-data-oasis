@@ -1,13 +1,13 @@
 ---
 id: OASISOSLC-QM-2.1
 title:
-- type: main
-  content: OSLC Quality Management Version 2.1
+- content: OSLC Quality Management Version 2.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS OSLC-QM-2.1
@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project

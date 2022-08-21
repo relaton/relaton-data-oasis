@@ -1,13 +1,13 @@
 ---
 id: OASISSTIX-v2.0-CS01
 title:
-- type: main
-  content: STIX(TM) Version 2.0
+- content: STIX(TM) Version 2.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS STIX-v2.0-CS01
@@ -56,7 +56,7 @@ relation:
     formattedref:
       content: OASIS STIX-v2.0-Pt5-Patterning-CS01
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Cyber Threat Intelligence (CTI) TC

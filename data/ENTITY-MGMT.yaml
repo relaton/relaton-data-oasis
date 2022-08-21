@@ -1,13 +1,13 @@
 ---
 id: OASISentity-mgmt
 title:
-- type: main
-  content: Entity Management
+- content: Entity Management
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS entity-mgmt
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: resolution
 editorialgroup:
 - name: Entity Resolution TC

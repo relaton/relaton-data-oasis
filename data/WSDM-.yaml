@@ -1,13 +1,13 @@
 ---
 id: OASISWSDM-
 title:
-- type: main
-  content: WSDM v1.1
+- content: WSDM v1.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS WSDM-
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Distributed Management (WSDM) TC

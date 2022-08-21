@@ -1,13 +1,13 @@
 ---
 id: OASISWSN-
 title:
-- type: main
-  content: WSN v1.3
+- content: WSN v1.3
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS WSN-
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Notification (WSN) TC

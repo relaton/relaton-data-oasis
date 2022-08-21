@@ -1,13 +1,13 @@
 ---
 id: OASISUnstructured-Operation-Markup-Language-v1.0
 title:
-- type: main
-  content: UOML (Unstructured Operation Markup Language) Part 1 v1.0
+- content: UOML (Unstructured Operation Markup Language) Part 1 v1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS Unstructured-Operation-Markup-Language-v1.0
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended (UOML-X)

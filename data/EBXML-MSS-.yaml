@@ -1,13 +1,13 @@
 ---
 id: OASISebXML-MSS-
 title:
-- type: main
-  content: ebXML Message Service Specification v2.0 [OASIS 200204]
+- content: ebXML Message Service Specification v2.0 [OASIS 200204]
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS ebXML-MSS-
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Messaging Services TC

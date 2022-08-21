@@ -1,13 +1,13 @@
 ---
 id: OASISOSLC-PROMCODE-v1.0-Vocab-Pt2
 title:
-- type: main
-  content: 'OSLC PROMCODE Version 1.0. Part 2: Vocabulary'
+- content: 'OSLC PROMCODE Version 1.0. Part 2: Vocabulary'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.oasis-open.org/oslc-promcode/promcode/v1.0/os/promcode-vocab.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Mikio
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Mikio
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Aoyama
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Yoshio
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Yoshio
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Horiuchi
         language:
@@ -55,12 +57,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Tom
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Tom
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Kamimura
         language:
@@ -71,12 +74,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Shinji
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Shinji
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Matsuoka
         language:
@@ -87,12 +91,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Shigeaki
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Shigeaki
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Matsumoto
         language:
@@ -103,12 +108,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Masaki
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Masaki
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Wakao
         language:
@@ -119,12 +125,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Kazuo
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Kazuo
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yabuta
         language:
@@ -135,12 +142,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: and
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: and
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Hiroyuki
         language:
@@ -159,7 +167,7 @@ relation:
     formattedref:
       content: OASIS OSLC-PROMCODE-v1.0
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 technology_area:
 - Software-development

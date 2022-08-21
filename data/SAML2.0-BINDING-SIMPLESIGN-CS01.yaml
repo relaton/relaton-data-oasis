@@ -1,13 +1,13 @@
 ---
 id: OASISSAML2.0-binding-simplesign-CS01
 title:
-- type: main
-  content: SAMLv2.0 HTTP POST “SimpleSign” Binding
+- content: SAMLv2.0 HTTP POST “SimpleSign” Binding
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS SAML2.0-binding-simplesign-CS01
@@ -33,7 +33,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: Security Services (SAML) TC

@@ -1,13 +1,13 @@
 ---
 id: OASISS-RAMP-v1.0-CS01
 title:
-- type: main
-  content: S-RAMP Version 1.0
+- content: S-RAMP Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS S-RAMP-v1.0-CS01
@@ -47,7 +47,7 @@ relation:
     formattedref:
       content: OASIS S-RAMP-v1.0-atom-binding-CS01-Pt2
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC

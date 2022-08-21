@@ -1,14 +1,14 @@
 ---
 id: OASISOpenDocument-v1.3-part1-CS02
 title:
-- type: main
-  content: 'Open Document Format for Office Applications (OpenDocument) Version 1.3.
+- content: 'Open Document Format for Office Applications (OpenDocument) Version 1.3.
     Part 1: Introduction'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.oasis-open.org/office/OpenDocument/v1.3/cs02/part1-introduction/OpenDocument-v1.3-cs02-part1-introduction.html
   type: src
@@ -24,12 +24,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Francis
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Francis
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Cave
         language:
@@ -40,12 +41,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Patrick
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Patrick
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Durusau
         language:
@@ -56,12 +58,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Svante
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Svante
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Schubert
         language:
@@ -72,12 +75,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Michael
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Stahl
         language:
@@ -96,7 +100,7 @@ relation:
     formattedref:
       content: OASIS OpenDocument-v1.3-CS02
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 technology_area:
 - Content-Technologies

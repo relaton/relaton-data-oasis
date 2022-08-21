@@ -1,13 +1,13 @@
 ---
 id: OASISbpel4people-v1.1-CS01
 title:
-- type: main
-  content: WS-BPEL Extension for People (BPEL4People) Specification Version 1.1
+- content: WS-BPEL Extension for People (BPEL4People) Specification Version 1.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS bpel4people-v1.1-CS01
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS BPEL4People TC

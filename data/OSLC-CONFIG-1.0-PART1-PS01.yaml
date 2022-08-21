@@ -1,13 +1,13 @@
 ---
 id: OASISOSLC-Config-1.0-Part1-PS01
 title:
-- type: main
-  content: 'OSLC Configuration Management Version 1.0. Part 1: Overview'
+- content: 'OSLC Configuration Management Version 1.0. Part 1: Overview'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.oasis-open-projects.org/oslc-op/config/v1.0/ps01/oslc-config-mgt.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Nick
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Nick
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Crossley
         language:
@@ -47,7 +48,7 @@ relation:
     formattedref:
       content: OASIS OSLC-Config-1.0-PS01
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 technology_area:
 - Software-development

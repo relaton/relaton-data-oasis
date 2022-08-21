@@ -1,13 +1,13 @@
 ---
 id: OASISSTIX-v2.0-Pt4-Cyb-Objects-CS01
 title:
-- type: main
-  content: 'STIX(TM) Version 2.0. Part 4: Cyber Observable Objects'
+- content: 'STIX(TM) Version 2.0. Part 4: Cyber Observable Objects'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/cti/stix/v2.0/cs01/part4-cyber-observable-objects/stix-v2.0-cs01-part4-cyber-observable-objects.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Trey
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Trey
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Darley
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Ivan
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Ivan
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Kirillov
         language:
@@ -63,7 +65,7 @@ relation:
     formattedref:
       content: OASIS STIX-v2.0-CS01
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 technology_area:
 - Cybersecurity

@@ -1,13 +1,13 @@
 ---
 id: OASISrelaxng-ng-specification
 title:
-- type: main
-  content: RELAX NG Specification
+- content: RELAX NG Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS relaxng-ng-specification
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 editorialgroup:
 - name: OASIS RELAX NG TC

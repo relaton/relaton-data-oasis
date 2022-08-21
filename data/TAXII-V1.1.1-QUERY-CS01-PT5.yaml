@@ -1,13 +1,13 @@
 ---
 id: OASISTAXII-v1.1.1-Query-CS01-Pt5
 title:
-- type: main
-  content: 'TAXII(TM) Version 1.1.1. Part 5: Default Query'
+- content: 'TAXII(TM) Version 1.1.1. Part 5: Default Query'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.oasis-open.org/cti/taxii/v1.1.1/cs01/part5-query/taxii-v1.1.1-cs01-part5-query.html
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Mark
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Davidson
         language:
@@ -39,12 +40,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: Charles
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Charles
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Schmidt
         language:
@@ -55,12 +57,13 @@ contributor:
   - editor
 - person:
     name:
-      forename:
-      - content: and
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: and
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Bret
         language:
@@ -79,7 +82,7 @@ relation:
     formattedref:
       content: OASIS TAXII-v1.1.1-CS01
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: specification
 technology_area:
 - Cybersecurity

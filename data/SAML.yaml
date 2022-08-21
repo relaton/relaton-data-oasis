@@ -1,14 +1,14 @@
 ---
 id: OASISSAML
 title:
-- type: main
-  content: Metadata Profile for the OASIS Security Assertion Markup Language (SAML)
+- content: Metadata Profile for the OASIS Security Assertion Markup Language (SAML)
     V1.x
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS SAML
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Security Services (SAML) TC

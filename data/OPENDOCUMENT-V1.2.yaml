@@ -1,13 +1,13 @@
 ---
 id: OASISOpenDocument-v1.2
 title:
-- type: main
-  content: Open Document Format for Office Applications (OpenDocument) Version 1.2
+- content: Open Document Format for Office Applications (OpenDocument) Version 1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS OpenDocument-v1.2
@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Open Document Format for Office Applications (OpenDocument) TC

@@ -1,14 +1,14 @@
 ---
 id: OASISEDXL-RM-v1.0
 title:
-- type: main
-  content: Emergency Data Exchange Language Resource Messaging (EDXL-RM) v1.0 incorporating
+- content: Emergency Data Exchange Language Resource Messaging (EDXL-RM) v1.0 incorporating
     Approved Errata
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS EDXL-RM-v1.0
@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Emergency Management TC

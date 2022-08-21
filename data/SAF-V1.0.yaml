@@ -1,13 +1,13 @@
 ---
 id: OASISSAF-v1.0
 title:
-- type: main
-  content: Symptoms Automation Framework (SAF) Version 1.0
+- content: Symptoms Automation Framework (SAF) Version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS SAF-v1.0
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Symptoms Automation Framework (SAF) TC

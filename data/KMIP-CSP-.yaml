@@ -1,13 +1,13 @@
 ---
 id: OASISKMIP-CSP-
 title:
-- type: main
-  content: KMIP Cryptographic Services Profile v1.0
+- content: KMIP Cryptographic Services Profile v1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: OASIS KMIP-CSP-
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Key Management Interoperability Protocol (KMIP) TC
