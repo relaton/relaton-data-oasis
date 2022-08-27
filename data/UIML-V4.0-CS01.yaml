@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-26'
+fetched: '2022-08-27'
 doctype: specification
 editorialgroup:
 - name: OASIS User Interface Markup Language (UIML) TC
