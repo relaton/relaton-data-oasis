@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-27'
+fetched: '2022-08-28'
 doctype: standard
 editorialgroup:
 - name: OASIS Security Services (SAML) TC
