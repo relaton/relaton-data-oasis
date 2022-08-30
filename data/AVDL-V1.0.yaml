@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-29'
+fetched: '2022-08-30'
 doctype: standard
 editorialgroup:
 - name: OASIS Application Vulnerability Description Language (AVDL) TC

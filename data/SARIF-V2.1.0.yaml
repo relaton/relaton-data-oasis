@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-29'
+fetched: '2022-08-30'
 doctype: standard
 editorialgroup:
 - name: OASIS Static Analysis Results Interchange Format (SARIF) TC
