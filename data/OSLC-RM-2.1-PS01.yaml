@@ -49,7 +49,7 @@ relation:
     formattedref:
       content: OASIS OSLC-RM-2.1-Part3-PS01
       format: text/plain
-fetched: '2022-09-03'
+fetched: '2022-09-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
