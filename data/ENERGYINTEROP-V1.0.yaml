@@ -42,7 +42,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-04'
+fetched: '2022-09-05'
 doctype: standard
 editorialgroup:
 - name: OASIS Energy Interoperation TC

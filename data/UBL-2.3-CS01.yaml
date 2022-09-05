@@ -28,7 +28,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-04'
+fetched: '2022-09-05'
 doctype: specification
 editorialgroup:
 - name: OASIS Universal Business Language TC
