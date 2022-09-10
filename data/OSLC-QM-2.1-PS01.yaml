@@ -50,7 +50,7 @@ relation:
     formattedref:
       content: OASIS OSLC-qm-2.1-Part3-PS01
       format: text/plain
-fetched: '2022-09-09'
+fetched: '2022-09-10'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
