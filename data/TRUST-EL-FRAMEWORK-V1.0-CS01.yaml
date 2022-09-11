@@ -37,7 +37,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-10'
+fetched: '2022-09-11'
 doctype: specification
 editorialgroup:
 - name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
