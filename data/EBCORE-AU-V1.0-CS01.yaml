@@ -38,7 +38,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-11'
+fetched: '2022-09-12'
 doctype: specification
 editorialgroup:
 - name: OASIS ebXML Core (ebCore) TC
