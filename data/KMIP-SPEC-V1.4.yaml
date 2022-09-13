@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-12'
+fetched: '2022-09-13'
 doctype: standard
 editorialgroup:
 - name: OASIS Key Management Interoperability Protocol (KMIP) TC
