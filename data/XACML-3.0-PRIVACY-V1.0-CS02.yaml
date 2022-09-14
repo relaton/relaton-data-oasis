@@ -28,7 +28,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-13'
+fetched: '2022-09-14'
 doctype: specification
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC
