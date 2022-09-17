@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-16'
+fetched: '2022-09-17'
 doctype: standard
 editorialgroup:
 - name: OASIS Test Assertions Guidelines (TAG) TC
