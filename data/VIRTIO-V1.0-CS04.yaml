@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-18'
+fetched: '2022-09-19'
 doctype: specification
 editorialgroup:
 - name: OASIS Virtual I/O Device (VIRTIO) TC
