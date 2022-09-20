@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-19'
+fetched: '2022-09-20'
 doctype: standard
 editorialgroup:
 - name: OASIS Content Assembly Mechanism (CAM) TC

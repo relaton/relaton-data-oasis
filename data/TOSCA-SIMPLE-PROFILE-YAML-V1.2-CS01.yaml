@@ -32,7 +32,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-19'
+fetched: '2022-09-20'
 doctype: specification
 editorialgroup:
 - name: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA)
