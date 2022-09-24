@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-23'
+fetched: '2022-09-24'
 doctype: resolution
 editorialgroup:
 - name: Entity Resolution TC
