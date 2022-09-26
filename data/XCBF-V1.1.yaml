@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-25'
+fetched: '2022-09-26'
 doctype: standard
 editorialgroup:
 - name: OASIS XML Common Biometric Format TC
