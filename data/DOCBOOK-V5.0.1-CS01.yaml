@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-29'
+fetched: '2022-09-30'
 doctype: specification
 editorialgroup:
 - name: OASIS DocBook TC
