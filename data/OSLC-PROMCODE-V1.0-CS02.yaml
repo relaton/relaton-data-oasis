@@ -45,7 +45,7 @@ relation:
     formattedref:
       content: OASIS OSLC-PROMCODE-v1.0-Shapes-CS02-Pt3
       format: text/plain
-fetched: '2022-09-30'
+fetched: '2022-10-01'
 doctype: specification
 editorialgroup:
 - name: OSLC Lifecycle Integration for Project Management of Contracted Delivery (OSLC
