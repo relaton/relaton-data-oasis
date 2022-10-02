@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-01'
+fetched: '2022-10-02'
 doctype: standard
 editorialgroup:
 - name: OASIS DocBook TC
