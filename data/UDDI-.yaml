@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-02'
+fetched: '2022-10-03'
 doctype: standard
 editorialgroup:
 - name: OASIS UDDI Specifications TC
