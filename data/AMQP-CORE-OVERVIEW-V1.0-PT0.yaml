@@ -82,7 +82,7 @@ relation:
     formattedref:
       content: OASIS amqp-core
       format: text/plain
-fetched: '2022-10-07'
+fetched: '2022-10-08'
 doctype: standard
 technology_area:
 - Messaging
