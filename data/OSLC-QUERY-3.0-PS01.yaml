@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-08'
+fetched: '2022-10-09'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
