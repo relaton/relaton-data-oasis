@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-09'
+fetched: '2022-10-10'
 doctype: standard
 editorialgroup:
 - name: OASIS PKCS 11 TC

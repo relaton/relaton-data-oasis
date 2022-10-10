@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-09'
+fetched: '2022-10-10'
 doctype: specification
 editorialgroup:
 - name: OASIS BPEL4People TC

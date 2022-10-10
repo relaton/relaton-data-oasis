@@ -28,7 +28,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-09'
+fetched: '2022-10-10'
 doctype: specification
 editorialgroup:
 - name: Security Services (SAML) TC
