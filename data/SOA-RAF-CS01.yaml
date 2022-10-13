@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-12'
+fetched: '2022-10-13'
 doctype: specification
 editorialgroup:
 - name: OASIS Service Oriented Architecture Reference Model TC
