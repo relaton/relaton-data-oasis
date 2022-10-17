@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-16'
+fetched: '2022-10-17'
 doctype: specification
 editorialgroup:
 - name: OASIS Common Security Advisory Framework (CSAF) TC
