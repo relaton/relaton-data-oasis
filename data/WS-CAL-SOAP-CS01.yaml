@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-18'
+fetched: '2022-10-19'
 doctype: specification
 editorialgroup:
 - name: OASIS Web Services Calendar (WS-Calendar) TC

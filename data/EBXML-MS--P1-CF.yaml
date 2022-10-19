@@ -35,7 +35,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-18'
+fetched: '2022-10-19'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Messaging Services TC
