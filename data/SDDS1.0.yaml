@@ -35,7 +35,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-20'
+fetched: '2022-10-21'
 doctype: standard
 editorialgroup:
 - name: OASIS Solution Deployment Descriptor (SDD) TC
