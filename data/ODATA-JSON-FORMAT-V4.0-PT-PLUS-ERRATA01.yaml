@@ -37,7 +37,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       given:
@@ -54,7 +54,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       given:
@@ -71,7 +71,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       given:
@@ -88,7 +88,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 language:
 - en
 script:
@@ -99,7 +99,7 @@ relation:
     formattedref:
       content: OASIS OData-JSON-Format-v4.0
       format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 technology_area:
 - Messaging

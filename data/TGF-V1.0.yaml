@@ -36,7 +36,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 editorialgroup:
 - name: OASIS Transformational Government Framework TC

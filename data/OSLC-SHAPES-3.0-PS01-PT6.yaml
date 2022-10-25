@@ -37,7 +37,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       given:
@@ -54,7 +54,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 language:
 - en
 script:
@@ -65,7 +65,7 @@ relation:
     formattedref:
       content: OASIS OSLC-PS01
       format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: specification
 technology_area:
 - Software-development

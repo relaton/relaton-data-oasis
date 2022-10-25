@@ -37,7 +37,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       given:
@@ -54,7 +54,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       given:
@@ -71,7 +71,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 language:
 - en
 script:
@@ -82,7 +82,7 @@ relation:
     formattedref:
       content: OASIS OSLC-CM-3.0
       format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 technology_area:
 - Software-development
