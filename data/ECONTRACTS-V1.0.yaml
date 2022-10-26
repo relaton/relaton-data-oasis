@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-25'
+fetched: '2022-10-26'
 doctype: specification
 editorialgroup:
 - name: OASIS LegalXML eContracts TC
