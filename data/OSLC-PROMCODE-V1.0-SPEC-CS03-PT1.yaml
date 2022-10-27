@@ -167,7 +167,7 @@ relation:
     formattedref:
       content: OASIS OSLC-PROMCODE-v1.0-CS03
       format: text/plain
-fetched: '2022-10-26'
+fetched: '2022-10-27'
 doctype: specification
 technology_area:
 - Software-development
