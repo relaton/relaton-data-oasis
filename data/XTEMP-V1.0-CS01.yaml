@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-27'
+fetched: '2022-10-28'
 doctype: specification
 editorialgroup:
 - name: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC

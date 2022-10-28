@@ -42,7 +42,7 @@ relation:
     formattedref:
       content: OASIS DocBook-5.0-Errata01
       format: text/plain
-fetched: '2022-10-27'
+fetched: '2022-10-28'
 doctype: standard
 editorialgroup:
 - name: OASIS DocBook TC
