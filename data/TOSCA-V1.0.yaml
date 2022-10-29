@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-28'
+fetched: '2022-10-29'
 doctype: standard
 editorialgroup:
 - name: Topology and Orchestration Specification for Cloud Applications (TOSCA) TC
