@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-31'
+fetched: '2022-11-01'
 doctype: standard
 editorialgroup:
 - name: eXtensible Access Control Markup Language (XACML) TC

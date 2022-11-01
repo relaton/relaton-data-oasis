@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-31'
+fetched: '2022-11-01'
 doctype: specification
 editorialgroup:
 - name: OASIS Advanced Message Queuing Protocol (AMQP) Bindings and Mappings (AMQP-BINDMAP)
