@@ -59,7 +59,7 @@ relation:
     formattedref:
       content: OASIS amqp-core-security-v1.0-Pt5
       format: text/plain
-fetched: '2022-11-03'
+fetched: '2022-11-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Advanced Message Queuing Protocol (AMQP) TC
