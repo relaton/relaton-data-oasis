@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-05'
+fetched: '2022-11-06'
 doctype: specification
 editorialgroup:
 - name: OASIS Energy Market Information Exchange (eMIX) TC
