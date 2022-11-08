@@ -61,7 +61,7 @@ relation:
     formattedref:
       content: OASIS DITA-v1.3-errata02
       format: text/plain
-fetched: '2022-11-07'
+fetched: '2022-11-08'
 doctype: standard
 editorialgroup:
 - name: OASIS Darwin Information Typing Architecture (DITA) TC
