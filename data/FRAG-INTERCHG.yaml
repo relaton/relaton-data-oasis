@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-11'
+fetched: '2022-11-12'
 doctype: resolution
 editorialgroup:
 - name: Fragment Interchange Subcommittee
