@@ -65,7 +65,7 @@ relation:
     formattedref:
       content: OASIS OSLC-RM-2.1-CS01
       format: text/plain
-fetched: '2022-11-12'
+fetched: '2022-11-13'
 doctype: specification
 technology_area:
 - Software-development
