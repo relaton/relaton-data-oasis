@@ -54,7 +54,7 @@ relation:
     formattedref:
       content: OASIS TAXII-v1.1.1-Query-CS01-Pt5
       format: text/plain
-fetched: '2022-11-13'
+fetched: '2022-11-14'
 doctype: specification
 editorialgroup:
 - name: OASIS Cyber Threat Intelligence (CTI) TC

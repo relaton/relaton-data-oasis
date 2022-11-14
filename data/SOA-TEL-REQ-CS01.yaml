@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-13'
+fetched: '2022-11-14'
 doctype: specification
 editorialgroup:
 - name: OASIS SOA for Telecom (SOA-Tel) TC
