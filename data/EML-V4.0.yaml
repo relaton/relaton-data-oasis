@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-14'
+fetched: '2022-11-15'
 doctype: standard
 editorialgroup:
 - name: OASIS Election and Voter Services TC
