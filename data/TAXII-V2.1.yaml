@@ -1,7 +1,7 @@
 ---
 id: OASISTAXII-v2.1
 title:
-- content: TAXII™ Version 2.1
+- content: TAXII Version 2.1
   language:
   - en
   script:
@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-16'
+fetched: '2022-11-17'
 doctype: standard
 editorialgroup:
 - name: OASIS Cyber Threat Intelligence (CTI) TC
