@@ -29,7 +29,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-18'
+fetched: '2022-11-19'
 doctype: standard
 editorialgroup:
 - name: OASIS Entity Resolution TC
