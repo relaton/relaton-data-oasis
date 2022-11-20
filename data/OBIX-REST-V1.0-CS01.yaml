@@ -33,7 +33,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-19'
+fetched: '2022-11-20'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Building Information Exchange (oBIX) TC
