@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-20'
+fetched: '2022-11-21'
 doctype: specification
 editorialgroup:
 - name: OASIS Emergency Management TC
