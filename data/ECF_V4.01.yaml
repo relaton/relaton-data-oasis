@@ -34,7 +34,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-23'
+fetched: '2022-11-24'
 doctype: standard
 editorialgroup:
 - name: OASIS LegalXML Electronic Court Filing TC
