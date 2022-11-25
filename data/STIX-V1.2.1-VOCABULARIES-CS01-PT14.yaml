@@ -99,7 +99,7 @@ relation:
     formattedref:
       content: OASIS STIX-v1.2.1-CS01
       format: text/plain
-fetched: '2022-11-24'
+fetched: '2022-11-25'
 doctype: specification
 technology_area:
 - Cybersecurity
