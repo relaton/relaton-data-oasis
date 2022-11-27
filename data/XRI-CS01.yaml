@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-26'
+fetched: '2022-11-27'
 doctype: specification
 editorialgroup:
 - name: OASIS Extensible Resource Identifier (XRI) TC
