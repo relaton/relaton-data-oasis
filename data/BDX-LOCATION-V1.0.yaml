@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-29'
+fetched: '2022-11-30'
 doctype: standard
 editorialgroup:
 - name: OASIS Business Document Exchange (BDXR) TC
