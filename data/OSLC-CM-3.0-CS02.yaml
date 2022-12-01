@@ -44,7 +44,7 @@ relation:
     formattedref:
       content: OASIS OSLC-CM-3.0-Part2-CS02
       format: text/plain
-fetched: '2022-11-30'
+fetched: '2022-12-01'
 doctype: specification
 editorialgroup:
 - name: OASIS OSLC Lifecycle Integration Domains TC
