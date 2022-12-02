@@ -31,7 +31,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-01'
+fetched: '2022-12-02'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Command and Control (OpenC2) TC
