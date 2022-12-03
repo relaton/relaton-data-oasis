@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-02'
+fetched: '2022-12-03'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Notification (WSN) TC
