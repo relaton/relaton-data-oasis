@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
+fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Advanced Message Queuing Protocol (AMQP) TC
