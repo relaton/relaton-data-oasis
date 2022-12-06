@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISCSAF-v2.0
 title:
 - content: Common Security Advisory Framework Version 2.0
@@ -32,9 +33,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: Common Security Advisory Framework (CSAF) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Cybersecurity

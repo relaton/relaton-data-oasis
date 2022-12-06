@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-Core-3.0-CS01-Pt1
 title:
 - content: 'OSLC Core Version 3.0. Part 1: Overview'
@@ -48,7 +49,8 @@ relation:
     formattedref:
       content: OASIS OSLC-CS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

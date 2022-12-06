@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-qm-2.1-Part3-PS01
 title:
 - content: 'OSLC Quality Management Version 2.1. Part 3: Constraints'
@@ -82,7 +83,8 @@ relation:
     formattedref:
       content: OASIS OSLC-QM-2.1-PS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

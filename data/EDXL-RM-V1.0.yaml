@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISEDXL-RM-v1.0
 title:
 - content: Emergency Data Exchange Language Resource Messaging (EDXL-RM) v1.0 incorporating
@@ -32,10 +33,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Emergency Management TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Emergency-Management
 - Messaging

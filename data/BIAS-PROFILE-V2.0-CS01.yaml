@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISBIAS-Profile-v2.0-CS01
 title:
 - content: Biometric Identity Assurance Services (BIAS) SOAP Profile Version 2.0
@@ -29,10 +30,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Biometric Services (BIOSERV) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Privacy/Identity
 - Security

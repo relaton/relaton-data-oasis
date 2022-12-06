@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISFFMII-SPEC-v1.0-CS01
 title:
 - content: Field Force Management Integration Interface Specification Version 1.0
@@ -30,9 +31,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Field Force Management (FFM) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

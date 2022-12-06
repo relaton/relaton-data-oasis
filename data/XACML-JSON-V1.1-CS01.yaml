@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISxacml-json-v1.1-CS01
 title:
 - content: JSON Profile of XACML 3.0 Version 1.1
@@ -30,9 +31,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Security

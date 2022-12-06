@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-PROMCODE-v1.0-Vocab-CS03-Pt2
 title:
 - content: 'OSLC PROMCODE Version 1.0. Part 2: Vocabulary'
@@ -167,7 +168,8 @@ relation:
     formattedref:
       content: OASIS OSLC-PROMCODE-v1.0-CS03
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-TRS-v3.0-PS01-Pt1
 title:
 - content: 'OSLC Tracked Resource Set Version 3.0. Part 1: Specification'
@@ -48,7 +49,8 @@ relation:
     formattedref:
       content: OASIS OSLC-TRS-v3.0-PS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

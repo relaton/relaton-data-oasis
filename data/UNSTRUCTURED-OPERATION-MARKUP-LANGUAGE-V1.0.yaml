@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISUnstructured-Operation-Markup-Language-v1.0
 title:
 - content: UOML (Unstructured Operation Markup Language) Part 1 v1.0
@@ -30,10 +31,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended (UOML-X)
     TC"
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

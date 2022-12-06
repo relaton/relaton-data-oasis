@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOpenC2-SLPF-v1.0-CS01
 title:
 - content: Open Command and Control (OpenC2) Profile for Stateless Packet Filtering
@@ -36,10 +37,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Command and Control (OpenC2) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Cybersecurity
 - Security

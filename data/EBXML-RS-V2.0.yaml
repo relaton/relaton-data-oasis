@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISebXML-RS-v2.0
 title:
 - content: ebXML Registry Services Specification (RS) v2.0 [OASIS 200202]
@@ -28,9 +29,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Registry TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - e-Business

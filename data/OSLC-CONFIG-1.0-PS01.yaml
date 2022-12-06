@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-Config-1.0-PS01
 title:
 - content: OSLC Configuration Management Version 1.0
@@ -50,9 +51,10 @@ relation:
     formattedref:
       content: OASIS OSLC-Config-1.0-Part4-PS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

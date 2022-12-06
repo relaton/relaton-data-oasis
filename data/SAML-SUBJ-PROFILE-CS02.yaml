@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSAML-subj-profile-CS02
 title:
 - content: Subject-based Profiles for SAML V1.1 Assertions
@@ -29,10 +30,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Security Services TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Privacy/Identity
 - Security

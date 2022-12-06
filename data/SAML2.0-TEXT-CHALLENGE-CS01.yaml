@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSAML2.0-text-challenge-CS01
 title:
 - content: SAML V2.0 Text-Based Challenge/ Response Token AuthenticationContext Class
@@ -30,9 +31,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: Security Services (SAML) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Security

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISBCM-v1.0
 title:
 - content: Business Centric Methodology (BCM) v1.0 Specification
@@ -31,9 +32,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Business-centric Methodology (BCM) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - e-Business

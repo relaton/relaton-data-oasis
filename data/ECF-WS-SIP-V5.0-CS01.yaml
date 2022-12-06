@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISECF-WS-SIP-v5.0-CS01
 title:
 - content: Electronic Court Filing Web Services Service Interaction Profile Version
@@ -32,9 +33,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS LegalXML Electronic Court Filing TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - eGov/Legal

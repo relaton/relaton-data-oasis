@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISCAM-v1.1
 title:
 - content: Content Assembly Mechanism (CAM) v1.1
@@ -30,10 +31,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Content Assembly Mechanism (CAM) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies
 - e-Business

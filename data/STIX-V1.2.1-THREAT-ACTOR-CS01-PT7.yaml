@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSTIX-v1.2.1-Threat-actor-CS01-Pt7
 title:
 - content: 'STIX(TM) Version 1.2.1. Part 7: Threat Actor'
@@ -99,7 +100,8 @@ relation:
     formattedref:
       content: OASIS STIX-v1.2.1-CS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Cybersecurity

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISebXML-RIM-v3.0
 title:
 - content: ebXML Registry Information Model (RIM) v3.0
@@ -30,10 +31,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Registry TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies
 - Messaging

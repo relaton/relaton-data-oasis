@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOData-CSDL-XML-v4.01
 title:
 - content: OData Common Schema Definition Language (CSDL) XML Representation Version
@@ -31,9 +32,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Open Data Protocol (OData) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Messaging

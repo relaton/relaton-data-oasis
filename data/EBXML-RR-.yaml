@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISebXML-RR-
 title:
 - content: ebXML RegRep v4.0
@@ -30,10 +31,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Registry TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - e-Business
 - Messaging

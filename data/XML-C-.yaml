@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISXML-C-
 title:
 - content: XML Catalogs v1.1
@@ -29,9 +30,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Entity Resolution TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

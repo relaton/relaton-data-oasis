@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-CM-3.0
 title:
 - content: OSLC Change Management Version 3.0
@@ -46,9 +47,10 @@ relation:
     formattedref:
       content: OASIS OSLC-CM-3.0-Part3
       format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISWS-C-
 title:
 - content: WS-Coordination v1.2
@@ -31,9 +32,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Transaction (WS-TX) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Web-Services

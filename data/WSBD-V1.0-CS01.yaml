@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISWSBD-v1.0-CS01
 title:
 - content: WS-Biometric Devices Version 1.0
@@ -29,9 +30,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: Biometric Services (BIOSERV) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Web-Services

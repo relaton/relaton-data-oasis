@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSARIF-v2.1.0
 title:
 - content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0
@@ -32,9 +33,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Static Analysis Results Interchange Format (SARIF) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

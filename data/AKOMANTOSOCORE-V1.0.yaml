@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISAkomaNtosoCore-v1.0
 title:
 - content: Akoma Ntoso Version 1.0
@@ -44,10 +45,11 @@ relation:
     formattedref:
       content: OASIS AkomaNtosoCore-v1.0-Pt2-Specifications
       format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS LegalDocumentML (LegalDocML) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies
 - eGov/Legal

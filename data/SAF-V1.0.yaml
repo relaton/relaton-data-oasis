@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSAF-v1.0
 title:
 - content: Symptoms Automation Framework (SAF) Version 1.0
@@ -31,9 +32,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Symptoms Automation Framework (SAF) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

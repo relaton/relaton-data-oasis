@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISAS4-Profile
 title:
 - content: AS4 Profile of ebMS 3.0 v1.0
@@ -33,10 +34,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML Messaging Services TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - e-Business
 - Messaging

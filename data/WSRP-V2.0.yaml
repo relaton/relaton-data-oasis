@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISWSRP-v2.0
 title:
 - content: Web Services for Remote Portlets (WSRP) v2.0
@@ -31,9 +32,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services for Remote Portlets TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Web-Services

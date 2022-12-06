@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSOA-EERP-bSLA-v1.0-CS01
 title:
 - content: SOA-EERP Business Service Level Agreement Version 1.0
@@ -31,8 +32,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
     TC
+ext:
+  schema-version: v1.0.0

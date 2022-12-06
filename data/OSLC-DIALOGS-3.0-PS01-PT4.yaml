@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-Dialogs-3.0-PS01-Pt4
 title:
 - content: 'OSLC Core Version 3.0. Part 4: Delegated Dialogs'
@@ -48,7 +49,8 @@ relation:
     formattedref:
       content: OASIS OSLC-PS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

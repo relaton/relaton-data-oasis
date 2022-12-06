@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOData-Part2
 title:
 - content: 'OData Version 4.01. Part 2: URL Conventions'
@@ -82,7 +83,8 @@ relation:
     formattedref:
       content: OASIS OData
       format: text/plain
-fetched: '2022-12-04'
 doctype: standard
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Messaging

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-am-2.1-Part2-CS01
 title:
 - content: 'OSLC Architecture Management Version 2.1. Part 2: Vocabulary'
@@ -48,7 +49,8 @@ relation:
     formattedref:
       content: OASIS OSLC-AM-2.1-CS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

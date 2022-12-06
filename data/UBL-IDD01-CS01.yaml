@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISUBL-idd01-CS01
 title:
 - content: 'UBL 2.0 International Data Dictionary, Volume 1: Japanese, Italian, and
@@ -30,10 +31,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Universal Business Language TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies
 - e-Business

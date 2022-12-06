@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISDocBook-5.0-Errata01
 title:
 - content: The DocBook Schema Version 5.0 Errata 01
@@ -48,7 +49,8 @@ relation:
     formattedref:
       content: OASIS DocBook-5.0
       format: text/plain
-fetched: '2022-12-04'
 doctype: standard
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

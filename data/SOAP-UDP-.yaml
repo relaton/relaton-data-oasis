@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSOAP-UDP-
 title:
 - content: SOAP-over-UDP v1.1
@@ -28,9 +29,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Web-Services

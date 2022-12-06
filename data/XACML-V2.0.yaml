@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISXACML-v2.0
 title:
 - content: eXtensible Access Control Markup Language v2.0 (XACML)
@@ -21,7 +22,8 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC
+ext:
+  schema-version: v1.0.0

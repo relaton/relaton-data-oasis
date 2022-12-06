@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISCAMP-Test-Assertions-v1.1-CS01
 title:
 - content: Cloud Application Management for Platforms (CAMP) Test Assertions Version
@@ -33,9 +34,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Cloud Application Management for Platforms (CAMP) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Cloud

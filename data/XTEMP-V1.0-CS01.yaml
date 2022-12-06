@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISXTemp-V1.0-CS01
 title:
 - content: XML Testing and Event-driven Monitoring of Processes (XTemp) Version 1.0
@@ -31,9 +32,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

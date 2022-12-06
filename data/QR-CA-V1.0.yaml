@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISQR-CA-v1.0
 title:
 - content: Secure QR Code Authentication Version 1.0
@@ -29,10 +30,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: Electronic Secure Authentication (ESAT) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Privacy/Identity
 - Security

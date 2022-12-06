@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASIScals-table-model
 title:
 - content: CALS Table Model DTD
@@ -28,9 +29,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: memorandum
 editorialgroup:
 - name: Tables Technical Committee
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

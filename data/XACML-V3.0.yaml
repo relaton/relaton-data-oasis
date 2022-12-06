@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISXACML-V3.0
 title:
 - content: eXtensible Access Control Markup Language (XACML) v3.0
@@ -44,9 +45,10 @@ relation:
     formattedref:
       content: OASIS XACML-v3.0-Errata01-complete
       format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Security

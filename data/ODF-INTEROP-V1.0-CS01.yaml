@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISODF-Interop-v1.0-CS01
 title:
 - content: The State of ODF Interoperability Version 1.0
@@ -30,9 +31,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Open Document Format Interoperability and Conformance (OIC) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

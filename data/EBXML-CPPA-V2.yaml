@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISebXML-CPPA-v2
 title:
 - content: ebXML Collaborative Partner Profile Agreement (CPPA) v2 [OASIS 200206]
@@ -30,9 +31,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS ebXML CPPA TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - e-Business

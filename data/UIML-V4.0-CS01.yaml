@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISUIML-v4.0-CS01
 title:
 - content: User Interface Markup Language (UIML) Version 4.0
@@ -30,9 +31,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS User Interface Markup Language (UIML) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

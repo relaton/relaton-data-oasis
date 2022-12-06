@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISPKCS-P-v3.1
 title:
 - content: 'PKCS #11 Profiles Version 3.1'
@@ -29,10 +30,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: PKCS 11 TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Privacy/Identity
 - Security

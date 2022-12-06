@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISDITA-v1.3
 title:
 - content: Darwin Information Typing Architecture (DITA) v1.3
@@ -61,9 +62,10 @@ relation:
     formattedref:
       content: OASIS DITA-v1.3-errata02
       format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Darwin Information Typing Architecture (DITA) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies

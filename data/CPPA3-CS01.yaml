@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISCPPA3-CS01
 title:
 - content: Collaboration Protocol Profile and Agreement Version 3.0
@@ -29,9 +30,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS ebXML Core (ebCore) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - e-Business

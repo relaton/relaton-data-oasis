@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC
 title:
 - content: OSLC Core Version 3.0
@@ -71,9 +72,10 @@ relation:
     formattedref:
       content: OASIS OSLC-CoreShapes-3.0-Pt8
       format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP - OASIS Standard
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

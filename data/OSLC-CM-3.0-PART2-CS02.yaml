@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISOSLC-CM-3.0-Part2-CS02
 title:
 - content: 'OSLC Change Management Version 3.0. Part 2: Vocabulary'
@@ -82,7 +83,8 @@ relation:
     formattedref:
       content: OASIS OSLC-CM-3.0-CS02
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Software-development

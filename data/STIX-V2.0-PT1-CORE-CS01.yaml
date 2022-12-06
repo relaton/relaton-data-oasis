@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSTIX-v2.0-Pt1-Core-CS01
 title:
 - content: 'STIX(TM) Version 2.0. Part 1: STIX Core Concepts'
@@ -82,7 +83,8 @@ relation:
     formattedref:
       content: OASIS STIX-v2.0-CS01
       format: text/plain
-fetched: '2022-12-04'
 doctype: specification
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Cybersecurity

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISXSPA-WS-TRUST-PROF-V1.0
 title:
 - content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of WS-Trust
@@ -31,10 +32,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: standard
 editorialgroup:
 - name: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Privacy/Identity
 - Security

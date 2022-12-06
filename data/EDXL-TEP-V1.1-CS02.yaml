@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISEDXL-TEP-v1.1-CS02
 title:
 - content: Emergency Data Exchange Language (EDXL) Tracking of Emergency Patients
@@ -34,10 +35,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Emergency Management TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Emergency-Management
 - Messaging

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISBasicSecurityProfile-v1.1-CS01
 title:
 - content: Basic Security Profile Version 1.1
@@ -30,10 +31,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Web Services Basic Reliable and Secure Profiles (WS-BRSP) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Security
 - Web-Services

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISPPS-CS01
 title:
 - content: Production Planning and Scheduling (PPS) Version 1.0
@@ -46,10 +47,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Production Planning and Scheduling TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Content-Technologies
 - e-Business

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISSAML-idp-discovery-CS01
 title:
 - content: Identity Provider Discovery Service Protocol and Profile
@@ -31,9 +32,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Security Services (SAML) TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Privacy/Identity

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: OASISWS-Quality-Factors-v1.0-CS01
 title:
 - content: Web Services Quality Factors Version 1.0
@@ -39,9 +40,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-04'
 doctype: specification
 editorialgroup:
 - name: OASIS Web Services Quality Model TC
+ext:
+  schema-version: v1.0.0
 technology_area:
 - Web-Services
