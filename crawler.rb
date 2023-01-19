@@ -4,7 +4,7 @@ require 'fileutils'
 require 'relaton_oasis'
 
 FileUtils.rm_rf('data')
-FileUtils.rm('index.yml')
+FileUtils.rm_f('index.yaml')
 
 RelatonOasis::DataFetcher.fetch
 
