@@ -1,0 +1,56 @@
+---
+schema-version: v1.2.1
+id: OASISOSLC-TRS-v3.0-PS02-Pt1
+title:
+- content: 'OSLC Tracked Resource Set Version 3.0. Part 1: Specification'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/trs/v3.0/ps02/tracked-resource-set.html
+  type: src
+type: standard
+docid:
+- id: OASIS OSLC-TRS-v3.0-PS02-Pt1
+  type: OASIS
+  primary: true
+docnumber: OSLC-TRS-v3.0-PS02-Pt1
+date:
+- type: issued
+  value: '2022-11-24'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Nick
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Crossley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS02
+      format: text/plain
+doctype: specification
+ext:
+  schema-version: v1.0.0
+technology_area:
+- Software-development
