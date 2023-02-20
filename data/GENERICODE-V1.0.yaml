@@ -17,7 +17,7 @@ docid:
 docnumber: genericode-v1.0
 date:
 - type: issued
-  value: '2022-04-06'
+  value: '2023-01-31'
 language:
 - en
 script:
@@ -30,7 +30,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype: standard
 editorialgroup:
 - name: OASIS Code List Representation TC
 ext:
