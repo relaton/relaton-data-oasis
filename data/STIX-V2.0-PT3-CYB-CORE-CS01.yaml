@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISSTIX-v2.0-Pt3-Cyb-Core-CS01
 title:
 - content: 'STIX(TM) Version 2.0. Part 3: Cyber Observable Core Concepts'

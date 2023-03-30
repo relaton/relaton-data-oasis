@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISTrust-El-Protocol-v1.0
 title:
 - content: Authentication Step-Up Protocol and Metadata Version 1.0

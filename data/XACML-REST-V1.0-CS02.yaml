@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISXACML-REST-v1.0-CS02
 title:
 - content: REST Profile of XACML v3.0 Version 1.0

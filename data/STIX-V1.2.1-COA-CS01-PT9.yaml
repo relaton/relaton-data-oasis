@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISSTIX-v1.2.1-COA-CS01-Pt9
 title:
 - content: 'STIX(TM) Version 1.2.1. Part 9: Course of Action'

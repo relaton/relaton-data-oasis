@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISOBIX-WebSocket-v1.0-CS01
 title:
 - content: 'Bindings for OBIX: WebSocket Bindings Version 1.0'

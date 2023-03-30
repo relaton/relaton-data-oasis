@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISSTIX-v2.0-Pt1-Core-CS01
 title:
 - content: 'STIX(TM) Version 2.0. Part 1: STIX Core Concepts'

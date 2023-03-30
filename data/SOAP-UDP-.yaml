@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISSOAP-UDP-
 title:
 - content: SOAP-over-UDP v1.1

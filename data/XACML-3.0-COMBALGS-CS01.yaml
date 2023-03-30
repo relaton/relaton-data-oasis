@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: OASISxacml-3.0-combalgs-CS01
 title:
 - content: XACML 3.0 Additional Combining Algorithms Profile Version 1.0
