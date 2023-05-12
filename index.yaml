@@ -1233,7 +1233,7 @@
   title: 'Specification for JSON Abstract Data Notation (JADN) Version 1.0 – Committee Specification 01'
   file: 'data/JADN-V1.0-CS01.yaml'
 - id: 'OASIS OpenC2-HTTPS-v1.0-CS01'
-  title: 'Specification for Transfer of OpenC2 Messages via HTTPS Version 1.0'
+  title: 'Specification for Transfer of OpenC2 Messages via HTTPS Version 1.0d'
   file: 'data/OPENC2-HTTPS-V1.0-CS01.yaml'
 - id: 'OASIS OpenC2-HTTPS-v1.1-CS01'
   title: 'Specification for Transfer of OpenC2 Messages via HTTPS Version 1.1 – Committee Specification 01'

@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: OASISOpenC2-HTTPS-v1.0-CS01
 title:
-- content: Specification for Transfer of OpenC2 Messages via HTTPS Version 1.0
+- content: Specification for Transfer of OpenC2 Messages via HTTPS Version 1.0d
   language:
   - en
   script:
