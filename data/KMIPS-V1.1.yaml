@@ -1,0 +1,40 @@
+---
+schema-version: v1.2.3
+id: OASISKMIPS-v1.1
+title:
+- content: Key Management Interoperability Protocol Specification v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS KMIPS-v1.1
+  type: OASIS
+  primary: true
+docnumber: KMIPS-v1.1
+date:
+- type: issued
+  value: '2013-01-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Intended for developers and architects who wish to design systems and applications
+    that interoperate using the Key Management Interoperability Protocol Specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+ext:
+  schema-version: v1.0.0
+technology_area:
+- Cloud
+- Security

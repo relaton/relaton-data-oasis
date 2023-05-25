@@ -1,0 +1,39 @@
+---
+schema-version: v1.2.3
+id: OASISKMIP-OMOSP-v1.0
+title:
+- content: KMIP Opaque Managed Object Store Profile v1.0d
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS KMIP-OMOSP-v1.0
+  type: OASIS
+  primary: true
+docnumber: KMIP-OMOSP-v1.0
+date:
+- type: issued
+  value: '2015-05-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a profile for a KMIP server performing opaque managed object
+    storage operations based on requests received from a KMIP client.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+ext:
+  schema-version: v1.0.0
+technology_area:
+- Security

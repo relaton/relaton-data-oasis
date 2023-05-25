@@ -1,0 +1,39 @@
+---
+schema-version: v1.2.3
+id: OASISKMIP-SASEDP-v1.0
+title:
+- content: KMIP Storage Array with Self-Encrypting Drives Profile v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS KMIP-SASEDP-v1.0
+  type: OASIS
+  primary: true
+docnumber: KMIP-SASEDP-v1.0
+date:
+- type: issued
+  value: '2015-05-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a profile for Storage Arrays with Self-Encrypting Drives as KMIP
+    clients interacting with KMIP servers.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+ext:
+  schema-version: v1.0.0
+technology_area:
+- Security

@@ -1,0 +1,40 @@
+---
+schema-version: v1.2.3
+id: OASISKMIP-B-P-v1.0
+title:
+- content: KMIP Suite B Profile v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS KMIP-B-P-v1.0
+  type: OASIS
+  primary: true
+docnumber: KMIP-B-P-v1.0
+date:
+- type: issued
+  value: '2015-05-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a profile for KMIP clients and KMIP servers using Suite B cryptography
+    that has been approved by NIST for use by the U.S. Government and specified in
+    NIST standards or recommendations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+ext:
+  schema-version: v1.0.0
+technology_area:
+- Security

@@ -1,0 +1,45 @@
+---
+schema-version: v1.2.3
+id: OASISKMIPP-v1.1
+title:
+- content: Key Management Interoperability Protocol Profiles v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS KMIPP-v1.1
+  type: OASIS
+  primary: true
+docnumber: KMIPP-v1.1
+date:
+- type: issued
+  value: '2013-01-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Intended for developers and architects who wish to design systems and applications that conform to the Key Management Interoperability Protocol specification.
+    KMIP V1.1 enhances the KMIP V1.0 standard (established in October 2010) by
+    1)     defining new functionality in the protocol to improve interoperability, such as a Discover Versions operation and a Group object;
+    2)     defining additional Test Cases for verifying and validating the new functionality;
+    3)     providing additional information in the KMIP Usage Guide to assist in effective implementation of KMIP in key management clients and servers; and
+    4)     defining new profiles for establishing KMIP-compliant implementations.
+    The Key Management Interoperability Protocol (KMIP) is a single, comprehensive protocol for communication between clients that request any of a wide range of encryption keys and servers that store and manage those keys. By replacing redundant, incompatible key management protocols, KMIP provides better data security while at the same time reducing expenditures on multiple products.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+ext:
+  schema-version: v1.0.0
+technology_area:
+- Security
