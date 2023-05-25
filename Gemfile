@@ -43,4 +43,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
-gem "relaton-oasis"
+gem "relaton-oasis", github: "relaton/relaton-oasis", branch: "main"
