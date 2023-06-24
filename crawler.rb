@@ -7,5 +7,3 @@ FileUtils.rm_rf('data')
 FileUtils.rm(Dir.glob('index*'))
 
 RelatonOasis::DataFetcher.fetch
-
-FileUtils.cp('index.yaml', 'src/_data/')
