@@ -41,7 +41,7 @@ layout: default
     {% assign prev_url = '#!' %}
   {% endif %}
   <li class="{{ prev_class }}">
-    <a href="{{ prev_url }}">
+    <a href="{{ prev_url | relative_url }}">
       <i class="material-icons">chevron_left</i>
     </a>
   </li>
@@ -70,7 +70,7 @@ layout: default
     {% assign next_url = '#!' %}
   {% endif %}
   <li class="{{ next_class }}">
-    <a href="{{ next_url }}">
+    <a href="{{ next_url | relative_url }}">
       <i class="material-icons">chevron_right</i>
     </a>
   </li>
