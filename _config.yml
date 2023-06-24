@@ -16,9 +16,10 @@
 title: OASIS Standards Repository
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the OASIS standards index site!
+  This is where you can find the information you need about the various standards
+  developed and maintained by the OASIS open community.
+  Explore the OASIS standards and learn how they can help you solve your business and technical challenges!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -27,9 +28,13 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: jekyll-theme-minimal
-plugins:
+# theme: jekyll-theme-minimal
+# plugins:
   # - jekyll-feed
+
+sass:
+  style: compressed
+  sass_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -44,3 +49,10 @@ plugins:
 #   - vendor/ruby/
 
 source: ./src
+
+paginate: 30
+
+jekyll-index:
+  favicon: 'https://www.oasis-open.org/wp-content/uploads/2020/11/cropped-2-layers@3x-32x32.png'
+  source: 'index-v1.yaml'
+  baseurl: 'https://raw.githubusercontent.com/relaton/relaton-data-oasis/main/'

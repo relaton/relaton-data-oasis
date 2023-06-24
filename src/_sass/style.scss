@@ -1,0 +1,266 @@
+@charset "utf-8";
+
+body {
+  font-family:'Ek Mukta',Arial,Helvetica,sans-serif;font-weight:300;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-size: 1.1rem;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+
+h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+h2 {
+    border-bottom: 1px solid lightgrey
+}
+
+h1, h2, h3, h4, h5, h6 {
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Hind', sans-serif;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.shadow-demo {
+    background-color: #26a69a;
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+}
+h1.page-title {
+    font-weight: 500;
+    font-size: 2.3em;
+    text-align: center;
+    color: #29b6f6;
+}
+.col.grid-example {
+    border: 1px solid #eee;
+    margin: 7px 0;
+    text-align: center;
+    line-height: 50px;
+    font-size: 28px;
+    background-color: tomato;
+    color: white;
+    padding: 0;
+}
+.collection .collection-item.avatar {
+    padding-right: 30px;
+}
+.last-post {
+    padding: 10px 0 15px;
+}
+.last-post .collection .collection-item.avatar>.date-post {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    overflow: hidden;
+    left: 10px;
+    display: inline-block;
+    padding: 16px 0;
+    vertical-align: middle;
+    background: #ad1457;
+    color: #fff;
+    text-align: center;
+}
+.txt-center {
+    text-align: center;
+}
+.post-header h1.post-title {
+    color: #29b6f6;
+    font-size: 2.8em;
+    font-weight: 800;
+}
+.post-header time {
+    color: #cacaca;
+    font-size: 0.9em;
+}
+p.rss-subscribe {
+    margin: 0;
+}
+
+
+.document {
+  padding-top: 5px;
+  border-bottom: 1px solid #0e1a85;
+}
+
+.document:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.doc-line {
+  padding-top: 1em;
+}
+
+.doc-line:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.doc-line .doc-identifier, .doc-line .doc-type-wrap {
+  float: left;
+}
+
+.doc-published, .doc-updated, .doc-identifier,
+.doc-stage, .doc-type, h2, h3 {
+  display: inline-block;
+}
+
+.doc-type-wrap {
+  padding-top: 15px;
+  margin-left: 1em;
+}
+
+.doc-type {
+  padding: 4px 8px;
+  border-radius: 5px;
+  font-size: 0.85em;
+  line-height: 1em;
+  margin-right: 10px;
+  color: white;
+  text-transform: uppercase;
+}
+
+$doctype-colors-list:(
+  standard: #0AC442,
+  directive: #540D6E,
+  guide: #D183C9,
+  specification: #65AFFF,
+  report: #3A405A,
+  amendment: #F26430,
+  corrigendum: #C84630,
+  administrative: #BFAE48,
+  advisory: #BD9391
+);
+
+@each $key,$val in $doctype-colors-list{
+  .doc-type.#{$key} {
+    background-color: #{$val};
+  }
+}
+
+$docstage-colors-list:(
+  proposal: #39A0ED,
+  working-draft: #2D7393,
+  committee-draft: #2A6B7C,
+  draft-standard: #1C7F7A,
+  final-draft: #53C170,
+  published: #069E2D,
+  withdrawn: #004E64,
+  cancelled: #2E382E,
+);
+
+@each $key,$val in $docstage-colors-list{
+  .doc-info.#{$key} {
+    color: #{$val};
+  }
+}
+
+.doc-stage {
+  text-transform: uppercase;
+  font-size: 1em;
+  line-height: 1em;
+
+}
+
+.doc-info {
+  padding-top: 0;
+  padding-bottom: 10px;
+  font-size: 0.9em;
+  line-height: 1em;
+  float: left;
+}
+
+.doc-dates {
+  padding-top: 5px;
+  display: inline-block;
+  margin-left: 0.5em;
+}
+
+.doc-abstract {
+  float: left;
+}
+
+.doc-access, .doc-bib {
+  display: block;
+  float: right;
+}
+
+.doc-access > div {
+  float: left;
+  margin: 5px 10px;
+}
+
+.doc-bib > div {
+  float: left;
+  margin: 5px 10px;
+}
+
+/*
+    4.4 Copyright
+*/
+.copyright {
+  padding: 1em;
+  font-size: 0.9em;
+  text-align: left;
+}
+
+.copyright .name,
+.copyright .address {
+  color: #485094;
+}
+
+
+
+/* Lists */
+main {
+  ul {
+    margin-left: 1.2em;
+  }
+
+  ol {
+    margin-left: 1.2em;
+  }
+
+  ul > li {
+    list-style: none;
+  }
+
+  ul > li:before {
+    content: "—";
+    display: inline-block;
+    width: 1em;
+    margin-left: -1.2em;
+  }
+
+  li p {
+    display: inline;
+  }
+
+  li:first-child {
+    margin-top: 1em;
+  }
+}
+
+/*
+    3.7 Notes
+*/
+.admonitionblock.note {
+  background-color: #fff495;
+  color: #47430c;
+  padding: 0 1em;
+}
+
