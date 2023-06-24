@@ -90,14 +90,21 @@ p.rss-subscribe {
 
 
 .document {
-  padding-top: 5px;
-  border-bottom: 1px solid #0e1a85;
+  margin-bottom: 0;
 }
 
 .document:after {
   content: "";
   display: table;
   clear: both;
+}
+
+.document h4, .document h5 {
+  margin-top: 0.4rem;
+}
+
+.document h4 {
+  margin-bottom: 0;
 }
 
 .doc-line {

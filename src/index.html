@@ -6,30 +6,25 @@ title: OASIS Index
 layout: default
 ---
 {% for post in paginator.posts %}
-  <div class="document">
-    <div class="doc-line">
-      <div class="doc-identifier">
-        <h4>{{ post.ref }}</h4>
-      </div>
-      <div class="doc-type-wrap">
-        <div class="doc-type {{ post.doctype }}">{{ post.doctype }}</div>
-      </div>
+  <div class="document row">
+    <div class="col s12 l7">
+      <h4>{{ post.ref }}</h4>
     </div>
-    <div class="doc-title">
-      <h5>{{ post.content }}</h5>
-    </div>
-    <div class="doc-info">
+    <div class="col s12 l5">
+      <div class="doc-type {{ post.doctype }}">{{ post.doctype }}</div>
       <div class="doc-stage">{{ post.stage }}</div>
       <div class="doc-dates">
         <div class="doc-updated">({{ post.date | date: "%Y-%m-%d" }})</div>
       </div>
-    </div>
-    <div class="doc-access">
-      <div class="doc-access-button-yaml">
+      <div class="right">
         <a target="_blank" href="{{ post.yaml_ref | relative_url }}">YAML</a>
       </div>
     </div>
+    <div class="col s12">
+      <h5>{{ post.content }}</h5>
+    </div>
   </div>
+  <div class="divider"></div>
 {% endfor %}
 
 <ul class="pagination">

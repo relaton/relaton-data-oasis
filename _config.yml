@@ -56,3 +56,4 @@ jekyll-index:
   favicon: 'https://www.oasis-open.org/wp-content/uploads/2020/11/cropped-2-layers@3x-32x32.png'
   source: 'index-v1.yaml'
   baseurl: 'https://raw.githubusercontent.com/relaton/relaton-data-oasis/main/'
+  add_type_to_reference: true
