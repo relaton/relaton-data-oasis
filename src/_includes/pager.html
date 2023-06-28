@@ -1,0 +1,46 @@
+
+<div class="center-align">
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      {% assign prev_class = 'waves-effect' %}
+      {% assign prev_url = paginator.previous_page_path %}
+    {% else %}
+      {% assign prev_class = 'disabled' %}
+      {% assign prev_url = '#!' %}
+    {% endif %}
+    <li class="{{ prev_class }}">
+      <a href="{{ prev_url | relative_url }}">
+        <i class="material-icons">chevron_left</i>
+      </a>
+    </li>
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        {% assign page_class = 'active' %}
+        {% assign page_url = '#!' %}
+      {% elsif page == 1 %}
+        {% assign page_class = 'waves-effect' %}
+        {% assign page_url = '/' | relative_url %}
+      {% else %}
+        {% assign page_class = 'waves-effect' %}
+        {% assign page_url = site.paginate_path | relative_url | replace: ':num', page %}
+      {% endif %}
+      <li class="{{ page_class }}">
+        <a href="{{ page_url }}">{{ page }}</a>
+      </li>
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      {% assign next_class = 'waves-effect' %}
+      {% assign next_url = paginator.next_page_path %}
+    {% else %}
+      {% assign next_class = 'disabled' %}
+      {% assign next_url = '#!' %}
+    {% endif %}
+    <li class="{{ next_class }}">
+      <a href="{{ next_url | relative_url }}">
+        <i class="material-icons">chevron_right</i>
+      </a>
+    </li>
+  </ul>
+</div>
