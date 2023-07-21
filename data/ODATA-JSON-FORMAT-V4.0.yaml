@@ -42,7 +42,7 @@ relation:
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS OData-JSON-Format-v4.0-Pt-plus-errata01
+      content: OASIS OData-JSON-Format-v4.0-plus-Errata01
       format: text/plain
 - type: hasPart
   bibitem:
@@ -52,12 +52,12 @@ relation:
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS OData-JSON-Format-v4.0-errata03
+      content: OASIS OData-JSON-Format-v4.0-Errata03
       format: text/plain
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS OData-JSON-Format-v4.0-Pt-plus-errata03
+      content: OASIS OData-JSON-Format-v4.0-plus-Errata03
       format: text/plain
 doctype: standard
 editorialgroup:

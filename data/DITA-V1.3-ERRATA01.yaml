@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.3
-id: OASISDITA-v1.3-errata01
+id: OASISDITA-v1.3-Errata01
 title:
 - content: Darwin Information Typing Architecture (DITA) Version 1.3 Errata 01
   language:
@@ -14,10 +14,10 @@ link:
   type: src
 type: standard
 docid:
-- id: OASIS DITA-v1.3-errata01
+- id: OASIS DITA-v1.3-Errata01
   type: OASIS
   primary: true
-docnumber: DITA-v1.3-errata01
+docnumber: DITA-v1.3-Errata01
 date:
 - type: issued
   value: '2016-10-25'

@@ -1,8 +1,8 @@
 ---
 schema-version: v1.2.3
-id: OASISOData-JSON-Format-v4.0-Pt-plus-errata01
+id: OASISOData-JSON-Format-v4.0-plus-Errata03
 title:
-- content: OData JSON Format Version 4.0 Plus Errata 01
+- content: OData JSON Format Version 4.0 Plus Errata 03
   language:
   - en
   script:
@@ -10,17 +10,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://docs.oasis-open.org/odata/odata-json-format/v4.0/errata01/os/odata-json-format-v4.0-errata01-os-complete.html
+- content: http://docs.oasis-open.org/odata/odata-json-format/v4.0/errata03/os/odata-json-format-v4.0-errata03-os-complete.html
   type: src
 type: standard
 docid:
-- id: OASIS OData-JSON-Format-v4.0-Pt-plus-errata01
+- id: OASIS OData-JSON-Format-v4.0-plus-Errata03
   type: OASIS
   primary: true
-docnumber: OData-JSON-Format-v4.0-Pt-plus-errata01
+docnumber: OData-JSON-Format-v4.0-plus-Errata03
 date:
 - type: issued
-  value: '2014-09-04'
+  value: '2016-06-02'
 contributor:
 - person:
     name:
@@ -50,23 +50,6 @@ contributor:
           - Latn
       surname:
         content: Pizzo
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Martin
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Zurmuehl
         language:
         - en
         script:

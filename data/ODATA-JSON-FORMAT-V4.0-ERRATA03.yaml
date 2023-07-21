@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.3
-id: OASISOData-JSON-Format-v4.0-errata03
+id: OASISOData-JSON-Format-v4.0-Errata03
 title:
 - content: OData JSON Format Version 4.0 Errata 03
   language:
@@ -14,10 +14,10 @@ link:
   type: src
 type: standard
 docid:
-- id: OASIS OData-JSON-Format-v4.0-errata03
+- id: OASIS OData-JSON-Format-v4.0-Errata03
   type: OASIS
   primary: true
-docnumber: OData-JSON-Format-v4.0-errata03
+docnumber: OData-JSON-Format-v4.0-Errata03
 date:
 - type: issued
   value: '2016-06-02'

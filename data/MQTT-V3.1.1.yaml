@@ -42,12 +42,12 @@ relation:
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS mqtt-v3.1.1-errata01
+      content: OASIS mqtt-v3.1.1-Errata01
       format: text/plain
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS mqtt-v3.1.1-plus-errata01
+      content: OASIS mqtt-v3.1.1-plus-Errata01
       format: text/plain
 doctype: standard
 editorialgroup:

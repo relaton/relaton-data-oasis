@@ -145,9 +145,9 @@
   :file: data/DITA-V1.3-PART2-TECH-CONTENT.yaml
 - :id: DITA-v1.3-part3-all-inclusive
   :file: data/DITA-V1.3-PART3-ALL-INCLUSIVE.yaml
-- :id: DITA-v1.3-errata01
+- :id: DITA-v1.3-Errata01
   :file: data/DITA-V1.3-ERRATA01.yaml
-- :id: DITA-v1.3-errata02
+- :id: DITA-v1.3-Errata02
   :file: data/DITA-V1.3-ERRATA02.yaml
 - :id: DPWS-v1.1
   :file: data/DPWS-V1.1.yaml
@@ -359,9 +359,9 @@
   :file: data/MQTT-V3.1.1.yaml
 - :id: mqtt-v3.1.1-Pt
   :file: data/MQTT-V3.1.1-PT.yaml
-- :id: mqtt-v3.1.1-errata01
+- :id: mqtt-v3.1.1-Errata01
   :file: data/MQTT-V3.1.1-ERRATA01.yaml
-- :id: mqtt-v3.1.1-plus-errata01
+- :id: mqtt-v3.1.1-plus-Errata01
   :file: data/MQTT-V3.1.1-PLUS-ERRATA01.yaml
 - :id: mqtt-v5.0
   :file: data/MQTT-V5.0.yaml
@@ -395,14 +395,14 @@
   :file: data/ODATA-JSON-FORMAT-V4.0.yaml
 - :id: OData-JSON-Format-v4.0-Pt
   :file: data/ODATA-JSON-FORMAT-V4.0-PT.yaml
-- :id: OData-JSON-Format-v4.0-Pt-plus-errata01
-  :file: data/ODATA-JSON-FORMAT-V4.0-PT-PLUS-ERRATA01.yaml
+- :id: OData-JSON-Format-v4.0-plus-Errata01
+  :file: data/ODATA-JSON-FORMAT-V4.0-PLUS-ERRATA01.yaml
 - :id: OData-JSON-Format-v4.0-plus-Errata02
   :file: data/ODATA-JSON-FORMAT-V4.0-PLUS-ERRATA02.yaml
-- :id: OData-JSON-Format-v4.0-errata03
+- :id: OData-JSON-Format-v4.0-Errata03
   :file: data/ODATA-JSON-FORMAT-V4.0-ERRATA03.yaml
-- :id: OData-JSON-Format-v4.0-Pt-plus-errata03
-  :file: data/ODATA-JSON-FORMAT-V4.0-PT-PLUS-ERRATA03.yaml
+- :id: OData-JSON-Format-v4.0-plus-Errata03
+  :file: data/ODATA-JSON-FORMAT-V4.0-PLUS-ERRATA03.yaml
 - :id: OData-JSON-Format-v4.01
   :file: data/ODATA-JSON-FORMAT-V4.01.yaml
 - :id: O-v4.0

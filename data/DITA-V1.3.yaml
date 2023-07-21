@@ -55,12 +55,12 @@ relation:
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS DITA-v1.3-errata01
+      content: OASIS DITA-v1.3-Errata01
       format: text/plain
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS DITA-v1.3-errata02
+      content: OASIS DITA-v1.3-Errata02
       format: text/plain
 doctype: standard
 editorialgroup:
