@@ -9,6 +9,17 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/biasprofile-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/biasprofile-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/biasprofile-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/cbeff.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/BIAS.wsdl
+  type: wsdl
 type: standard
 docid:
 - id: OASIS BIASPROFILE

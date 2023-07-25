@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/office/office-accessibility/v1.0/cs01/ODF_Accessibility_Guidelines-v1.0.html
+  type: src
+- content: http://docs.oasis-open.org/office/office-accessibility/v1.0/cs01/ODF_Accessibility_Guidelines-v1.0.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/office/office-accessibility/v1.0/cs01/ODF_Accessibility_Guidelines-v1.0.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS ODF-Access-Guidelines-v1.0-CS01

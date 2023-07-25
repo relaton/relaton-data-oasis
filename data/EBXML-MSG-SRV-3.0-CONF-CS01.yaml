@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/200707/ebms3-confprofiles-cs-01.html
+  type: src
+- content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/200707/ebms3-confprofiles-cs-01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/200707/ebms3-confprofiles-cs-01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS ebxml-msg-srv-3.0-conf-CS01

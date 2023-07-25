@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/uddi-spec/doc/spec/v3/uddi-v3.0.2-20041019.htm
+  type: htm
 type: standard
 docid:
 - id: OASIS UDDI-v3.0.2

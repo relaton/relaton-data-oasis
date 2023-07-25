@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/AS4-profile-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/AS4-profile-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/AS4-profile-v1.0-os.odt
+  type: odt
+- content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/examples/
+  type: src
 type: standard
 docid:
 - id: OASIS AS4-Profile
@@ -18,6 +27,57 @@ docnumber: AS4-Profile
 date:
 - type: issued
   value: '2013-01-24'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Jacques
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durand
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu America Inc.
+        contact:
+        - url: http://us.fujitsu.com/
+    contact:
+    - email: jdurand@us.fujitsu.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Pim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: van
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Sonnenglanz Consulting
+        contact:
+        - url: http://www.sonnenglanz.net/
+    contact:
+    - email: pvde@sonnenglanz.net
+  role:
+  - type: editor
 language:
 - en
 script:

@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/committees/relax-ng/compatibility-20011203.html
+  type: src
 type: standard
 docid:
 - id: OASIS relax-ng-dtd-compatibility

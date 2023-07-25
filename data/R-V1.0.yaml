@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.html
+  type: src
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.doc
+  type: doc
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/schemas/
+  type: src
 type: standard
 docid:
 - id: OASIS R-v1.0

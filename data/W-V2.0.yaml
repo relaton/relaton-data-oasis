@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/webcgm/v2.0/OS/webcgm-v2.0-index.html
+  type: src
+- content: http://docs.oasis-open.org/webcgm/v2.0/OS/webcgm-v2.0.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/webcgm/v2.0/OS/webcgm20.dtd
+  type: dtd
 type: standard
 docid:
 - id: OASIS W-v2.0

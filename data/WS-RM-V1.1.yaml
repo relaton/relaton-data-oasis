@@ -9,6 +9,17 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.1-spec-os-01-e1.html
+  type: src
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.1-spec-os-01-e1.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.1-spec-os-01-e1.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.1-schema-200702.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.1-wsdl-200702.wsdl
+  type: wsdl
 type: standard
 docid:
 - id: OASIS WS-RM-v1.1

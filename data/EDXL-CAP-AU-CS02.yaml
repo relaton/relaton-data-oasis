@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/emergency/edxl-cap1.2-au/v1.0/cs02/edxl-cap1.2-au-v1.0-cs02.html
+  type: src
+- content: http://docs.oasis-open.org/emergency/edxl-cap1.2-au/v1.0/cs02/edxl-cap1.2-au-v1.0-cs02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/emergency/edxl-cap1.2-au/v1.0/cs02/edxl-cap1.2-au-v1.0-cs02.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS EDXL-CAP-AU-CS02
@@ -19,6 +26,51 @@ docnumber: EDXL-CAP-AU-CS02
 date:
 - type: issued
   value: '2013-09-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Greg
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Trott
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Australian Government Attorney-General's Department
+        contact:
+        - url: http://www.ag.gov.au/
+    contact:
+    - email: Gregory.Trott@ag.gov.au
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Elysa
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jones
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: elysajones@yahoo.com
+  role:
+  - type: editor
 language:
 - en
 script:

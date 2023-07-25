@@ -21,24 +21,6 @@ docnumber: OSLC-AM-3.0-Part1-PS01
 date:
 - type: issued
   value: '2021-09-30'
-contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Jim
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Amsden
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:

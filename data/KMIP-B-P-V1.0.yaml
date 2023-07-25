@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/os/kmip-suite-b-profile-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/os/kmip-suite-b-profile-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/os/kmip-suite-b-profile-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS KMIP-B-P-v1.0

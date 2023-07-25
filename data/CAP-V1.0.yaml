@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/6334/oasis-200402-cap-core-1.0.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS CAP-v1.0

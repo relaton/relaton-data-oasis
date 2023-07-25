@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS SARIF-v2.1.0
@@ -18,6 +25,57 @@ docnumber: SARIF-v2.1.0
 date:
 - type: issued
   value: '2020-03-27'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: C.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - url: http://www.microsoft.com/
+    contact:
+    - email: mikefan@microsoft.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Laurence
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: J.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - url: http://www.microsoft.com
+    contact:
+    - email: v-lgold@microsoft.com
+  role:
+  - type: editor
 language:
 - en
 script:

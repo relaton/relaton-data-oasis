@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/kmip/kmip-profiles/v2.1/cs01/kmip-profiles-v2.1-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/kmip/kmip-profiles/v2.1/cs01/kmip-profiles-v2.1-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/kmip/kmip-profiles/v2.1/cs01/kmip-profiles-v2.1-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS kmip-profiles-v2.1-CS01

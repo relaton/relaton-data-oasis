@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/plcs/dexlib/cs01/oasis_cover.htm
+  type: htm
+- content: http://docs.oasis-open.org/plcs/dexlib/cs01/oasis_cover.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS PLCS-DEXLIB-VR5-CS01
@@ -18,6 +23,24 @@ docnumber: PLCS-DEXLIB-VR5-CS01
 date:
 - type: issued
   value: '2010-11-19'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Tor
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Arne
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

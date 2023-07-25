@@ -18,6 +18,82 @@ docnumber: STIX-v2.0-CS01
 date:
 - type: issued
   value: '2017-07-19'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Bret
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jordan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Symantec Corp.
+        contact:
+        - url: http://www.symantec.com/
+    contact:
+    - email: bret_jordan@symantec.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rich
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Piazza
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: rpiazza@mitre.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wunder
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: jwunder@mitre.org
+  role:
+  - type: editor
 language:
 - en
 script:

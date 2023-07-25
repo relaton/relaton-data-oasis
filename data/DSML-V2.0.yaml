@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/committees/dsml/docs/DSMLv2.xsd
+  type: xsd
 type: standard
 docid:
 - id: OASIS DSML-v2.0

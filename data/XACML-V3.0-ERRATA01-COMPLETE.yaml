@@ -38,6 +38,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Axiomatics AB
+        contact:
+        - url: http://www.axiomatics.com/
+    contact:
+    - email: erik@axiomatics.com
   role:
   - type: editor
 language:

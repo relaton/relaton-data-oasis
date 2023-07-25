@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-holder-of-key-cs-02.html
+  type: src
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-holder-of-key-cs-02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-holder-of-key-cs-02.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML-holder-of-key-assert-v1.0-CS02

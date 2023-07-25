@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/os/legalruleml-core-spec-v1.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/os/legalruleml-core-spec-v1.0-os.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/os/legalruleml-core-spec-v1.0-os.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS LegalRuleML-Core-v1.0
@@ -18,6 +25,109 @@ docnumber: LegalRuleML-Core-v1.0
 date:
 - type: issued
   value: '2021-08-30'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Guido
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Governatori
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Tara
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Athan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Harold
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Boley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Adrian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Paschke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Adam
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wyner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

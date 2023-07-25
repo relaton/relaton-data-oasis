@@ -37,6 +37,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com/
+    contact:
+    - email: msmiths@uk.ibm.com
   role:
   - type: editor
 - person:
@@ -54,6 +62,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com/
+    contact:
+    - email: brunssen@us.ibm.com
   role:
   - type: editor
 language:

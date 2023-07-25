@@ -9,6 +9,83 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-core-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-core-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-core-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-core-schema-v1.0-os.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles_german_signature_law-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles_german_signature_law-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles_german_signature_law-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-AdES-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-AdES-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-AdES-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-profiles-AdES-schema-v1.0-os.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-asynchronous_processing-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-asynchronous_processing-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-asynchronous_processing-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-profiles-asynchronous-processing-schema-v1.0-os.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-codesigning-j2me-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-codesigning-j2me-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-codesigning-j2me-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-profiles-codesigning-j2me-schema-v1.0-os.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-codesigning-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-codesigning-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-codesigning-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-profiles-codesigning-schema-v1.0-os.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-epm-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-epm-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-epm-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-profiles-epm-schema-v1.0-os.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-eseal-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-eseal-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-eseal-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-profiles-eseal-schema-v1.0-os.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-SignatureGateway-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-SignatureGateway-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-SignatureGateway-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-timestamping-spec-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-timestamping-spec-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-timestamping-spec-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/dss/v1.0/DSS-XML-SCHEMAS-v1.0-os/oasis-dss-profiles-timestamping-schema-v1.0-r1.xsd
+  type: xsd
 type: standard
 docid:
 - id: OASIS DSS-v1.0

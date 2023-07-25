@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/bdxr/xhe/v1.0/cs02/xhe-v1.0-cs02-oasis.html
+  type: src
+- content: https://docs.oasis-open.org/bdxr/xhe/v1.0/cs02/xhe-v1.0-cs02-oasis.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/bdxr/xhe/v1.0/cs02/xhe-v1.0-cs02.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS XHE-V1.0-CS02

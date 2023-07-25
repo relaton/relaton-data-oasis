@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xmile/xmile/v1.0/os/xmile-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/xmile/xmile/v1.0/os/xmile-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/xmile/xmile/v1.0/os/xmile-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS xmile-v1.0
@@ -18,6 +25,139 @@ docnumber: xmile-v1.0
 date:
 - type: issued
   value: '2015-12-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Karim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chichakly
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: isee systems inc.
+        contact:
+        - url: http://www.iseesystems.com/
+    contact:
+    - email: kchichakly@iseesystems.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Gary
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Baxter
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: garyrbaxter@yahoo.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Eberlein
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: System Dynamics Society, Inc.
+        contact:
+        - url: http://www.systemdynamics.org/
+    contact:
+    - email: bob@astutesd.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Will
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Glass-Husain
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: wglass@forio.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Powers
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bobbypowers@gmail.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schoenberg
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: isee systems inc.
+        contact:
+        - url: http://www.iseesystems.com/
+    contact:
+    - email: bschoenberg@iseesystems.com
+  role:
+  - type: editor
 language:
 - en
 script:

@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xacml/xacml-rest/v1.0/cs02/xacml-rest-v1.0-cs02.html
+  type: src
+- content: http://docs.oasis-open.org/xacml/xacml-rest/v1.0/cs02/xacml-rest-v1.0-cs02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/xacml/xacml-rest/v1.0/cs02/xacml-rest-v1.0-cs02.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS XACML-REST-v1.0-CS02
@@ -18,6 +25,32 @@ docnumber: XACML-REST-v1.0-CS02
 date:
 - type: issued
   value: '2014-11-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Rémon
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sinnema
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: EMC
+        contact:
+        - url: http://www.emc.com/
+    contact:
+    - email: remon.sinnema@emc.com
+  role:
+  - type: editor
 language:
 - en
 script:

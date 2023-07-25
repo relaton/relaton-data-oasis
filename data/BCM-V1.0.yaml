@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/committees/download.php/17942/BCM.OASIS.Specification.2006-05-01.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS BCM-v1.0

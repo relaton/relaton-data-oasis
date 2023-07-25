@@ -21,24 +21,6 @@ docnumber: OSLC-Config-1.0-Part3-PS01
 date:
 - type: issued
   value: '2022-05-30'
-contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Nick
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Crossley
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:

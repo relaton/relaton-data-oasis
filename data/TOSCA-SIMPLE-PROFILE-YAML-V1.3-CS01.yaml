@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.3/cs01/TOSCA-Simple-Profile-YAML-v1.3-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.3/cs01/TOSCA-Simple-Profile-YAML-v1.3-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.3/cs01/TOSCA-Simple-Profile-YAML-v1.3-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS TOSCA-Simple-Profile-YAML-v1.3-CS01

@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/regrep/regrep-rs/v3.0/regrep-rs-3.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/regrep/regrep-rs/v3.0/regrep-rs-3.0-os.sxw
+  type: sxw
 type: standard
 docid:
 - id: OASIS ebXML-RSP-v3.0

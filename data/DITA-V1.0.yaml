@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dita/v1.0/langspec/ditaref-type.toc.html
+  type: src
+- content: http://docs.oasis-open.org/dita/v1.0/dita-v1.0-spec-os-LanguageSpecification.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS DITA-v1.0

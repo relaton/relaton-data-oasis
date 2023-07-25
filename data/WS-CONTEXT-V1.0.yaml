@@ -9,6 +9,17 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.html
+  type: src
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.wsdl
+  type: wsdl
 type: standard
 docid:
 - id: OASIS WS-Context-v1.0

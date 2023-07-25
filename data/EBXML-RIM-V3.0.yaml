@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/regrep/regrep-rim/v3.0/regrep-rim-3.0-os.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS ebXML-RIM-v3.0

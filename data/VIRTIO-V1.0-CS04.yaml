@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/virtio/virtio/v1.0/cs04/virtio-v1.0-cs04.html
+  type: src
+- content: http://docs.oasis-open.org/virtio/virtio/v1.0/cs04/virtio-v1.0-cs04.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/virtio/virtio/v1.0/cs04/tex/
+  type: src
 type: standard
 docid:
 - id: OASIS VIRTIO-v1.0-CS04

@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xliff/v1.2/os/xliff-core.html
+  type: src
+- content: http://docs.oasis-open.org/xliff/v1.2/os/xliff-core.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS XLIFF-v1.2

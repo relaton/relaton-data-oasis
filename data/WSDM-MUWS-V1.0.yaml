@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/wsdm/2004/12/wsdm-1.0.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS WSDM-MUWS-v1.0

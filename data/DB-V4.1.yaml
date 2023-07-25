@@ -9,6 +9,37 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/docbook/sgml/4.1/docbk41.zip
+  type: zip
+- content: http://www.oasis-open.org/docbook/sgml/4.1/readme.txt
+  type: txt
+- content: http://www.oasis-open.org/docbook/sgml/4.1/41chg.txt
+  type: txt
+- content: http://www.oasis-open.org/docbook/sgml/4.1/40chg.txt
+  type: txt
+- content: http://www.oasis-open.org/docbook/sgml/4.1/50issues.txt
+  type: txt
+- content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.dtd
+  type: dtd
+- content: http://www.oasis-open.org/docbook/sgml/4.1/dbpool.mod
+  type: mod
+- content: http://www.oasis-open.org/docbook/sgml/4.1/dbhier.mod
+  type: mod
+- content: http://www.oasis-open.org/docbook/sgml/4.1/dbnotn.mod
+  type: mod
+- content: http://www.oasis-open.org/docbook/sgml/4.1/dbcent.mod
+  type: mod
+- content: http://www.oasis-open.org/docbook/sgml/4.1/dbgenent.mod
+  type: mod
+- content: http://www.oasis-open.org/docbook/sgml/4.1/cals-tbl.dtd
+  type: dtd
+- content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.dcl
+  type: dcl
+- content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.cat
+  type: cat
+- content: http://www.oasis-open.org/docbook/sgml/4.1/ChangeLog
+  type: src
 type: standard
 docid:
 - id: OASIS DB-v4.1

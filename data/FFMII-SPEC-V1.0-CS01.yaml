@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS FFMII-SPEC-v1.0-CS01
@@ -18,6 +25,32 @@ docnumber: FFMII-SPEC-v1.0-CS01
 date:
 - type: issued
   value: '2012-10-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Thinh
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nguyenphu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Siemens Networks
+        contact:
+        - url: http://www.nsn.com/
+    contact:
+    - email: thinh.nguyenphu@nsn.com
+  role:
+  - type: editor
 language:
 - en
 script:

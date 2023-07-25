@@ -9,6 +9,17 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-sx/ws-securitypolicy/v1.2/errata01/os/ws-securitypolicy-1.2-errata01-os-complete.html
+  type: src
+- content: http://docs.oasis-open.org/ws-sx/ws-securitypolicy/v1.2/errata01/os/ws-securitypolicy-1.2-errata01-os-complete.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-sx/ws-securitypolicy/v1.2/errata01/os/ws-securitypolicy-1.2-errata01-os-complete.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-sx/ws-securitypolicy/v1.2/errata01/os/schemas/ws-securitypolicy-1.2.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/ws-sx/ws-securitypolicy/v1.2/errata01/os/ws-security-policy-1.2-namespace.html
+  type: src
 type: standard
 docid:
 - id: OASIS WS-SP-v1.2

@@ -21,41 +21,6 @@ docnumber: OSLC-RM-2.1-Part2-CS01
 date:
 - type: issued
   value: '2018-08-24'
-contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Mark
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Schulte
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Jad
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: El-khoury
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:

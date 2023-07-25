@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/2290/oasis-sstc-saml-1.0.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS SAML-v1.0

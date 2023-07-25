@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.html
+  type: src
+- content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS sksml-v1.0-CS02

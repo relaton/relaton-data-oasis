@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/legalxml-courtfiling/specs/ecf/v4.01/ecf-v4.01-spec/os/ecf-v4.01-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/legalxml-courtfiling/specs/ecf/v4.01/ecf-v4.01-spec/os/ecf-v4.01-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/legalxml-courtfiling/specs/ecf/v4.01/ecf-v4.01-spec/os/ecf-v4.01-spec-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS ECF v4.01
@@ -18,6 +25,57 @@ docnumber: ECF v4.01
 date:
 - type: issued
   value: '2015-07-07'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Adam
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Angione
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Courthouse News Service
+        contact:
+        - url: http://www.courthousenews.com/
+    contact:
+    - email: aangione@courthousenews.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cabral
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MTG Management Consultants
+        contact:
+        - url: http://www.mtgmc.com/
+    contact:
+    - email: jcabral@mtgmc.com
+  role:
+  - type: editor
 language:
 - en
 script:

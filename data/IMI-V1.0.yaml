@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/imi/identity/v1.0/os/identity-1.0-spec-os.html
+  type: src
 type: standard
 docid:
 - id: OASIS IMI-v1.0

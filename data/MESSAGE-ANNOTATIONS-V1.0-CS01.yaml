@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/amqp/respann/v1.0/cs01/respann-v1.0-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS Message-Annotations-v1.0-CS01
@@ -18,6 +21,24 @@ docnumber: Message-Annotations-v1.0-CS01
 date:
 - type: issued
   value: '2021-02-16'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Rob
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Godfrey
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

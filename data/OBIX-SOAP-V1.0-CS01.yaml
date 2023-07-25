@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/obix/obix-soap/v1.0/cs01/obix-soap-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/obix/obix-soap/v1.0/cs01/obix-soap-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/obix/obix-soap/v1.0/cs01/obix-soap-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS OBIX-SOAP-v1.0-CS01
@@ -18,6 +25,559 @@ docnumber: OBIX-SOAP-v1.0-CS01
 date:
 - type: issued
   value: '2015-09-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Markus
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jung
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Institute of Computer Aided Automation, Vienna University of Technology
+        contact:
+        - url: http://www.auto.tuwien.ac.at/
+    contact:
+    - email: mjung@auto.tuwien.ac.at
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ron
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ambrosio,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Brad
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Benson,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ron
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bernstein,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ludo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bertsch,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Chris
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bogen,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rich
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Blomseth,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Anto
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Budiardjo,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Jochen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Burkhardt,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: JungIn
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Choi,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Clute,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dolin,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Marek
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Dziedzic,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Brian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Frank,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Craig
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gemmill,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Matthew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Giannini,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Christopher
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kelly,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Wonsuk
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ko,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Perry
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Krol,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Corey
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Leong,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ulf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Magnusson,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Brian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Meyers,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Jeremy
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Roberts,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Thorsten
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Roggendorf,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Anno
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Scholten,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sublett,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Dave
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Uden,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ron
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zimmer,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rob
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zivney,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Markus
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jung,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/soa-eerp/bqos/v1.0/SOA-EERP-bQoS-Spec-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/soa-eerp/bqos/v1.0/SOA-EERP-bQoS-Spec-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/soa-eerp/bqos/v1.0/SOA-EERP-bQoS-Spec-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS SOA-EERP-bQos-CS01
@@ -18,6 +25,58 @@ docnumber: SOA-EERP-bQos-CS01
 date:
 - type: issued
   value: '2010-11-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Szu
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chang,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: http://docs.oasis-open.org/ns/soa-eerp/bqos/200903
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//docs.oasis-open.org/ns/soa-eerp/bqos/200903"
+  role:
+  - type: editor
 language:
 - en
 script:

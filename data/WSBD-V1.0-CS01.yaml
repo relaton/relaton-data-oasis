@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/WSBD-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/WSBD-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/WSBD-v1.0-cs01.docx
+  type: doc
+- content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/schemas/wsbd-v1.0.xsd
+  type: xsd
 type: standard
 docid:
 - id: OASIS WSBD-v1.0-CS01
@@ -18,6 +27,57 @@ docnumber: WSBD-v1.0-CS01
 date:
 - type: issued
   value: '2017-07-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mangold
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - url: http://www.nist.gov/
+    contact:
+    - email: kevin.mangold@nist.gov
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Kayee
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hanaoka
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - url: http://www.nist.gov/
+    contact:
+    - email: kayee@nist.gov
+  role:
+  - type: editor
 language:
 - en
 script:

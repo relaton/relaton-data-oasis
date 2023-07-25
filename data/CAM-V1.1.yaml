@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/cam/v1.1/os/OASIS-CAM-Specification-1_1-015-060107.html
+  type: src
+- content: http://docs.oasis-open.org/cam/v1.1/os/OASIS-CAM-Specification-1_1-015-060107.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/cam/v1.1/os/OASIS-CAM-Specification-1_1-015-060107.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS CAM-v1.1

@@ -9,6 +9,17 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/200512/ws-trust-1.3-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/200512/ws-trust-1.3-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/200512/ws-trust-1.3-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/200512/ws-trust-1.3.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/200512/ws-trust-1.3.wsdl
+  type: wsdl
 type: standard
 docid:
 - id: OASIS WS-T-v1.3

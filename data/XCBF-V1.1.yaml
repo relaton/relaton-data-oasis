@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/committees/download.php/3353/oasis-200305-xcbf-specification-1.1.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS XCBF-v1.1

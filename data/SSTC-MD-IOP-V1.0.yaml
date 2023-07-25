@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-metadata-iop-os.html
+  type: src
+- content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-metadata-iop-os.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-metadata-iop-os.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS sstc-md-iop-v1.0

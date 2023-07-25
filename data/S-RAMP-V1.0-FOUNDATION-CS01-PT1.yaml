@@ -37,6 +37,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - url: http://www.redhat.com/
+    contact:
+    - email: kstam@redhat.com
   role:
   - type: editor
 - person:
@@ -54,6 +62,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - url: http://www.redhat.com/
+    contact:
+    - email: eric.wittmann@redhat.com
   role:
   - type: editor
 language:

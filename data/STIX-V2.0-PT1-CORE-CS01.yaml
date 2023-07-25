@@ -26,6 +26,31 @@ contributor:
     name:
       given:
         forename:
+        - content: Bret
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jordan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Symantec Corp.
+        contact:
+        - url: http://www.symantec.com/
+    contact:
+    - email: bret_jordan@symantec.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
         - content: Rich
           language:
           - en
@@ -37,6 +62,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: rpiazza@mitre.org
   role:
   - type: editor
 - person:
@@ -54,23 +87,14 @@ contributor:
         - en
         script:
         - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: and
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Bret
-        language:
-        - en
-        script:
-        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: jwunder@mitre.org
   role:
   - type: editor
 language:

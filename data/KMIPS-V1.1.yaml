@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/kmip/spec/v1.1/os/kmip-spec-v1.1-os.html
+  type: src
+- content: http://docs.oasis-open.org/kmip/spec/v1.1/os/kmip-spec-v1.1-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/kmip/spec/v1.1/os/kmip-spec-v1.1-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS KMIPS-v1.1

@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/kmip/spec/v1.3/os/kmip-spec-v1.3-os.html
+  type: src
+- content: http://docs.oasis-open.org/kmip/spec/v1.3/os/kmip-spec-v1.3-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/kmip/spec/v1.3/os/kmip-spec-v1.3-os.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS kmip-spec-v1.3
@@ -18,6 +25,57 @@ docnumber: kmip-spec-v1.3
 date:
 - type: issued
   value: '2016-12-27'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Kiran
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thota
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: VMware, Inc.
+        contact:
+        - url: http://www.vmware.com/
+    contact:
+    - email: kthota@vmware.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Tony
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cryptsoft Pty Ltd.
+        contact:
+        - url: http://www.cryptsoft.com
+    contact:
+    - email: tony.cox@cryptsoft.com
+  role:
+  - type: editor
 language:
 - en
 script:

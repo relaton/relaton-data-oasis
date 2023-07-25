@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/docbook/specs/docbook-4.5-spec.xml
+  type: xml
+- content: http://docs.oasis-open.org/docbook/specs/docbook-4.5-spec.html
+  type: src
+- content: http://docs.oasis-open.org/docbook/specs/docbook-4.5-spec.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS DB-v4.5

@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/kmip/profiles/v1.0/os/kmip-profiles-1.0-os.html
+  type: src
 type: standard
 docid:
 - id: OASIS KMIPP-v1.0

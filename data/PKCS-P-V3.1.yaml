@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/cs01/pkcs11-profiles-v3.1-cs01.docx
+  type: doc
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/cs01/pkcs11-profiles-v3.1-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/cs01/pkcs11-profiles-v3.1-cs01.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS PKCS-P-v3.1
@@ -18,6 +25,24 @@ docnumber: PKCS-P-v3.1
 date:
 - type: issued
   value: '2022-07-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Tim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hudson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

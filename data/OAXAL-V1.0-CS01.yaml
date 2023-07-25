@@ -10,6 +10,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/oaxal/V1.0/cs01/oaxal-v1.0-cs01.html
+  type: src
 type: standard
 docid:
 - id: OASIS oaxal-v1.0-CS01

@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/query/v3.0/ps01/oslc-query.html
+  type: src
+- content: https://docs.oasis-open-projects.org/oslc-op/query/v3.0/ps01/oslc-query.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS OSLC-Query-3.0-PS01

@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/14810/xml-catalogs.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS XML-C-v1.1

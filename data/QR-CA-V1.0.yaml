@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.docx
+  type: doc
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS QR-CA-v1.0
@@ -18,6 +25,24 @@ docnumber: QR-CA-v1.0
 date:
 - type: issued
   value: '2022-07-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Don
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sheppard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

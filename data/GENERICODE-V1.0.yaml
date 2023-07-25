@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/codelist/genericode/v1.0/os/genericode-v1.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/codelist/genericode/v1.0/os/genericode-v1.0-os.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/codelist/genericode/v1.0/os/genericode-v1.0-os.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS genericode-v1.0

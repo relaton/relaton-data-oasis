@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/v1.4/os/ws-secureconversation-1.4-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/v1.4/os/ws-secureconversation-1.4-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/v1.4/os/ws-secureconversation-1.4-spec-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/200512
+  type: src
 type: standard
 docid:
 - id: OASIS WS-SC-v1.4

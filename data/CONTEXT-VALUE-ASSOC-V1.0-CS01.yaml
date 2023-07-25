@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/codelist/cs01-ContextValueAssociation-1.0/doc/context-value-association.html
+  type: src
+- content: http://docs.oasis-open.org/codelist/cs01-ContextValueAssociation-1.0/doc/context-value-association.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/codelist/cs01-ContextValueAssociation-1.0/doc/context-value-association.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS context-value-assoc-v1.0-CS01

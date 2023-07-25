@@ -37,6 +37,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP SE
+        contact:
+        - url: http://www.sap.com/
+    contact:
+    - email: ralf.handl@sap.com
   role:
   - type: editor
 - person:
@@ -54,23 +62,39 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - url: http://www.microsoft.com/
+    contact:
+    - email: mikep@microsoft.com
   role:
   - type: editor
 - person:
     name:
       given:
         forename:
-        - content: and
+        - content: Mark
           language:
           - en
           script:
           - Latn
       surname:
-        content: Mark
+        content: Biamonte
         language:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Progress Software
+        contact:
+        - url: http://www.progress.com/
+    contact:
+    - email: mark.biamonte@progress.com
   role:
   - type: editor
 language:

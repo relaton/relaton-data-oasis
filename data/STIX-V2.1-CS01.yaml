@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/cti/stix/v2.1/cs01/stix-v2.1-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/cti/stix/v2.1/cs01/stix-v2.1-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/cti/stix/v2.1/cs01/stix-v2.1-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS STIX-v2.1-CS01

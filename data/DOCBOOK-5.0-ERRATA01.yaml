@@ -37,6 +37,8 @@ contributor:
         - en
         script:
         - Latn
+    contact:
+    - email: bobs@sagehill.net
   role:
   - type: editor
 language:

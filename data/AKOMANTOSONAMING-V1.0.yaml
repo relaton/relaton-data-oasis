@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS AkomaNtosoNaming-v1.0
@@ -18,6 +25,32 @@ docnumber: AkomaNtosoNaming-v1.0
 date:
 - type: issued
   value: '2019-02-21'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Véronique
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parisse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Aubay S.A.
+        contact:
+        - url: http://aubay.com/
+    contact:
+    - email: V.PARISSE@aubay.lu
+  role:
+  - type: editor
 language:
 - en
 script:

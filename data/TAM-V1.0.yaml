@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/tag/model/v1.0/os/testassertionsmodel-1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/tag/model/v1.0/os/testassertionsmodel-1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/tag/model/v1.0/os/testassertionsmodel-1.0-os.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS TAM-v1.0

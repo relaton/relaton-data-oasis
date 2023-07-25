@@ -38,6 +38,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP
+        contact:
+        - url: http://www.sap.com/
+    contact:
+    - email: florian.mueller02@sap.com
   role:
   - type: editor
 - person:
@@ -55,6 +63,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Northeastern University
+        contact:
+        - url: http://www.ccs.neu.edu/
+    contact:
+    - email: kenb@ccs.neu.edu
   role:
   - type: editor
 language:

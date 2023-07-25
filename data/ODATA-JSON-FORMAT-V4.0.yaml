@@ -18,6 +18,82 @@ docnumber: OData-JSON-Format-v4.0
 date:
 - type: issued
   value: '2014-02-24'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP AG
+        contact:
+        - url: http://www.sap.com/
+    contact:
+    - email: ralf.handl@sap.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pizzo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - url: http://www.microsoft.com/
+    contact:
+    - email: mikep@microsoft.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Biamonte
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Progress Software
+        contact:
+        - url: http://www.progress.com/
+    contact:
+    - email: mark.biamonte@progress.com
+  role:
+  - type: editor
 language:
 - en
 script:

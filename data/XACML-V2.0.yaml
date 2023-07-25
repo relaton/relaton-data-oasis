@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xacml/2.0/XACML-2.0-OS-NORMATIVE.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS XACML-v2.0

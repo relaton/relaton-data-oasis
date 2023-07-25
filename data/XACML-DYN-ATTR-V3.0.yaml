@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/xacml/xacml-3.0-dyn-attr/v1.0/cs01/xacml-3.0-dyn-attr-v1.0-cs01.docx
+  type: doc
+- content: https://docs.oasis-open.org/xacml/xacml-3.0-dyn-attr/v1.0/cs01/xacml-3.0-dyn-attr-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/xacml/xacml-3.0-dyn-attr/v1.0/cs01/xacml-3.0-dyn-attr-v1.0-cs01.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS XACML-Dyn-Attr-v3.0

@@ -21,24 +21,6 @@ docnumber: OSLC-Attachments-3.0-Pt5
 date:
 - type: issued
   value: '2021-08-26'
-contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Jim
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Amsden
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:

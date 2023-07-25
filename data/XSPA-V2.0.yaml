@@ -10,6 +10,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xacml/xspa/v1.0/xacml-xspa-1.0-os.html
+  type: src
 type: standard
 docid:
 - id: OASIS XSPA-v2.0

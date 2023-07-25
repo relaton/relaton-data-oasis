@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dss-x/localsig/v1.0/cs02/localsig-v1.0-cs02.html
+  type: src
+- content: http://docs.oasis-open.org/dss-x/localsig/v1.0/cs02/localsig-v1.0-cs02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss-x/localsig/v1.0/cs02/localsig-v1.0-cs02.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS localsig-v1.0-CS02

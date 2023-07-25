@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xacml/3.0/ipc/v1.0/os/xacml-3.0-ipc-v1.0-os-en.html
+  type: src
+- content: http://docs.oasis-open.org/xacml/3.0/ipc/v1.0/os/xacml-3.0-ipc-v1.0-os-en.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/xacml/3.0/ipc/v1.0/os/xacml-3.0-ipc-v1.0-os-en.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS IPC-v1.0

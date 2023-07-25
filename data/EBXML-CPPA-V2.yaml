@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/ebxml-cppa/documents/ebcpp-2.0.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS ebXML-CPPA-v2

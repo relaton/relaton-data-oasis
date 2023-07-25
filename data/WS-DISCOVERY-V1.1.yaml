@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-dd/discovery/1.1/os/wsdd-discovery-1.1-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-dd/discovery/1.1/os/wsdd-discovery-1.1-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-dd/discovery/1.1/os/wsdd-discovery-1.1-spec-os.docx
+  type: doc
+- content: http://docs.oasis-open.org/ws-dd/ns/discovery/2009/01
+  type: src
 type: standard
 docid:
 - id: OASIS WS-Discovery-v1.1

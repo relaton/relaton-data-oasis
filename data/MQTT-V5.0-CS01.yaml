@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/mqtt/mqtt/v5.0/cs01/mqtt-v5.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/mqtt/mqtt/v5.0/cs01/mqtt-v5.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/mqtt/mqtt/v5.0/cs01/mqtt-v5.0-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS mqtt-v5.0-CS01
@@ -18,6 +25,107 @@ docnumber: mqtt-v5.0-CS01
 date:
 - type: issued
   value: '2017-12-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Banks
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com
+    contact:
+    - email: andrew_banks@uk.ibm.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ed
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Briggs
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - url: http://www.microsoft.com
+    contact:
+    - email: edbriggs@microsoft.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ken
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Borgendale
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com
+    contact:
+    - email: kwb@us.ibm.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rahul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gupta
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com
+    contact:
+    - email: rahul.gupta@us.ibm.com
+  role:
+  - type: editor
 language:
 - en
 script:

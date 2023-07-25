@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dita/v1.1/OS/overview/overview.html
+  type: src
 type: standard
 docid:
 - id: OASIS DITA-v1.1

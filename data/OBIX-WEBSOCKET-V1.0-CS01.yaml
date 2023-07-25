@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS OBIX-WebSocket-v1.0-CS01
@@ -18,6 +25,32 @@ docnumber: OBIX-WebSocket-v1.0-CS01
 date:
 - type: issued
   value: '2015-09-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Matthias
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hub
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com/
+    contact:
+    - email: matthias.hub@de.ibm.com
+  role:
+  - type: editor
 language:
 - en
 script:

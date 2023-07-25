@@ -37,6 +37,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com/
+    contact:
+    - email: Andrew_Banks@uk.ibm.com
   role:
   - type: editor
 - person:
@@ -54,6 +62,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com/
+    contact:
+    - email: rahul.gupta@us.ibm.com
   role:
   - type: editor
 language:

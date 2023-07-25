@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.html
+  type: src
+- content: http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS WSBPEL-v2.0

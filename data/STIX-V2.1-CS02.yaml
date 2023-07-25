@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/cti/stix/v2.1/cs02/stix-v2.1-cs02.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS STIX-v2.1-CS02
@@ -18,6 +21,58 @@ docnumber: STIX-v2.1-CS02
 date:
 - type: issued
   value: '2021-01-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Bret
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jordan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rich
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Piazza
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Trey
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Darley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

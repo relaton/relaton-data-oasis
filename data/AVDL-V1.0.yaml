@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/7144/AVDL%20Specification%20V1.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS AVDL-v1.0

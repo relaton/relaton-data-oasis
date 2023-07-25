@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/dss-x/dss-md/v1.0/cs02/dss-md-v1.0-cs02.html
+  type: src
+- content: https://docs.oasis-open.org/dss-x/dss-md/v1.0/cs02/dss-md-v1.0-cs02.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/dss-x/dss-md/v1.0/cs02/dss-md-v1.0-cs02.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS DSS-MD-v1.0-CS02

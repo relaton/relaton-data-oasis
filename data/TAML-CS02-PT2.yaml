@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/tag/taml/v1.0/cs02/testassertionmarkuplanguage-1.0-cs02.html
+  type: src
+- content: http://docs.oasis-open.org/tag/taml/v1.0/cs02/testassertionmarkuplanguage-1.0-cs02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/tag/taml/v1.0/cs02/testassertionmarkuplanguage-1.0-cs02.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS TAML-CS02-Pt2

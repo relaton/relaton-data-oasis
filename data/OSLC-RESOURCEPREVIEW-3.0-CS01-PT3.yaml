@@ -21,24 +21,6 @@ docnumber: OSLC-ResourcePreview-3.0-CS01-Pt3
 date:
 - type: issued
   value: '2017-04-04'
-contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Jim
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Amsden
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:

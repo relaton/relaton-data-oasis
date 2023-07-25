@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS TOSCA-v1.0

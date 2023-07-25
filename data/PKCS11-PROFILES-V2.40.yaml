@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/pkcs11/pkcs11-profiles/v2.40/os/pkcs11-profiles-v2.40-os.html
+  type: src
+- content: http://docs.oasis-open.org/pkcs11/pkcs11-profiles/v2.40/os/pkcs11-profiles-v2.40-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/pkcs11/pkcs11-profiles/v2.40/os/pkcs11-profiles-v2.40-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS PKCS11-Profiles-v2.40
@@ -18,6 +25,32 @@ docnumber: PKCS11-Profiles-v2.40
 date:
 - type: issued
   value: '2015-04-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Tim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hudson
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cryptsoft Pty Ltd.
+        contact:
+        - url: http://cryptsoft.com/
+    contact:
+    - email: tjh@cryptsoft.com
+  role:
+  - type: editor
 language:
 - en
 script:

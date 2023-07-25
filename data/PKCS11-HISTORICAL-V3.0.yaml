@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-hist/v3.0/os/pkcs11-hist-v3.0-os.docx
+  type: doc
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-hist/v3.0/os/pkcs11-hist-v3.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-hist/v3.0/os/pkcs11-hist-v3.0-os.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS PKCS11-Historical-v3.0

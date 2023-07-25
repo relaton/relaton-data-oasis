@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/emix/emix/v1.0/cs02/emix-v1.0-cs02.html
+  type: src
+- content: http://docs.oasis-open.org/emix/emix/v1.0/cs02/emix-v1.0-cs02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/emix/emix/v1.0/cs02/emix-v1.0-cs02.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS EMIX-v1.0-CS02
@@ -18,6 +25,104 @@ docnumber: EMIX-v1.0-CS02
 date:
 - type: issued
   value: '2012-01-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of North Carolina at Chapel Hill
+        contact:
+        - url: http://www.unc.edu/
+    contact:
+    - email: Toby.Considine@unc.edu
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: http://docs.oasis-open.org/ns/emix/2011/06
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//docs.oasis-open.org/ns/emix/2011/06"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: http://docs.oasis-open.org/ns/emix/2011/06/siscale
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//docs.oasis-open.org/ns/emix/2011/06/siscale"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: http://docs.oasis-open.org/ns/emix/2011/06/power
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//docs.oasis-open.org/ns/emix/2011/06/power"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: http://docs.oasis-open.org/ns/emix/2011/06/power/resource
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//docs.oasis-open.org/ns/emix/2011/06/power/resource"
+  role:
+  - type: editor
 language:
 - en
 script:

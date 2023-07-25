@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/saf/saf/v1.0/os/saf-v1.0-os.html
+  type: src
 type: standard
 docid:
 - id: OASIS SAF-v1.0

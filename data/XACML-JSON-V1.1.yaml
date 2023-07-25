@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/xacml/xacml-json-http/v1.1/os/xacml-json-http-v1.1-os.html
+  type: src
+- content: https://docs.oasis-open.org/xacml/xacml-json-http/v1.1/os/xacml-json-http-v1.1-os.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/xacml/xacml-json-http/v1.1/os/xacml-json-http-v1.1-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS xacml-json-v1.1
@@ -18,6 +25,76 @@ docnumber: xacml-json-v1.1
 date:
 - type: issued
   value: '2019-06-20'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Brossard
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Axiomatics AB
+        contact:
+        - url: http://www.axiomatics.com/
+    contact:
+    - email: david.brossard@axiomatics.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Steven
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Legg
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: steven.legg@viewds.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: "·        "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: eXtensible
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-en.html
+        contact:
+        - url: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-en.html
+    contact:
+    - email: "//docs.oasis-open.org/xacml/3.0/errata01/os/xacml-3.0-core-spec-errata01-os-complete.html"
+  role:
+  - type: editor
 language:
 - en
 script:

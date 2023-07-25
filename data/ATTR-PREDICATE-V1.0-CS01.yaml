@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-attr-predicate/v1.0/cs01/sstc-saml-attr-predicate-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-attr-predicate/v1.0/cs01/sstc-saml-attr-predicate-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-attr-predicate/v1.0/cs01/sstc-saml-attr-predicate-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS Attr-Predicate-V1.0-CS01
@@ -18,6 +25,32 @@ docnumber: Attr-Predicate-V1.0-CS01
 date:
 - type: issued
   value: '2011-11-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Franz-Stefan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Preiss
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.zurich.ibm.com/
+    contact:
+    - email: FRP@zurich.ibm.com
+  role:
+  - type: editor
 language:
 - en
 script:

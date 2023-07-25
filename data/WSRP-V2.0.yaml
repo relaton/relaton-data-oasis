@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/wsrp/v2/wsrp-2.0-spec-os-01.html
+  type: src
+- content: http://docs.oasis-open.org/wsrp/v2/wsrp-2.0-spec-os-01.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS WSRP-v2.0

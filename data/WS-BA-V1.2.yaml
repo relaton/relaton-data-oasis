@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os/wstx-wsba-1.2-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-tx/wsba/2006/06
+  type: src
 type: standard
 docid:
 - id: OASIS WS-BA-v1.2

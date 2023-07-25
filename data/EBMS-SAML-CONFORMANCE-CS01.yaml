@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ebxml-msg/ebms-v3.0-saml-conformance/v1.0/cs01/ebms-v3.0-saml-conformance-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/ebxml-msg/ebms-v3.0-saml-conformance/v1.0/cs01/ebms-v3.0-saml-conformance-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ebxml-msg/ebms-v3.0-saml-conformance/v1.0/cs01/ebms-v3.0-saml-conformance-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS ebMS-saml-conformance-CS01
@@ -18,6 +25,256 @@ docnumber: ebMS-saml-conformance-CS01
 date:
 - type: issued
   value: '2014-01-30'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Ian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Otto
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Australian Department of Industry
+        contact:
+        - url: http://www.industry.gov.au/
+    contact:
+    - email: Ian.Otto@industry.gov.au
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Sander
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fieten
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: sander@fieten-it.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Makesh
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rao
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco Systems, Inc.
+        contact:
+        - url: http://www.cisco.com/
+    contact:
+    - email: marao@cisco.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Otto
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Australian Dept. of Industry, Innovation, Climate Change, Science,
+            Research & Tertiary Education
+        contact:
+        - url: http://www.innovation.gov.au/
+    contact:
+    - email: Ian.Otto@innovation.gov.au
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Theo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kramer
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Flame Computing Enterprises
+        contact:
+        - url: http://www.flame.co.za/
+    contact:
+    - email: theo@flame.co.za
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Dale
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Moberg
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Axway Software
+        contact:
+        - url: http://www.axway.com/
+    contact:
+    - email: dmoberg@us.axway.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Pim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: van
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Sonnenglanz Consulting
+        contact:
+        - url: http://www.sonnenglanz.net/
+    contact:
+    - email: pvde@sonnenglanz.net
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Jacques
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durand
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu America Inc.
+        contact:
+        - url: http://us.fujitsu.com/
+    contact:
+    - email: jdurand@us.fujitsu.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Malcolm
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Young,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//www.industry.gov.au/"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Leditscke,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//ato.gov.au/"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

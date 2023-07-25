@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.2-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.2-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702/wsrm-1.2-spec-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-rx/wsrm/200702
+  type: src
 type: standard
 docid:
 - id: OASIS WSRM-v1.2

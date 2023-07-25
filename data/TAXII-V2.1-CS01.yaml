@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/cti/taxii/v2.1/cs01/taxii-v2.1-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/cti/taxii/v2.1/cs01/taxii-v2.1-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/cti/taxii/v2.1/cs01/taxii-v2.1-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS TAXII-v2.1-CS01

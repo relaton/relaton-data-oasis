@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/legalxml-courtfiling/ecf-webservices/v5.0/cs01/ecf-webservices-v5.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/legalxml-courtfiling/ecf-webservices/v5.0/cs01/ecf-webservices-v5.0-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/legalxml-courtfiling/ecf-webservices/v5.0/cs01/ecf-webservices-v5.0-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS ECF-WS-SIP-v5.0-CS01
@@ -19,6 +26,57 @@ docnumber: ECF-WS-SIP-v5.0-CS01
 date:
 - type: issued
   value: '2019-04-24'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cabral
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MTG Management Consultants
+        contact:
+        - url: http://mtgmc.com/
+    contact:
+    - email: jcabral@mtgmc.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Gary
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Graham
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Arizona Supreme Court
+        contact:
+        - url: http://www.azcourts.gov/
+    contact:
+    - email: GGraham@courts.az.gov
+  role:
+  - type: editor
 language:
 - en
 script:

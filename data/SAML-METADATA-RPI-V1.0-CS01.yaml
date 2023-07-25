@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml/Post2.0/saml-metadata-rpi/v1.0/cs01/saml-metadata-rpi-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/security/saml/Post2.0/saml-metadata-rpi/v1.0/cs01/saml-metadata-rpi-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/security/saml/Post2.0/saml-metadata-rpi/v1.0/cs01/saml-metadata-rpi-v1.0-cs01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML-Metadata-RPI-v1.0-CS01
@@ -19,6 +26,32 @@ docnumber: SAML-Metadata-RPI-v1.0-CS01
 date:
 - type: issued
   value: '2012-04-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Chad
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: La
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Internet2
+        contact:
+        - url: http://www.internet2.edu/
+    contact:
+    - email: lajoie@itumi.biz
+  role:
+  - type: editor
 language:
 - en
 script:

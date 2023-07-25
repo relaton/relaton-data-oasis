@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dita/v1.2/os/spec/DITA1.2-spec.html
+  type: src
+- content: http://docs.oasis-open.org/dita/v1.2/os/spec/DITA1.2-spec.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dita/v1.2/os/spec/DITA1.2-spec-chm.zip
+  type: zip
+- content: http://docs.oasis-open.org/dita/v1.2/os/spec/DITA1.2-spec.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS DITA-v1.2

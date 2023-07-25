@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/errata/edxl-have-v1.0-os-errata-os.html
+  type: src
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/errata/edxl-have-v1.0-os-errata-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/errata/edxl-have-v1.0-os-errata-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/edxl-have.xsd
+  type: xsd
 type: standard
 docid:
 - id: OASIS EDXL

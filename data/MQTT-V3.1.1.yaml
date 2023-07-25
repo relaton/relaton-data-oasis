@@ -18,6 +18,57 @@ docnumber: mqtt-v3.1.1
 date:
 - type: issued
   value: '2014-10-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Banks
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com/
+    contact:
+    - email: Andrew_Banks@uk.ibm.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rahul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Gupta
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - url: http://www.ibm.com/
+    contact:
+    - email: rahul.gupta@us.ibm.com
+  role:
+  - type: editor
 language:
 - en
 script:

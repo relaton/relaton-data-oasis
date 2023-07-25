@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml1x-metadata-os.html
+  type: src
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml1x-metadata-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml1x-metadata-os.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML

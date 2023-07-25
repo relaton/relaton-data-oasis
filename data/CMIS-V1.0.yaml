@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/cmis/CMIS/v1.0/os/cmis-spec-v1.0.html
+  type: src
 type: standard
 docid:
 - id: OASIS CMIS-v1.0

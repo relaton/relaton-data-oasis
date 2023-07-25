@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/etmf/etmf/v1.0/cs01/etmf-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/etmf/etmf/v1.0/cs01/etmf-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/etmf/etmf/v1.0/cs01/etmf-v1.0-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS eTMF-v1.0-CS01
@@ -18,6 +25,272 @@ docnumber: eTMF-v1.0-CS01
 date:
 - type: issued
   value: '2016-10-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Aliaa
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Badr
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CareLex
+        contact:
+        - url: http://www.carelex.org/
+    contact:
+    - email: abadr@carelex.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Jennifer
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Alpert
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CareLex
+        contact:
+        - url: http://www.carelex.org/
+    contact:
+    - email: jalpert@carelex.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rich
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lustig
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - url: http://www.oracle.com/index.html
+    contact:
+    - email: rich.lustig@oracle.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Catherine
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schmidt
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SterlingBio
+        contact:
+        - url: http://www.sterlingbio.com
+    contact:
+    - email: cms@SterlingBio.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Zack
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schmidt
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SureClinical
+        contact:
+        - url: http://www.sureclinical.com/
+    contact:
+    - email: zs@sureclinical.net
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Airat
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sadreev,
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SureClinical
+        contact:
+        - url: http://www.sureclinical.com/
+    contact:
+    - email: airat@sureclinical.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Troy
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jacobson,
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Forte Research Systems
+        contact:
+        - url: http://forteresearch.com/
+    contact:
+    - email: troy.jacobson@forteresearch.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Prabhat
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vatsal
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Next Docs
+        contact:
+        - url: http://www.nextdocs.com/
+    contact:
+    - email: "///C"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: The
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Technical
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

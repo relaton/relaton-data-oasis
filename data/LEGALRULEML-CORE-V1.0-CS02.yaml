@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/cs02/legalruleml-core-spec-v1.0-cs02.html
+  type: src
+- content: http://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/cs02/legalruleml-core-spec-v1.0-cs02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/cs02/legalruleml-core-spec-v1.0-cs02.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS LegalRuleML-Core-v1.0-CS02
@@ -18,6 +25,117 @@ docnumber: LegalRuleML-Core-v1.0-CS02
 date:
 - type: issued
   value: '2020-04-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Tara
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Athan,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Harold
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Boley,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//www.ruleml.org/"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Guido
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Governatori,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//www.cirsfid.unibo.it/"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Adrian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Paschke,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//www.ruleml.org/"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Adam
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wyner,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//www.abdn.ac.uk/"
+  role:
+  - type: editor
 language:
 - en
 script:

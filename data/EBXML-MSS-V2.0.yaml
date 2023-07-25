@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/ebxml-msg/documents/ebMS_v2_0.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS ebXML-MSS-v2.0

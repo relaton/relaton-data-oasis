@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/17833/wsrf-1.2-os.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS WSRF-v1.2

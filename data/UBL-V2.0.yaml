@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ubl/os-UBL-2.0/UBL-2.0.html
+  type: src
 type: standard
 docid:
 - id: OASIS UBL-v2.0

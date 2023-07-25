@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-brsp/ReliableSecureProfile/v1.0/cs01/ReliableSecureProfile-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/ws-brsp/ReliableSecureProfile/v1.0/cs01/ReliableSecureProfile-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-brsp/ReliableSecureProfile/v1.0/cs01/ReliableSecureProfile-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS ReliableSecureProfile-v1.0-CS01
@@ -18,6 +25,107 @@ docnumber: ReliableSecureProfile-v1.0-CS01
 date:
 - type: issued
   value: '2014-06-16'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jeyaraman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - url: http://www.microsoft.com/
+    contact:
+    - email: Ram.Jeyaraman@microsoft.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Tom
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rutt
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu Limited
+        contact:
+        - url: http://www.fujitsu.com/
+    contact:
+    - email: trutt@us.fujitsu.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Jacques
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durand
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu Limited
+        contact:
+        - url: http://www.fujitsu.com/
+    contact:
+    - email: jdurand@us.fujitsu.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Micah
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hainline
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Asynchrony Solutions, Inc.
+        contact:
+        - url: http://www.asolutions.com/
+    contact:
+    - email: micah.hainline@asolutions.com
+  role:
+  - type: editor
 language:
 - en
 script:

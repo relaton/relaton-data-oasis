@@ -37,6 +37,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: JPMorgan Chase & Co.
+        contact:
+        - url: http://www.jpmorganchase.com
+    contact:
+    - email: robert.godfrey@jpmorgan.com
   role:
   - type: editor
 - person:
@@ -54,23 +62,39 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - url: http://www.microsoft.com
+    contact:
+    - email: David.Ingham@microsoft.com
   role:
   - type: editor
 - person:
     name:
       given:
         forename:
-        - content: and
+        - content: Rafael
           language:
           - en
           script:
           - Latn
       surname:
-        content: Rafael
+        content: Schloming
         language:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - url: http://www.redhat.com
+    contact:
+    - email: rafaels@redhat.com
   role:
   - type: editor
 language:

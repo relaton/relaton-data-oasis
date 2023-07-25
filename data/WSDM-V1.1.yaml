@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/wsdm/wsdm-muws1-1.1-spec-os-01.htm
+  type: htm
+- content: http://docs.oasis-open.org/wsdm/wsdm-muws1-1.1-spec-os-01.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS WSDM-v1.1

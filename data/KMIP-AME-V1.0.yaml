@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/os/kmip-addtl-msg-enc-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/os/kmip-addtl-msg-enc-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/os/kmip-addtl-msg-enc-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS KMIP-AME-v1.0

@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/specs/tm9901.html
+  type: src
+- content: https://www.oasis-open.org/specs/tm9901.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS xml-exchg-table
@@ -18,6 +23,24 @@ docnumber: xml-exchg-table
 date:
 - type: issued
   value: '1999-09-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Norman
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

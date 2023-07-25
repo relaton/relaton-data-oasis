@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/15135/emergency-CAPv1.1-Corrected_DOM.pdf
+  type: pdf
+- content: http://www.oasis-open.org/committees/download.php/15134/emergency-CAPv1.1-Corrected_DOM.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS CAP-v1.1

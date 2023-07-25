@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/os/sqrap-v1.0-os.docx
+  type: doc
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/os/sqrap-v1.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/os/sqrap-v1.0-os.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS SQRAP-v1.0
@@ -18,6 +25,24 @@ docnumber: SQRAP-v1.0
 date:
 - type: issued
   value: '2022-10-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Don
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sheppard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

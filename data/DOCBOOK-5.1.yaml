@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/docbook/docbook/v5.1/os/docbook-v5.1-os.html
+  type: src
+- content: http://docs.oasis-open.org/docbook/docbook/v5.1/os/docbook-v5.1-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/docbook/docbook/v5.1/os/docbook-v5.1-os.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS DocBook-5.1

@@ -21,24 +21,6 @@ docnumber: DocBook-5.0-Pt
 date:
 - type: issued
   value: '2009-11-01'
-contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Norman
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Walsh
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:

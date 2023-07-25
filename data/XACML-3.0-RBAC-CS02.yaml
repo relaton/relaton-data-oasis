@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xacml/3.0/rbac/v1.0/cs02/xacml-3.0-rbac-v1.0-cs02.html
+  type: src
+- content: http://docs.oasis-open.org/xacml/3.0/rbac/v1.0/cs02/xacml-3.0-rbac-v1.0-cs02.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/xacml/3.0/rbac/v1.0/cs02/xacml-3.0-rbac-v1.0-cs02.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS XACML-3.0-RBAC-CS02
@@ -19,6 +26,32 @@ docnumber: XACML-3.0-RBAC-CS02
 date:
 - type: issued
   value: '2014-10-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Erik
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rissanen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Axiomatics
+        contact:
+        - url: http://www.axiomatics.com/
+    contact:
+    - email: erik@axiomatics.com
+  role:
+  - type: editor
 language:
 - en
 script:

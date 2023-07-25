@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/sdd/v1.0/os/sdd-spec-v1.0-os.html
+  type: src
 type: standard
 docid:
 - id: OASIS SDDS1.0

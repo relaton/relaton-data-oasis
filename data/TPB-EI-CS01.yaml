@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/energyinterop/tpb-ei/v1.0/cs01/tpb-ei-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/energyinterop/tpb-ei/v1.0/cs01/tpb-ei-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/energyinterop/tpb-ei/v1.0/cs01/tpb-ei-v1.0-cs01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS TPB-EI-CS01

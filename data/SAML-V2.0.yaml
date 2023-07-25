@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml/v2.0/saml-2.0-os.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS SAML-v2.0

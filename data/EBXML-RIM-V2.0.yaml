@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/regrep/documents/2.0/specs/ebrim.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS ebXML-RIM-v2.0

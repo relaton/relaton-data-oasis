@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/specs/a401.htm
+  type: htm
+- content: https://www.oasis-open.org/specs/a401.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS entity-mgmt
@@ -18,6 +23,24 @@ docnumber: entity-mgmt
 date:
 - type: issued
   value: '1997-09-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Grosso
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

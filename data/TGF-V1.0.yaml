@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS TGF-v1.0

@@ -21,24 +21,6 @@ docnumber: OSLC-Dialogs-3.0-PS01-Pt4
 date:
 - type: issued
   value: '2020-09-17'
-contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Jim
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Amsden
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:

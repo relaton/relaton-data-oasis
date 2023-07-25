@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/bdxr/xhe/v1.0/os/xhe-v1.0-os.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS XHE-V1.0

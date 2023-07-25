@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/18158/EML%20v4.0%20-%20OASIS%20Standard.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS EML-v4.0

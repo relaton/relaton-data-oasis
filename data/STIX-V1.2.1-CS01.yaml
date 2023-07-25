@@ -18,6 +18,107 @@ docnumber: STIX-v1.2.1-CS01
 date:
 - type: issued
   value: '2016-05-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Sean
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barnum
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: sbarnum@mitre.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Desiree
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Beck
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: dbeck@mitre.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Aharon
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chernin
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Soltra
+        contact:
+        - url: http://www.soltra.com/
+    contact:
+    - email: achernin@soltra.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rich
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Piazza
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: rpiazza@mitre.org
+  role:
+  - type: editor
 language:
 - en
 script:

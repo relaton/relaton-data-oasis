@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/security/saml-subject-id-attr/v1.0/cs01/saml-subject-id-attr-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/security/saml-subject-id-attr/v1.0/cs01/saml-subject-id-attr-v1.0-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/security/saml-subject-id-attr/v1.0/cs01/saml-subject-id-attr-v1.0-cs01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML-SubjectID-v1.0-CS01
@@ -18,6 +25,142 @@ docnumber: SAML-SubjectID-v1.0-CS01
 date:
 - type: issued
   value: '2019-01-16'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Scott
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cantor,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hardjono,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Mohammad
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jafari,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Hal
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lockhart,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Madalina
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sultan,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Contributors
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: to
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Past
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: contributors
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

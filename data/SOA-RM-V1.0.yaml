@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/soa-rm/v1.0/soa-rm.html
+  type: src
+- content: http://docs.oasis-open.org/soa-rm/v1.0/soa-rm.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/soa-rm/v1.0/soa-rm.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS SOA-RM-v1.0

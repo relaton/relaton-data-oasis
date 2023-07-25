@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/committees/ballot.php?id=3678
+  type: src
 type: standard
 docid:
 - id: OASIS OSLC-QM-2.1

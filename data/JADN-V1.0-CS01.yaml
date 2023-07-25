@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/openc2/jadn/v1.0/cs01/jadn-v1.0-cs01.md
+  type: md
+- content: https://docs.oasis-open.org/openc2/jadn/v1.0/cs01/jadn-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/openc2/jadn/v1.0/cs01/jadn-v1.0-cs01.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS JADN-v1.0-CS01
@@ -19,6 +26,24 @@ docnumber: JADN-v1.0-CS01
 date:
 - type: issued
   value: '2021-08-17'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kemp
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:

@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/odata/repeatable-requests/v1.0/cs01/repeatable-requests-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/odata/repeatable-requests/v1.0/cs01/repeatable-requests-v1.0-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/odata/repeatable-requests/v1.0/cs01/repeatable-requests-v1.0-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS RepeatableRequests-v1.0-CS01
@@ -18,6 +25,32 @@ docnumber: RepeatableRequests-v1.0-CS01
 date:
 - type: issued
   value: '2020-07-07'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Evan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ireland
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP SE
+        contact:
+        - url: http://www.sap.com/
+    contact:
+    - email: evan.ireland@sap.com
+  role:
+  - type: editor
 language:
 - en
 script:

@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1.odt
+  type: odt
+- content: http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1-html/OpenDocument-v1.1.html
+  type: src
 type: standard
 docid:
 - id: OASIS OpenDocument-v1.1

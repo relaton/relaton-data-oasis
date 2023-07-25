@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/energyinterop/ei/v1.0/os/energyinterop-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/energyinterop/ei/v1.0/os/energyinterop-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/energyinterop/ei/v1.0/os/energyinterop-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS EnergyInterop-v1.0
@@ -18,6 +25,32 @@ docnumber: EnergyInterop-v1.0
 date:
 - type: issued
   value: '2014-06-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of North Carolina at Chapel Hill
+        contact:
+        - url: http://www.unc.edu/
+    contact:
+    - email: toby.considine@unc.edu
+  role:
+  - type: editor
 language:
 - en
 script:

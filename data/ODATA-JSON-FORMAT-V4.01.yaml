@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/odata/odata-json-format/v4.01/os/odata-json-format-v4.01-os.html
+  type: src
+- content: http://docs.oasis-open.org/odata/odata-json-format/v4.01/os/odata-json-format-v4.01-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/odata/odata-json-format/v4.01/os/odata-json-format-v4.01-os.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS OData-JSON-Format-v4.01

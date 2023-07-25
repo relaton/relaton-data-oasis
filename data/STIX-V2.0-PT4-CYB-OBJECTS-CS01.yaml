@@ -37,6 +37,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Kingfisher Operations, sprl
+        contact:
+        - url: https://kingfisherops.com/
+    contact:
+    - email: trey@kingfisherops.com
   role:
   - type: editor
 - person:
@@ -54,6 +62,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - url: http://www.mitre.org/
+    contact:
+    - email: ikirillov@mitre.org
   role:
   - type: editor
 language:
