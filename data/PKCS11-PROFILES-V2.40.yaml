@@ -26,6 +26,63 @@ date:
 - type: issued
   value: '2015-04-14'
 contributor:
+- organization:
+    name:
+    - content: OASIS PKCS 11 TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/pkcs11/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Griffin
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: EMC Corporation
+        contact:
+        - uri: http://www.emc.com/
+    contact:
+    - email: robert.griffin@rsa.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Valerie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fenwick
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: valerie.fenwick@oracle.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +103,7 @@ contributor:
         name:
         - content: Cryptsoft Pty Ltd.
         contact:
-        - url: http://cryptsoft.com/
+        - uri: http://cryptsoft.com/
     contact:
     - email: tjh@cryptsoft.com
   role:

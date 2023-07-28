@@ -26,6 +26,14 @@ docnumber: OpenDocument-v1.1
 date:
 - type: issued
   value: '2007-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/office
+  role:
+  - type: publisher
 language:
 - en
 script:

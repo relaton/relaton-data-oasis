@@ -18,6 +18,14 @@ docnumber: ebXML-RR-v4.0
 date:
 - type: issued
   value: '2012-01-26'
+contributor:
+- organization:
+    name:
+    - content: OASIS ebXML Registry TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/regrep/
+  role:
+  - type: publisher
 language:
 - en
 script:

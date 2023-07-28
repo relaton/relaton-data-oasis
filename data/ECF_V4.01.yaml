@@ -26,6 +26,63 @@ date:
 - type: issued
   value: '2015-07-07'
 contributor:
+- organization:
+    name:
+    - content: OASIS LegalXML Electronic Court Filing TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/legalxml-courtfiling/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cabral
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MTG Management Consultants
+        contact:
+        - uri: http://mtgmc.com/
+    contact:
+    - email: jcabral@mtgmc.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Jim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Harris
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: National Center for State Courts
+        contact:
+        - uri: http://www.ncsc.org/
+    contact:
+    - email: jharris@ncsc.org
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +103,7 @@ contributor:
         name:
         - content: Courthouse News Service
         contact:
-        - url: http://www.courthousenews.com/
+        - uri: http://www.courthousenews.com/
     contact:
     - email: aangione@courthousenews.com
   role:
@@ -71,7 +128,7 @@ contributor:
         name:
         - content: MTG Management Consultants
         contact:
-        - url: http://www.mtgmc.com/
+        - uri: http://www.mtgmc.com/
     contact:
     - email: jcabral@mtgmc.com
   role:

@@ -18,6 +18,14 @@ docnumber: OSLC-PS02
 date:
 - type: issued
   value: '2021-04-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+    contact:
+    - uri: https://open-services.net/
+  role:
+  - type: publisher
 language:
 - en
 script:

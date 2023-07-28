@@ -26,6 +26,32 @@ date:
 - type: issued
   value: '2009-05-01'
 contributor:
+- organization:
+    name:
+    - content: OASIS User Interface Markup Language (UIML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/uiml/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Helms,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: jhelms@harmonia.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:

@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2021-02-14'
 contributor:
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - type: publisher
 - person:
     name:
       given:

@@ -27,6 +27,47 @@ date:
 - type: issued
   value: '2010-11-01'
 contributor:
+- organization:
+    name:
+    - content: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xspa
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Staggs,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Anil
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Saldhana,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
 - person:
     name:
       given:

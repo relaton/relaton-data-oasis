@@ -25,6 +25,14 @@ docnumber: TAML-CS02-Pt2
 date:
 - type: issued
   value: '2011-12-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Test Assertions Guidelines (TAG) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tag/
+  role:
+  - type: publisher
 language:
 - en
 script:

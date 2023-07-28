@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2020-07-07'
 contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP SE
+        contact:
+        - uri: http://www.sap.com/
+    contact:
+    - email: ralf.handl@sap.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +78,7 @@ contributor:
         name:
         - content: SAP SE
         contact:
-        - url: http://www.sap.com/
+        - uri: http://www.sap.com/
     contact:
     - email: evan.ireland@sap.com
   role:

@@ -21,6 +21,15 @@ docnumber: SOAP-UDP-v1.1
 date:
 - type: issued
   value: '2009-07-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD)
+        TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-dd
+  role:
+  - type: publisher
 language:
 - en
 script:

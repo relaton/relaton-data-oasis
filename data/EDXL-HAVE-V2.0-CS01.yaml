@@ -27,6 +27,32 @@ date:
 - type: issued
   value: '2018-12-13'
 contributor:
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/emergency/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Elysa
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jones
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: elysajones@yahoo.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -66,7 +92,7 @@ contributor:
         name:
         - content: MITRE Corporation
         contact:
-        - url: http://www.mitre.org/
+        - uri: http://www.mitre.org/
     contact:
     - email: bwilkins@mitre.org
   role:
@@ -110,7 +136,7 @@ contributor:
         name:
         - content: Kaiser Permanente
         contact:
-        - url: http://www.kp.org/
+        - uri: http://www.kp.org/
     contact:
     - email: scott.m.robertson@kp.org
   role:

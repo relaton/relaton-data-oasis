@@ -27,6 +27,57 @@ date:
 - type: issued
   value: '2015-02-16'
 contributor:
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Bill
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parducci
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bill@parducci.net
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Hal
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lockhart
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: hal.lockhart@oracle.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -47,7 +98,7 @@ contributor:
         name:
         - content: Queralt, Inc.
         contact:
-        - url: http://www.queraltinc.com/
+        - uri: http://www.queraltinc.com/
     contact:
     - email: john.tolbert@queraltinc.com
   role:
@@ -72,7 +123,7 @@ contributor:
         name:
         - content: The Boeing Company
         contact:
-        - url: http://www.boeing.com/
+        - uri: http://www.boeing.com/
     contact:
     - email: richard.c.hill@boeing.com
   role:
@@ -97,7 +148,7 @@ contributor:
         name:
         - content: The Boeing Company
         contact:
-        - url: http://www.boeing.com/
+        - uri: http://www.boeing.com/
     contact:
     - email: crystal.l.hayes@boeing.com
   role:
@@ -122,7 +173,7 @@ contributor:
         name:
         - content: Axiomatics AB
         contact:
-        - url: http://www.axiomatics.com/
+        - uri: http://www.axiomatics.com/
     contact:
     - email: david.brossard@axiomatics.com
   role:
@@ -147,7 +198,7 @@ contributor:
         name:
         - content: Oracle
         contact:
-        - url: http://www.oracle.com/
+        - uri: http://www.oracle.com/
     contact:
     - email: hal.lockhart@oracle.com
   role:
@@ -172,7 +223,7 @@ contributor:
         name:
         - content: ViewDS
         contact:
-        - url: http://www.viewds.com/
+        - uri: http://www.viewds.com/
     contact:
     - email: steven.legg@viewds.com
   role:

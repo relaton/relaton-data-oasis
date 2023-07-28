@@ -26,6 +26,14 @@ date:
 - type: issued
   value: '2021-01-12'
 contributor:
+- organization:
+    name:
+    - content: OASIS Collaborative Automated Course of Action Operations (CACAO) for
+        Cyber Security TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao
+  role:
+  - type: publisher
 - person:
     name:
       given:

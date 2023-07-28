@@ -25,6 +25,14 @@ docnumber: DSS-MD-v1.0-CS02
 date:
 - type: issued
   value: '2019-12-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/dss-x/
+  role:
+  - type: publisher
 language:
 - en
 script:

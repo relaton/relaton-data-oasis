@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2017-08-01'
 contributor:
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bengtsson
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Alfa1lab
+        contact:
+        - uri: http://www.alfa1lab.com/
+    contact:
+    - email: kenneth@alfa1lab.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +78,7 @@ contributor:
         name:
         - content: Difi-Agency for Public Management and eGovernment
         contact:
-        - url: http://www.difi.no/
+        - uri: http://www.difi.no/
     contact:
     - email: jea@difi.no
   role:
@@ -71,7 +103,7 @@ contributor:
         name:
         - content: Alfa1lab
         contact:
-        - url: http://www.alfa1lab.com/
+        - uri: http://www.alfa1lab.com/
     contact:
     - email: kenneth@alfa1lab.com
   role:
@@ -96,7 +128,7 @@ contributor:
         name:
         - content: Difi-Agency for Public Management and eGovernment
         contact:
-        - url: http://www.difi.no/
+        - uri: http://www.difi.no/
     contact:
     - email: erlend.klakegg.bergheim@difi.no
   role:
@@ -140,7 +172,7 @@ contributor:
         name:
         - content: Danish Agency for Digitisation, Ministry of Finance
         contact:
-        - url: http://www.digst.dk/
+        - uri: http://www.digst.dk/
     contact:
     - email: svrra@digst.dk
   role:

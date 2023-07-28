@@ -23,6 +23,14 @@ docnumber: OSLC-Query-3.0
 date:
 - type: issued
   value: '2021-08-26'
+contributor:
+- organization:
+    name:
+    - content: Open Services for Lifecycle Collaboration (OSLC) OP
+    contact:
+    - uri: https://open-services.net/
+  role:
+  - type: publisher
 language:
 - en
 script:

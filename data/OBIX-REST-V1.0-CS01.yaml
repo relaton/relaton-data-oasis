@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2015-09-14'
 contributor:
+- organization:
+    name:
+    - content: OASIS Open Building Information Exchange (oBIX) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/obix/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of North Carolina at Chapel Hill
+        contact:
+        - uri: http://www.unc.edu/
+    contact:
+    - email: toby.considine@unc.edu
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +78,7 @@ contributor:
         name:
         - content: Tridium, Inc.
         contact:
-        - url: http://www.tridium.com/
+        - uri: http://www.tridium.com/
     contact:
     - email: craig.gemmill@tridium.com
   role:
@@ -71,7 +103,7 @@ contributor:
         name:
         - content: Institute of Computer Aided Automation, Vienna University of Technology
         contact:
-        - url: http://www.auto.tuwien.ac.at/
+        - uri: http://www.auto.tuwien.ac.at/
     contact:
     - email: mjung@auto.tuwien.ac.at
   role:

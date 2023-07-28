@@ -25,6 +25,15 @@ docnumber: TOSCA-Simple-Profile-YAML-v1.3-CS01
 date:
 - type: issued
   value: '2019-09-18'
+contributor:
+- organization:
+    name:
+    - content: OASIS Topology and Orchestration Specification for Cloud Applications
+        (TOSCA) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tosca/
+  role:
+  - type: publisher
 language:
 - en
 script:

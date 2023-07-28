@@ -25,6 +25,14 @@ docnumber: XLIFF-2.1
 date:
 - type: issued
   value: '2018-02-13'
+contributor:
+- organization:
+    name:
+    - content: OASIS XML Localisation Interchange File Format (XLIFF) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xliff
+  role:
+  - type: publisher
 language:
 - en
 script:

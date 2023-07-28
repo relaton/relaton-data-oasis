@@ -26,6 +26,14 @@ docnumber: OData-CSDL-JSON-v4.01
 date:
 - type: issued
   value: '2020-05-12'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
 language:
 - en
 script:

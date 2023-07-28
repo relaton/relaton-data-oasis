@@ -21,6 +21,14 @@ docnumber: WS-Security-2004-v1.0
 date:
 - type: issued
   value: '2004-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Security TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wss
+  role:
+  - type: publisher
 language:
 - en
 script:

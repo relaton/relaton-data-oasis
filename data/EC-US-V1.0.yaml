@@ -25,6 +25,14 @@ docnumber: EC-US-v1.0
 date:
 - type: issued
   value: '2015-01-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - type: publisher
 language:
 - en
 script:

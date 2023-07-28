@@ -21,6 +21,14 @@ docnumber: XCBF-v1.1
 date:
 - type: issued
   value: '2003-09-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS XML Common Biometric Format TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xcbf
+  role:
+  - type: publisher
 language:
 - en
 script:

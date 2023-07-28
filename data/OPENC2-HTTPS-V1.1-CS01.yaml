@@ -27,6 +27,13 @@ date:
 - type: issued
   value: '2021-11-30'
 contributor:
+- organization:
+    name:
+    - content: OASIS Open Command and Control (OpenC2) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/openc2/
+  role:
+  - type: publisher
 - person:
     name:
       given:

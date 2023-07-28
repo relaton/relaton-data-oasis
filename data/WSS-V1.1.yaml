@@ -18,6 +18,14 @@ docnumber: WSS-v1.1
 date:
 - type: issued
   value: '2006-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Security TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wss/
+  role:
+  - type: publisher
 language:
 - en
 script:

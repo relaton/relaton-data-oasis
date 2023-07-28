@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2015-09-14'
 contributor:
+- organization:
+    name:
+    - content: OASIS Open Building Information Exchange (oBIX) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/obix/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of North Carolina at Chapel Hill
+        contact:
+        - uri: http://unc.edu/
+    contact:
+    - email: toby.considine@unc.edu
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +78,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: matthias.hub@de.ibm.com
   role:

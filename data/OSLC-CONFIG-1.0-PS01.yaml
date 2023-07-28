@@ -18,6 +18,14 @@ docnumber: OSLC-Config-1.0-PS01
 date:
 - type: issued
   value: '2022-05-30'
+contributor:
+- organization:
+    name:
+    - content: Open Services for Lifecycle Collaboration Open Project
+    contact:
+    - uri: https://open-services.net/
+  role:
+  - type: publisher
 language:
 - en
 script:

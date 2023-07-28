@@ -25,6 +25,14 @@ docnumber: TAXII-v2.1-CS01
 date:
 - type: issued
   value: '2020-01-27'
+contributor:
+- organization:
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cti/
+  role:
+  - type: publisher
 language:
 - en
 script:

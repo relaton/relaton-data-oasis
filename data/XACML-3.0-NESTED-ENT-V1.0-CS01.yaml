@@ -26,6 +26,57 @@ date:
 - type: issued
   value: '2015-10-25'
 contributor:
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Hal
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lockhart
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: hal.lockhart@oracle.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Bill
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parducci
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bill@parducci.net
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +97,7 @@ contributor:
         name:
         - content: ViewDS
         contact:
-        - url: http://www.viewds.com/
+        - uri: http://www.viewds.com/
     contact:
     - email: steven.legg@viewds.com
   role:

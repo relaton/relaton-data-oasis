@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2021-02-16'
 contributor:
+- organization:
+    name:
+    - content: eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - type: publisher
 - person:
     name:
       given:

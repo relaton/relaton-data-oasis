@@ -21,6 +21,14 @@ docnumber: SPML-v2.0
 date:
 - type: issued
   value: '2006-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Provisioning Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/provision
+  role:
+  - type: publisher
 language:
 - en
 script:

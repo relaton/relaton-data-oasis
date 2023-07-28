@@ -25,6 +25,14 @@ docnumber: sstc-md-iop-v1.0
 date:
 - type: issued
   value: '2019-10-24'
+contributor:
+- organization:
+    name:
+    - content: Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - type: publisher
 language:
 - en
 script:

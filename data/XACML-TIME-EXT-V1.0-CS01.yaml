@@ -26,91 +26,13 @@ date:
 - type: issued
   value: '2020-02-13'
 contributor:
-- person:
+- organization:
     name:
-      given:
-        forename:
-        - content: Mohammad
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Jafari,
-        language:
-        - en
-        script:
-        - Latn
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
   role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Steven
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Legg,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Rich
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Levinson,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Hal
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Lochhart,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Bill
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Parducci,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
+  - type: publisher
 language:
 - en
 script:

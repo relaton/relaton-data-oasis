@@ -27,6 +27,32 @@ date:
 - type: issued
   value: '2013-09-05'
 contributor:
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/emergency/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Elysa
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jones
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: elysajones@yahoo.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -47,7 +73,7 @@ contributor:
         name:
         - content: Australian Government Attorney-General's Department
         contact:
-        - url: http://www.ag.gov.au/
+        - uri: http://www.ag.gov.au/
     contact:
     - email: Gregory.Trott@ag.gov.au
   role:

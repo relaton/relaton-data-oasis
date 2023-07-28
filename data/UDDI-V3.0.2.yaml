@@ -21,6 +21,14 @@ docnumber: UDDI-v3.0.2
 date:
 - type: issued
   value: '2005-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS UDDI Specification TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/uddi-spec
+  role:
+  - type: publisher
 language:
 - en
 script:

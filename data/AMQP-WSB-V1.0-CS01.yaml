@@ -27,6 +27,33 @@ date:
 - type: issued
   value: '2016-08-16'
 contributor:
+- organization:
+    name:
+    - content: OASIS Advanced Message Queuing Protocol (AMQP) Bindings and Mappings
+        (AMQP-BINDMAP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/amqp-bindmap/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Steve
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Huston
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: shuston@riverace.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -47,7 +74,7 @@ contributor:
         name:
         - content: Kaazing
         contact:
-        - url: http://kaazing.com/
+        - uri: http://kaazing.com/
     contact:
     - email: john.fallows@kaazing.com
   role:
@@ -72,7 +99,7 @@ contributor:
         name:
         - content: Red Hat
         contact:
-        - url: http://www.redhat.com/
+        - uri: http://www.redhat.com/
     contact:
     - email: dingham@redhat.com
   role:
@@ -97,7 +124,7 @@ contributor:
         name:
         - content: JPMorgan Chase & Co.
         contact:
-        - url: http://www.jpmorganchase.com/
+        - uri: http://www.jpmorganchase.com/
     contact:
     - email: robert.godfrey@jpmorgan.com
   role:

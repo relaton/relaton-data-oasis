@@ -23,6 +23,32 @@ date:
 - type: issued
   value: '2015-09-19'
 contributor:
+- organization:
+    name:
+    - content: OASIS Content Management Interoperability Services (CMIS) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cmis/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Choy
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: david.choy500@gmail.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -43,7 +69,7 @@ contributor:
         name:
         - content: SAP
         contact:
-        - url: http://www.sap.com/
+        - uri: http://www.sap.com/
     contact:
     - email: florian.mueller02@sap.com
   role:
@@ -68,7 +94,7 @@ contributor:
         name:
         - content: Northeastern University
         contact:
-        - url: http://www.ccs.neu.edu/
+        - uri: http://www.ccs.neu.edu/
     contact:
     - email: kenb@ccs.neu.edu
   role:
@@ -77,6 +103,14 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This document lists errata for the OASIS Standard Content Management Interoperability
+    Services (CMIS) Version 1.1.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -84,6 +118,8 @@ relation:
       content: OASIS CMIS-v1.1
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS Content Management\r\nInteroperability Services (CMIS) TC"
 ext:
   schema-version: v1.0.0
 technology_area:

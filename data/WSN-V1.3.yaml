@@ -25,6 +25,14 @@ docnumber: WSN-v1.3
 date:
 - type: issued
   value: '2006-10-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Notification (WSN) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wsn
+  role:
+  - type: publisher
 language:
 - en
 script:

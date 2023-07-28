@@ -27,6 +27,38 @@ date:
 - type: issued
   value: '2014-11-09'
 contributor:
+- organization:
+    name:
+    - content: OASIS Cloud Application Management for Platforms (CAMP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/camp/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Martin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chapman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: martin.chapman@oracle.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -47,7 +79,7 @@ contributor:
         name:
         - content: Fujitsu Limited
         contact:
-        - url: http://www.fujitsu.com/
+        - uri: http://www.fujitsu.com/
     contact:
     - email: jdurand@us.fujitsu.com
   role:
@@ -72,7 +104,7 @@ contributor:
         name:
         - content: Oracle
         contact:
-        - url: http://www.oracle.com/
+        - uri: http://www.oracle.com/
     contact:
     - email: gilbert.pilz@oracle.com
   role:
@@ -97,7 +129,7 @@ contributor:
         name:
         - content: Rackspace Hosting, Inc.
         contact:
-        - url: http://www.rackspace.com/
+        - uri: http://www.rackspace.com/
     contact:
     - email: adrian.otto@rackspace.com
   role:
@@ -122,7 +154,7 @@ contributor:
         name:
         - content: Fujitsu Limited
         contact:
-        - url: http://www.fujitsu.com/
+        - uri: http://www.fujitsu.com/
     contact:
     - email: trutt@us.fujitsu.com
   role:

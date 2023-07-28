@@ -27,6 +27,63 @@ date:
 - type: issued
   value: '2012-04-04'
 contributor:
+- organization:
+    name:
+    - content: Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hardjono
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: M.I.T.
+        contact:
+        - uri: http://www.mit.edu/
+    contact:
+    - email: hardjono@mit.edu
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Nate
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Klingenstein
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Internet2
+        contact:
+        - uri: http://www.internet2.edu/
+    contact:
+    - email: ndk@internet2.edu
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -47,7 +104,7 @@ contributor:
         name:
         - content: Internet2
         contact:
-        - url: http://www.internet2.edu/
+        - uri: http://www.internet2.edu/
     contact:
     - email: lajoie@itumi.biz
   role:

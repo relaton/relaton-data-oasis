@@ -18,6 +18,14 @@ docnumber: WSS-v1.1.1
 date:
 - type: issued
   value: '2012-05-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Security Maintenance TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wss-m/
+  role:
+  - type: publisher
 language:
 - en
 script:

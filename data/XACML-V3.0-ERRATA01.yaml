@@ -22,6 +22,57 @@ date:
 - type: issued
   value: '2017-07-12'
 contributor:
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Bill
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parducci
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bill@parducci.net
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Hal
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lockhart
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: hal.lockhart@oracle.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -42,7 +93,7 @@ contributor:
         name:
         - content: The Boeing Company
         contact:
-        - url: http://www.boeing.com/
+        - uri: http://www.boeing.com/
     contact:
     - email: Richard.C.Hill@boeing.com
   role:
@@ -67,7 +118,7 @@ contributor:
         name:
         - content: Oracle
         contact:
-        - url: http://www.oracle.com/
+        - uri: http://www.oracle.com/
     contact:
     - email: hal.lockhart@oracle.com
   role:
@@ -76,6 +127,14 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This document lists Errata for the OASIS Standard eXtensible Access Control
+    Markup Language (XACML) Version 3.0.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -83,6 +142,8 @@ relation:
       content: OASIS XACML-V3.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS eXtensible Access\r\nControl Markup Language (XACML) TC"
 ext:
   schema-version: v1.0.0
 technology_area:

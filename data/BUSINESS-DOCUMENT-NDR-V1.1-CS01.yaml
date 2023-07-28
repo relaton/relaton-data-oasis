@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2021-11-08'
 contributor:
+- organization:
+    name:
+    - content: OASIS Universal Business Language (UBL) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ubl/
+  role:
+  - type: publisher
 - person:
     name:
       given:

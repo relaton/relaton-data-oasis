@@ -25,6 +25,14 @@ docnumber: KMIPP-v1.2
 date:
 - type: issued
   value: '2015-05-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/kmip/
+  role:
+  - type: publisher
 language:
 - en
 script:

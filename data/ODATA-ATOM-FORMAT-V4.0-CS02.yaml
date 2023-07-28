@@ -26,6 +26,63 @@ date:
 - type: issued
   value: '2013-11-17'
 contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Barbara
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hartel
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP AG
+        contact:
+        - uri: http://www.sap.com/
+    contact:
+    - email: barbara.hartel@sap.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jeyaraman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com/
+    contact:
+    - email: Ram.Jeyaraman@microsoft.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +103,7 @@ contributor:
         name:
         - content: SAP AG
         contact:
-        - url: http://www.sap.com/
+        - uri: http://www.sap.com/
     contact:
     - email: martin.zurmuehl@sap.com
   role:
@@ -71,7 +128,7 @@ contributor:
         name:
         - content: Microsoft
         contact:
-        - url: http://www.microsoft.com/
+        - uri: http://www.microsoft.com/
     contact:
     - email: mikep@microsoft.com
   role:
@@ -96,7 +153,7 @@ contributor:
         name:
         - content: SAP AG
         contact:
-        - url: http://www.sap.com/
+        - uri: http://www.sap.com/
     contact:
     - email: ralf.handl@sap.com
   role:

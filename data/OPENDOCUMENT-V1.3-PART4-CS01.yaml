@@ -22,10 +22,26 @@ docnumber: OpenDocument-v1.3-part4-CS01
 date:
 - type: issued
   value: '2019-12-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/office/
+  role:
+  - type: publisher
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document is Part 4 of the Open Document Format for Office Applications
+    (OpenDocument) Version 1.3 specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -33,6 +49,8 @@ relation:
       content: OASIS OpenDocument-v1.3-CS01
       format: text/plain
 doctype: specification
+editorialgroup:
+- name: OASIS Open Document Format for Office Applications (OpenDocument) TC
 ext:
   schema-version: v1.0.0
 technology_area:

@@ -21,6 +21,14 @@ docnumber: ebXML-MSS-v2.0
 date:
 - type: issued
   value: '2004-08-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS ebXML Messaging Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ebxml-msg
+  role:
+  - type: publisher
 language:
 - en
 script:

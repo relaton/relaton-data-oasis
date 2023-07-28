@@ -25,6 +25,14 @@ docnumber: VIRTIO-v1.0-CS04
 date:
 - type: issued
   value: '2016-03-03'
+contributor:
+- organization:
+    name:
+    - content: OASIS Virtual I/O Device (VIRTIO) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/virtio/
+  role:
+  - type: publisher
 language:
 - en
 script:

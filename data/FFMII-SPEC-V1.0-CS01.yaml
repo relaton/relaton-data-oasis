@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2012-10-06'
 contributor:
+- organization:
+    name:
+    - content: OASIS Field Force Management (FFM) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ffm/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -46,7 +53,32 @@ contributor:
         name:
         - content: Nokia Siemens Networks
         contact:
-        - url: http://www.nsn.com/
+        - uri: http://www.nsn.com/
+    contact:
+    - email: thinh.nguyenphu@nsn.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Thinh
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nguyenphu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Siemens Networks
+        contact:
+        - uri: http://www.nsn.com/
     contact:
     - email: thinh.nguyenphu@nsn.com
   role:

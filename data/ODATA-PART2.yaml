@@ -21,10 +21,30 @@ docnumber: OData-Part2
 date:
 - type: issued
   value: '2020-04-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The Open Data Protocol (OData) enables the creation of REST-based data
+    services, which allow resources, identified using Uniform Resource Locators (URLs)
+    and defined in a data model, to be published and edited by Web clients using simple
+    HTTP messages. This specification defines a set of recommended (but not required)
+    rules for constructing URLs to identify the data and metadata exposed by an OData
+    service as well as a set of reserved URL query string operators.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -32,6 +52,8 @@ relation:
       content: OASIS OData
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS\r\nOpen Data Protocol (OData) TC"
 ext:
   schema-version: v1.0.0
 technology_area:

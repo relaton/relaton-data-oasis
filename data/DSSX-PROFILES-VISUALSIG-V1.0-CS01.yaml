@@ -27,6 +27,51 @@ date:
 - type: issued
   value: '2010-05-08'
 contributor:
+- organization:
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/dss-x/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Juan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Carlos
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: cruellas@ac.upc.ede
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Stefan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Drees,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: stefan@drees.name
+  role:
+  - type: authorizer
 - person:
     name:
       given:

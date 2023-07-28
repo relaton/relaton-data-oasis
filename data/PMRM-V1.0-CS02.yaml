@@ -26,6 +26,32 @@ date:
 - type: issued
   value: '2016-05-17'
 contributor:
+- organization:
+    name:
+    - content: OASIS Privacy Management Reference Model (PMRM) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/pmrm/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sabo
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: john.annapolis@comcast.net
+  role:
+  - type: authorizer
 - person:
     name:
       given:

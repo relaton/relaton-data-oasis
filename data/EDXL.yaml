@@ -27,6 +27,14 @@ docnumber: EDXL
 date:
 - type: issued
   value: '2008-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/emergency
+  role:
+  - type: publisher
 language:
 - en
 script:

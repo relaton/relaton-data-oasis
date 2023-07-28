@@ -21,6 +21,14 @@ docnumber: WS-R-v1.1
 date:
 - type: issued
   value: '2004-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Reliable Messaging TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wsrm/
+  role:
+  - type: publisher
 language:
 - en
 script:

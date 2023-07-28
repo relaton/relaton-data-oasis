@@ -26,6 +26,32 @@ date:
 - type: issued
   value: '2014-05-01'
 contributor:
+- organization:
+    name:
+    - content: OASIS Transformational Government Framework TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tgf/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Borras
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: johnaborras@yahoo.co.uk
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -84,7 +110,7 @@ contributor:
         name:
         - content: CS Transform Limited
         contact:
-        - url: http://cstransform.com/
+        - uri: http://cstransform.com/
     contact:
     - email: chris.parker@cstransform.com
   role:

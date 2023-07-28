@@ -29,6 +29,14 @@ docnumber: WS-RM-v1.1
 date:
 - type: issued
   value: '2007-06-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Reliable Exchange (WS-RX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-rx/
+  role:
+  - type: publisher
 language:
 - en
 script:

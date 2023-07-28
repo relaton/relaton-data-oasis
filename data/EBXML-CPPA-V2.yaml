@@ -21,6 +21,14 @@ docnumber: ebXML-CPPA-v2
 date:
 - type: issued
   value: '2002-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS ebXML CPPA TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ebxml-cppa
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -21,6 +21,14 @@ docnumber: KMIPS-v1.0
 date:
 - type: issued
   value: '2010-10-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/kmip
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -25,6 +25,15 @@ docnumber: Unstructured-Operation-Markup-Language-v1.0
 date:
 - type: issued
   value: '2008-10-01'
+contributor:
+- organization:
+    name:
+    - content: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended
+        (UOML-X) TC"
+    contact:
+    - uri: http://www.oasis-open.org/committees/uoml-x
+  role:
+  - type: publisher
 language:
 - en
 script:

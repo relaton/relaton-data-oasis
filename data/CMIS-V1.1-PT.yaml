@@ -21,6 +21,14 @@ docnumber: CMIS-v1.1-Pt
 date:
 - type: issued
   value: '2013-05-23'
+contributor:
+- organization:
+    name:
+    - content: http://www.oasis-open.org/committees/cmis/ipr.php
+    contact:
+    - uri: http://www.oasis-open.org/committees/cmis/ipr.php
+  role:
+  - type: publisher
 language:
 - en
 script:
@@ -32,6 +40,8 @@ relation:
       content: OASIS CMIS-v1.1
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: http://www.oasis-open.org/committees/cmis/ipr.php
 ext:
   schema-version: v1.0.0
 technology_area:

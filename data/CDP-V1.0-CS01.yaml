@@ -25,6 +25,14 @@ docnumber: CDP-v1.0-CS01
 date:
 - type: issued
   value: '2019-10-04'
+contributor:
+- organization:
+    name:
+    - content: OASIS Context Server (CXS) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cxs/
+  role:
+  - type: publisher
 language:
 - en
 script:

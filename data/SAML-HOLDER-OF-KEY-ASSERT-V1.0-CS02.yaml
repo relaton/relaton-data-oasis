@@ -25,6 +25,14 @@ docnumber: SAML-holder-of-key-assert-v1.0-CS02
 date:
 - type: issued
   value: '2010-01-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - type: publisher
 language:
 - en
 script:

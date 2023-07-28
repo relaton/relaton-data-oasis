@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2014-10-22'
 contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Basic Reliable and Secure Profiles (WS-BRSP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ws-brsp/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Jacques
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durand
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu Limited
+        contact:
+        - uri: http://www.fujitsu.com/
+    contact:
+    - email: jdurand@us.fujitsu.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +78,7 @@ contributor:
         name:
         - content: Microsoft
         contact:
-        - url: http://www.microsoft.com/
+        - uri: http://www.microsoft.com/
     contact:
     - email: Ram.Jeyaraman@microsoft.com
   role:
@@ -71,7 +103,7 @@ contributor:
         name:
         - content: Fujitsu Limited
         contact:
-        - url: http://www.fujitsu.com/
+        - uri: http://www.fujitsu.com/
     contact:
     - email: trutt@us.fujitsu.com
   role:
@@ -96,7 +128,7 @@ contributor:
         name:
         - content: Fujitsu Limited
         contact:
-        - url: http://www.fujitsu.com/
+        - uri: http://www.fujitsu.com/
     contact:
     - email: jdurand@us.fujitsu.com
   role:
@@ -121,7 +153,7 @@ contributor:
         name:
         - content: Asynchrony Solutions, Inc.
         contact:
-        - url: http://www.asolutions.com/
+        - uri: http://www.asolutions.com/
     contact:
     - email: micah.hainline@asolutions.com
   role:

@@ -19,6 +19,38 @@ date:
 - type: issued
   value: '2018-08-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legaldocml/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Fabio
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vitali
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -39,7 +71,32 @@ contributor:
         name:
         - content: University of Bologna-CIRSFID
         contact:
-        - url: http://www.cirsfid.unibo.it/
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
     contact:
     - email: monica.palmirani@unibo.it
   role:
@@ -64,7 +121,7 @@ contributor:
         name:
         - content: LexisNexis, a Division of Reed Elsevier
         contact:
-        - url: http://www.lexisnexis.com/
+        - uri: http://www.lexisnexis.com/
     contact:
     - email: roger.sperberg@lexisnexis.com
   role:
@@ -89,7 +146,7 @@ contributor:
         name:
         - content: Xcential Group, LLC
         contact:
-        - url: http://xcential.com/
+        - uri: http://xcential.com/
     contact:
     - email: grant.vergottini@xcential.com
   role:
@@ -114,774 +171,9 @@ contributor:
         name:
         - content: University of Bologna-CIRSFID
         contact:
-        - url: http://www.cirsfid.unibo.it/
+        - uri: http://www.cirsfid.unibo.it/
     contact:
     - email: fabio@cs.unibo.it
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Aisenberg,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Michael,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Arocena,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: María
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Barysheva,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Nataliya,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Bbaale,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Fred,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Beatch,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Richard,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Bennett,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Daniel,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Briotti,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Giuseppe,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Bruce,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Tom,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Cabral,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: James,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Dohaini,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Bassel,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Dunning,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: John,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Fabiani,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Claudio,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Ferguson,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Kimberly,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Ferreira,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Daniel,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Fiagome,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Shirley-Ann,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Gheen,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Tina,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Greenwood,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Dazza,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Hardjono,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Thoma,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Hariharan,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ashok,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Harris,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Jim,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Joergensen,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: John,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Junge,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Peter,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Khamis,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Mr.
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Marchetti,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Carlo,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Mattocks,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Carl,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Murungi,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Michael,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Otto
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Eridan,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Palmirani,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Monica,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Parisse,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Véronique,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Petri,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Steve,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Pham,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Kim,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Ramsahye-Rakha,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Saseeta,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Sandoval,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Alvaro,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Shifrin,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Laurel,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Sifaqui,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Christian,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Sosa,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Raquel,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Sperberg,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Roger,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Tosar
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Piaggio,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Vergottini,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Grant,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Vitali,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Fabio,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Waldt,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Dale,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Weber,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Andrew,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Wemer,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Jason,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Wintermann,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: John,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Zeni,
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Flavio,
-        language:
-        - en
-        script:
-        - Latn
   role:
   - type: editor
 language:

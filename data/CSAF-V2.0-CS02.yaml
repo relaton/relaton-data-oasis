@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2022-06-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS Common Security Advisory Framework (CSAF) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/csaf/
+  role:
+  - type: publisher
 - person:
     name:
       given:

@@ -19,6 +19,63 @@ date:
 - type: issued
   value: '2012-10-30'
 contributor:
+- organization:
+    name:
+    - content: OASIS Advanced Message Queuing Protocol (AMQP) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/amqp/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jeyaraman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com
+    contact:
+    - email: Ram.Jeyaraman@microsoft.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Angus
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Telfer
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: INETCO Systems
+        contact:
+        - uri: http://www.inetco.com
+    contact:
+    - email: angus.telfer@inetco.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -39,7 +96,7 @@ contributor:
         name:
         - content: JPMorgan Chase & Co.
         contact:
-        - url: http://www.jpmorganchase.com
+        - uri: http://www.jpmorganchase.com
     contact:
     - email: robert.godfrey@jpmorgan.com
   role:
@@ -64,7 +121,7 @@ contributor:
         name:
         - content: Microsoft
         contact:
-        - url: http://www.microsoft.com
+        - uri: http://www.microsoft.com
     contact:
     - email: David.Ingham@microsoft.com
   role:
@@ -89,7 +146,7 @@ contributor:
         name:
         - content: Red Hat
         contact:
-        - url: http://www.redhat.com
+        - uri: http://www.redhat.com
     contact:
     - email: rafaels@redhat.com
   role:

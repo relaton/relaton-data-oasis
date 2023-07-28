@@ -27,6 +27,14 @@ docnumber: ebXML-MS-v3.0-P1-CF
 date:
 - type: issued
   value: '2007-10-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS ebXML Messaging Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ebxml-msg
+  role:
+  - type: publisher
 language:
 - en
 script:

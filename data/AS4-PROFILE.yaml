@@ -28,6 +28,57 @@ date:
 - type: issued
   value: '2013-01-24'
 contributor:
+- organization:
+    name:
+    - content: OASIS ebXML Messaging Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ebxml-msg/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Makesh
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rao
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco Systems, Inc.
+        contact:
+        - uri: http://www.cisco.com/
+    contact:
+    - email: marao@cisco.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Sander
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fieten
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: sander@fieten-it.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -48,7 +99,7 @@ contributor:
         name:
         - content: Fujitsu America Inc.
         contact:
-        - url: http://us.fujitsu.com/
+        - uri: http://us.fujitsu.com/
     contact:
     - email: jdurand@us.fujitsu.com
   role:
@@ -73,7 +124,7 @@ contributor:
         name:
         - content: Sonnenglanz Consulting
         contact:
-        - url: http://www.sonnenglanz.net/
+        - uri: http://www.sonnenglanz.net/
     contact:
     - email: pvde@sonnenglanz.net
   role:

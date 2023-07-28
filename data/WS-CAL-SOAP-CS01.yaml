@@ -25,6 +25,14 @@ docnumber: WS-Cal-SOAP-CS01
 date:
 - type: issued
   value: '2013-02-28'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Calendar (WS-Calendar) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ws-calendar/
+  role:
+  - type: publisher
 language:
 - en
 script:

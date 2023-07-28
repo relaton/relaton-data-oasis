@@ -21,10 +21,26 @@ docnumber: AkomaNtosoCore-v1.0-Pt2-Specifications
 date:
 - type: issued
   value: '2018-08-29'
+contributor:
+- organization:
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legaldocml/
+  role:
+  - type: publisher
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document provides the specifications of Akoma Ntoso XSD and DTD standard,
+    including the graphic representation using Oxygen library.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -32,6 +48,8 @@ relation:
       content: OASIS AkomaNtosoCore-v1.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: OASIS LegalDocumentML (LegalDocML) TC
 ext:
   schema-version: v1.0.0
 technology_area:

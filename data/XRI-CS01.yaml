@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2005-11-14'
 contributor:
+- organization:
+    name:
+    - content: OASIS Extensible Resource Identifier (XRI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xri/
+  role:
+  - type: publisher
 - person:
     name:
       given:

@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2022-07-01'
 contributor:
+- organization:
+    name:
+    - content: Virtual I/O Device (VIRTIO) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/virtio/
+  role:
+  - type: publisher
 - person:
     name:
       given:

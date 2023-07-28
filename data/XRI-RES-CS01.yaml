@@ -26,6 +26,51 @@ date:
 - type: issued
   value: '2008-04-12'
 contributor:
+- organization:
+    name:
+    - content: OASIS Extensible Resource Identifier (XRI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xri/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Gabe
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wachob,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: gabe.wachob@amsoft.net
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Drummond
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Reed,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: drummond.reed@cordance.net
+  role:
+  - type: authorizer
 - person:
     name:
       given:

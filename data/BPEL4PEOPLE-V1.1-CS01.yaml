@@ -25,6 +25,14 @@ docnumber: bpel4people-v1.1-CS01
 date:
 - type: issued
   value: '2010-08-17'
+contributor:
+- organization:
+    name:
+    - content: OASIS BPEL4People TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bpel4people/
+  role:
+  - type: publisher
 language:
 - en
 script:

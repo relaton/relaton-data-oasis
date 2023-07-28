@@ -22,6 +22,13 @@ date:
 - type: issued
   value: '2016-06-02'
 contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -42,7 +49,57 @@ contributor:
         name:
         - content: SAP SE
         contact:
-        - url: http://www.sap.com/
+        - uri: http://www.sap.com/
+    contact:
+    - email: ralf.handl@sap.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jeyaraman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com/
+    contact:
+    - email: Ram.Jeyaraman@microsoft.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP SE
+        contact:
+        - uri: http://www.sap.com/
     contact:
     - email: ralf.handl@sap.com
   role:
@@ -67,7 +124,7 @@ contributor:
         name:
         - content: Microsoft
         contact:
-        - url: http://www.microsoft.com/
+        - uri: http://www.microsoft.com/
     contact:
     - email: mikep@microsoft.com
   role:
@@ -92,7 +149,7 @@ contributor:
         name:
         - content: Progress Software
         contact:
-        - url: http://www.progress.com/
+        - uri: http://www.progress.com/
     contact:
     - email: mark.biamonte@progress.com
   role:
@@ -101,6 +158,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: 'The Open Data Protocol (OData) for representing and interacting with structured
+    content is comprised of a set of specifications. The core specification for the
+    protocol is in OData Version 4.0 Part 1: Protocol; this document extends the former
+    by defining representations for OData requests and responses using a JSON format.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -108,6 +175,8 @@ relation:
       content: OASIS OData-JSON-Format-v4.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS Open Data Protocol\r\n(OData) TC"
 ext:
   schema-version: v1.0.0
 technology_area:

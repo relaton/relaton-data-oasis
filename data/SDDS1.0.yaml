@@ -21,6 +21,14 @@ docnumber: SDDS1.0
 date:
 - type: issued
   value: '2008-09-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Solution Deployment Descriptor (SDD) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/sdd/
+  role:
+  - type: publisher
 language:
 - en
 script:

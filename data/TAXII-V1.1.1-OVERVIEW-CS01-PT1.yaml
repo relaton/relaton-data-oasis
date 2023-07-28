@@ -22,6 +22,38 @@ date:
 - type: issued
   value: '2016-05-05'
 contributor:
+- organization:
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cti/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Struse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
+        contact:
+        - uri: http://www.dhs.gov/office-cybersecurity-and-communications
+    contact:
+    - email: Richard.Struse@hq.dhs.gov
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -42,7 +74,7 @@ contributor:
         name:
         - content: MITRE Corporation
         contact:
-        - url: http://www.mitre.org/
+        - uri: http://www.mitre.org/
     contact:
     - email: mdavidson@mitre.org
   role:
@@ -67,7 +99,7 @@ contributor:
         name:
         - content: MITRE Corporation
         contact:
-        - url: http://www.mitre.org/
+        - uri: http://www.mitre.org/
     contact:
     - email: cmschmidt@mitre.org
   role:
@@ -92,7 +124,7 @@ contributor:
         name:
         - content: Blue Coat Systems, Inc.
         contact:
-        - url: http://www.bluecoat.com/
+        - uri: http://www.bluecoat.com/
     contact:
     - email: bret.jordan@bluecoat.com
   role:
@@ -101,6 +133,13 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This document provides an overview of TAXII.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -108,6 +147,8 @@ relation:
       content: OASIS TAXII-v1.1.1-CS01
       format: text/plain
 doctype: specification
+editorialgroup:
+- name: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
 ext:
   schema-version: v1.0.0
 technology_area:

@@ -18,6 +18,14 @@ docnumber: CMIS-v1.1
 date:
 - type: issued
   value: '2013-05-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS Content Management Interoperability Services (CMIS) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/cmis
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -25,6 +25,14 @@ docnumber: DocBook-5.1
 date:
 - type: issued
   value: '2016-11-22'
+contributor:
+- organization:
+    name:
+    - content: OASIS DocBook TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/docbook/
+  role:
+  - type: publisher
 language:
 - en
 script:

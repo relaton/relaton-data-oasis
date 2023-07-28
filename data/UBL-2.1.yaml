@@ -25,6 +25,14 @@ docnumber: UBL-2.1
 date:
 - type: issued
   value: '2013-11-04'
+contributor:
+- organization:
+    name:
+    - content: OASIS Universal Business Language TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ubl/
+  role:
+  - type: publisher
 language:
 - en
 script:

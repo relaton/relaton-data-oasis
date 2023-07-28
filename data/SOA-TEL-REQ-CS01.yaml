@@ -26,6 +26,32 @@ date:
 - type: issued
   value: '2010-06-16'
 contributor:
+- organization:
+    name:
+    - content: OASIS SOA for Telecom (SOA-Tel) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/soa-tel/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Enrico
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ronco,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: enrico.ronco@telecomitalia.it
+  role:
+  - type: authorizer
 - person:
     name:
       given:

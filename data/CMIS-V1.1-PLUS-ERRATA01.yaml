@@ -22,6 +22,14 @@ docnumber: CMIS-v1.1-Plus-Errata01
 date:
 - type: issued
   value: '2015-09-19'
+contributor:
+- organization:
+    name:
+    - content: http://www.oasis-open.org/committees/cmis/ipr.php
+    contact:
+    - uri: http://www.oasis-open.org/committees/cmis/ipr.php
+  role:
+  - type: publisher
 language:
 - en
 script:
@@ -33,6 +41,8 @@ relation:
       content: OASIS CMIS-v1.1
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: http://www.oasis-open.org/committees/cmis/ipr.php
 ext:
   schema-version: v1.0.0
 technology_area:

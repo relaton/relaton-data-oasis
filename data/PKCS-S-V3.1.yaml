@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2022-08-11'
 contributor:
+- organization:
+    name:
+    - content: PKCS 11 TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/pkcs11/
+  role:
+  - type: publisher
 - person:
     name:
       given:

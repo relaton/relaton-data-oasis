@@ -18,6 +18,14 @@ docnumber: WST-v1.1
 date:
 - type: issued
   value: '2007-03-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Transaction (WS-TX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-tx
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -25,6 +25,14 @@ docnumber: O-v4.0
 date:
 - type: issued
   value: '2014-02-24'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -26,6 +26,14 @@ docnumber: UBL-idd01-CS01
 date:
 - type: issued
   value: '2009-07-07'
+contributor:
+- organization:
+    name:
+    - content: OASIS Universal Business Language TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ubl/
+  role:
+  - type: publisher
 language:
 - en
 script:

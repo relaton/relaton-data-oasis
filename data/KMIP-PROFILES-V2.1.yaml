@@ -25,6 +25,14 @@ docnumber: kmip-profiles-v2.1
 date:
 - type: issued
   value: '2020-12-14'
+contributor:
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/kmip/
+  role:
+  - type: publisher
 language:
 - en
 script:

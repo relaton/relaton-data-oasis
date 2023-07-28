@@ -24,6 +24,13 @@ date:
 - type: issued
   value: '2010-11-19'
 contributor:
+- organization:
+    name:
+    - content: OASIS Product Life Cycle Support (PLCS) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/plcs/
+  role:
+  - type: publisher
 - person:
     name:
       given:

@@ -49,6 +49,14 @@ docnumber: DB-v4.1
 date:
 - type: issued
   value: '2001-01-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS DocBook TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/docbook
+  role:
+  - type: publisher
 language:
 - en
 script:

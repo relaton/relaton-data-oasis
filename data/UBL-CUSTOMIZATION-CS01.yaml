@@ -26,6 +26,47 @@ date:
 - type: issued
   value: '2009-12-25'
 contributor:
+- organization:
+    name:
+    - content: OASIS Universal Business Language TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ubl/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Jon
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bosak
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Tim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: McGrath
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
 - person:
     name:
       given:

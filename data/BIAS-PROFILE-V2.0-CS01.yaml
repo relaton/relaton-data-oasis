@@ -28,6 +28,13 @@ date:
 - type: issued
   value: '2017-07-11'
 contributor:
+- organization:
+    name:
+    - content: OASIS Biometric Services (BIOSERV) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bioserv/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -48,7 +55,32 @@ contributor:
         name:
         - content: NIST
         contact:
-        - url: http://www.nist.gov/
+        - uri: http://www.nist.gov/
+    contact:
+    - email: kevin.mangold@nist.gov
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mangold
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - uri: http://www.nist.gov/
     contact:
     - email: kevin.mangold@nist.gov
   role:
@@ -73,7 +105,7 @@ contributor:
         name:
         - content: NIST
         contact:
-        - url: http://www.nist.gov/
+        - uri: http://www.nist.gov/
     contact:
     - email: karen.marshall@nist.gov
   role:

@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2021-08-30'
 contributor:
+- organization:
+    name:
+    - content: OASIS LegalRuleML TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legalruleml/
+  role:
+  - type: publisher
 - person:
     name:
       given:

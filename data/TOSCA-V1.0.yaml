@@ -26,6 +26,15 @@ docnumber: TOSCA-v1.0
 date:
 - type: issued
   value: '2013-11-25'
+contributor:
+- organization:
+    name:
+    - content: Topology and Orchestration Specification for Cloud Applications (TOSCA)
+        TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/tosca/
+  role:
+  - type: publisher
 language:
 - en
 script:

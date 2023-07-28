@@ -26,6 +26,48 @@ date:
 - type: issued
   value: '2010-11-25'
 contributor:
+- organization:
+    name:
+    - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
+        TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/soa-eerp/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Andy
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lee,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
 - person:
     name:
       given:

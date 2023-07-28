@@ -25,6 +25,14 @@ docnumber: PartyIdType-v1.0-CS01
 date:
 - type: issued
   value: '2010-09-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS ebXML Core (ebCore) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ebcore/
+  role:
+  - type: publisher
 language:
 - en
 script:

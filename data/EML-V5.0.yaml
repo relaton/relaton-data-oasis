@@ -18,6 +18,14 @@ docnumber: EML-v5.0
 date:
 - type: issued
   value: '2007-12-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Election and Voter Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/election
+  role:
+  - type: publisher
 language:
 - en
 script:

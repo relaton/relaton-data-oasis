@@ -25,6 +25,14 @@ docnumber: BDX-BDE-V1.0-CS01
 date:
 - type: issued
   value: '2015-08-02'
+contributor:
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -26,6 +26,47 @@ date:
 - type: issued
   value: '2010-07-21'
 contributor:
+- organization:
+    name:
+    - content: OASIS Identity Metasystem Interoperability (IMI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/imi/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Marc
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Goodner,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Anthony
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nadalin,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -76,57 +117,6 @@ contributor:
         - Latn
     contact:
     - email: "//docs.oasis-open.org/imi/ns/token/saml2/200908"
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Dale
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Olds,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Anthony
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Nadalin,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Drummond
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Reed,
-        language:
-        - en
-        script:
-        - Latn
   role:
   - type: editor
 language:

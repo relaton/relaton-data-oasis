@@ -21,6 +21,14 @@ docnumber: SAF-v1.0
 date:
 - type: issued
   value: '2014-01-21'
+contributor:
+- organization:
+    name:
+    - content: OASIS Symptoms Automation Framework (SAF) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/saf/
+  role:
+  - type: publisher
 language:
 - en
 script:

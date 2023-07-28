@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2011-10-28'
 contributor:
+- organization:
+    name:
+    - content: OASIS Election and Voter Services TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/election/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -46,7 +53,7 @@ contributor:
         name:
         - content: Oracle
         contact:
-        - url: http://www.oracle.com/
+        - uri: http://www.oracle.com/
     contact:
     - email: david.webber@oracle.com
   role:

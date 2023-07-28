@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '1996-11-07'
 contributor:
+- organization:
+    name:
+    - content: Fragment Interchange Subcommittee
+    contact:
+    - uri: ''
+  role:
+  - type: publisher
 - person:
     name:
       given:

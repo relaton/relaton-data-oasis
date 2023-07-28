@@ -23,6 +23,14 @@ docnumber: WSRP-v2.0
 date:
 - type: issued
   value: '2008-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services for Remote Portlets TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wsrp
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -21,6 +21,14 @@ docnumber: SAML-v1.1
 date:
 - type: issued
   value: '2003-09-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Security Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/security
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -18,6 +18,15 @@ docnumber: OSLC-PROMCODE-v1.0-CS02
 date:
 - type: issued
   value: '2021-11-10'
+contributor:
+- organization:
+    name:
+    - content: OSLC Lifecycle Integration for Project Management of Contracted Delivery
+        (OSLC PROMCODE) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/oslc-promcode/
+  role:
+  - type: publisher
 language:
 - en
 script:

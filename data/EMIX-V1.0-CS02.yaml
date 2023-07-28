@@ -26,6 +26,51 @@ date:
 - type: issued
   value: '2012-01-11'
 contributor:
+- organization:
+    name:
+    - content: OASIS Energy Market Information Exchange (eMIX) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/emix/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: wtcox@coxsoftwarearchitects.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Edward
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cazalet
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: ed@cazalet.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +91,7 @@ contributor:
         name:
         - content: University of North Carolina at Chapel Hill
         contact:
-        - url: http://www.unc.edu/
+        - uri: http://www.unc.edu/
     contact:
     - email: Toby.Considine@unc.edu
   role:

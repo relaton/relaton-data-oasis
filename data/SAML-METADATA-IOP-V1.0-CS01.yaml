@@ -25,6 +25,14 @@ docnumber: SAML-metadata-iop-v1.0-CS01
 date:
 - type: issued
   value: '2009-08-04'
+contributor:
+- organization:
+    name:
+    - content: Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - type: publisher
 language:
 - en
 script:

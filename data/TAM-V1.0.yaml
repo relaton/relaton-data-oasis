@@ -25,6 +25,14 @@ docnumber: TAM-v1.0
 date:
 - type: issued
   value: '2012-10-16'
+contributor:
+- organization:
+    name:
+    - content: OASIS Test Assertions Guidelines (TAG) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/tag/
+  role:
+  - type: publisher
 language:
 - en
 script:

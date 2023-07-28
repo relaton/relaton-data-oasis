@@ -19,6 +19,57 @@ date:
 - type: issued
   value: '2014-10-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS Message Queuing Telemetry Transport (MQTT) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/mqtt/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Raphael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: J
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: raphael.cohn@stormmq.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: J
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: coppen@uk.ibm.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -39,7 +90,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: Andrew_Banks@uk.ibm.com
   role:
@@ -64,7 +115,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: rahul.gupta@us.ibm.com
   role:

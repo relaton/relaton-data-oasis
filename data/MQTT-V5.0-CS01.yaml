@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2017-12-25'
 contributor:
+- organization:
+    name:
+    - content: OASIS Message Queuing Telemetry Transport (MQTT) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/mqtt/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -46,7 +53,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com
+        - uri: http://www.ibm.com
     contact:
     - email: andrew_banks@uk.ibm.com
   role:
@@ -71,7 +78,7 @@ contributor:
         name:
         - content: Microsoft
         contact:
-        - url: http://www.microsoft.com
+        - uri: http://www.microsoft.com
     contact:
     - email: edbriggs@microsoft.com
   role:
@@ -96,7 +103,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com
+        - uri: http://www.ibm.com
     contact:
     - email: kwb@us.ibm.com
   role:
@@ -121,7 +128,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com
+        - uri: http://www.ibm.com
     contact:
     - email: rahul.gupta@us.ibm.com
   role:

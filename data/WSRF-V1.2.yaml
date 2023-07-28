@@ -21,6 +21,14 @@ docnumber: WSRF-v1.2
 date:
 - type: issued
   value: '2006-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Resource Framework TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wsrf
+  role:
+  - type: publisher
 language:
 - en
 script:

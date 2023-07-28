@@ -22,6 +22,57 @@ date:
 - type: issued
   value: '2014-10-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS Message Queuing Telemetry Transport (MQTT) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/mqtt/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Raphael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: J
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: raphael.cohn@stormmq.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: J
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: coppen@uk.ibm.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -42,7 +93,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: Andrew_Banks@uk.ibm.com
   role:
@@ -67,7 +118,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: rahul.gupta@us.ibm.com
   role:
@@ -76,6 +127,18 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: MQTT is a Client Server publish/subscribe messaging transport protocol.
+    It is light weight, open, simple, and designed so as to be easy to implement.
+    These characteristics make it ideal for use in many situations, including constrained
+    environments such as for communication in Machine to Machine (M2M) and Internet
+    of Things (IoT) contexts where a small code footprint is required and/or network
+    bandwidth is at a premium.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -83,6 +146,8 @@ relation:
       content: OASIS mqtt-v3.1.1
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS Message Queuing\r\nTelemetry Transport (MQTT) TC"
 ext:
   schema-version: v1.0.0
 technology_area:

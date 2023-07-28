@@ -18,6 +18,14 @@ docnumber: OSLC-TRS-v3.0-PS01
 date:
 - type: issued
   value: '2022-02-07'
+contributor:
+- organization:
+    name:
+    - content: Open Services for Lifecycle Collaboration Open Project
+    contact:
+    - uri: https://open-services.net/
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -26,6 +26,63 @@ date:
 - type: issued
   value: '2019-01-23'
 contributor:
+- organization:
+    name:
+    - content: OASIS Classification of Everyday Living (COEL) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/coel/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Joss
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Langford
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Activinsights Ltd
+        contact:
+        - uri: http://www.activinsights.com/
+    contact:
+    - email: joss@activinsights.co.uk
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Snelling
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu Limited
+        contact:
+        - uri: http://www.fujitsu.com/
+    contact:
+    - email: David.Snelling@UK.Fujitsu.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +103,7 @@ contributor:
         name:
         - content: Tessella Ltd.
         contact:
-        - url: http://tessella.com/
+        - uri: http://tessella.com/
     contact:
     - email: Paul.Bruton@tessella.com
   role:
@@ -71,7 +128,7 @@ contributor:
         name:
         - content: Activinsights Ltd
         contact:
-        - url: http://www.activinsights.com/
+        - uri: http://www.activinsights.com/
     contact:
     - email: joss@activinsights.co.uk
   role:
@@ -96,7 +153,7 @@ contributor:
         name:
         - content: Coelition
         contact:
-        - url: http://www.coelition.org/
+        - uri: http://www.coelition.org/
     contact:
     - email: matt@coelition.org
   role:
@@ -121,7 +178,7 @@ contributor:
         name:
         - content: Fujitsu Limited
         contact:
-        - url: http://www.fujitsu.com/
+        - uri: http://www.fujitsu.com/
     contact:
     - email: Dave.Snelling@UK.Fujitsu.com
   role:

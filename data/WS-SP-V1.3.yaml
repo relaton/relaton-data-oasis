@@ -27,6 +27,14 @@ docnumber: WS-SP-v1.3
 date:
 - type: issued
   value: '2009-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Secure Exchange (WS-SX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-sx/
+  role:
+  - type: publisher
 language:
 - en
 script:

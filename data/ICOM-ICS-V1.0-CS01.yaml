@@ -27,6 +27,14 @@ date:
 - type: issued
   value: '2013-01-31'
 contributor:
+- organization:
+    name:
+    - content: OASIS Integrated Collaboration Object Model for Interoperable Collaboration
+        Services (ICOM) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/icom/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -47,7 +55,57 @@ contributor:
         name:
         - content: Oracle
         contact:
-        - url: http://www.oracle.com/
+        - uri: http://www.oracle.com/
+    contact:
+    - email: eric.s.chan@oracle.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: P.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Northeastern University
+        contact:
+        - uri: http://www.neu.edu/
+    contact:
+    - email: kenb@ccs.neu.edu
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Eric
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: S.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
     contact:
     - email: eric.s.chan@oracle.com
   role:

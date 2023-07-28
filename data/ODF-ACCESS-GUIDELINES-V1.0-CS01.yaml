@@ -25,6 +25,14 @@ docnumber: ODF-Access-Guidelines-v1.0-CS01
 date:
 - type: issued
   value: '2008-05-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/office/
+  role:
+  - type: publisher
 language:
 - en
 script:

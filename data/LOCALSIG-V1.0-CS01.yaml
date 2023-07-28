@@ -25,6 +25,14 @@ docnumber: localsig-v1.0-CS01
 date:
 - type: issued
   value: '2015-07-27'
+contributor:
+- organization:
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/dss-x/
+  role:
+  - type: publisher
 language:
 - en
 script:

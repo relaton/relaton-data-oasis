@@ -26,6 +26,57 @@ date:
 - type: issued
   value: '2019-06-20'
 contributor:
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Hal
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lockhart
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: hal.lockhart@oracle.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Bill
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parducci
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bill@parducci.net
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +97,7 @@ contributor:
         name:
         - content: Axiomatics AB
         contact:
-        - url: http://www.axiomatics.com/
+        - uri: http://www.axiomatics.com/
     contact:
     - email: david.brossard@axiomatics.com
   role:
@@ -90,7 +141,7 @@ contributor:
         name:
         - content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-en.html
         contact:
-        - url: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-en.html
+        - uri: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-en.html
     contact:
     - email: "//docs.oasis-open.org/xacml/3.0/errata01/os/xacml-3.0-core-spec-errata01-os-complete.html"
   role:

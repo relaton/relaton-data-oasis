@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2019-02-21'
 contributor:
+- organization:
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legaldocml/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +78,7 @@ contributor:
         name:
         - content: Aubay S.A.
         contact:
-        - url: http://aubay.com/
+        - uri: http://aubay.com/
     contact:
     - email: V.PARISSE@aubay.lu
   role:

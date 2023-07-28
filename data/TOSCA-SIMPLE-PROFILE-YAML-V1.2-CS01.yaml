@@ -26,6 +26,64 @@ date:
 - type: issued
   value: '2018-07-19'
 contributor:
+- organization:
+    name:
+    - content: OASIS Topology and Orchestration Specification for Cloud Applications
+        (TOSCA) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tosca/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lipton
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CA Technologies
+        contact:
+        - uri: http://www.ca.com/
+    contact:
+    - email: paul.lipton@ca.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Simon
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Moser
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: smoser@de.ibm.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +104,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: mrutkows@us.ibm.com
   role:
@@ -71,7 +129,7 @@ contributor:
         name:
         - content: FastConnect
         contact:
-        - url: http://www.fastconnect.fr/
+        - uri: http://www.fastconnect.fr/
     contact:
     - email: luc.boutier@fastconnect.fr
   role:

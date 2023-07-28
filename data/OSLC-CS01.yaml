@@ -18,6 +18,14 @@ docnumber: OSLC-CS01
 date:
 - type: issued
   value: '2017-04-05'
+contributor:
+- organization:
+    name:
+    - content: OASIS OSLC Lifecycle Integration Core (OSLC Core) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/oslc-core/
+  role:
+  - type: publisher
 language:
 - en
 script:

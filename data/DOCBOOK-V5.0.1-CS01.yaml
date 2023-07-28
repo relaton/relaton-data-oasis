@@ -26,6 +26,32 @@ date:
 - type: issued
   value: '2018-11-07'
 contributor:
+- organization:
+    name:
+    - content: OASIS DocBook TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/docbook/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stayton
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bobs@sagehill.net
+  role:
+  - type: authorizer
 - person:
     name:
       given:

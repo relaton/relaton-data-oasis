@@ -26,6 +26,63 @@ date:
 - type: issued
   value: '2016-12-27'
 contributor:
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/kmip/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Saikat
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Saha
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: saikat.saha@oracle.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Tony
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cryptsoft Pty Ltd.
+        contact:
+        - uri: http://cryptsoft.com/
+    contact:
+    - email: tony.cox@cryptsoft.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +103,7 @@ contributor:
         name:
         - content: Cryptsoft Pty Ltd.
         contact:
-        - url: http://cryptsoft.com/
+        - uri: http://cryptsoft.com/
     contact:
     - email: tjh@cryptsoft.com
   role:
@@ -71,7 +128,7 @@ contributor:
         name:
         - content: Thales e-Security
         contact:
-        - url: http://www.thales-esecurity.com/
+        - uri: http://www.thales-esecurity.com/
     contact:
     - email: Robert.Lockhart@thalesesec.com
   role:
@@ -113,7 +170,7 @@ contributor:
         name:
         - content: http://docs.oasis-open.org/kmip/profiles/v1.3/os/test-cases/kmip-v1.3/optional/
         contact:
-        - url: http://docs.oasis-open.org/kmip/profiles/v1.3/os/test-cases/kmip-v1.3/optional/
+        - uri: http://docs.oasis-open.org/kmip/profiles/v1.3/os/test-cases/kmip-v1.3/optional/
     contact:
     - email: "//docs.oasis-open.org/kmip/profiles/v1.3/os/test-cases/kmip-v1.3/mandatory/"
   role:

@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2022-10-04'
 contributor:
+- organization:
+    name:
+    - content: Electronic Secure Authentication (ESAT) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/esat/
+  role:
+  - type: publisher
 - person:
     name:
       given:

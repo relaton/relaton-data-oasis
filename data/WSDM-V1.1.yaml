@@ -23,6 +23,14 @@ docnumber: WSDM-v1.1
 date:
 - type: issued
   value: '2006-08-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Distributed Management (WSDM) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wsdm
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -95,6 +95,14 @@ docnumber: DSS-v1.0
 date:
 - type: issued
   value: '2007-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Digital Signature Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/dss
+  role:
+  - type: publisher
 language:
 - en
 script:

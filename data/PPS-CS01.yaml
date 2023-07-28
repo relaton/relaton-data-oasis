@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2011-09-30'
 contributor:
+- organization:
+    name:
+    - content: OASIS Production Planning and Scheduling TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/pps/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -46,7 +53,32 @@ contributor:
         name:
         - content: PSLX Forum
         contact:
-        - url: http://www.pslx.org/
+        - uri: http://www.pslx.org/
+    contact:
+    - email: nishioka@hosei.ac.jp
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Yasuyuki
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nishioka
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: PSLX Forum
+        contact:
+        - uri: http://www.pslx.org/
     contact:
     - email: nishioka@hosei.ac.jp
   role:
@@ -71,7 +103,7 @@ contributor:
         name:
         - content: PSLX Forum
         contact:
-        - url: http://www.pslx.org/
+        - uri: http://www.pslx.org/
     contact:
     - email: wada@kt.rim.or.jp
   role:

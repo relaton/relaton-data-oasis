@@ -27,6 +27,14 @@ docnumber: CAP-v1.2
 date:
 - type: issued
   value: '2010-07-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/emergency
+  role:
+  - type: publisher
 language:
 - en
 script:

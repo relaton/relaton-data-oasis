@@ -26,6 +26,98 @@ date:
 - type: issued
   value: '2014-05-22'
 contributor:
+- organization:
+    name:
+    - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust
+        Elevation) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/trust-el/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Abbie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barbir
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Bank of America
+        contact:
+        - uri: http://www.bankofamerica.com/
+    contact:
+    - email: abbie.barbir@bankofamerica.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Don
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thibeau
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Open Identity Exchange
+        contact:
+        - uri: http://www.openidentityexchange.org/
+    contact:
+    - email: don@openidentityexchange.org
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Abbie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barbir,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Don
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thibeau,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +138,7 @@ contributor:
         name:
         - content: SAFE-BioPharma Assn
         contact:
-        - url: http://www.safe-biopharma.org/
+        - uri: http://www.safe-biopharma.org/
     contact:
     - email: peter.alterman@nih.gov
   role:
@@ -71,7 +163,7 @@ contributor:
         name:
         - content: JPMorgan Chase Bank, N.A.
         contact:
-        - url: http://www.jpmorganchase.com/
+        - uri: http://www.jpmorganchase.com/
     contact:
     - email: shaheen.abduljabbar@jpmchase.com
   role:
@@ -96,7 +188,7 @@ contributor:
         name:
         - content: Bank of America
         contact:
-        - url: http://www.bankofamerica.com/
+        - uri: http://www.bankofamerica.com/
     contact:
     - email: abbie.barbir@bankofamerica.com
   role:
@@ -121,7 +213,7 @@ contributor:
         name:
         - content: Identity Commons
         contact:
-        - url: http://www.identitycommons.net/
+        - uri: http://www.identitycommons.net/
     contact:
     - email: mary@meristic.com
   role:
@@ -143,890 +235,6 @@ contributor:
         - Latn
     contact:
     - email: steveo@luminagroup.com
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Shaheen
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Abdul
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Peter
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Alterman,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Abbie
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Barbir,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Steve
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Olshansky,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Mary
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ruddy,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Shaheen
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Abdul
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Peter
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Alterman,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Abbie
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Barbir,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Leif
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Johansson,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Rebecca
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Nielsen,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Steve
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Olshansky,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Mary
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ruddy,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Shahrokh
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Shahidzadeh,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Cathy
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Tilton,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Colin
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Wallis,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Thomas
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Hardjono,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: David
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Brossard,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Abbie
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Barbir,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Antonio
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Campanile,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: William
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Barnhill,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Rebecca
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Nielsen,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Brendan
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Peter,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Brian
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Spector,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Cathy
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Tilton,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Mary
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ruddy,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Rainer
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Hoerbe,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Gershon
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Janssen,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Jaap
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Kuipers,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Carl
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Mattocks,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Steve
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Olshansky,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Shahrokh
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Shahidzadeh,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Lucy
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Lynch,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Shaheen
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Abdul
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Anthony
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Bass,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Scott
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Fitch,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Daniel
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Greenwood,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Thomas
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Hardjono,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Colin
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Wallis,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Kevin
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Mangold,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: John
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Bradley,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Don
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Thibeau,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Anil
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Saldhana,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Peter
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Alterman,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Doron
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Cohen,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: John
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Walsh,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Marty
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Schleiff,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Dale
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Rickards,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Ed
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Coyne,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: John
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Davis,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Suzanne
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Gonzales-Webb,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Mohammad
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Jafari,
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Anthony
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Rutkowski,
-        language:
-        - en
-        script:
-        - Latn
   role:
   - type: editor
 language:

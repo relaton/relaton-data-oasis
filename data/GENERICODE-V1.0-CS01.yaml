@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2007-12-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS Code List Representation Technical Committee
+    contact:
+    - uri: https://www.oasis-open.org/committees/codelist/
+  role:
+  - type: publisher
 - person:
     name:
       given:

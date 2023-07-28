@@ -25,6 +25,14 @@ docnumber: genericode-v1.0
 date:
 - type: issued
   value: '2023-01-31'
+contributor:
+- organization:
+    name:
+    - content: OASIS Code List Representation TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/codelist/
+  role:
+  - type: publisher
 language:
 - en
 script:

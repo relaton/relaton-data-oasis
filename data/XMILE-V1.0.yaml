@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2015-12-14'
 contributor:
+- organization:
+    name:
+    - content: OASIS XML Interchange Language (XMILE) for System Dynamics TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xmile/
+  role:
+  - type: publisher
 - person:
     name:
       given:
@@ -46,7 +53,57 @@ contributor:
         name:
         - content: isee systems inc.
         contact:
-        - url: http://www.iseesystems.com/
+        - uri: http://www.iseesystems.com/
+    contact:
+    - email: kchichakly@iseesystems.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Steven
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Adler
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: adler1@us.ibm.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Karim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chichakly
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: isee systems inc.
+        contact:
+        - uri: http://www.iseesystems.com/
     contact:
     - email: kchichakly@iseesystems.com
   role:
@@ -90,7 +147,7 @@ contributor:
         name:
         - content: System Dynamics Society, Inc.
         contact:
-        - url: http://www.systemdynamics.org/
+        - uri: http://www.systemdynamics.org/
     contact:
     - email: bob@astutesd.com
   role:
@@ -153,7 +210,7 @@ contributor:
         name:
         - content: isee systems inc.
         contact:
-        - url: http://www.iseesystems.com/
+        - uri: http://www.iseesystems.com/
     contact:
     - email: bschoenberg@iseesystems.com
   role:

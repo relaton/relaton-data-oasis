@@ -25,6 +25,14 @@ docnumber: XHE-V1.0-CS02
 date:
 - type: issued
   value: '2019-09-05'
+contributor:
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - type: publisher
 language:
 - en
 script:

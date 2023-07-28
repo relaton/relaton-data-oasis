@@ -18,6 +18,14 @@ docnumber: OSLC
 date:
 - type: issued
   value: '2021-08-26'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP - OASIS Standard
+    contact:
+    - uri: https://open-services.net/
+  role:
+  - type: publisher
 language:
 - en
 script:

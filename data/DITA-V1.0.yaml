@@ -23,6 +23,14 @@ docnumber: DITA-v1.0
 date:
 - type: issued
   value: '2005-05-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Darwin Information Typing Architecture (DITA) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/dita
+  role:
+  - type: publisher
 language:
 - en
 script:

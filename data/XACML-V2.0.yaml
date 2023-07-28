@@ -21,6 +21,14 @@ docnumber: XACML-v2.0
 date:
 - type: issued
   value: '2005-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xacml
+  role:
+  - type: publisher
 language:
 - en
 script:

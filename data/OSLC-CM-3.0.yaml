@@ -18,6 +18,14 @@ docnumber: OSLC-CM-3.0
 date:
 - type: issued
   value: '2021-05-26'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+    contact:
+    - uri: open-services.net
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -25,6 +25,14 @@ docnumber: EDXL-DE-v2.0-CS02
 date:
 - type: issued
   value: '2013-09-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/emergency/
+  role:
+  - type: publisher
 language:
 - en
 script:

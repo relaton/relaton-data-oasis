@@ -26,6 +26,57 @@ date:
 - type: issued
   value: '2019-07-23'
 contributor:
+- organization:
+    name:
+    - content: OASIS Static Analysis Results Interchange Format (SARIF) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/sarif/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Keaton
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: dmk@dmk.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Luke
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cartey
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Semmle
+        contact:
+        - uri: http://www.semmle.com/
+    contact:
+    - email: luke@semmle.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +97,7 @@ contributor:
         name:
         - content: Microsoft
         contact:
-        - url: http://www.microsoft.com/
+        - uri: http://www.microsoft.com/
     contact:
     - email: mikefan@microsoft.com
   role:
@@ -71,7 +122,7 @@ contributor:
         name:
         - content: Microsoft
         contact:
-        - url: http://www.microsoft.com
+        - uri: http://www.microsoft.com
     contact:
     - email: v-lgold@microsoft.com
   role:

@@ -21,6 +21,14 @@ docnumber: XRD-v1.0
 date:
 - type: issued
   value: '2010-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Extensible Resource Identifier (XRI) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xri
+  role:
+  - type: publisher
 language:
 - en
 script:

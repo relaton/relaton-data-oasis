@@ -27,6 +27,14 @@ docnumber: R-v1.0
 date:
 - type: issued
   value: '2013-01-31'
+contributor:
+- organization:
+    name:
+    - content: OASIS Search Web Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/search-ws/
+  role:
+  - type: publisher
 language:
 - en
 script:

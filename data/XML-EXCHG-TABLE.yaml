@@ -24,6 +24,13 @@ date:
 - type: issued
   value: '1999-09-29'
 contributor:
+- organization:
+    name:
+    - content: Tables Technical Committee
+    contact:
+    - uri: ''
+  role:
+  - type: publisher
 - person:
     name:
       given:

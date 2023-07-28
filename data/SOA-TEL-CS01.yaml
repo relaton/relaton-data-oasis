@@ -26,6 +26,32 @@ date:
 - type: issued
   value: '2010-03-09'
 contributor:
+- organization:
+    name:
+    - content: OASIS SOA for Telecom (SOA-Tel) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/soa-tel/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Mike
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Giordano,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: giordano@avaya.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:

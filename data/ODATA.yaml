@@ -18,6 +18,14 @@ docnumber: OData
 date:
 - type: issued
   value: '2020-04-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
 language:
 - en
 script:

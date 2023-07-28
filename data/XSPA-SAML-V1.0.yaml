@@ -22,6 +22,14 @@ docnumber: XSPA-SAML-v1.0
 date:
 - type: issued
   value: '2009-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Security Services (SAML) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/security
+  role:
+  - type: publisher
 language:
 - en
 script:

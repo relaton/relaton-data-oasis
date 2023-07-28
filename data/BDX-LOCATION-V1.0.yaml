@@ -25,6 +25,14 @@ docnumber: BDX-Location-v1.0
 date:
 - type: issued
   value: '2017-08-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - type: publisher
 language:
 - en
 script:

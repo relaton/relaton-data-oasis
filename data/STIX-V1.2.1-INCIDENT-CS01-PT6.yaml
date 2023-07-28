@@ -22,6 +22,38 @@ date:
 - type: issued
   value: '2016-05-05'
 contributor:
+- organization:
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cti/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Struse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
+        contact:
+        - uri: http://www.dhs.gov/office-cybersecurity-and-communications
+    contact:
+    - email: Richard.Struse@HQ.DHS.GOV
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -42,7 +74,7 @@ contributor:
         name:
         - content: MITRE Corporation
         contact:
-        - url: http://www.mitre.org/
+        - uri: http://www.mitre.org/
     contact:
     - email: sbarnum@mitre.org
   role:
@@ -67,7 +99,7 @@ contributor:
         name:
         - content: MITRE Corporation
         contact:
-        - url: http://www.mitre.org/
+        - uri: http://www.mitre.org/
     contact:
     - email: dbeck@mitre.org
   role:
@@ -92,7 +124,7 @@ contributor:
         name:
         - content: Soltra
         contact:
-        - url: http://www.soltra.com/
+        - uri: http://www.soltra.com/
     contact:
     - email: achernin@soltra.com
   role:
@@ -117,7 +149,7 @@ contributor:
         name:
         - content: MITRE Corporation
         contact:
-        - url: http://www.mitre.org/
+        - uri: http://www.mitre.org/
     contact:
     - email: rpiazza@mitre.org
   role:
@@ -126,6 +158,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: The Structured Threat Information Expression (STIX) is a collaborative,
+    community-driven effort to define and develop a framework for expressing cyber
+    threat information to enable cyber threat information sharing and cyber threat
+    analysis. The STIX framework comprises a collection of extensible component specifications
+    along with an overarching core specification and supporting specifications. This
+    document serves as an overview of those specifications and defines how they are
+    used within the broader STIX framework.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -133,6 +178,8 @@ relation:
       content: OASIS STIX-v1.2.1-CS01
       format: text/plain
 doctype: specification
+editorialgroup:
+- name: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
 ext:
   schema-version: v1.0.0
 technology_area:

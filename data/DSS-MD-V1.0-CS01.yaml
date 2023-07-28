@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2019-07-04'
 contributor:
+- organization:
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/dss-x/
+  role:
+  - type: publisher
 - person:
     name:
       given:

@@ -26,6 +26,64 @@ date:
 - type: issued
   value: '2016-12-21'
 contributor:
+- organization:
+    name:
+    - content: OASIS Topology and Orchestration Specification for Cloud Applications
+        (TOSCA) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tosca/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lipton
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CA Technologies
+        contact:
+        - uri: http://www.ca.com/
+    contact:
+    - email: paul.lipton@ca.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Crandall
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Brocade Communications Systems
+        contact:
+        - uri: http://www.brocade.com/en.html
+    contact:
+    - email: jcrandal@brocade.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +104,7 @@ contributor:
         name:
         - content: Vnomic
         contact:
-        - url: http://www.vnomic.com/
+        - uri: http://www.vnomic.com/
     contact:
     - email: dpalma@vnomic.com
   role:
@@ -71,7 +129,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: mrutkows@us.ibm.com
   role:
@@ -96,7 +154,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.ibm.com/
+        - uri: http://www.ibm.com/
     contact:
     - email: thomas.spatzier@de.ibm.com
   role:

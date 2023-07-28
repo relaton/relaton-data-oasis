@@ -29,6 +29,64 @@ docnumber: BIASPROFILE
 date:
 - type: issued
   value: '2012-05-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS Biometric Identity Assurance Services (BIAS) Integration TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/bias/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Cathy
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tilton
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Daon
+        contact:
+        - uri: http://www.daon.com/
+    contact:
+    - email: cathy.tilton@daon.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mangold
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - uri: http://www.nist.gov/
+    contact:
+    - email: kevin.mangold@nist.gov
+  role:
+  - type: authorizer
 language:
 - en
 script:

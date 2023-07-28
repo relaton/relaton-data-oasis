@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2016-10-25'
 contributor:
+- organization:
+    name:
+    - content: OASIS Electronic Trial Master File (eTMF) Standard TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/etmf/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Zack
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schmidt
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SureClinical
+        contact:
+        - uri: http://www.sureclinical.com/
+    contact:
+    - email: zs@sureclinical.net
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +78,7 @@ contributor:
         name:
         - content: CareLex
         contact:
-        - url: http://www.carelex.org/
+        - uri: http://www.carelex.org/
     contact:
     - email: abadr@carelex.org
   role:
@@ -71,7 +103,7 @@ contributor:
         name:
         - content: CareLex
         contact:
-        - url: http://www.carelex.org/
+        - uri: http://www.carelex.org/
     contact:
     - email: jalpert@carelex.org
   role:
@@ -96,7 +128,7 @@ contributor:
         name:
         - content: Oracle
         contact:
-        - url: http://www.oracle.com/index.html
+        - uri: http://www.oracle.com/index.html
     contact:
     - email: rich.lustig@oracle.com
   role:
@@ -121,7 +153,7 @@ contributor:
         name:
         - content: SterlingBio
         contact:
-        - url: http://www.sterlingbio.com
+        - uri: http://www.sterlingbio.com
     contact:
     - email: cms@SterlingBio.com
   role:
@@ -146,7 +178,7 @@ contributor:
         name:
         - content: SureClinical
         contact:
-        - url: http://www.sureclinical.com/
+        - uri: http://www.sureclinical.com/
     contact:
     - email: zs@sureclinical.net
   role:
@@ -171,7 +203,7 @@ contributor:
         name:
         - content: SureClinical
         contact:
-        - url: http://www.sureclinical.com/
+        - uri: http://www.sureclinical.com/
     contact:
     - email: airat@sureclinical.com
   role:
@@ -196,7 +228,7 @@ contributor:
         name:
         - content: Forte Research Systems
         contact:
-        - url: http://forteresearch.com/
+        - uri: http://forteresearch.com/
     contact:
     - email: troy.jacobson@forteresearch.com
   role:
@@ -221,74 +253,9 @@ contributor:
         name:
         - content: Next Docs
         contact:
-        - url: http://www.nextdocs.com/
+        - uri: http://www.nextdocs.com/
     contact:
     - email: "///C"
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: " "
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: " "
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: The
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Technical
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: " "
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        language:
-        - en
-        script:
-        - Latn
   role:
   - type: editor
 language:

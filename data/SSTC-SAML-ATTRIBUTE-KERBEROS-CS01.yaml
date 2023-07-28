@@ -25,6 +25,14 @@ docnumber: sstc-saml-attribute-kerberos-CS01
 date:
 - type: issued
   value: '2011-08-30'
+contributor:
+- organization:
+    name:
+    - content: Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - type: publisher
 language:
 - en
 script:

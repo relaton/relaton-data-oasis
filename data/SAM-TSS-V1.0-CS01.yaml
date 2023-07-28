@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2021-08-04'
 contributor:
+- organization:
+    name:
+    - content: OASIS Security Algorithms and Methods (SAM) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/sam/
+  role:
+  - type: publisher
 - person:
     name:
       given:

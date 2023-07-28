@@ -27,6 +27,13 @@ date:
 - type: issued
   value: '2022-01-25'
 contributor:
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - type: publisher
 - person:
     name:
       given:

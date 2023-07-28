@@ -21,6 +21,14 @@ docnumber: UBL-NDR-v1.0
 date:
 - type: issued
   value: '2005-01-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Universal Business Language TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ubl
+  role:
+  - type: publisher
 language:
 - en
 script:

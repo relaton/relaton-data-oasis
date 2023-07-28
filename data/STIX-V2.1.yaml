@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2021-06-10'
 contributor:
+- organization:
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cti/
+  role:
+  - type: publisher
 - person:
     name:
       given:

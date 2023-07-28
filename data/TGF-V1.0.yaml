@@ -26,6 +26,14 @@ docnumber: TGF-v1.0
 date:
 - type: issued
   value: '2013-04-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS Transformational Government Framework TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/tgf/
+  role:
+  - type: publisher
 language:
 - en
 script:

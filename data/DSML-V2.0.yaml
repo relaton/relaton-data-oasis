@@ -21,6 +21,14 @@ docnumber: DSML-v2.0
 date:
 - type: issued
   value: '2002-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Directory Services Markup Language TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/dsml
+  role:
+  - type: publisher
 language:
 - en
 script:

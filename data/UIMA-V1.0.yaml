@@ -21,6 +21,14 @@ docnumber: UIMA-v1.0
 date:
 - type: issued
   value: '2009-03-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Unstructured Information Management Architecture (UIMA) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/uima/
+  role:
+  - type: publisher
 language:
 - en
 script:

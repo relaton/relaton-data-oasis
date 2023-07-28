@@ -26,6 +26,63 @@ date:
 - type: issued
   value: '2011-11-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hardjono
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: M.I.T
+        contact:
+        - uri: http://www.mit.edu/
+    contact:
+    - email: hardjono@mit.edu
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Nathan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Klingenstein
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Internet2
+        contact:
+        - uri: http://www.internet2.edu/
+    contact:
+    - email: ndk@internet2.edu
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -46,7 +103,7 @@ contributor:
         name:
         - content: IBM
         contact:
-        - url: http://www.zurich.ibm.com/
+        - uri: http://www.zurich.ibm.com/
     contact:
     - email: FRP@zurich.ibm.com
   role:

@@ -21,6 +21,14 @@ docnumber: AVDL-v1.0
 date:
 - type: issued
   value: '2004-06-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Application Vulnerability Description Language (AVDL) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/avdl
+  role:
+  - type: publisher
 language:
 - en
 script:

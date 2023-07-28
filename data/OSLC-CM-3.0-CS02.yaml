@@ -18,6 +18,14 @@ docnumber: OSLC-CM-3.0-CS02
 date:
 - type: issued
   value: '2018-08-24'
+contributor:
+- organization:
+    name:
+    - content: OASIS OSLC Lifecycle Integration Domains TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/oslc-domains/
+  role:
+  - type: publisher
 language:
 - en
 script:

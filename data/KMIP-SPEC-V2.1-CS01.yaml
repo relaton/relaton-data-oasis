@@ -25,6 +25,14 @@ docnumber: kmip-spec-v2.1-CS01
 date:
 - type: issued
   value: '2020-05-07'
+contributor:
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/kmip/
+  role:
+  - type: publisher
 language:
 - en
 script:

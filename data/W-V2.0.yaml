@@ -25,6 +25,14 @@ docnumber: W-v2.0
 date:
 - type: issued
   value: '2007-01-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS CGM Open WebCGM TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/cgmo-webcgm/
+  role:
+  - type: publisher
 language:
 - en
 script:

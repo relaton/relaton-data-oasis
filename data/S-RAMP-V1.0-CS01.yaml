@@ -19,6 +19,38 @@ date:
 - type: issued
   value: '2013-12-23'
 contributor:
+- organization:
+    name:
+    - content: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/s-ramp/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Vincent
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Brunssen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: brunssen@us.ibm.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -39,7 +71,7 @@ contributor:
         name:
         - content: Red Hat
         contact:
-        - url: http://www.redhat.com/
+        - uri: http://www.redhat.com/
     contact:
     - email: kstam@redhat.com
   role:
@@ -64,7 +96,7 @@ contributor:
         name:
         - content: Red Hat
         contact:
-        - url: http://www.redhat.com/
+        - uri: http://www.redhat.com/
     contact:
     - email: eric.wittmann@redhat.com
   role:

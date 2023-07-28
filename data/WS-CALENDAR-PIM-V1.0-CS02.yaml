@@ -26,6 +26,38 @@ date:
 - type: issued
   value: '2015-08-21'
 contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Calendar (WS-Calendar) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ws-calendar/
+  role:
+  - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of North Carolina at Chapel Hill
+        contact:
+        - uri: http://www.unc.edu/
+    contact:
+    - email: toby.considine@unc.edu
+  role:
+  - type: authorizer
 - person:
     name:
       given:
@@ -65,7 +97,7 @@ contributor:
         name:
         - content: University of North Carolina at Chapel Hill
         contact:
-        - url: http://www.unc.edu/
+        - uri: http://www.unc.edu/
     contact:
     - email: toby.considine@unc.edu
   role:

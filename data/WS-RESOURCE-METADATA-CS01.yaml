@@ -26,6 +26,13 @@ date:
 - type: issued
   value: '2006-11-09'
 contributor:
+- organization:
+    name:
+    - content: OASIS Web Services Resource Framework (WSRF) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/wsrf/
+  role:
+  - type: publisher
 - person:
     name:
       given:

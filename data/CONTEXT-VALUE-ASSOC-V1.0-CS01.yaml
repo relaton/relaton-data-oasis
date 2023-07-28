@@ -25,6 +25,14 @@ docnumber: context-value-assoc-v1.0-CS01
 date:
 - type: issued
   value: '2010-04-15'
+contributor:
+- organization:
+    name:
+    - content: OASIS Code List Representation Technical Committee
+    contact:
+    - uri: https://www.oasis-open.org/committees/codelist/
+  role:
+  - type: publisher
 language:
 - en
 script:

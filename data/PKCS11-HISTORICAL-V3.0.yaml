@@ -26,6 +26,14 @@ docnumber: PKCS11-Historical-v3.0
 date:
 - type: issued
   value: '2020-06-15'
+contributor:
+- organization:
+    name:
+    - content: OASIS PKCS 11 TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/pkcs11/
+  role:
+  - type: publisher
 language:
 - en
 script:

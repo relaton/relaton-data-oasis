@@ -24,6 +24,13 @@ date:
 - type: issued
   value: '1997-09-10'
 contributor:
+- organization:
+    name:
+    - content: Entity Resolution TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/entity/
+  role:
+  - type: publisher
 - person:
     name:
       given:

@@ -21,6 +21,14 @@ docnumber: relaxng-ng-specification
 date:
 - type: issued
   value: '2001-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS RELAX NG TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/relax-ng/
+  role:
+  - type: publisher
 language:
 - en
 script:

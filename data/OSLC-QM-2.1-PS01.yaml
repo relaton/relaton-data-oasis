@@ -18,6 +18,14 @@ docnumber: OSLC-QM-2.1-PS01
 date:
 - type: issued
   value: '2020-08-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+    contact:
+    - uri: https://open-services.net/about/
+  role:
+  - type: publisher
 language:
 - en
 script:

@@ -25,6 +25,14 @@ docnumber: econtracts-v1.0
 date:
 - type: issued
   value: '2007-04-28'
+contributor:
+- organization:
+    name:
+    - content: OASIS LegalXML eContracts TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legalxml-econtracts/
+  role:
+  - type: publisher
 language:
 - en
 script:

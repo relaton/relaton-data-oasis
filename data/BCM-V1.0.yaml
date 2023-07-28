@@ -21,6 +21,14 @@ docnumber: BCM-v1.0
 date:
 - type: issued
   value: '2006-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS Business-centric Methodology (BCM) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/bcm
+  role:
+  - type: publisher
 language:
 - en
 script:
