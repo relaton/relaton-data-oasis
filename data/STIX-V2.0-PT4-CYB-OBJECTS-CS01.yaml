@@ -28,7 +28,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -36,7 +38,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/cti/
   role:
-  - type: authorizer
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -61,7 +65,9 @@ contributor:
     contact:
     - email: Richard.Struse@HQ.DHS.GOV
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:

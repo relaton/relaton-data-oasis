@@ -32,7 +32,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -40,7 +42,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/emix/
   role:
-  - type: publisher
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -59,7 +63,9 @@ contributor:
     contact:
     - email: wtcox@coxsoftwarearchitects.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -78,7 +84,9 @@ contributor:
     contact:
     - email: ed@cazalet.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:

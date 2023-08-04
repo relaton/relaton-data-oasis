@@ -25,7 +25,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -33,7 +35,9 @@ contributor:
     contact:
     - uri: http://www.oasis-open.org/committees/amqp/
   role:
-  - type: publisher
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -58,7 +62,9 @@ contributor:
     contact:
     - email: Ram.Jeyaraman@microsoft.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -83,7 +89,9 @@ contributor:
     contact:
     - email: angus.telfer@inetco.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:

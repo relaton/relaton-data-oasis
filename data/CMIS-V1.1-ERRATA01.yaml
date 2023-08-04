@@ -29,7 +29,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -37,7 +39,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/cmis/
   role:
-  - type: authorizer
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -56,7 +60,9 @@ contributor:
     contact:
     - email: david.choy500@gmail.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:

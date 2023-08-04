@@ -32,7 +32,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -40,7 +42,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/ubl/
   role:
-  - type: publisher
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -57,7 +61,9 @@ contributor:
         script:
         - Latn
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -74,7 +80,9 @@ contributor:
         script:
         - Latn
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:

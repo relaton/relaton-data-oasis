@@ -32,7 +32,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -40,7 +42,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/codelist/
   role:
-  - type: publisher
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:

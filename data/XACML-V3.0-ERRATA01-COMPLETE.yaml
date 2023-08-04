@@ -29,7 +29,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -37,7 +39,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/xacml/
   role:
-  - type: authorizer
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -56,7 +60,9 @@ contributor:
     contact:
     - email: bill@parducci.net
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -81,7 +87,9 @@ contributor:
     contact:
     - email: hal.lockhart@oracle.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:

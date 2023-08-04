@@ -32,7 +32,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -40,7 +42,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/ws-brsp/
   role:
-  - type: publisher
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -65,7 +69,9 @@ contributor:
     contact:
     - email: jdurand@us.fujitsu.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:

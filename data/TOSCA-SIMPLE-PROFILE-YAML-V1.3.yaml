@@ -32,7 +32,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/
   role:
-  - type: authorizer
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
   - type: publisher
 - organization:
     name:
@@ -41,7 +43,9 @@ contributor:
     contact:
     - uri: https://www.oasis-open.org/committees/tosca/
   role:
-  - type: publisher
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -60,7 +64,9 @@ contributor:
     contact:
     - email: paul.lipton@live.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -79,7 +85,9 @@ contributor:
     contact:
     - email: lauwers@ubicity.com
   role:
-  - type: authorizer
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
