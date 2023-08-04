@@ -28,11 +28,63 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
     contact:
     - uri: https://www.oasis-open.org/committees/tamie/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Hyunbo
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cho
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: hyunbo.cho@gmail.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Jacques
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durand
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu Limited
+        contact:
+        - uri: http://www.fujitsu.com/
+    contact:
+    - email: jdurand@us.fujitsu.com
+  role:
+  - type: authorizer
 language:
 - en
 script:

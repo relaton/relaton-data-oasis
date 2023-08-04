@@ -29,11 +29,63 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Digital Signature Services eXtended (DSS-X) TC
     contact:
     - uri: https://www.oasis-open.org/committees/dss-x/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Andreas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kuehne
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: kuehne@trustable.de
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ernst
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Sonnenglanz Consulting
+        contact:
+        - uri: https://www.sonnenglanz.net/
+    contact:
+    - email: EJvN@Sonnenglanz.net
+  role:
+  - type: authorizer
 - person:
     name:
       given:

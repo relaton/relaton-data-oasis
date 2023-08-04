@@ -28,6 +28,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Digital Signature Services eXtended (DSS-X) TC
     contact:
     - uri: https://www.oasis-open.org/committees/dss-x/

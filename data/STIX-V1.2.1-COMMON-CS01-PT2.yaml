@@ -24,11 +24,19 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Cyber Threat Intelligence (CTI) TC
     contact:
     - uri: https://www.oasis-open.org/committees/cti/
   role:
-  - type: publisher
+  - type: authorizer
 - person:
     name:
       given:

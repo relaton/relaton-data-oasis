@@ -29,6 +29,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS PKCS 11 TC
     contact:
     - uri: https://www.oasis-open.org/committees/pkcs11/

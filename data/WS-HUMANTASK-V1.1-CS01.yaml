@@ -28,11 +28,36 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS BPEL4People TC
     contact:
     - uri: https://www.oasis-open.org/committees/bpel4people/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Dave
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ings,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
 language:
 - en
 script:

@@ -28,11 +28,69 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Open Data Protocol (OData) TC
     contact:
     - uri: https://www.oasis-open.org/committees/odata/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP SE
+        contact:
+        - uri: http://www.sap.com
+    contact:
+    - email: ralf.handl@sap.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pizzo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com
+    contact:
+    - email: mikep@microsoft.com
+  role:
+  - type: authorizer
 language:
 - en
 script:

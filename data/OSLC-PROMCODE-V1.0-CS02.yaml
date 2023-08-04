@@ -21,6 +21,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OSLC Lifecycle Integration for Project Management of Contracted Delivery
         (OSLC PROMCODE) TC
     contact:

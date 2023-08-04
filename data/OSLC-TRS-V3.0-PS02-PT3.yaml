@@ -21,6 +21,15 @@ docnumber: OSLC-TRS-v3.0-PS02-Pt3
 date:
 - type: issued
   value: '2022-11-24'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

@@ -21,6 +21,15 @@ docnumber: OSLC-am-2.1-Part2-CS01
 date:
 - type: issued
   value: '2018-10-09'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

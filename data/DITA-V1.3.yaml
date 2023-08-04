@@ -21,11 +21,44 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Darwin Information Typing Architecture (DITA) TC
     contact:
     - uri: http://www.oasis-open.org/committees/dita
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Kristen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: James
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Eberlein Consulting             LLC
+        contact:
+        - uri: http://eberleinconsulting.com/
+    contact:
+    - email: kris@eberleinconsulting.com
+  role:
+  - type: authorizer
 language:
 - en
 script:

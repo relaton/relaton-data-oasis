@@ -21,6 +21,15 @@ docnumber: OSLC-PROMCODE-v1.0-Spec-CS03-Pt1
 date:
 - type: issued
   value: '2022-02-15'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

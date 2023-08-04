@@ -25,11 +25,36 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: Open Architecture for XML Authoring and Localization (OAXAL) TC
     contact:
     - uri: https://www.oasis-open.org/committees/oaxal/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrzej
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zydroń
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
 language:
 - en
 script:

@@ -28,6 +28,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Web Services Business Process Execution Language (WSBPEL) TC
     contact:
     - uri: http://www.oasis-open.org/committees/wsbpel

@@ -25,11 +25,19 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Content Management Interoperability Services (CMIS) TC
     contact:
     - uri: https://www.oasis-open.org/committees/cmis/
   role:
-  - type: publisher
+  - type: authorizer
 - person:
     name:
       given:

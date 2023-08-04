@@ -28,11 +28,38 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Business Document Exchange (BDXR) TC
     contact:
     - uri: https://www.oasis-open.org/committees/bdxr/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bengtsson
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: kbengtsson@efact.pe
+  role:
+  - type: authorizer
 language:
 - en
 script:

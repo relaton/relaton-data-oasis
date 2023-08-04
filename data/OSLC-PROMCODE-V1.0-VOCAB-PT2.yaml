@@ -21,6 +21,15 @@ docnumber: OSLC-PROMCODE-v1.0-Vocab-Pt2
 date:
 - type: issued
   value: '2022-03-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

@@ -21,6 +21,15 @@ docnumber: OSLC-Attachments-3.0-PS01-Pt5
 date:
 - type: issued
   value: '2020-09-17'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

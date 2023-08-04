@@ -28,11 +28,69 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS LegalRuleML TC
     contact:
     - uri: https://www.oasis-open.org/committees/legalruleml/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CIRSFID, University of Bologna
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Guido
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Governatori
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Commonwealth Scientific and Industrial Research Organisation, Data61
+        contact:
+        - uri: https://www.data61.csiro.au/
+    contact:
+    - email: Guido.Governatori@data61.csiro.au
+  role:
+  - type: authorizer
 language:
 - en
 script:

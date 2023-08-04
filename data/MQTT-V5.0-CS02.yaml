@@ -28,11 +28,69 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Message Queuing Telemetry Transport (MQTT) TC
     contact:
     - uri: https://www.oasis-open.org/committees/mqtt/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Brian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Raymor
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com
+    contact:
+    - email: brian.raymor@microsoft.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Coppen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com
+    contact:
+    - email: coppen@uk.ibm.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:

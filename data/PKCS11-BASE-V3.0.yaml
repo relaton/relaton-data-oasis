@@ -28,11 +28,69 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS PKCS 11 TC
     contact:
     - uri: https://www.oasis-open.org/committees/pkcs11/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Tony
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cryptsoft Pty Ltd
+        contact:
+        - uri: https://cryptsoft.com/
+    contact:
+    - email: tony.cox@cryptsoft.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Relyea
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - uri: http://www.redhat.com
+    contact:
+    - email: rrelyea@redhat.com
+  role:
+  - type: authorizer
 language:
 - en
 script:

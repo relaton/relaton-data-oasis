@@ -21,6 +21,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
     contact:
     - uri: https://open-services.net/about/

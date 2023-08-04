@@ -28,11 +28,44 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS LegalDocumentML (LegalDocML) TC
     contact:
     - uri: https://www.oasis-open.org/committees/legaldocml/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Fabio
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vitali
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
+  role:
+  - type: authorizer
 - person:
     name:
       given:

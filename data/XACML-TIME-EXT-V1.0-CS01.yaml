@@ -28,11 +28,57 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS eXtensible Access Control Markup Language (XACML) TC
     contact:
     - uri: https://www.oasis-open.org/committees/xacml/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Hal
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lochhart
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: harold.w.lochhart@gmail.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Bill
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parducci
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bill@parducci.net
+  role:
+  - type: authorizer
 language:
 - en
 script:

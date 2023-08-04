@@ -29,11 +29,44 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS LegalXML Electronic Court Filing TC
     contact:
     - uri: http://www.oasis-open.org/committees/legalxml-courtfiling/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cabral
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MTG Management Consultants
+        contact:
+        - uri: http://mtgmc.com/
+    contact:
+    - email: jcabral@mtgmc.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:

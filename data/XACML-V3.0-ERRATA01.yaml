@@ -24,11 +24,19 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS eXtensible Access Control Markup Language (XACML) TC
     contact:
     - uri: https://www.oasis-open.org/committees/xacml/
   role:
-  - type: publisher
+  - type: authorizer
 - person:
     name:
       given:

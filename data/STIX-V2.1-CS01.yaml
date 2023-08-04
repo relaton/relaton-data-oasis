@@ -28,11 +28,69 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Cyber Threat Intelligence (CTI) TC
     contact:
     - uri: https://www.oasis-open.org/committees/cti/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Struse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - uri: http://www.mitre.org/
+    contact:
+    - email: rjs@mitre.org
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Trey
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Darley
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CCB/CERT.be
+        contact:
+        - uri: https://cert.be/
+    contact:
+    - email: trey.darley@cert.be
+  role:
+  - type: authorizer
 language:
 - en
 script:

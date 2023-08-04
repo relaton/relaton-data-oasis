@@ -29,11 +29,63 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Energy Interoperation TC
     contact:
     - uri: https://www.oasis-open.org/committees/energyinterop/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Holmberg
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - uri: http://www.nist.gov/
+    contact:
+    - email: david.holmberg@nist.gov
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: William
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: T.
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: wtcox@coxsoftwarearchitects.com
+  role:
+  - type: authorizer
 language:
 - en
 script:

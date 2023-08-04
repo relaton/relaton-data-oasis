@@ -28,6 +28,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust
         Elevation) TC
     contact:
@@ -112,6 +120,22 @@ contributor:
           - Latn
       surname:
         content: Thibeau,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
         language:
         - en
         script:

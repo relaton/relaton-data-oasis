@@ -29,11 +29,69 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
     contact:
     - uri: https://www.oasis-open.org/committees/xspa/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Mohammad
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jafari
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Veterans Health Administration
+        contact:
+        - uri: http://www.va.gov/
+    contact:
+    - email: mohammad.jafari@bookzurman.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Christopher
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shawn
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Veterans Health Administration
+        contact:
+        - uri: http://www.va.gov/
+    contact:
+    - email: christopher.shawn2@va.gov)
+  role:
+  - type: authorizer
 language:
 - en
 script:

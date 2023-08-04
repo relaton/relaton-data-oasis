@@ -28,11 +28,38 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Election and Voter Services TC
     contact:
     - uri: https://www.oasis-open.org/committees/election/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Borras
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: johnaborras@yahoo.co.uk
+  role:
+  - type: authorizer
 - person:
     name:
       given:

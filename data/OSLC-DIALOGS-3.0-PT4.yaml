@@ -21,6 +21,15 @@ docnumber: OSLC-Dialogs-3.0-Pt4
 date:
 - type: issued
   value: '2021-08-26'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

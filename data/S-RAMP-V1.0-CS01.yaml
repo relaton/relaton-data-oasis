@@ -21,6 +21,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC
     contact:
     - uri: https://www.oasis-open.org/committees/s-ramp/

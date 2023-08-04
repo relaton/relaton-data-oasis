@@ -28,12 +28,58 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Topology and Orchestration Specification for Cloud Applications
         (TOSCA) TC
     contact:
     - uri: https://www.oasis-open.org/committees/tosca/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lipton
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: paul.lipton@live.com
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Chris
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lauwers
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: lauwers@ubicity.com
+  role:
+  - type: authorizer
 language:
 - en
 script:

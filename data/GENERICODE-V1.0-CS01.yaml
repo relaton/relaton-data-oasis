@@ -28,11 +28,38 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Code List Representation Technical Committee
     contact:
     - uri: https://www.oasis-open.org/committees/codelist/
   role:
   - type: publisher
+- person:
+    name:
+      given:
+        forename:
+        - content: G.
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ken
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: gkholman@CraneSoftwrights.com
+  role:
+  - type: authorizer
 - person:
     name:
       given:

@@ -24,11 +24,19 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: http://www.oasis-open.org/committees/cmis/ipr.php
     contact:
     - uri: http://www.oasis-open.org/committees/cmis/ipr.php
   role:
-  - type: publisher
+  - type: authorizer
 language:
 - en
 script:

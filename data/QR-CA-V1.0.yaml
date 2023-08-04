@@ -28,6 +28,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: Electronic Secure Authentication (ESAT) TC
     contact:
     - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=esat

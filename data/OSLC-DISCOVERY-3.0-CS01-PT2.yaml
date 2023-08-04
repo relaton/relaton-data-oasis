@@ -21,6 +21,15 @@ docnumber: OSLC-Discovery-3.0-CS01-Pt2
 date:
 - type: issued
   value: '2017-04-04'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

@@ -25,11 +25,63 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
     contact:
     - uri: https://www.oasis-open.org/committees/office/
   role:
-  - type: publisher
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Patrick
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durusau
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: patrick@durusau.net
+  role:
+  - type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Jos
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: van
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Logius
+        contact:
+        - uri: http://www.logius.nl/
+    contact:
+    - email: jos.vanden.oever@logius.nl
+  role:
+  - type: authorizer
 language:
 - en
 script:

@@ -29,6 +29,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS Universal Business Language TC
     contact:
     - uri: https://www.oasis-open.org/committees/ubl/

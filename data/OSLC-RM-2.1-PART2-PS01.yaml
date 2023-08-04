@@ -21,6 +21,15 @@ docnumber: OSLC-RM-2.1-Part2-PS01
 date:
 - type: issued
   value: '2020-09-03'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

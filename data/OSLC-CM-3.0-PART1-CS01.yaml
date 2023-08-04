@@ -21,6 +21,15 @@ docnumber: OSLC-CM-3.0-Part1-CS01
 date:
 - type: issued
   value: '2018-06-08'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

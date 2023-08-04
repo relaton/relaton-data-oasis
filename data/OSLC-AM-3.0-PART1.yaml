@@ -21,6 +21,15 @@ docnumber: OSLC-AM-3.0-Part1
 date:
 - type: issued
   value: '2022-07-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

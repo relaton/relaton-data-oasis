@@ -21,6 +21,15 @@ docnumber: OSLC-Shapes-3.0-PS02-Pt6
 date:
 - type: issued
   value: '2021-04-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
 language:
 - en
 script:

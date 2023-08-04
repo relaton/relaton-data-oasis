@@ -26,6 +26,14 @@ date:
 contributor:
 - organization:
     name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - type: authorizer
+  - type: publisher
+- organization:
+    name:
     - content: OASIS XML Localisation Interchange File Format (XLIFF) TC
     contact:
     - uri: http://www.oasis-open.org/committees/xliff
