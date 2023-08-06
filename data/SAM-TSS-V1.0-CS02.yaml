@@ -95,7 +95,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Security Algorithms and Methods (SAM) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity
 - Security

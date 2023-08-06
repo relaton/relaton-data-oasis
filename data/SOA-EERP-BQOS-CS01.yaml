@@ -153,4 +153,4 @@ editorialgroup:
 - name: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
     TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

@@ -616,6 +616,6 @@ editorialgroup:
 - name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
     TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity

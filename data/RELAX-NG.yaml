@@ -56,6 +56,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS RELAX NG TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

@@ -64,6 +64,6 @@ doctype: standard
 editorialgroup:
 - name: Topology and Orchestration Specification for Cloud Applications (TOSCA) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cloud

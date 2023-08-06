@@ -61,6 +61,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Code List Representation TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

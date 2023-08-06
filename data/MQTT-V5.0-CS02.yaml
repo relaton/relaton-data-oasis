@@ -218,7 +218,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Message Queuing Telemetry Transport (MQTT) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - IoT
 - Messaging

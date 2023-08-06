@@ -99,6 +99,6 @@ editorialgroup:
 - name: OASIS Collaborative Automated Course of Action Operations (CACAO) for Cyber
     Security TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity

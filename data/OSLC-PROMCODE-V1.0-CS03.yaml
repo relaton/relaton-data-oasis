@@ -72,6 +72,6 @@ editorialgroup:
 - name: OSLC Lifecycle Integration for Project Management of Contracted Delivery (OSLC
     PROMCODE) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

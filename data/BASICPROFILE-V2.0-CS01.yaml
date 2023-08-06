@@ -191,6 +191,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Web Services Basic Reliable and Secure Profiles (WS-BRSP) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Web-Services

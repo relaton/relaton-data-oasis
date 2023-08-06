@@ -142,7 +142,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Open Building Information Exchange (oBIX) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Energy
 - IoT

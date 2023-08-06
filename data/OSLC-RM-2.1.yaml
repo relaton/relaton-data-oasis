@@ -74,6 +74,6 @@ doctype: standard
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration (OSLC) Open Project
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

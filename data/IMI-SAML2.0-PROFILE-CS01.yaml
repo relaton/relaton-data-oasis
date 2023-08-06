@@ -153,6 +153,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Identity Metasystem Interoperability (IMI) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Security

@@ -44,6 +44,6 @@ relation:
       format: text/plain
 doctype: standard
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

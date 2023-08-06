@@ -60,7 +60,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Open Command and Control (OpenC2) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity
 - Security

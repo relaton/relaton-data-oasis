@@ -117,7 +117,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Key Management Interoperability Protocol (KMIP) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity
 - Security

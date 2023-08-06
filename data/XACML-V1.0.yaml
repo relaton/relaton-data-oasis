@@ -46,4 +46,4 @@ doctype: standard
 editorialgroup:
 - name: OASIS Extensible Access Control Markup Language TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

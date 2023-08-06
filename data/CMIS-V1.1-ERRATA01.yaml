@@ -135,6 +135,6 @@ doctype: standard
 editorialgroup:
 - name: "OASIS Content Management\r\nInteroperability Services (CMIS) TC"
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

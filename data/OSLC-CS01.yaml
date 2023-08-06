@@ -92,6 +92,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS OSLC Lifecycle Integration Core (OSLC Core) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

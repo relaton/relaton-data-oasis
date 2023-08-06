@@ -250,6 +250,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS XML Interchange Language (XMILE) for System Dynamics TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

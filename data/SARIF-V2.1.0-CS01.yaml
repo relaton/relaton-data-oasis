@@ -160,6 +160,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Static Analysis Results Interchange Format (SARIF) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

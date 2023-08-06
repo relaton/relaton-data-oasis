@@ -64,7 +64,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS Security Services (SAML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity
 - Security

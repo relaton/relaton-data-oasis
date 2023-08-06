@@ -82,6 +82,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS BPEL4People TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Web-Services

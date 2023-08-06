@@ -83,6 +83,6 @@ doctype: specification
 editorialgroup:
 - name: Virtual I/O Device (VIRTIO) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Virtualization

@@ -66,6 +66,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS LegalXML eContracts TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

@@ -116,6 +116,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity

@@ -115,6 +115,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Common Security Advisory Framework (CSAF) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity

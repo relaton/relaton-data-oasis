@@ -56,6 +56,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Web Services Transaction (WS-TX) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Web-Services

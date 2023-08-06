@@ -67,6 +67,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Web Services Reliable Exchange (WS-RX) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Web-Services

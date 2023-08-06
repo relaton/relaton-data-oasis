@@ -205,6 +205,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Energy Market Information Exchange (eMIX) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Energy

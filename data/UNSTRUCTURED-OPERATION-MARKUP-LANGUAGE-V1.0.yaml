@@ -64,6 +64,6 @@ editorialgroup:
 - name: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended (UOML-X)
     TC"
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

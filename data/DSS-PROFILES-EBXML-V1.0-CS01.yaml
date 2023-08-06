@@ -146,7 +146,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Digital Signature Services eXtended (DSS-X) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business
 - Messaging

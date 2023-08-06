@@ -59,6 +59,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Symptoms Automation Framework (SAF) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development
