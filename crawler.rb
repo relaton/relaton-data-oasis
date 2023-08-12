@@ -8,4 +8,5 @@ FileUtils.rm_f('index.yaml')
 
 RelatonOasis::DataFetcher.fetch
 
+FileUtils.mkdir_p('src/_data/')
 FileUtils.cp('index.yaml', 'src/_data/')
