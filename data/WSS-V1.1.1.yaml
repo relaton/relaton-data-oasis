@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: OASISWSS-v1.1.1
+title:
+- content: Web Services Security v1.1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS WSS-v1.1.1
+  type: OASIS
+  primary: true
+docnumber: WSS-v1.1.1
+date:
+- type: issued
+  value: '2012-05-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Security Maintenance TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wss-m/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes how to use various security and rights tokens ISO/IEC 21000-5
+    Rights Expressions with the Web Services Security (WSS) specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Security Maintenance TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

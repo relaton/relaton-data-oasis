@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/bioserv/BIAS/v2.0/cs01/BIAS-v2.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/bioserv/BIAS/v2.0/cs01/BIAS-v2.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/bioserv/BIAS/v2.0/cs01/BIAS-v2.0-cs01.docx
+  type: doc
+- content: http://docs.oasis-open.org/bioserv/BIAS/v2.0/cs01/schemas/
+  type: src
 type: standard
 docid:
 - id: OASIS BIAS-Profile-v2.0-CS01
@@ -18,6 +27,103 @@ docnumber: BIAS-Profile-v2.0-CS01
 date:
 - type: issued
   value: '2017-07-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Biometric Services (BIOSERV) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bioserv/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mangold
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - uri: http://www.nist.gov/
+    contact:
+    - email: kevin.mangold@nist.gov
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Kevin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Mangold
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - uri: http://www.nist.gov/
+    contact:
+    - email: kevin.mangold@nist.gov
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Karen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Marshall
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+        contact:
+        - uri: http://www.nist.gov/
+    contact:
+    - email: karen.marshall@nist.gov
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -34,7 +140,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Biometric Services (BIOSERV) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity
 - Security

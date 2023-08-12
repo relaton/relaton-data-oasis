@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/emergency/edxl-have/v2.0/cs01/edxl-have-v2.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/emergency/edxl-have/v2.0/cs01/edxl-have-v2.0-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/emergency/edxl-have/v2.0/cs01/edxl-have-v2.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS EDXL-HAVE-v2.0-CS01
@@ -19,6 +26,135 @@ docnumber: EDXL-HAVE-v2.0-CS01
 date:
 - type: issued
   value: '2018-12-13'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/emergency/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Elysa
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jones
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: elysajones@yahoo.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Darrell
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: O’Donnell
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: darrell.odonnell@continuumloop.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Brian
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wilkins
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - uri: http://www.mitre.org/
+    contact:
+    - email: bwilkins@mitre.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rex
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Brooks
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: rexb@starbourne.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Scott
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: M.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Kaiser Permanente
+        contact:
+        - uri: http://www.kp.org/
+    contact:
+    - email: scott.m.robertson@kp.org
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -39,7 +175,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Emergency Management TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Emergency-Management
 - Messaging

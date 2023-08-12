@@ -22,6 +22,52 @@ date:
 - type: issued
   value: '2018-08-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legaldocml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Fabio
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vitali
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
+  role:
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -37,6 +83,41 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
   role:
   - type: editor
 - person:
@@ -54,6 +135,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: LexisNexis, a Division of Reed Elsevier
+        contact:
+        - uri: http://www.lexisnexis.com/
+    contact:
+    - email: roger.sperberg@lexisnexis.com
   role:
   - type: editor
 - person:
@@ -71,29 +160,56 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Xcential Group, LLC
+        contact:
+        - uri: http://xcential.com/
+    contact:
+    - email: grant.vergottini@xcential.com
   role:
   - type: editor
 - person:
     name:
       given:
         forename:
-        - content: and
+        - content: Fabio
           language:
           - en
           script:
           - Latn
       surname:
-        content: Fabio
+        content: Vitali
         language:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
   role:
   - type: editor
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document provides the motivations, the scope, and the design principles
+    of the Akoma Ntoso XML standard. We include also a narrative part concerning the
+    main functionalities of Akoma Ntoso XML standard. We intend also to provide a
+    discursive illustration of the benefits, features and scenarios using Akoma Ntoso
+    XML standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -101,8 +217,10 @@ relation:
       content: OASIS AkomaNtosoCore-v1.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS LegalDocumentML\r\n(LegalDocML) TC"
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies
 - eGov/Legal

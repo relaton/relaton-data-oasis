@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: OASISWSMC-v1.1
+title:
+- content: Web Services MakeConnection v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/ws-rx/wsmc/200702/wsmc-1.1-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-rx/wsmc/200702/wsmc-1.1-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-rx/wsmc/200702/wsmc-1.1-spec-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-rx/wsmc/200702
+  type: src
+type: standard
+docid:
+- id: OASIS WSMC-v1.1
+  type: OASIS
+  primary: true
+docnumber: WSMC-v1.1
+date:
+- type: issued
+  value: '2009-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Reliable Exchange (WS-RX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-rx
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Describes a protocol that allows messages to be transferred between nodes implementing this protocol by using a transport-specific back-channel. The protocol is described in this specification in a transport-independent manner allowing it to be implemented using different network technologies. To support interoperable Web services, a SOAP binding is defined within this specification.
+    The protocol defined in this specification depends upon other Web services specifications for the identification of service endpoint addresses and policies. How these are identified and retrieved are detailed within those specifications and are out of scope for this document.
+    By using the XML [XML], SOAP [SOAP 1.1], [SOAP 1.2] and WSDL [WSDL 1.1] extensibility model, SOAP-based and WSDL-based specifications are designed to be composed with each other to define a rich Web services environment. As such, WS-MakeConnection by itself does not define all the features required for a complete messaging solution. WS-MakeConnection is a building block that is used in conjunction with other specifications and application-specific protocols to accommodate a wide variety of requirements and scenarios related to the operation of distributed Web services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Reliable Exchange (WS-RX) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

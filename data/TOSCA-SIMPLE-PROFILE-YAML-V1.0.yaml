@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.0/os/TOSCA-Simple-Profile-YAML-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.0/os/TOSCA-Simple-Profile-YAML-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.0/os/TOSCA-Simple-Profile-YAML-v1.0-os.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS TOSCA-Simple-Profile-YAML-v1.0
@@ -18,6 +25,156 @@ docnumber: TOSCA-Simple-Profile-YAML-v1.0
 date:
 - type: issued
   value: '2016-12-21'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Topology and Orchestration Specification for Cloud Applications
+        (TOSCA) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tosca/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lipton
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CA Technologies
+        contact:
+        - uri: http://www.ca.com/
+    contact:
+    - email: paul.lipton@ca.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Crandall
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Brocade Communications Systems
+        contact:
+        - uri: http://www.brocade.com/en.html
+    contact:
+    - email: jcrandal@brocade.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Derek
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palma
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Vnomic
+        contact:
+        - uri: http://www.vnomic.com/
+    contact:
+    - email: dpalma@vnomic.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Matt
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rutkowski
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: mrutkows@us.ibm.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Spatzier
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: thomas.spatzier@de.ibm.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -38,6 +195,6 @@ editorialgroup:
 - name: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA)
     TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cloud

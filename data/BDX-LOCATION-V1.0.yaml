@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/bdxr/BDX-Location/v1.0/os/BDX-Location-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/bdxr/BDX-Location/v1.0/os/BDX-Location-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/bdxr/BDX-Location/v1.0/os/BDX-Location-v1.0-os.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS BDX-Location-v1.0
@@ -18,6 +25,53 @@ docnumber: BDX-Location-v1.0
 date:
 - type: issued
   value: '2017-08-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bengtsson
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Alfa1lab
+        contact:
+        - uri: http://alfa1lab.com/
+    contact:
+    - email: kenneth@alfa1lab.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -35,6 +89,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Business Document Exchange (BDXR) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

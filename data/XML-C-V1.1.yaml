@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.3
+id: OASISXML-C-v1.1
+title:
+- content: XML Catalogs v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/14810/xml-catalogs.pdf
+  type: pdf
+type: standard
+docid:
+- id: OASIS XML-C-v1.1
+  type: OASIS
+  primary: true
+docnumber: XML-C-v1.1
+date:
+- type: issued
+  value: '2005-10-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Entity Resolution TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/entity/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines an entity catalog that maps both external identifiers and arbitrary
+    URI references to URI references.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Entity Resolution TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Content-Technologies

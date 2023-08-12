@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ui/v1.0/os/sstc-saml-metadata-ui-v1.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ui/v1.0/os/sstc-saml-metadata-ui-v1.0-os.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ui/v1.0/os/sstc-saml-metadata-ui-v1.0-os.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML-Metadata-UI-v1.0
@@ -19,6 +26,53 @@ docnumber: SAML-Metadata-UI-v1.0
 date:
 - type: issued
   value: '2019-10-24'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hardjono
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: M.I.T.
+        contact:
+        - uri: http://www.mit.edu/
+    contact:
+    - email: hardjono@mit.edu
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -36,6 +90,6 @@ doctype: standard
 editorialgroup:
 - name: Security Services (SAML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Security

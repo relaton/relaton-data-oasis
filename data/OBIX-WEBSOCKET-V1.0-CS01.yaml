@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS OBIX-WebSocket-v1.0-CS01
@@ -18,6 +25,78 @@ docnumber: OBIX-WebSocket-v1.0-CS01
 date:
 - type: issued
   value: '2015-09-14'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Building Information Exchange (oBIX) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/obix/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of North Carolina at Chapel Hill
+        contact:
+        - uri: http://unc.edu/
+    contact:
+    - email: toby.considine@unc.edu
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Matthias
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hub
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: matthias.hub@de.ibm.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -35,7 +114,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Open Building Information Exchange (oBIX) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Energy
 - IoT

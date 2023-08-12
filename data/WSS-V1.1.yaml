@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: OASISWSS-v1.1
+title:
+- content: Web Services Security v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS WSS-v1.1
+  type: OASIS
+  primary: true
+docnumber: WSS-v1.1
+date:
+- type: issued
+  value: '2006-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Security TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/wss/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Proposing a standard set of SOAP extensions that can be used when building
+    secure Web services to implement message content integrity and confidentiality.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Security TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

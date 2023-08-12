@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: OASISWS-C-v1.2
+title:
+- content: WS-Coordination v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/ws-tx/wstx-wscoor-1.2-spec-os/wstx-wscoor-1.2-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-tx/wstx-wscoor-1.2-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-tx/wstx-wscoor-1.2-spec-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-tx/wscoor/2006/06
+  type: src
+type: standard
+docid:
+- id: OASIS WS-C-v1.2
+  type: OASIS
+  primary: true
+docnumber: WS-C-v1.2
+date:
+- type: issued
+  value: '2009-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Transaction (WS-TX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-tx/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    Describes an extensible framework for providing protocols that coordinate the actions of distributed applications. Such coordination protocols are used to support a number of applications, including those that need to reach consistent agreement on the outcome of distributed activities.
+    The framework defined in this specification enables an application service to create a context needed to propagate an activity to other services and to register for coordination protocols. The framework enables existing transaction processing, workflow, and other systems for coordination to hide their proprietary protocols and to operate in a heterogeneous environment.
+    Additionally this specification describes a definition of the structure of context and the requirements for propagating context between cooperating services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Transaction (WS-TX) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

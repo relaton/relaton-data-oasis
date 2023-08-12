@@ -22,6 +22,52 @@ date:
 - type: issued
   value: '2017-07-19'
 contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cti/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Struse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
+        contact:
+        - uri: http://www.dhs.gov/office-cybersecurity-and-communications
+    contact:
+    - email: Richard.Struse@HQ.DHS.GOV
+  role:
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -37,6 +83,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Kingfisher Operations, sprl
+        contact:
+        - uri: https://kingfisherops.com/
+    contact:
+    - email: trey@kingfisherops.com
   role:
   - type: editor
 - person:
@@ -54,12 +108,29 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - uri: http://www.mitre.org/
+    contact:
+    - email: ikirillov@mitre.org
   role:
   - type: editor
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Structured Threat Information Expression (STIX™) is a language for expressing
+    cyber threat and observable information. This document defines a patterning language
+    to enable the detection of possibly malicious activity on networks and endpoints.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -67,7 +138,9 @@ relation:
       content: OASIS STIX-v2.0-CS01
       format: text/plain
 doctype: specification
+editorialgroup:
+- name: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity

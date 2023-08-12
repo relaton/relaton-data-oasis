@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://www.oasis-open.org/committees/dsml/docs/DSMLv2.xsd
+  type: xsd
 type: standard
 docid:
 - id: OASIS DSML-v2.0
@@ -18,6 +21,26 @@ docnumber: DSML-v2.0
 date:
 - type: issued
   value: '2002-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Directory Services Markup Language TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/dsml
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -35,6 +58,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Directory Services Markup Language TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

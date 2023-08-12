@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/plcs/dexlib/cs01/oasis_cover.htm
+  type: htm
+- content: http://docs.oasis-open.org/plcs/dexlib/cs01/oasis_cover.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS PLCS-DEXLIB-VR5-CS01
@@ -18,6 +23,43 @@ docnumber: PLCS-DEXLIB-VR5-CS01
 date:
 - type: issued
   value: '2010-11-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Product Life Cycle Support (PLCS) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/plcs/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Tor
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Arne
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -37,6 +79,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Product Life Cycle Support (PLCS) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

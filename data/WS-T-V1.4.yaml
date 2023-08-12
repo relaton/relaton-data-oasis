@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.3
+id: OASISWS-T-v1.4
+title:
+- content: WS-Trust v1.4
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/v1.4/errata01/os/ws-trust-1.4-errata01-os-complete.html
+  type: src
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/v1.4/errata01/os/ws-trust-1.4-errata01-os-complete.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/v1.4/errata01/os/ws-trust-1.4-errata01-os-complete.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-sx/ws-trust/v1.4/errata01/os/ws-trust-1.4-namespace.html
+  type: src
+type: standard
+docid:
+- id: OASIS WS-T-v1.4
+  type: OASIS
+  primary: true
+docnumber: WS-T-v1.4
+date:
+- type: issued
+  value: '2009-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Secure Exchange (WS-SX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-sx/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines extensions that build on [WS-Security] to provide a framework for
+    requesting and issuing security tokens, and to broker trust relationships. This
+    document incorporates errata approved by the Technical Committee on 25 April 2012.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Secure Exchange (WS-SX) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

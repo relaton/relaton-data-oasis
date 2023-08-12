@@ -18,6 +18,103 @@ docnumber: S-RAMP-v1.0-CS01
 date:
 - type: issued
   value: '2013-12-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/s-ramp/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Vincent
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Brunssen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+        contact:
+        - uri: http://www.ibm.com/
+    contact:
+    - email: brunssen@us.ibm.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Kurt
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stam
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - uri: http://www.redhat.com/
+    contact:
+    - email: kstam@redhat.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Eric
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wittmann
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - uri: http://www.redhat.com/
+    contact:
+    - email: eric.wittmann@redhat.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -52,4 +149,4 @@ doctype: specification
 editorialgroup:
 - name: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

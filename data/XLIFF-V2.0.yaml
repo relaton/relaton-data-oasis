@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.3
+id: OASISXLIFF-v2.0
+title:
+- content: XLIFF v2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/xliff-core-v2.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/xliff-core-v2.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/xliff-core-v2.0-os.xml
+  type: xml
+type: standard
+docid:
+- id: OASIS XLIFF-v2.0
+  type: OASIS
+  primary: true
+docnumber: XLIFF-v2.0
+date:
+- type: issued
+  value: '2014-08-05'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS XML Localisation Interchange File Format (XLIFF) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xliff
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines version 2.0 of the XML Localisation Interchange File Format (XLIFF).
+    The purpose of this vocabulary is to store localizable data and carry it from
+    one step of the localization process to the other, while allowing interoperability
+    between and among tools.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS XML Localisation Interchange File Format (XLIFF) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Content-Technologies
+- Localization

@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-curr/v3.0/os/pkcs11-curr-v3.0-os.docx
+  type: doc
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-curr/v3.0/os/pkcs11-curr-v3.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-curr/v3.0/os/pkcs11-curr-v3.0-os.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS PKCS11-Current-v3.0
@@ -19,6 +26,80 @@ docnumber: PKCS11-Current-v3.0
 date:
 - type: issued
   value: '2020-06-15'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS PKCS 11 TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/pkcs11/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Tony
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cryptsoft Pty Ltd
+        contact:
+        - uri: https://cryptsoft.com/
+    contact:
+    - email: tony.cox@cryptsoft.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Relyea
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - uri: http://www.redhat.com
+    contact:
+    - email: rrelyea@redhat.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -36,7 +117,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS PKCS 11 TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity
 - Security

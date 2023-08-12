@@ -1,2 +1,14 @@
-title: OASIS Standards Repository
-index_title: OASIS Index
+title: OASIS Index
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the OASIS standards index site!
+  This is where you can find the information you need about the various standards
+  developed and maintained by the OASIS open community.
+  Explore the OASIS standards and learn how they can help you solve your business and technical challenges!
+
+paginate: 100
+
+jekyll-index:
+  favicon: 'https://www.oasis-open.org/wp-content/uploads/2020/11/cropped-2-layers@3x-32x32.png'
+  source: 'index-v1.yaml'
+  baseurl: 'https://raw.githubusercontent.com/relaton/relaton-data-oasis/main/'
+  add_type_to_reference: true

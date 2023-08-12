@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.3
+id: OASISKMIPS-v1.1
+title:
+- content: Key Management Interoperability Protocol Specification v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/kmip/spec/v1.1/os/kmip-spec-v1.1-os.html
+  type: src
+- content: http://docs.oasis-open.org/kmip/spec/v1.1/os/kmip-spec-v1.1-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/kmip/spec/v1.1/os/kmip-spec-v1.1-os.doc
+  type: doc
+type: standard
+docid:
+- id: OASIS KMIPS-v1.1
+  type: OASIS
+  primary: true
+docnumber: KMIPS-v1.1
+date:
+- type: issued
+  value: '2013-01-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/kmip/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Intended for developers and architects who wish to design systems and applications
+    that interoperate using the Key Management Interoperability Protocol Specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Cloud
+- Security

@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dss-x/profiles/visualsig/v1.0/cs01/oasis-dssx-1.0-profiles-visualsig-cs1.html
+  type: src
+- content: http://docs.oasis-open.org/dss-x/profiles/visualsig/v1.0/cs01/oasis-dssx-1.0-profiles-visualsig-cs1.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss-x/profiles/visualsig/v1.0/cs01/oasis-dssx-1.0-profiles-visualsig-cs1.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS dssx-profiles-visualsig-v1.0-CS01
@@ -19,6 +26,87 @@ docnumber: dssx-profiles-visualsig-v1.0-CS01
 date:
 - type: issued
   value: '2010-05-08'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/dss-x/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Juan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Carlos
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: cruellas@ac.upc.ede
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Stefan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Drees,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: stefan@drees.name
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ezer
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Farhi,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: ezer@arx.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -36,6 +124,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Digital Signature Services eXtended (DSS-X) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

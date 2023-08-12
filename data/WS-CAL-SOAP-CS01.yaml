@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-calendar/ws-calendar-soap/v1.0/cs01/ws-calendar-soap-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/ws-calendar/ws-calendar-soap/v1.0/cs01/ws-calendar-soap-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-calendar/ws-calendar-soap/v1.0/cs01/ws-calendar-soap-v1.0-cs01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS WS-Cal-SOAP-CS01
@@ -18,6 +25,53 @@ docnumber: WS-Cal-SOAP-CS01
 date:
 - type: issued
   value: '2013-02-28'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Calendar (WS-Calendar) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ws-calendar/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Toby
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Considine
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of North Carolina at Chapel Hill
+        contact:
+        - uri: http://www.unc.edu/
+    contact:
+    - email: toby.considine@unc.edu
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -36,6 +90,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Web Services Calendar (WS-Calendar) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Web-Services

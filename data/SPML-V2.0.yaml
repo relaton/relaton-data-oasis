@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/17708/pstc-spml-2.0-os.zip
+  type: zip
 type: standard
 docid:
 - id: OASIS SPML-v2.0
@@ -18,6 +21,26 @@ docnumber: SPML-v2.0
 date:
 - type: issued
   value: '2006-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Provisioning Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/provision
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -34,6 +57,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Provisioning Services TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

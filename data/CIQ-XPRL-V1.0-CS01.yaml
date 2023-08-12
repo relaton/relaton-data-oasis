@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ciq/v3.0/xPRL/cs01/specs/ciq-xprl-specs-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/ciq/v3.0/xPRL/cs01/specs/ciq-xprl-specs-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ciq/v3.0/xPRL/cs01/specs/ciq-xprl-specs-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS ciq-xprl-v1.0-CS01
@@ -19,6 +26,62 @@ docnumber: ciq-xprl-v1.0-CS01
 date:
 - type: issued
   value: '2009-11-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Customer Information Quality TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ciq/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kumar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kumar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -40,6 +103,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Customer Information Quality TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

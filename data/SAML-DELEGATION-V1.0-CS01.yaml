@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-delegation-cs-01.html
+  type: src
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-delegation-cs-01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-delegation-cs-01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML-Delegation-v1.0-CS01
@@ -18,6 +25,26 @@ docnumber: SAML-Delegation-v1.0-CS01
 date:
 - type: issued
   value: '2009-11-15'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -35,6 +62,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Security Services (SAML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Security

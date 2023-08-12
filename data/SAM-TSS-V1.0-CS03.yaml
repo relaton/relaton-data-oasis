@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/sam/sam-tss/v1.0/cs03/sam-tss-v1.0-cs03.docx
+  type: doc
+- content: https://docs.oasis-open.org/sam/sam-tss/v1.0/cs03/sam-tss-v1.0-cs03.html
+  type: src
+- content: https://docs.oasis-open.org/sam/sam-tss/v1.0/cs03/sam-tss-v1.0-cs03.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS SAM-TSS-v1.0-CS03
@@ -18,6 +25,60 @@ docnumber: SAM-TSS-v1.0-CS03
 date:
 - type: issued
   value: '2021-10-14'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Security Algorithms and Methods (SAM) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/sam/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Tim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Chevalier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Tim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hudson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -34,7 +95,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Security Algorithms and Methods (SAM) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity
 - Security

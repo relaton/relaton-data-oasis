@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/emergency/edxl-tep/v1.1/cs01/edxl-tep-v1.1-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/emergency/edxl-tep/v1.1/cs01/edxl-tep-v1.1-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/emergency/edxl-tep/v1.1/cs01/edxl-tep-v1.1-cs01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS EDXL-TEP-v1.1-CS01
@@ -19,6 +26,47 @@ docnumber: EDXL-TEP-v1.1-CS01
 date:
 - type: issued
   value: '2016-01-20'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/emergency/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Elysa
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jones
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: elysajones@yahoo.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -39,7 +87,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Emergency Management TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Emergency-Management
 - Messaging

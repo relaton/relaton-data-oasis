@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.3
+id: OASISWS-AT-v1.2
+title:
+- content: WS-AtomicTransaction v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsat-1.2-spec-os/wstx-wsat-1.2-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsat-1.2-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsat-1.2-spec-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-tx/wsat/2006/06
+  type: src
+type: standard
+docid:
+- id: OASIS WS-AT-v1.2
+  type: OASIS
+  primary: true
+docnumber: WS-AT-v1.2
+date:
+- type: issued
+  value: '2009-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Transaction (WS-TX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-tx/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Provides the definition of the Atomic Transaction coordination type that
+    is to be used with the extensible coordination framework described in WS-Coordination.
+    This specification defines three specific agreement coordination protocols for
+    the Atomic Transaction coordination type: completion, volatile two-phase commit,
+    and durable two-phase commit. Developers can use any or all of these protocols
+    when building applications that require consistent agreement on the outcome of
+    short-lived distributed activities that have the all-or-nothing property.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Transaction (WS-TX) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

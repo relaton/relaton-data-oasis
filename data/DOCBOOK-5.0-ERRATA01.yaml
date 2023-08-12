@@ -22,6 +22,25 @@ date:
 - type: issued
   value: '2018-03-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS DocBook TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/docbook/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -37,12 +56,43 @@ contributor:
         - en
         script:
         - Latn
+    contact:
+    - email: bobs@sagehill.net
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stayton
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bobs@sagehill.net
   role:
   - type: editor
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document lists errata for the OASIS Standard The DocBook Schema Version
+    5.0.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -50,7 +100,9 @@ relation:
       content: OASIS DocBook-5.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: OASIS DocBook TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

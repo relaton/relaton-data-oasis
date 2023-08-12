@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: OASISCAP-v1.1
+title:
+- content: Common Alerting Protocol v1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.oasis-open.org/committees/download.php/15135/emergency-CAPv1.1-Corrected_DOM.pdf
+  type: pdf
+- content: http://www.oasis-open.org/committees/download.php/15134/emergency-CAPv1.1-Corrected_DOM.doc
+  type: doc
+type: standard
+docid:
+- id: OASIS CAP-v1.1
+  type: OASIS
+  primary: true
+docnumber: CAP-v1.1
+date:
+- type: issued
+  value: '2005-10-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/emergency
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: General format for exchanging all-hazard emergency alerts and public warnings
+    over all kinds of networks. CAP allows a consistent warning message to be disseminated
+    simultaneously over many different warning systems, thus increasing warning effectiveness
+    while simplifying the warning task. CAP also facilitates the detection of emerging
+    patterns in local warnings of various kinds, such as might indicate an undetected
+    hazard or hostile act. And CAP provides a template for effective warning messages
+    based on best practices identified in academic research and real-world experience.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Emergency Management TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Emergency-Management
+- Messaging

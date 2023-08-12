@@ -22,23 +22,16 @@ date:
 - type: issued
   value: '2018-10-09'
 contributor:
-- person:
+- organization:
     name:
-      given:
-        forename:
-        - content: Jim
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Amsden
-        language:
-        - en
-        script:
-        - Latn
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
   role:
-  - type: editor
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
 language:
 - en
 script:
@@ -51,6 +44,6 @@ relation:
       format: text/plain
 doctype: specification
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

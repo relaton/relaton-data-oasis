@@ -22,6 +22,52 @@ date:
 - type: issued
   value: '2016-05-05'
 contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/cti/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Richard
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Struse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
+        contact:
+        - uri: http://www.dhs.gov/office-cybersecurity-and-communications
+    contact:
+    - email: Richard.Struse@hq.dhs.gov
+  role:
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -37,6 +83,14 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - uri: http://www.mitre.org/
+    contact:
+    - email: mdavidson@mitre.org
   role:
   - type: editor
 - person:
@@ -54,29 +108,55 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - uri: http://www.mitre.org/
+    contact:
+    - email: cmschmidt@mitre.org
   role:
   - type: editor
 - person:
     name:
       given:
         forename:
-        - content: and
+        - content: Bret
           language:
           - en
           script:
           - Latn
       surname:
-        content: Bret
+        content: Jordan
         language:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Blue Coat Systems, Inc.
+        contact:
+        - uri: http://www.bluecoat.com/
+    contact:
+    - email: bret.jordan@bluecoat.com
   role:
   - type: editor
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The Trusted Automated eXchange of Indicator Information (TAXII™) specifies
+    mechanisms for exchanging structured cyber threat information between parties
+    over the network. This document describes TAXII's Capabilities, Services, Messages,
+    and Message Exchanges.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -84,7 +164,9 @@ relation:
       content: OASIS TAXII-v1.1.1-CS01
       format: text/plain
 doctype: specification
+editorialgroup:
+- name: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity

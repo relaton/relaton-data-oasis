@@ -23,6 +23,73 @@ date:
 - type: issued
   value: '2017-07-12'
 contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Bill
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parducci
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bill@parducci.net
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Hal
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Lockhart
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: hal.lockhart@oracle.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -38,12 +105,29 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Axiomatics AB
+        contact:
+        - uri: http://www.axiomatics.com/
+    contact:
+    - email: erik@axiomatics.com
   role:
   - type: editor
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document represents the OASIS Standard eXtensible Access Control Markup
+    Language (XACML) Version 3.0 incorporating the changes defined in Approved Errata
+    01.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -51,7 +135,9 @@ relation:
       content: OASIS XACML-V3.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS eXtensible Access\r\nControl Markup Language (XACML) TC"
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Security

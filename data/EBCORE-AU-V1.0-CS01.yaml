@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ebcore/ebcore-au/v1.0/cs01/ebcore-au-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/ebcore/ebcore-au/v1.0/cs01/ebcore-au-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ebcore/ebcore-au/v1.0/cs01/ebcore-au-v1.0-cs01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS ebcore-au-v1.0-CS01
@@ -18,6 +25,74 @@ docnumber: ebcore-au-v1.0-CS01
 date:
 - type: issued
   value: '2016-09-18'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS ebXML Core (ebCore) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ebcore/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Pim
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: van
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Sonnenglanz Consulting
+        contact:
+        - uri: http://www.sonnenglanz.net/
+    contact:
+    - email: pvde@sonnenglanz.net
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Sander
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fieten
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: sander@fieten-it.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -43,6 +118,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS ebXML Core (ebCore) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Messaging

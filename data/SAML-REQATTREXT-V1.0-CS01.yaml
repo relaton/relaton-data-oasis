@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml-protoc-req-attr-req/v1.0/cs01/saml-protoc-req-attr-req-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/security/saml-protoc-req-attr-req/v1.0/cs01/saml-protoc-req-attr-req-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/security/saml-protoc-req-attr-req/v1.0/cs01/saml-protoc-req-attr-req-v1.0-cs01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML-ReqAttrExt-v1.0-CS01
@@ -19,6 +26,80 @@ docnumber: SAML-ReqAttrExt-v1.0-CS01
 date:
 - type: issued
   value: '2017-08-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: Security Services (SAML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/security/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hardjono
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MIT
+        contact:
+        - uri: http://www.mit.edu/
+    contact:
+    - email: hardjono@mit.edu
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Nate
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Klingenstein
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Internet2
+        contact:
+        - uri: http://www.internet2.edu/
+    contact:
+    - email: ndk@internet2.edu
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -37,6 +118,6 @@ doctype: specification
 editorialgroup:
 - name: Security Services (SAML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Security

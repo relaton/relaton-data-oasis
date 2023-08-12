@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS FFMII-SPEC-v1.0-CS01
@@ -18,6 +25,78 @@ docnumber: FFMII-SPEC-v1.0-CS01
 date:
 - type: issued
   value: '2012-10-06'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Field Force Management (FFM) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ffm/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Thinh
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nguyenphu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Siemens Networks
+        contact:
+        - uri: http://www.nsn.com/
+    contact:
+    - email: thinh.nguyenphu@nsn.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Thinh
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Nguyenphu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Siemens Networks
+        contact:
+        - uri: http://www.nsn.com/
+    contact:
+    - email: thinh.nguyenphu@nsn.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -35,6 +114,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Field Force Management (FFM) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

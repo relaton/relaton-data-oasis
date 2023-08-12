@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open-projects.org/oslc-op/query/v3.0/os/oslc-query.html
+  type: src
+- content: https://docs.oasis-open-projects.org/oslc-op/query/v3.0/os/oslc-query.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS OSLC-Query-3.0
@@ -18,6 +23,26 @@ docnumber: OSLC-Query-3.0
 date:
 - type: issued
   value: '2021-08-26'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: Open Services for Lifecycle Collaboration (OSLC) OP
+    contact:
+    - uri: https://open-services.net/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,6 +61,6 @@ doctype: standard
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration (OSLC) OP
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

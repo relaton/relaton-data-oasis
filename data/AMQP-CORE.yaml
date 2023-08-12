@@ -18,6 +18,155 @@ docnumber: amqp-core
 date:
 - type: issued
   value: '2012-10-30'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Advanced Message Queuing Protocol (AMQP) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/amqp/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jeyaraman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com
+    contact:
+    - email: Ram.Jeyaraman@microsoft.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Angus
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Telfer
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: INETCO Systems
+        contact:
+        - uri: http://www.inetco.com
+    contact:
+    - email: angus.telfer@inetco.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Godfrey
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: JPMorgan Chase & Co.
+        contact:
+        - uri: http://www.jpmorganchase.com
+    contact:
+    - email: robert.godfrey@jpmorgan.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ingham
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com
+    contact:
+    - email: David.Ingham@microsoft.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Rafael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schloming
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - uri: http://www.redhat.com
+    contact:
+    - email: rafaels@redhat.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -64,6 +213,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Advanced Message Queuing Protocol (AMQP) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Messaging

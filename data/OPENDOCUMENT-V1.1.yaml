@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1.odt
+  type: odt
+- content: http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1-html/OpenDocument-v1.1.html
+  type: src
 type: standard
 docid:
 - id: OASIS OpenDocument-v1.1
@@ -19,6 +26,26 @@ docnumber: OpenDocument-v1.1
 date:
 - type: issued
   value: '2007-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/office
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -35,6 +62,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Open Document Format for Office Applications (OpenDocument) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

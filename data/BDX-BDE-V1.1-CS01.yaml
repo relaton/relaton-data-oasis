@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/bdxr/bdx-bde/v1.1/cs01/bdx-bde-v1.1-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/bdxr/bdx-bde/v1.1/cs01/bdx-bde-v1.1-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/bdxr/bdx-bde/v1.1/cs01/bdx-bde-v1.1-cs01.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS BDX-BDE-V1.1-CS01
@@ -18,6 +25,26 @@ docnumber: BDX-BDE-V1.1-CS01
 date:
 - type: issued
   value: '2016-12-05'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,7 +63,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Business Document Exchange (BDXR) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business
 - Messaging

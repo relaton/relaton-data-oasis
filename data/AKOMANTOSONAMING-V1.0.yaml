@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS AkomaNtosoNaming-v1.0
@@ -18,6 +25,105 @@ docnumber: AkomaNtosoNaming-v1.0
 date:
 - type: issued
   value: '2019-02-21'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legaldocml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Fabio
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vitali
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Véronique
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Parisse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Aubay S.A.
+        contact:
+        - uri: http://aubay.com/
+    contact:
+    - email: V.PARISSE@aubay.lu
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -35,7 +141,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS LegalDocumentML (LegalDocML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies
 - eGov/Legal

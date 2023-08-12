@@ -9,6 +9,17 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.html
+  type: src
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.xsd
+  type: xsd
+- content: http://docs.oasis-open.org/ws-caf/ws-context/v1.0/OS/wsctx.wsdl
+  type: wsdl
 type: standard
 docid:
 - id: OASIS WS-Context-v1.0
@@ -18,6 +29,26 @@ docnumber: WS-Context-v1.0
 date:
 - type: issued
   value: '2007-04-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Composite Application Framework (WS-CAF) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-caf
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,6 +67,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Web Services Composite Application Framework (WS-CAF) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Web-Services

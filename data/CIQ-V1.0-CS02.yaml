@@ -18,6 +18,43 @@ docnumber: ciq-v1.0-CS02
 date:
 - type: issued
   value: '2008-10-03'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Customer Information Quality TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ciq/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Kumar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -38,6 +75,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Customer Information Quality TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS TGF-v1.0
@@ -19,6 +26,26 @@ docnumber: TGF-v1.0
 date:
 - type: issued
   value: '2013-04-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Transformational Government Framework TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/tgf/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -41,6 +68,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Transformational Government Framework TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - eGov/Legal

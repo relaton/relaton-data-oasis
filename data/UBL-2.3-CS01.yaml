@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/ubl/cs01-UBL-2.3/UBL-2.3.html
+  type: src
+- content: https://docs.oasis-open.org/ubl/cs01-UBL-2.3/UBL-2.3.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/ubl/cs01-UBL-2.3/UBL-2.3.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS UBL-2.3-CS01
@@ -18,6 +25,42 @@ docnumber: UBL-2.3-CS01
 date:
 - type: issued
   value: '2021-01-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Universal Business Language TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ubl/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: G
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -33,6 +76,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Universal Business Language TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

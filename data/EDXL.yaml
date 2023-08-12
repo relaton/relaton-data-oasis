@@ -9,6 +9,15 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/errata/edxl-have-v1.0-os-errata-os.html
+  type: src
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/errata/edxl-have-v1.0-os-errata-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/errata/edxl-have-v1.0-os-errata-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/emergency/edxl-have/v1.0/edxl-have.xsd
+  type: xsd
 type: standard
 docid:
 - id: OASIS EDXL
@@ -18,6 +27,26 @@ docnumber: EDXL
 date:
 - type: issued
   value: '2008-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Emergency Management TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/emergency
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,7 +65,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS Emergency Management TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Emergency-Management
 - Messaging

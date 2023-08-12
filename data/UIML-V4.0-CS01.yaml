@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/uiml/v4.0/cs01/uiml-4.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/uiml/v4.0/cs01/uiml-4.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/uiml/v4.0/cs01/uiml-4.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS UIML-v4.0-CS01
@@ -18,6 +25,81 @@ docnumber: UIML-v4.0-CS01
 date:
 - type: issued
   value: '2009-05-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS User Interface Markup Language (UIML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/uiml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Helms,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: jhelms@harmonia.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: http://docs.oasis-open.org/uiml/ns/uiml4.0
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: "//docs.oasis-open.org/uiml/ns/uiml4.0"
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: " "
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -35,6 +117,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS User Interface Markup Language (UIML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

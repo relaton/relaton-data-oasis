@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/coel/COEL/v1.0/os/COEL-v1.0-os.html
+  type: src
+- content: https://docs.oasis-open.org/coel/COEL/v1.0/os/COEL-v1.0-os.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/coel/COEL/v1.0/os/COEL-v1.0-os.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS COEL-COEL-v1.0
@@ -18,6 +25,180 @@ docnumber: COEL-COEL-v1.0
 date:
 - type: issued
   value: '2019-01-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Classification of Everyday Living (COEL) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/coel/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Joss
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Langford
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Activinsights Ltd
+        contact:
+        - uri: http://www.activinsights.com/
+    contact:
+    - email: joss@activinsights.co.uk
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Snelling
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu Limited
+        contact:
+        - uri: http://www.fujitsu.com/
+    contact:
+    - email: David.Snelling@UK.Fujitsu.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Paul
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bruton
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Tessella Ltd.
+        contact:
+        - uri: http://tessella.com/
+    contact:
+    - email: Paul.Bruton@tessella.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Joss
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Langford
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Activinsights Ltd
+        contact:
+        - uri: http://www.activinsights.com/
+    contact:
+    - email: joss@activinsights.co.uk
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Matthew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Reed
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Coelition
+        contact:
+        - uri: http://www.coelition.org/
+    contact:
+    - email: matt@coelition.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Snelling
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Fujitsu Limited
+        contact:
+        - uri: http://www.fujitsu.com/
+    contact:
+    - email: Dave.Snelling@UK.Fujitsu.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -35,7 +216,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS Classification of Everyday Living (COEL) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business
 - IoT

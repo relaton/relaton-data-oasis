@@ -23,40 +23,25 @@ date:
 - type: issued
   value: '2015-09-19'
 contributor:
-- person:
+- organization:
     name:
-      given:
-        forename:
-        - content: Florian
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Müller
-        language:
-        - en
-        script:
-        - Latn
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
   role:
-  - type: editor
-- person:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
     name:
-      given:
-        forename:
-        - content: Ken
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Baclawski
-        language:
-        - en
-        script:
-        - Latn
+    - content: http://www.oasis-open.org/committees/cmis/ipr.php
+    contact:
+    - uri: http://www.oasis-open.org/committees/cmis/ipr.php
   role:
-  - type: editor
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -68,7 +53,9 @@ relation:
       content: OASIS CMIS-v1.1
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: http://www.oasis-open.org/committees/cmis/ipr.php
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

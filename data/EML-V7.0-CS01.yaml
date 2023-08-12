@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/election/eml/v7.0/cs01/eml-v7.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/election/eml/v7.0/cs01/eml-v7.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/election/eml/v7.0/cs01/eml-v7.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS EML-v7.0-CS01
@@ -18,6 +25,88 @@ docnumber: EML-v7.0-CS01
 date:
 - type: issued
   value: '2011-10-28'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Election and Voter Services TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/election/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Borras
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: johnaborras@yahoo.co.uk
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Webber
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+        contact:
+        - uri: http://www.oracle.com/
+    contact:
+    - email: david.webber@oracle.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: urn:oasis:names:tc:evs:schema:eml
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -39,7 +128,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Election and Voter Services TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies
 - Messaging

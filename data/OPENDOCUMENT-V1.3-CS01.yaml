@@ -18,6 +18,74 @@ docnumber: OpenDocument-v1.3-CS01
 date:
 - type: issued
   value: '2019-12-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/office/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Jos
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: van
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Logius
+        contact:
+        - uri: http://www.logius.nl/
+    contact:
+    - email: jos.vanden.oever@logius.nl
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Patrick
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Durusau
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: patrick@durusau.net
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -55,6 +123,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Open Document Format for Office Applications (OpenDocument) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

@@ -18,6 +18,26 @@ docnumber: OSLC-CM-3.0-PS01
 date:
 - type: issued
   value: '2020-09-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+    contact:
+    - uri: https://open-services.net/about/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -54,6 +74,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Software-development

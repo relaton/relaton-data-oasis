@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/xacml/xacml-3.0-dyn-attr/v1.0/cs01/xacml-3.0-dyn-attr-v1.0-cs01.docx
+  type: doc
+- content: https://docs.oasis-open.org/xacml/xacml-3.0-dyn-attr/v1.0/cs01/xacml-3.0-dyn-attr-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/xacml/xacml-3.0-dyn-attr/v1.0/cs01/xacml-3.0-dyn-attr-v1.0-cs01.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS XACML-Dyn-Attr-v3.0
@@ -19,6 +26,26 @@ docnumber: XACML-Dyn-Attr-v3.0
 date:
 - type: issued
   value: '2022-01-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -39,7 +66,7 @@ doctype: standard
 editorialgroup:
 - name: eXtensible Access Control Markup Language (XACML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity
 - Privacy/Identity

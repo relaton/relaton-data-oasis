@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/os/bdx-smp-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/os/bdx-smp-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/os/bdx-smp-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS BDX-smp-v1.0
@@ -18,6 +25,172 @@ docnumber: BDX-smp-v1.0
 date:
 - type: issued
   value: '2017-08-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bdxr/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bengtsson
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Alfa1lab
+        contact:
+        - uri: http://www.alfa1lab.com/
+    contact:
+    - email: kenneth@alfa1lab.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Jens
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Aabol
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Difi-Agency for Public Management and eGovernment
+        contact:
+        - uri: http://www.difi.no/
+    contact:
+    - email: jea@difi.no
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bengtsson
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Alfa1lab
+        contact:
+        - uri: http://www.alfa1lab.com/
+    contact:
+    - email: kenneth@alfa1lab.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Erlend
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Klakegg
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Difi-Agency for Public Management and eGovernment
+        contact:
+        - uri: http://www.difi.no/
+    contact:
+    - email: erlend.klakegg.bergheim@difi.no
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Sander
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Fieten
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: sander@fieten-it.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Sven
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rasmussen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Danish Agency for Digitisation, Ministry of Finance
+        contact:
+        - uri: http://www.digst.dk/
+    contact:
+    - email: svrra@digst.dk
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -44,6 +217,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Business Document Exchange (BDXR) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

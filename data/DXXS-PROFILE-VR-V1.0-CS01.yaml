@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dss-x/profiles/verificationreport/oasis-dssx-1.0-profiles-vr-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/dss-x/profiles/verificationreport/oasis-dssx-1.0-profiles-vr-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/dss-x/profiles/verificationreport/oasis-dssx-1.0-profiles-vr-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS dxxs-profile-vr-v1.0-CS01
@@ -19,6 +26,87 @@ docnumber: dxxs-profile-vr-v1.0-CS01
 date:
 - type: issued
   value: '2010-11-12'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/dss-x/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Juan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Carlos
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: cruellas@ac.upc.edu
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Stefan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Drees,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: stefan@drees.name
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Detlef
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hühnlein,
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: detlef.huehnlein@ecsec.desecunet.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -37,6 +125,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Digital Signature Services eXtended (DSS-X) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Security

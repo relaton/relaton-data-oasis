@@ -18,6 +18,180 @@ docnumber: AkomaNtosoCore-v1.0
 date:
 - type: issued
   value: '2018-08-29'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legaldocml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Fabio
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vitali
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Monica
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Palmirani
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Roger
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Sperberg
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: LexisNexis, a Division of Reed Elsevier
+        contact:
+        - uri: http://www.lexisnexis.com/
+    contact:
+    - email: roger.sperberg@lexisnexis.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Grant
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vergottini
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Xcential Group, LLC
+        contact:
+        - uri: http://xcential.com/
+    contact:
+    - email: grant.vergottini@xcential.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Fabio
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vitali
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -49,7 +223,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS LegalDocumentML (LegalDocML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies
 - eGov/Legal

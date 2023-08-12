@@ -10,6 +10,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/xspa/v1.0/saml-xspa-1.0-os.html
+  type: src
 type: standard
 docid:
 - id: OASIS XSPA-SAML-v1.0
@@ -19,6 +22,26 @@ docnumber: XSPA-SAML-v1.0
 date:
 - type: issued
   value: '2009-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Security Services (SAML) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/security
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,7 +59,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS Security Services (SAML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity
 - Security

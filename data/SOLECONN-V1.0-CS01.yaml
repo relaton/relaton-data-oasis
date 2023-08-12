@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/amqp/soleconn/v1.0/cs01/soleconn-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/amqp/soleconn/v1.0/cs01/soleconn-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/amqp/soleconn/v1.0/cs01/soleconn-v1.0-cs01.xml
+  type: xml
 type: standard
 docid:
 - id: OASIS soleconn-v1.0-CS01
@@ -19,6 +26,105 @@ docnumber: soleconn-v1.0-CS01
 date:
 - type: issued
   value: '2018-09-17'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Advanced Message Queuing Protocol (AMQP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/amqp/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Godfrey
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - uri: http://www.redhat.com
+    contact:
+    - email: rgodfrey@redhat.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Clemens
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Vasters
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com
+    contact:
+    - email: clemensv@microsoft.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Godfrey
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Red Hat
+        contact:
+        - uri: http://www.redhat.com
+    contact:
+    - email: rgodfrey@redhat.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -35,6 +141,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Advanced Message Queuing Protocol (AMQP) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Messaging

@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/openc2/oc2slpf/v1.0/cs01/oc2slpf-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/openc2/oc2slpf/v1.0/cs01/oc2slpf-v1.0-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/openc2/oc2slpf/v1.0/cs01/oc2slpf-v1.0-cs01.html
+  type: src
 type: standard
 docid:
 - id: OASIS OpenC2-SLPF-v1.0-CS01
@@ -19,6 +26,26 @@ docnumber: OpenC2-SLPF-v1.0-CS01
 date:
 - type: issued
   value: '2019-07-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Command and Control (OpenC2) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/openc2/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -41,7 +68,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Open Command and Control (OpenC2) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity
 - Security

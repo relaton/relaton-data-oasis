@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.3
+id: OASISWS-BA-v1.2
+title:
+- content: WS-BusinessActivity v1.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os/wstx-wsba-1.2-spec-os.html
+  type: src
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/ws-tx/wsba/2006/06
+  type: src
+type: standard
+docid:
+- id: OASIS WS-BA-v1.2
+  type: OASIS
+  primary: true
+docnumber: WS-BA-v1.2
+date:
+- type: issued
+  value: '2009-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Web Services Transaction (WS-TX) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/ws-tx/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Provides the definition of two Business Activity coordination types: AtomicOutcome
+    or MixedOutcome, that are to be used with the extensible coordination framework
+    described in the WS-Coordination specification. This specification also defines
+    two specific Business Activity agreement coordination protocols for the Business
+    Activity coordination types: BusinessAgreementWithParticipantCompletion, and BusinessAgreementWithCoordinatorCompletion.
+    Developers can use these protocols when building applications that require consistent
+    agreement on the outcome of long-running distributed activities.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Web Services Transaction (WS-TX) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

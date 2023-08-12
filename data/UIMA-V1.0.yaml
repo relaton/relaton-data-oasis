@@ -9,6 +9,9 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html
+  type: src
 type: standard
 docid:
 - id: OASIS UIMA-v1.0
@@ -18,6 +21,26 @@ docnumber: UIMA-v1.0
 date:
 - type: issued
   value: '2009-03-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Unstructured Information Management Architecture (UIMA) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/uima/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -35,6 +58,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Unstructured Information Management Architecture (UIMA) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

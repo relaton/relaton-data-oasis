@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.3
+id: OASISTAM-v1.0
+title:
+- content: Test Assertions Model v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/tag/model/v1.0/os/testassertionsmodel-1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/tag/model/v1.0/os/testassertionsmodel-1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/tag/model/v1.0/os/testassertionsmodel-1.0-os.odt
+  type: odt
+type: standard
+docid:
+- id: OASIS TAM-v1.0
+  type: OASIS
+  primary: true
+docnumber: TAM-v1.0
+date:
+- type: issued
+  value: '2012-10-16'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Test Assertions Guidelines (TAG) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/tag/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Defines a model for Test Assertions that are associated with a specification,
+    and defines their use and semantics.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Test Assertions Guidelines (TAG) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Software-development

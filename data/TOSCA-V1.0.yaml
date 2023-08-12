@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.doc
+  type: doc
+- content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS TOSCA-v1.0
@@ -19,6 +26,27 @@ docnumber: TOSCA-v1.0
 date:
 - type: issued
   value: '2013-11-25'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: Topology and Orchestration Specification for Cloud Applications (TOSCA)
+        TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/tosca/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,6 +64,6 @@ doctype: standard
 editorialgroup:
 - name: Topology and Orchestration Specification for Cloud Applications (TOSCA) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cloud

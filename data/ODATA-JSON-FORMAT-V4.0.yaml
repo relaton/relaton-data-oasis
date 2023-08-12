@@ -18,6 +18,155 @@ docnumber: OData-JSON-Format-v4.0
 date:
 - type: issued
   value: '2014-02-24'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Barbara
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hartel
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP AG
+        contact:
+        - uri: http://www.sap.com/
+    contact:
+    - email: barbara.hartel@sap.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ram
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jeyaraman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com/
+    contact:
+    - email: Ram.Jeyaraman@microsoft.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP AG
+        contact:
+        - uri: http://www.sap.com/
+    contact:
+    - email: ralf.handl@sap.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pizzo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com/
+    contact:
+    - email: mikep@microsoft.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Mark
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Biamonte
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Progress Software
+        contact:
+        - uri: http://www.progress.com/
+    contact:
+    - email: mark.biamonte@progress.com
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -42,7 +191,7 @@ relation:
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS OData-JSON-Format-v4.0-Pt-plus-errata01
+      content: OASIS OData-JSON-Format-v4.0-plus-Errata01
       format: text/plain
 - type: hasPart
   bibitem:
@@ -52,17 +201,17 @@ relation:
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS OData-JSON-Format-v4.0-errata03
+      content: OASIS OData-JSON-Format-v4.0-Errata03
       format: text/plain
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS OData-JSON-Format-v4.0-Pt-plus-errata03
+      content: OASIS OData-JSON-Format-v4.0-plus-Errata03
       format: text/plain
 doctype: standard
 editorialgroup:
 - name: OASIS Open Data Protocol (OData) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Messaging

@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/virtio/virtio/v1.1/cs01/virtio-v1.1-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/virtio/virtio/v1.1/cs01/virtio-v1.1-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/virtio/virtio/v1.1/cs01/tex/
+  type: src
 type: standard
 docid:
 - id: OASIS VIRTIO-v1.1-CS01
@@ -18,6 +25,26 @@ docnumber: VIRTIO-v1.1-CS01
 date:
 - type: issued
   value: '2019-04-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Virtual I/O Device (VIRTIO) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/virtio/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -39,6 +66,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Virtual I/O Device (VIRTIO) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - IoT

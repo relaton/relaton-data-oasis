@@ -22,23 +22,25 @@ date:
 - type: issued
   value: '2020-04-23'
 contributor:
-- person:
+- organization:
     name:
-      given:
-        forename:
-        - content: Michael
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Pizzo
-        language:
-        - en
-        script:
-        - Latn
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
   role:
-  - type: editor
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -54,29 +56,60 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAP SE
+        contact:
+        - uri: http://www.sap.com/
+    contact:
+    - email: ralf.handl@sap.com
   role:
-  - type: editor
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
         forename:
-        - content: and
+        - content: Michael
           language:
           - en
           script:
           - Latn
       surname:
-        content: Martin
+        content: Pizzo
         language:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Microsoft
+        contact:
+        - uri: http://www.microsoft.com/
+    contact:
+    - email: mikep@microsoft.com
   role:
-  - type: editor
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The Open Data Protocol (OData) enables the creation of REST-based data
+    services, which allow resources, identified using Uniform Resource Locators (URLs)
+    and defined in an Entity Data Model (EDM), to be published and edited by Web clients
+    using simple HTTP messages. This document defines the core semantics and facilities
+    of the protocol.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -84,7 +117,9 @@ relation:
       content: OASIS OData
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: "OASIS\r\nOpen Data Protocol (OData) TC"
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Messaging

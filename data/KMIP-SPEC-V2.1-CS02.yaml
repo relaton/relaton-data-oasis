@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/kmip/kmip-spec/v2.1/cs02/kmip-spec-v2.1-cs02.html
+  type: src
+- content: https://docs.oasis-open.org/kmip/kmip-spec/v2.1/cs02/kmip-spec-v2.1-cs02.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/kmip/kmip-spec/v2.1/cs02/kmip-spec-v2.1-cs02.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS kmip-spec-v2.1-CS02
@@ -18,6 +25,80 @@ docnumber: kmip-spec-v2.1-CS02
 date:
 - type: issued
   value: '2020-11-16'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/kmip/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Tony
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cox
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cryptsoft Pty Ltd.
+        contact:
+        - uri: http://www.cryptsoft.com
+    contact:
+    - email: tony.cox@cryptsoft.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Judith
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Furlong
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Dell
+        contact:
+        - uri: http://www.dell.com
+    contact:
+    - email: Judith.Furlong@dell.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -36,7 +117,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Key Management Interoperability Protocol (KMIP) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity
 - Security

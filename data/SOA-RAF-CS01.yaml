@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/cs01/soa-ra-v1.0-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/cs01/soa-ra-v1.0-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/cs01/soa-ra-v1.0-cs01.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS SOA-RAF-CS01
@@ -19,6 +26,166 @@ docnumber: SOA-RAF-CS01
 date:
 - type: issued
   value: '2012-12-05'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Service Oriented Architecture Reference Model TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/soa-rm/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ken
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Laskey
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - uri: http://mitre.org/
+    contact:
+    - email: klaskey@mitre.org
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Brown
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: peter@peterfbrown.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Jeff
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: A.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Jet Propulsion Laboratory
+        contact:
+        - uri: http://www.jpl.nasa.gov/
+    contact:
+    - email: jeffrey.a.estefan@jpl.nasa.gov
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Ken
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Laskey
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: MITRE Corporation
+        contact:
+        - uri: http://www.mitre.org/
+    contact:
+    - email: klaskey@mitre.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Francis
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: G.
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: fmccabe@gmail.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Danny
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thornton
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Northrop Grumman
+        contact:
+        - uri: http://www.northropgrumman.com/
+    contact:
+    - email: danny.thornton@ngc.com.org
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -39,6 +206,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Service Oriented Architecture Reference Model TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - e-Business

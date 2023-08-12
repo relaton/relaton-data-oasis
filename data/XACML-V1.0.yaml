@@ -18,6 +18,26 @@ docnumber: XACML-v1.0
 date:
 - type: issued
   value: '2003-02-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Extensible Access Control Markup Language TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/xacml
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -26,4 +46,4 @@ doctype: standard
 editorialgroup:
 - name: OASIS Extensible Access Control Markup Language TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

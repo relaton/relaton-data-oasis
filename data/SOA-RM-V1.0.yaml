@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/soa-rm/v1.0/soa-rm.html
+  type: src
+- content: http://docs.oasis-open.org/soa-rm/v1.0/soa-rm.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/soa-rm/v1.0/soa-rm.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS SOA-RM-v1.0
@@ -18,6 +25,26 @@ docnumber: SOA-RM-v1.0
 date:
 - type: issued
   value: '2006-10-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS SOA Reference Model TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/soa-rm
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,4 +63,4 @@ doctype: standard
 editorialgroup:
 - name: OASIS SOA Reference Model TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

@@ -4,9 +4,8 @@ require 'fileutils'
 require 'relaton_oasis'
 
 FileUtils.rm_rf('data')
-FileUtils.rm_f('index.yaml')
+FileUtils.rm(Dir.glob('index*'))
 
 RelatonOasis::DataFetcher.fetch
-
 FileUtils.mkdir_p('src/_data/')
 FileUtils.cp('index.yaml', 'src/_data/')

@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ubl/idd/cs-UBL-2.0-idd01/cs-UBL-2.0-idd01.html
+  type: src
+- content: http://docs.oasis-open.org/ubl/idd/cs-UBL-2.0-idd01/cs-UBL-2.0-idd01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ubl/idd/cs-UBL-2.0-idd01/cs-UBL-2.0-idd01.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS UBL-idd01-CS01
@@ -19,6 +26,26 @@ docnumber: UBL-idd01-CS01
 date:
 - type: issued
   value: '2009-07-07'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Universal Business Language TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ubl/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -35,7 +62,7 @@ doctype: specification
 editorialgroup:
 - name: OASIS Universal Business Language TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies
 - e-Business

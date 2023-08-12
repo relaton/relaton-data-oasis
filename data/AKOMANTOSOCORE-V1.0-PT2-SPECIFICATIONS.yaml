@@ -22,6 +22,25 @@ date:
 - type: issued
   value: '2018-08-29'
 contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/legaldocml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 - person:
     name:
       given:
@@ -37,8 +56,18 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: fabio@cs.unibo.it
   role:
-  - type: editor
+  - description:
+    - content: Chair
+    type: editor
 - person:
     name:
       given:
@@ -54,46 +83,30 @@ contributor:
         - en
         script:
         - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: University of Bologna-CIRSFID
+        contact:
+        - uri: http://www.cirsfid.unibo.it/
+    contact:
+    - email: monica.palmirani@unibo.it
   role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Roger
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Sperberg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: and
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Véronique
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document provides the specifications of Akoma Ntoso XSD and DTD standard,
+    including the graphic representation using Oxygen library.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 relation:
 - type: partOf
   bibitem:
@@ -101,8 +114,10 @@ relation:
       content: OASIS AkomaNtosoCore-v1.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: OASIS LegalDocumentML (LegalDocML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies
 - eGov/Legal

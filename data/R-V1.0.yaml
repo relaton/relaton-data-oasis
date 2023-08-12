@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.3
+id: OASISR-v1.0
+title:
+- content: searchRetrieve v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.html
+  type: src
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.doc
+  type: doc
+- content: http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/schemas/
+  type: src
+type: standard
+docid:
+- id: OASIS R-v1.0
+  type: OASIS
+  primary: true
+docnumber: R-v1.0
+date:
+- type: issued
+  value: '2013-01-31'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Search Web Services TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/search-ws/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A set of documents for the OASIS Search Web Services (SWS) initiative.
+    This document is the Overview and serves to introduce the full collection of documents.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Search Web Services TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Web-Services

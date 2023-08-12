@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/csaf/csaf-cvrf/v1.2/cs01/csaf-cvrf-v1.2-cs01.html
+  type: src
+- content: http://docs.oasis-open.org/csaf/csaf-cvrf/v1.2/cs01/csaf-cvrf-v1.2-cs01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/csaf/csaf-cvrf/v1.2/cs01/csaf-cvrf-v1.2-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS CVRF-v1.2-CS01
@@ -18,6 +25,72 @@ docnumber: CVRF-v1.2-CS01
 date:
 - type: issued
   value: '2017-09-13'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Common Security Advisory Framework (CSAF) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/csaf/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Omar
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Santos
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Cisco Systems
+        contact:
+        - uri: http://www.cisco.com/
+    contact:
+    - email: os@cisco.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Stefan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hagen
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: stefan@hagen.link
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -36,6 +109,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Common Security Advisory Framework (CSAF) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Cybersecurity

@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.html
+  type: src
+- content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS sksml-v1.0-CS02
@@ -18,6 +25,26 @@ docnumber: sksml-v1.0-CS02
 date:
 - type: issued
   value: '2011-01-11'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Enterprise Key Management Infrastructure (EKMI) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/ekmi/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -40,6 +67,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Enterprise Key Management Infrastructure (EKMI) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Messaging

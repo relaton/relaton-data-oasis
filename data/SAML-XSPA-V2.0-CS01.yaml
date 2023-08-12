@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/xspa/saml-xspa/v2.0/cs01/saml-xspa-v2.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/xspa/saml-xspa/v2.0/cs01/saml-xspa-v2.0-cs01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/xspa/saml-xspa/v2.0/cs01/saml-xspa-v2.0-cs01.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS SAML-XSPA-v2.0-CS01
@@ -19,6 +26,80 @@ docnumber: SAML-XSPA-v2.0-CS01
 date:
 - type: issued
   value: '2019-04-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xspa/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Mohammad
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Jafari
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Veterans Health Administration
+        contact:
+        - uri: http://www.va.gov/
+    contact:
+    - email: mohammad.jafari@bookzurman.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Christopher
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Shawn
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Veterans Health Administration
+        contact:
+        - uri: http://www.va.gov/
+    contact:
+    - email: christopher.shawn2@va.gov)
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -35,6 +116,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity

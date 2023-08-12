@@ -10,6 +10,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml1x-metadata-os.html
+  type: src
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml1x-metadata-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml1x-metadata-os.odt
+  type: odt
 type: standard
 docid:
 - id: OASIS SAML
@@ -19,6 +26,26 @@ docnumber: SAML
 date:
 - type: issued
   value: '2007-11-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Security Services (SAML) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/security/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,7 +63,7 @@ doctype: standard
 editorialgroup:
 - name: OASIS Security Services (SAML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity
 - Security

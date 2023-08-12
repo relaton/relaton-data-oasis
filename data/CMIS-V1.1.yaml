@@ -18,6 +18,26 @@ docnumber: CMIS-v1.1
 date:
 - type: issued
   value: '2013-05-23'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Content Management Interoperability Services (CMIS) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/cmis
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -57,6 +77,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Content Management Interoperability Services (CMIS) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

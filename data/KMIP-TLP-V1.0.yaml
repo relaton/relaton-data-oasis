@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.3
+id: OASISKMIP-TLP-v1.0
+title:
+- content: KMIP Tape Library Profile v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.oasis-open.org/kmip/kmip-tape-lib-profile/v1.0/os/kmip-tape-lib-profile-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/kmip/kmip-tape-lib-profile/v1.0/os/kmip-tape-lib-profile-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/kmip/kmip-tape-lib-profile/v1.0/os/kmip-tape-lib-profile-v1.0-os.doc
+  type: doc
+type: standard
+docid:
+- id: OASIS KMIP-TLP-v1.0
+  type: OASIS
+  primary: true
+docnumber: KMIP-TLP-v1.0
+date:
+- type: issued
+  value: '2015-05-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/kmip/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes a profile for Tape Libraries as KMIP clients interacting with
+    KMIP servers.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+editorialgroup:
+- name: OASIS Key Management Interoperability Protocol (KMIP) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Security

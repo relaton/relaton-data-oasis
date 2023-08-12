@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/bpel4people/bpel4people-1.1-spec-cs-01.html
+  type: src
+- content: http://docs.oasis-open.org/bpel4people/bpel4people-1.1-spec-cs-01.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/bpel4people/bpel4people-1.1-spec-cs-01.html
+  type: src
 type: standard
 docid:
 - id: OASIS bpel4people-v1.1-CS01
@@ -18,6 +25,45 @@ docnumber: bpel4people-v1.1-CS01
 date:
 - type: issued
   value: '2010-08-17'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS BPEL4People TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/bpel4people/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Dave
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ings,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -35,6 +81,6 @@ doctype: specification
 editorialgroup:
 - name: OASIS BPEL4People TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Web-Services

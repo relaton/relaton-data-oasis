@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/trust-el/trust-el-protocol/v1.0/os/trust-el-protocol-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/trust-el/trust-el-protocol/v1.0/os/trust-el-protocol-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/trust-el/trust-el-protocol/v1.0/os/trust-el-protocol-v1.0-os.docx
+  type: doc
 type: standard
 docid:
 - id: OASIS Trust-El-Protocol-v1.0
@@ -18,6 +25,578 @@ docnumber: Trust-El-Protocol-v1.0
 date:
 - type: issued
   value: '2017-05-24'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust
+        Elevation) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/trust-el/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Abbie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barbir
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Aetna
+        contact:
+        - uri: http://www.aetna.com
+    contact:
+    - email: barbira@aetna.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Don
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thibeau
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Open Identity Exchange
+        contact:
+        - uri: http://www.openidentityexchange.org/
+    contact:
+    - email: don@openidentityexchange.org
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Abbie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barbir,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Don
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thibeau,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hughes
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: AndrewHughes3000@gmail.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Alterman
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: SAFE-BioPharma Assn
+        contact:
+        - uri: http://www.safe-biopharma.org/
+    contact:
+    - email: palterman@safe-biopharma.org
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Shaheen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Abdul
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: JPMorgan Chase Bank, N.A.
+        contact:
+        - uri: http://www.jpmorganchase.com/
+    contact:
+    - email: shaheen.abduljabbar@jpmchase.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Abbie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barbir
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Aetna
+        contact:
+        - uri: http://www.aetna.com
+    contact:
+    - email: barbira@aetna.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ruddy
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Identity Commons
+        contact:
+        - uri: http://www.identitycommons.net/
+    contact:
+    - email: mary@meristic.com
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hughes,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Shaheen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Abdul
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Alterman,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Abbie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barbir,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ruddy,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Peter
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Alterman,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Abbie
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Barbir,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Andrew
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hughes,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Shaheen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Abdul
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Eve
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Maler,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Steven
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Legg,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Diana
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Proud-Madruga,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Mary
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Ruddy,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schwartz,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Martin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Smith,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Don
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Thibeau,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Cathy
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tilton,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: John
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Tolbert,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: David
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Turner,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Colin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Wallis,
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 language:
 - en
 script:
@@ -37,6 +616,6 @@ editorialgroup:
 - name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
     TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Privacy/Identity

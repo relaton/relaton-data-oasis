@@ -9,6 +9,13 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/xacml/3.0/ec-us/v1.0/os/xacml-3.0-ec-us-v1.0-os.html
+  type: src
+- content: http://docs.oasis-open.org/xacml/3.0/ec-us/v1.0/os/xacml-3.0-ec-us-v1.0-os.pdf
+  type: pdf
+- content: http://docs.oasis-open.org/xacml/3.0/ec-us/v1.0/os/xacml-3.0-ec-us-v1.0-os.doc
+  type: doc
 type: standard
 docid:
 - id: OASIS EC-US-v1.0
@@ -18,6 +25,26 @@ docnumber: EC-US-v1.0
 date:
 - type: issued
   value: '2015-01-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/xacml/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -36,6 +63,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Security

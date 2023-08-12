@@ -18,6 +18,53 @@ docnumber: DITA-v1.3
 date:
 - type: issued
   value: '2015-12-17'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Darwin Information Typing Architecture (DITA) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/dita
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kristen
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: James
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Eberlein Consulting             LLC
+        contact:
+        - uri: http://eberleinconsulting.com/
+    contact:
+    - email: kris@eberleinconsulting.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
 language:
 - en
 script:
@@ -55,17 +102,17 @@ relation:
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS DITA-v1.3-errata01
+      content: OASIS DITA-v1.3-Errata01
       format: text/plain
 - type: hasPart
   bibitem:
     formattedref:
-      content: OASIS DITA-v1.3-errata02
+      content: OASIS DITA-v1.3-Errata02
       format: text/plain
 doctype: standard
 editorialgroup:
 - name: OASIS Darwin Information Typing Architecture (DITA) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

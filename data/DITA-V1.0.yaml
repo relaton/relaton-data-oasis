@@ -9,6 +9,11 @@ title:
   - Latn
   format: text/plain
   type: main
+link:
+- content: http://docs.oasis-open.org/dita/v1.0/langspec/ditaref-type.toc.html
+  type: src
+- content: http://docs.oasis-open.org/dita/v1.0/dita-v1.0-spec-os-LanguageSpecification.pdf
+  type: pdf
 type: standard
 docid:
 - id: OASIS DITA-v1.0
@@ -18,6 +23,26 @@ docnumber: DITA-v1.0
 date:
 - type: issued
   value: '2005-05-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Darwin Information Typing Architecture (DITA) TC
+    contact:
+    - uri: http://www.oasis-open.org/committees/dita
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -35,6 +60,6 @@ doctype: standard
 editorialgroup:
 - name: OASIS Darwin Information Typing Architecture (DITA) TC
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies

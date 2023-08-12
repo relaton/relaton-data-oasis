@@ -22,23 +22,25 @@ date:
 - type: issued
   value: '2009-11-01'
 contributor:
-- person:
+- organization:
     name:
-      given:
-        forename:
-        - content: Norman
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Walsh
-        language:
-        - en
-        script:
-        - Latn
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
   role:
-  - type: editor
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: http://www.oasis-open.org/committees/docbook/ipr.php
+    contact:
+    - uri: http://www.oasis-open.org/committees/docbook/ipr.php
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
 language:
 - en
 script:
@@ -50,7 +52,9 @@ relation:
       content: OASIS DocBook-5.0
       format: text/plain
 doctype: standard
+editorialgroup:
+- name: http://www.oasis-open.org/committees/docbook/ipr.php
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1
 technology_area:
 - Content-Technologies
