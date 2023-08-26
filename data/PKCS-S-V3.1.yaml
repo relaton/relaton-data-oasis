@@ -10,11 +10,11 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.docx
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/os/pkcs11-spec-v3.1-os.docx
   type: doc
-- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.html
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/os/pkcs11-spec-v3.1-os.html
   type: src
-- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.pdf
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/os/pkcs11-spec-v3.1-os.pdf
   type: pdf
 type: standard
 docid:
@@ -24,7 +24,7 @@ docid:
 docnumber: PKCS-S-v3.1
 date:
 - type: issued
-  value: '2022-08-11'
+  value: '2023-07-23'
 contributor:
 - organization:
     name:
@@ -84,15 +84,17 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Defines data types, functions and other basic components of the PKCS #11
-    Cryptoki interface for devices that may hold cryptographic information and may
-    perform cryptographic functions.'
+- content: 'Defines a platform-independent API to cryptographic tokens, such as hardware
+    security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic
+    token interface”) and pronounced “crypto-key”. The specification defines data
+    types, functions and other basic components of the interface and also defines
+    mechanisms that are anticipated for use with the current version of PKCS #11.'
   language:
   - en
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype: standard
 editorialgroup:
 - name: PKCS 11 TC
 ext:

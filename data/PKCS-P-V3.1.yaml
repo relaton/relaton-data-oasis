@@ -10,11 +10,11 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/cs01/pkcs11-profiles-v3.1-cs01.docx
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/os/pkcs11-profiles-v3.1-os.docx
   type: doc
-- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/cs01/pkcs11-profiles-v3.1-cs01.html
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/os/pkcs11-profiles-v3.1-os.html
   type: src
-- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/cs01/pkcs11-profiles-v3.1-cs01.pdf
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-profiles/v3.1/os/pkcs11-profiles-v3.1-os.pdf
   type: pdf
 type: standard
 docid:
@@ -24,7 +24,7 @@ docid:
 docnumber: PKCS-P-v3.1
 date:
 - type: issued
-  value: '2022-07-14'
+  value: '2023-07-23'
 contributor:
 - organization:
     name:
@@ -67,18 +67,21 @@ language:
 script:
 - Latn
 abstract:
-- content: 'For developers and architects who wish to design systems and applications
-    that conform to the PKCS #11 Cryptographic Token Interface specification'
+- content: Defines a platform-independent API to cryptographic tokens, such as hardware
+    security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic
+    token interface”) and pronounced “crypto-key”. Profiles define the use of PKCS#11
+    data types, objects, functions and mechanisms within specific contexts of provider
+    and consumer interaction. These profiles define a set of normative constraints
+    for employing PKCS#11 within a particular environment or context of use.
   language:
   - en
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype: standard
 editorialgroup:
 - name: PKCS 11 TC
 ext:
   schema-version: v1.0.1
 technology_area:
-- Privacy/Identity
 - Security
