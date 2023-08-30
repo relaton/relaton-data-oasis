@@ -517,6 +517,8 @@
   :file: data/OSLC-CONFIG-1.0-PART3-PS01.yaml
 - :id: OSLC-Config-1.0-Part4-PS01
   :file: data/OSLC-CONFIG-1.0-PART4-PS01.yaml
+- :id: OSLC-CM-v1.0
+  :file: data/OSLC-CM-V1.0.yaml
 - :id: OSLC-PS01
   :file: data/OSLC-PS01.yaml
 - :id: OSLC-Core-3.0-Part1-PS01
@@ -671,6 +673,8 @@
   :file: data/OSLC-TRS-V3.0-PS01-PT2.yaml
 - :id: OSLC-TRS-v3.0-PS01-Pt3
   :file: data/OSLC-TRS-V3.0-PS01-PT3.yaml
+- :id: OSLC-TRS-v3.0
+  :file: data/OSLC-TRS-V3.0.yaml
 - :id: PKCS11-base-v2.40
   :file: data/PKCS11-BASE-V2.40.yaml
 - :id: PKCS11-Base-v3.0
