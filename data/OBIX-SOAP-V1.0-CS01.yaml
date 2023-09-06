@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISOBIX-SOAP-v1.0-CS01
 title:
 - content: 'Bindings for OBIX: SOAP Bindings Version 1.0'

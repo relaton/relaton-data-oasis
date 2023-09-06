@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISXACML-v2.0
 title:
 - content: eXtensible Access Control Markup Language v2.0 (XACML)

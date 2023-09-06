@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISOBIX-Encodings-CS01
 title:
 - content: 'Encodings for OBIX: Common Encodings Version 1.0'

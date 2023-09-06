@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISamqp-core-messaging-v1.0-Pt3
 title:
 - content: 'OASIS Advanced Message Queuing Protocol (AMQP) Version 1.0 Part 3: Messaging'

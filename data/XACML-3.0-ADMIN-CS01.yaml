@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISXACML-3.0-Admin-CS01
 title:
 - content: XACML v3.0 Administration and Delegation Profile Version 1.0

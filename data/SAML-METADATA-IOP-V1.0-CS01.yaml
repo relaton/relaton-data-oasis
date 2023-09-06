@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISSAML-metadata-iop-v1.0-CS01
 title:
 - content: SAML V2.0 Metadata Interoperability Profile Version 1.0

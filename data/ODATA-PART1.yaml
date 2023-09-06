@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISOData-Part1
 title:
 - content: 'OData Version 4.01. Part 1: Protocol'

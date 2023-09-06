@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISxml-exchg-table
 title:
 - content: XML Exchange Table Model Document Type Definition

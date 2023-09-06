@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASISXSPA-v2.0
 title:
 - content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of XACML

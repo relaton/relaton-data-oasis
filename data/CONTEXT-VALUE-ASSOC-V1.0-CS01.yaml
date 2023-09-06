@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: OASIScontext-value-assoc-v1.0-CS01
 title:
 - content: Context/value association using genericode 1.0
