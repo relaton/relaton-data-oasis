@@ -61,16 +61,16 @@
   :file: data/BUSINESS-DOCUMENT-NDR-V1.1-CS01.yaml
 - :id: Business-Document-NDR-v1.0
   :file: data/BUSINESS-DOCUMENT-NDR-V1.0.yaml
-- :id: CACAO-Security-Playbooks-v1.0-CS02
-  :file: data/CACAO-SECURITY-PLAYBOOKS-V1.0-CS02.yaml
 - :id: CACAO-Security-Playbooks-v1.0-CS01
   :file: data/CACAO-SECURITY-PLAYBOOKS-V1.0-CS01.yaml
+- :id: CACAO-Security-Playbooks-v1.0-CS02
+  :file: data/CACAO-SECURITY-PLAYBOOKS-V1.0-CS02.yaml
 - :id: cals-table-model
   :file: data/CALS-TABLE-MODEL.yaml
-- :id: COEL-COEL-v1.0-CS02
-  :file: data/COEL-COEL-V1.0-CS02.yaml
 - :id: COEL-COEL-v1.0-CS01
   :file: data/COEL-COEL-V1.0-CS01.yaml
+- :id: COEL-COEL-v1.0-CS02
+  :file: data/COEL-COEL-V1.0-CS02.yaml
 - :id: COEL-COEL-v1.0
   :file: data/COEL-COEL-V1.0.yaml
 - :id: CAMP-Test-Assertions-v1.1-CS01
@@ -91,14 +91,14 @@
   :file: data/CAP-V1.1.yaml
 - :id: CAP-v1.2
   :file: data/CAP-V1.2.yaml
-- :id: csaf-v2.0-CS02
-  :file: data/CSAF-V2.0-CS02.yaml
-- :id: csaf-v2.0
-  :file: data/CSAF-V2.0.yaml
-- :id: CSAF-v2.0
-  :file: data/CSAF-V2.0.yaml
 - :id: csaf-v2.0-CS01
   :file: data/CSAF-V2.0-CS01.yaml
+- :id: csaf-v2.0-CS02
+  :file: data/CSAF-V2.0-CS02.yaml
+- :id: CSAF-v2.0
+  :file: data/CSAF-V2.0.yaml
+- :id: csaf-v2.0
+  :file: data/CSAF-V2.0.yaml
 - :id: CAM-v1.1
   :file: data/CAM-V1.1.yaml
 - :id: CMIS-v1.0
@@ -151,14 +151,14 @@
   :file: data/DITA-V1.3-ERRATA02.yaml
 - :id: DPWS-v1.1
   :file: data/DPWS-V1.1.yaml
-- :id: DSS-v2.0-CS02
-  :file: data/DSS-V2.0-CS02.yaml
 - :id: DSS-v2.0-CS01
   :file: data/DSS-V2.0-CS01.yaml
-- :id: DSS-MD-v1.0-CS02
-  :file: data/DSS-MD-V1.0-CS02.yaml
+- :id: DSS-v2.0-CS02
+  :file: data/DSS-V2.0-CS02.yaml
 - :id: DSS-MD-v1.0-CS01
   :file: data/DSS-MD-V1.0-CS01.yaml
+- :id: DSS-MD-v1.0-CS02
+  :file: data/DSS-MD-V1.0-CS02.yaml
 - :id: DSS-v1.0
   :file: data/DSS-V1.0.yaml
 - :id: DSML-v2.0
@@ -229,10 +229,10 @@
   :file: data/EDXL-DE-V2.0-CS02.yaml
 - :id: EDXL
   :file: data/EDXL.yaml
-- :id: EDXL-HAVE-v2.0-CS02
-  :file: data/EDXL-HAVE-V2.0-CS02.yaml
 - :id: EDXL-HAVE-v2.0-CS01
   :file: data/EDXL-HAVE-V2.0-CS01.yaml
+- :id: EDXL-HAVE-v2.0-CS02
+  :file: data/EDXL-HAVE-V2.0-CS02.yaml
 - :id: EDXL-TEP-v1.1-CS02
   :file: data/EDXL-TEP-V1.1-CS02.yaml
 - :id: EDXL-TEP-v1.1-CS01
@@ -249,14 +249,14 @@
   :file: data/EMIX-V1.0-CS02.yaml
 - :id: entity-mgmt
   :file: data/ENTITY-MGMT.yaml
-- :id: XHE-V1.0
-  :file: data/XHE-V1.0.yaml
-- :id: XHE-V1.0-CS03
-  :file: data/XHE-V1.0-CS03.yaml
-- :id: XHE-V1.0-CS02
-  :file: data/XHE-V1.0-CS02.yaml
 - :id: XHE-V1.0-CS01
   :file: data/XHE-V1.0-CS01.yaml
+- :id: XHE-V1.0-CS02
+  :file: data/XHE-V1.0-CS02.yaml
+- :id: XHE-V1.0-CS03
+  :file: data/XHE-V1.0-CS03.yaml
+- :id: XHE-V1.0
+  :file: data/XHE-V1.0.yaml
 - :id: XACML-v1.0
   :file: data/XACML-V1.0.yaml
 - :id: XACML-V3.0
@@ -287,10 +287,10 @@
   :file: data/ICOM-ICS-V1.0-CS01.yaml
 - :id: xacml-json-v1.0-CS01
   :file: data/XACML-JSON-V1.0-CS01.yaml
-- :id: xacml-json-v1.1
-  :file: data/XACML-JSON-V1.1.yaml
 - :id: xacml-json-v1.1-CS01
   :file: data/XACML-JSON-V1.1-CS01.yaml
+- :id: xacml-json-v1.1
+  :file: data/XACML-JSON-V1.1.yaml
 - :id: KMIPP-v1.0
   :file: data/KMIPP-V1.0.yaml
 - :id: KMIPP-v1.1
@@ -303,10 +303,10 @@
   :file: data/KMIP-PROFILES-V1.4.yaml
 - :id: kmip-profiles-v2.0
   :file: data/KMIP-PROFILES-V2.0.yaml
-- :id: kmip-profiles-v2.1
-  :file: data/KMIP-PROFILES-V2.1.yaml
 - :id: kmip-profiles-v2.1-CS01
   :file: data/KMIP-PROFILES-V2.1-CS01.yaml
+- :id: kmip-profiles-v2.1
+  :file: data/KMIP-PROFILES-V2.1.yaml
 - :id: KMIPS-v1.0
   :file: data/KMIPS-V1.0.yaml
 - :id: KMIPS-v1.1
@@ -319,12 +319,12 @@
   :file: data/KMIP-SPEC-V1.4.yaml
 - :id: kmip-spec-v2.0
   :file: data/KMIP-SPEC-V2.0.yaml
-- :id: kmip-spec-v2.1
-  :file: data/KMIP-SPEC-V2.1.yaml
 - :id: kmip-spec-v2.1-CS01
   :file: data/KMIP-SPEC-V2.1-CS01.yaml
 - :id: kmip-spec-v2.1-CS02
   :file: data/KMIP-SPEC-V2.1-CS02.yaml
+- :id: kmip-spec-v2.1
+  :file: data/KMIP-SPEC-V2.1.yaml
 - :id: KMIP-AME-v1.0
   :file: data/KMIP-AME-V1.0.yaml
 - :id: KMIP-AKLP-v1.0
@@ -363,12 +363,12 @@
   :file: data/MQTT-V3.1.1-ERRATA01.yaml
 - :id: mqtt-v3.1.1-plus-Errata01
   :file: data/MQTT-V3.1.1-PLUS-ERRATA01.yaml
-- :id: mqtt-v5.0
-  :file: data/MQTT-V5.0.yaml
-- :id: mqtt-v5.0-CS02
-  :file: data/MQTT-V5.0-CS02.yaml
 - :id: mqtt-v5.0-CS01
   :file: data/MQTT-V5.0-CS01.yaml
+- :id: mqtt-v5.0-CS02
+  :file: data/MQTT-V5.0-CS02.yaml
+- :id: mqtt-v5.0
+  :file: data/MQTT-V5.0.yaml
 - :id: dxxs-profile-vr-v1.0-CS01
   :file: data/DXXS-PROFILE-VR-V1.0-CS01.yaml
 - :id: PartyIdType-v1.0-CS01
@@ -413,16 +413,26 @@
   :file: data/ODATA-PART1.yaml
 - :id: OData-Part2
   :file: data/ODATA-PART2.yaml
-- :id: OpenC2-Lang-v1.0-CS02
-  :file: data/OPENC2-LANG-V1.0-CS02.yaml
 - :id: OpenC2-Lang-v1.0-CS01
   :file: data/OPENC2-LANG-V1.0-CS01.yaml
+- :id: OpenC2-Lang-v1.0-CS02
+  :file: data/OPENC2-LANG-V1.0-CS02.yaml
 - :id: OpenC2-SLPF-v1.0-CS01
   :file: data/OPENC2-SLPF-V1.0-CS01.yaml
 - :id: OpenDocument-v1.1
   :file: data/OPENDOCUMENT-V1.1.yaml
 - :id: OpenDocument-v1.2
   :file: data/OPENDOCUMENT-V1.2.yaml
+- :id: OpenDocument-v1.3-CS01
+  :file: data/OPENDOCUMENT-V1.3-CS01.yaml
+- :id: OpenDocument-v1.3-part1-CS01
+  :file: data/OPENDOCUMENT-V1.3-PART1-CS01.yaml
+- :id: OpenDocument-v1.3-part2-CS01
+  :file: data/OPENDOCUMENT-V1.3-PART2-CS01.yaml
+- :id: OpenDocument-v1.3-part3-CS01
+  :file: data/OPENDOCUMENT-V1.3-PART3-CS01.yaml
+- :id: OpenDocument-v1.3-part4-CS01
+  :file: data/OPENDOCUMENT-V1.3-PART4-CS01.yaml
 - :id: OpenDocument-v1.3-CS02
   :file: data/OPENDOCUMENT-V1.3-CS02.yaml
 - :id: OpenDocument-v1.3-part1-CS02
@@ -443,16 +453,6 @@
   :file: data/OPENDOCUMENT-V1.3-PART3.yaml
 - :id: OpenDocument-v1.3-part4
   :file: data/OPENDOCUMENT-V1.3-PART4.yaml
-- :id: OpenDocument-v1.3-CS01
-  :file: data/OPENDOCUMENT-V1.3-CS01.yaml
-- :id: OpenDocument-v1.3-part1-CS01
-  :file: data/OPENDOCUMENT-V1.3-PART1-CS01.yaml
-- :id: OpenDocument-v1.3-part2-CS01
-  :file: data/OPENDOCUMENT-V1.3-PART2-CS01.yaml
-- :id: OpenDocument-v1.3-part3-CS01
-  :file: data/OPENDOCUMENT-V1.3-PART3-CS01.yaml
-- :id: OpenDocument-v1.3-part4-CS01
-  :file: data/OPENDOCUMENT-V1.3-PART4-CS01.yaml
 - :id: ODF-Access-Guidelines-v1.0-CS01
   :file: data/ODF-ACCESS-GUIDELINES-V1.0-CS01.yaml
 - :id: OpenDocument-v1.0
@@ -479,6 +479,18 @@
   :file: data/OSLC-AM-3.0-PART2.yaml
 - :id: OSLC-AM-3.0-Part3
   :file: data/OSLC-AM-3.0-PART3.yaml
+- :id: OSLC-CM-3.0-CS01
+  :file: data/OSLC-CM-3.0-CS01.yaml
+- :id: OSLC-CM-3.0-Part1-CS01
+  :file: data/OSLC-CM-3.0-PART1-CS01.yaml
+- :id: OSLC-CM-3.0-Part2-CS01
+  :file: data/OSLC-CM-3.0-PART2-CS01.yaml
+- :id: OSLC-CM-3.0-CS02
+  :file: data/OSLC-CM-3.0-CS02.yaml
+- :id: OSLC-CM-3.0-Part1-CS02
+  :file: data/OSLC-CM-3.0-PART1-CS02.yaml
+- :id: OSLC-CM-3.0-Part2-CS02
+  :file: data/OSLC-CM-3.0-PART2-CS02.yaml
 - :id: OSLC-CM-3.0-PS01
   :file: data/OSLC-CM-3.0-PS01.yaml
 - :id: OSLC-CM-3.0-Part1-PS01
@@ -487,18 +499,6 @@
   :file: data/OSLC-CM-3.0-PART2-PS01.yaml
 - :id: OSLC-CM-3.0-Part3-PS01
   :file: data/OSLC-CM-3.0-PART3-PS01.yaml
-- :id: OSLC-CM-3.0-CS02
-  :file: data/OSLC-CM-3.0-CS02.yaml
-- :id: OSLC-CM-3.0-Part1-CS02
-  :file: data/OSLC-CM-3.0-PART1-CS02.yaml
-- :id: OSLC-CM-3.0-Part2-CS02
-  :file: data/OSLC-CM-3.0-PART2-CS02.yaml
-- :id: OSLC-CM-3.0-CS01
-  :file: data/OSLC-CM-3.0-CS01.yaml
-- :id: OSLC-CM-3.0-Part1-CS01
-  :file: data/OSLC-CM-3.0-PART1-CS01.yaml
-- :id: OSLC-CM-3.0-Part2-CS01
-  :file: data/OSLC-CM-3.0-PART2-CS01.yaml
 - :id: OSLC-CM-3.0
   :file: data/OSLC-CM-3.0.yaml
 - :id: OSLC-CM-3.0-Part1
@@ -519,6 +519,22 @@
   :file: data/OSLC-CONFIG-1.0-PART4-PS01.yaml
 - :id: OSLC-CM-v1.0
   :file: data/OSLC-CM-V1.0.yaml
+- :id: OSLC-CS01
+  :file: data/OSLC-CS01.yaml
+- :id: OSLC-Core-3.0-CS01-Pt1
+  :file: data/OSLC-CORE-3.0-CS01-PT1.yaml
+- :id: OSLC-Discovery-3.0-CS01-Pt2
+  :file: data/OSLC-DISCOVERY-3.0-CS01-PT2.yaml
+- :id: OSLC-ResourcePreview-3.0-CS01-Pt3
+  :file: data/OSLC-RESOURCEPREVIEW-3.0-CS01-PT3.yaml
+- :id: OSLC-Dialogs-3.0-CS01-Pt4
+  :file: data/OSLC-DIALOGS-3.0-CS01-PT4.yaml
+- :id: OSLC-Attachments-3.0-CS01-Pt5
+  :file: data/OSLC-ATTACHMENTS-3.0-CS01-PT5.yaml
+- :id: OSLC-Shapes-3.0-CS01-Pt6
+  :file: data/OSLC-SHAPES-3.0-CS01-PT6.yaml
+- :id: OSLC-CoreVocab-3.0-CS01-Pt7
+  :file: data/OSLC-COREVOCAB-3.0-CS01-PT7.yaml
 - :id: OSLC-PS01
   :file: data/OSLC-PS01.yaml
 - :id: OSLC-Core-3.0-Part1-PS01
@@ -537,22 +553,6 @@
   :file: data/OSLC-COREVOCAB-3.0-PS01-PT7.yaml
 - :id: OSLC-CoreShapes-3.0-PS01-Pt8
   :file: data/OSLC-CORESHAPES-3.0-PS01-PT8.yaml
-- :id: OSLC-CS01
-  :file: data/OSLC-CS01.yaml
-- :id: OSLC-Core-3.0-CS01-Pt1
-  :file: data/OSLC-CORE-3.0-CS01-PT1.yaml
-- :id: OSLC-Discovery-3.0-CS01-Pt2
-  :file: data/OSLC-DISCOVERY-3.0-CS01-PT2.yaml
-- :id: OSLC-ResourcePreview-3.0-CS01-Pt3
-  :file: data/OSLC-RESOURCEPREVIEW-3.0-CS01-PT3.yaml
-- :id: OSLC-Dialogs-3.0-CS01-Pt4
-  :file: data/OSLC-DIALOGS-3.0-CS01-PT4.yaml
-- :id: OSLC-Attachments-3.0-CS01-Pt5
-  :file: data/OSLC-ATTACHMENTS-3.0-CS01-PT5.yaml
-- :id: OSLC-Shapes-3.0-CS01-Pt6
-  :file: data/OSLC-SHAPES-3.0-CS01-PT6.yaml
-- :id: OSLC-CoreVocab-3.0-CS01-Pt7
-  :file: data/OSLC-COREVOCAB-3.0-CS01-PT7.yaml
 - :id: OSLC-PS02
   :file: data/OSLC-PS02.yaml
 - :id: OSLC-Core-3.0-Part1-PS02
@@ -589,14 +589,6 @@
   :file: data/OSLC-COREVOCAB-3.0-PT7.yaml
 - :id: OSLC-CoreShapes-3.0-Pt8
   :file: data/OSLC-CORESHAPES-3.0-PT8.yaml
-- :id: OSLC-PROMCODE-v1.0
-  :file: data/OSLC-PROMCODE-V1.0.yaml
-- :id: OSLC-PROMCODE-v1.0-Spec-Pt1
-  :file: data/OSLC-PROMCODE-V1.0-SPEC-PT1.yaml
-- :id: OSLC-PROMCODE-v1.0-Vocab-Pt2
-  :file: data/OSLC-PROMCODE-V1.0-VOCAB-PT2.yaml
-- :id: OSLC-PROMCODE-v1.0-Shapes-Pt3
-  :file: data/OSLC-PROMCODE-V1.0-SHAPES-PT3.yaml
 - :id: OSLC-PROMCODE-v1.0-CS02
   :file: data/OSLC-PROMCODE-V1.0-CS02.yaml
 - :id: OSLC-PROMCODE-v1.0-Spec-CS02-Pt1
@@ -613,6 +605,14 @@
   :file: data/OSLC-PROMCODE-V1.0-VOCAB-CS03-PT2.yaml
 - :id: OSLC-PROMCODE-v1.0-Shapes-CS03-Pt3
   :file: data/OSLC-PROMCODE-V1.0-SHAPES-CS03-PT3.yaml
+- :id: OSLC-PROMCODE-v1.0
+  :file: data/OSLC-PROMCODE-V1.0.yaml
+- :id: OSLC-PROMCODE-v1.0-Spec-Pt1
+  :file: data/OSLC-PROMCODE-V1.0-SPEC-PT1.yaml
+- :id: OSLC-PROMCODE-v1.0-Vocab-Pt2
+  :file: data/OSLC-PROMCODE-V1.0-VOCAB-PT2.yaml
+- :id: OSLC-PROMCODE-v1.0-Shapes-Pt3
+  :file: data/OSLC-PROMCODE-V1.0-SHAPES-PT3.yaml
 - :id: OSLC-QM-2.1-PS01
   :file: data/OSLC-QM-2.1-PS01.yaml
 - :id: OSLC-QM-2.1-Part1-PS01
@@ -627,22 +627,12 @@
   :file: data/OSLC-QUERY-3.0-PS01.yaml
 - :id: OSLC-Query-3.0
   :file: data/OSLC-QUERY-3.0.yaml
-- :id: OSLC-RM-2.1-PS02
-  :file: data/OSLC-RM-2.1-PS02.yaml
-- :id: OSLC-RM-2.1-Part1-PS02
-  :file: data/OSLC-RM-2.1-PART1-PS02.yaml
-- :id: OSLC-RM-2.1-Part2-PS02
-  :file: data/OSLC-RM-2.1-PART2-PS02.yaml
-- :id: OSLC-RM-2.1-Part3-PS02
-  :file: data/OSLC-RM-2.1-PART3-PS02.yaml
-- :id: OSLC-RM-2.1
-  :file: data/OSLC-RM-2.1.yaml
-- :id: OSLC-RM-2.1-Part1
-  :file: data/OSLC-RM-2.1-PART1.yaml
-- :id: OSLC-RM-2.1-Part2
-  :file: data/OSLC-RM-2.1-PART2.yaml
-- :id: OSLC-RM-2.1-Part3
-  :file: data/OSLC-RM-2.1-PART3.yaml
+- :id: OSLC-RM-2.1-CS01
+  :file: data/OSLC-RM-2.1-CS01.yaml
+- :id: OSLC-RM-2.1-Part1-CS01
+  :file: data/OSLC-RM-2.1-PART1-CS01.yaml
+- :id: OSLC-RM-2.1-Part2-CS01
+  :file: data/OSLC-RM-2.1-PART2-CS01.yaml
 - :id: OSLC-RM-2.1-PS01
   :file: data/OSLC-RM-2.1-PS01.yaml
 - :id: OSLC-RM-2.1-Part1-PS01
@@ -651,20 +641,22 @@
   :file: data/OSLC-RM-2.1-PART2-PS01.yaml
 - :id: OSLC-RM-2.1-Part3-PS01
   :file: data/OSLC-RM-2.1-PART3-PS01.yaml
-- :id: OSLC-RM-2.1-CS01
-  :file: data/OSLC-RM-2.1-CS01.yaml
-- :id: OSLC-RM-2.1-Part1-CS01
-  :file: data/OSLC-RM-2.1-PART1-CS01.yaml
-- :id: OSLC-RM-2.1-Part2-CS01
-  :file: data/OSLC-RM-2.1-PART2-CS01.yaml
-- :id: OSLC-TRS-v3.0-PS02
-  :file: data/OSLC-TRS-V3.0-PS02.yaml
-- :id: OSLC-TRS-v3.0-PS02-Pt1
-  :file: data/OSLC-TRS-V3.0-PS02-PT1.yaml
-- :id: OSLC-TRS-v3.0-PS02-Pt2
-  :file: data/OSLC-TRS-V3.0-PS02-PT2.yaml
-- :id: OSLC-TRS-v3.0-PS02-Pt3
-  :file: data/OSLC-TRS-V3.0-PS02-PT3.yaml
+- :id: OSLC-RM-2.1
+  :file: data/OSLC-RM-2.1.yaml
+- :id: OSLC-RM-2.1-Part1
+  :file: data/OSLC-RM-2.1-PART1.yaml
+- :id: OSLC-RM-2.1-Part2
+  :file: data/OSLC-RM-2.1-PART2.yaml
+- :id: OSLC-RM-2.1-Part3
+  :file: data/OSLC-RM-2.1-PART3.yaml
+- :id: OSLC-RM-2.1-PS02
+  :file: data/OSLC-RM-2.1-PS02.yaml
+- :id: OSLC-RM-2.1-Part1-PS02
+  :file: data/OSLC-RM-2.1-PART1-PS02.yaml
+- :id: OSLC-RM-2.1-Part2-PS02
+  :file: data/OSLC-RM-2.1-PART2-PS02.yaml
+- :id: OSLC-RM-2.1-Part3-PS02
+  :file: data/OSLC-RM-2.1-PART3-PS02.yaml
 - :id: OSLC-TRS-v3.0-PS01
   :file: data/OSLC-TRS-V3.0-PS01.yaml
 - :id: OSLC-TRS-v3.0-PS01-Pt1
@@ -673,6 +665,14 @@
   :file: data/OSLC-TRS-V3.0-PS01-PT2.yaml
 - :id: OSLC-TRS-v3.0-PS01-Pt3
   :file: data/OSLC-TRS-V3.0-PS01-PT3.yaml
+- :id: OSLC-TRS-v3.0-PS02
+  :file: data/OSLC-TRS-V3.0-PS02.yaml
+- :id: OSLC-TRS-v3.0-PS02-Pt1
+  :file: data/OSLC-TRS-V3.0-PS02-PT1.yaml
+- :id: OSLC-TRS-v3.0-PS02-Pt2
+  :file: data/OSLC-TRS-V3.0-PS02-PT2.yaml
+- :id: OSLC-TRS-v3.0-PS02-Pt3
+  :file: data/OSLC-TRS-V3.0-PS02-PT3.yaml
 - :id: OSLC-TRS-v3.0
   :file: data/OSLC-TRS-V3.0.yaml
 - :id: PKCS11-base-v2.40
@@ -727,14 +727,14 @@
   :file: data/S-RAMP-V1.0-FOUNDATION-CS01-PT1.yaml
 - :id: S-RAMP-v1.0-atom-binding-CS01-Pt2
   :file: data/S-RAMP-V1.0-ATOM-BINDING-CS01-PT2.yaml
-- :id: SAM-TSS-v1.0
-  :file: data/SAM-TSS-V1.0.yaml
-- :id: SAM-TSS-v1.0-CS03
-  :file: data/SAM-TSS-V1.0-CS03.yaml
 - :id: SAM-TSS-v1.0-CS01
   :file: data/SAM-TSS-V1.0-CS01.yaml
 - :id: SAM-TSS-v1.0-CS02
   :file: data/SAM-TSS-V1.0-CS02.yaml
+- :id: SAM-TSS-v1.0-CS03
+  :file: data/SAM-TSS-V1.0-CS03.yaml
+- :id: SAM-TSS-v1.0
+  :file: data/SAM-TSS-V1.0.yaml
 - :id: SAML2.0-ext-req-auth-CS01
   :file: data/SAML2.0-EXT-REQ-AUTH-CS01.yaml
 - :id: SAML-SESSION-TOKEN-v1.0-CS01
@@ -817,12 +817,12 @@
   :file: data/SAML-V2.0.yaml
 - :id: BDX-smp-v1.0
   :file: data/BDX-SMP-V1.0.yaml
-- :id: BDX-SMP-v2.0
-  :file: data/BDX-SMP-V2.0.yaml
-- :id: BDX-SMP-v2.0-CS02
-  :file: data/BDX-SMP-V2.0-CS02.yaml
 - :id: BDX-SMP-v2.0-CS01
   :file: data/BDX-SMP-V2.0-CS01.yaml
+- :id: BDX-SMP-v2.0-CS02
+  :file: data/BDX-SMP-V2.0-CS02.yaml
+- :id: BDX-SMP-v2.0
+  :file: data/BDX-SMP-V2.0.yaml
 - :id: SAML-request-init-v1.0-CS01
   :file: data/SAML-REQUEST-INIT-V1.0-CS01.yaml
 - :id: SPML-v1.0

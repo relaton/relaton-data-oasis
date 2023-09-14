@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.4
-id: OASISCSAF-v2.0
+id: OASIScsaf-v2.0
 title:
 - content: Common Security Advisory Framework Version 2.0
   language:
@@ -10,21 +10,21 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open.org/csaf/csaf/v2.0/cs03/csaf-v2.0-cs03.md
+- content: https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.md
   type: md
-- content: https://docs.oasis-open.org/csaf/csaf/v2.0/cs03/csaf-v2.0-cs03.html
+- content: https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html
   type: src
-- content: https://docs.oasis-open.org/csaf/csaf/v2.0/cs03/csaf-v2.0-cs03.pdf
+- content: https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.pdf
   type: pdf
 type: standard
 docid:
-- id: OASIS CSAF-v2.0
+- id: OASIS csaf-v2.0
   type: OASIS
   primary: true
-docnumber: CSAF-v2.0
+docnumber: csaf-v2.0
 date:
 - type: issued
-  value: '2022-08-01'
+  value: '2022-11-18'
 contributor:
 - organization:
     name:
@@ -38,7 +38,7 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: Common Security Advisory Framework (CSAF) TC
+    - content: OASIS Common Security Advisory Framework (CSAF) TC
     contact:
     - uri: https://www.oasis-open.org/committees/csaf/
   role:
@@ -111,9 +111,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype: standard
 editorialgroup:
-- name: Common Security Advisory Framework (CSAF) TC
+- name: OASIS Common Security Advisory Framework (CSAF) TC
 ext:
   schema-version: v1.0.1
 technology_area:
