@@ -1,0 +1,170 @@
+---
+schema-version: v1.2.4
+id: OASISOData-Data-Agg-v4.0-CS03
+title:
+- content: OData Extension for Data Aggregation Version 4.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open.org/odata/odata-data-aggregation-ext/v4.0/cs03/odata-data-aggregation-ext-v4.0-cs03.html
+  type: src
+- content: https://docs.oasis-open.org/odata/odata-data-aggregation-ext/v4.0/cs03/odata-data-aggregation-ext-v4.0-cs03.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/odata/odata-data-aggregation-ext/v4.0/cs03/odata-data-aggregation-ext-v4.0-cs03.md
+  type: md
+type: standard
+docid:
+- id: OASIS OData-Data-Agg-v4.0-CS03
+  type: OASIS
+  primary: true
+docnumber: OData-Data-Agg-v4.0-CS03
+date:
+- type: issued
+  value: '2023-09-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/odata/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Ralf
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Handl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Hubert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Heijkers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Gerald
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Krause
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Michael
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Pizzo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Heiko
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Theißen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Martin
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Zurmuehl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Adds basic grouping and aggregation functionality (e.g. sum, min, and max)
+    to the Open Data Protocol (OData) without changing any of the base principles
+    of OData.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: specification
+editorialgroup:
+- name: OASIS Open Data Protocol (OData) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Cloud
+- Messaging
