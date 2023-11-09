@@ -101,6 +101,7 @@ contributor:
           script:
           - Latn
       surname:
+        content: 
         language:
         - en
         script:
