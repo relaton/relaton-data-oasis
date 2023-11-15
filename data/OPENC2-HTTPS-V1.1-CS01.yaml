@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISOpenC2-HTTPS-v1.1-CS01
 title:
 - content: Specification for Transfer of OpenC2 Messages via HTTPS Version 1.1 – Committee

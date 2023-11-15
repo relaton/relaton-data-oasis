@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISKMIP-OMOSP-v1.0
 title:
 - content: KMIP Opaque Managed Object Store Profile v1.0d

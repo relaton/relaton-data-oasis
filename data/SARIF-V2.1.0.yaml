@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISSARIF-v2.1.0
 title:
 - content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0

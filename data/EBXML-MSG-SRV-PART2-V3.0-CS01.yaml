@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISebxml-msg-srv-part2-v3.0-CS01
 title:
 - content: 'OASIS ebXML Messaging Services Version 3.0: Part 2, Advanced Features'

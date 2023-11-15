@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISSAML-request-init-v1.0-CS01
 title:
 - content: Service Provider Request Initiation Protocol and Profile Version 1.0

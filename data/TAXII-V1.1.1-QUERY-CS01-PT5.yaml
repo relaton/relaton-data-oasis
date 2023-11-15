@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISTAXII-v1.1.1-Query-CS01-Pt5
 title:
 - content: 'TAXII(TM) Version 1.1.1. Part 5: Default Query'

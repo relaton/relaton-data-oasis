@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISPKCS-S-v3.1
 title:
 - content: 'PKCS #11 Specification Version 3.1'

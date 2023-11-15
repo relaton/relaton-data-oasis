@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISWS-Cal-SOAP-CS01
 title:
 - content: WS-Calendar SOAP-based Services Version 1.0

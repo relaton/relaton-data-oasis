@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISTAXII-v1.1.1-XML-Msg-CS01-Pt4
 title:
 - content: 'TAXII(TM) Version 1.1.1. Part 4: XML Message Binding'
