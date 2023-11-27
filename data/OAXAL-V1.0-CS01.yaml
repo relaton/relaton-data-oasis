@@ -74,7 +74,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: Open Architecture for XML Authoring and Localization (OAXAL) TC
 ext:

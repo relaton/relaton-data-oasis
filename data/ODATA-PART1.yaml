@@ -116,7 +116,8 @@ relation:
     formattedref:
       content: OASIS OData
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: "OASIS\r\nOpen Data Protocol (OData) TC"
 ext:

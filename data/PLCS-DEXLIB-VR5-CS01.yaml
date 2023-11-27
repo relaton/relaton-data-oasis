@@ -75,7 +75,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Product Life Cycle Support (PLCS) TC
 ext:

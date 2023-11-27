@@ -51,7 +51,8 @@ relation:
     formattedref:
       content: OASIS CMIS-v1.1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: http://www.oasis-open.org/committees/cmis/ipr.php
 ext:

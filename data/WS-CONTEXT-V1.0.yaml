@@ -63,7 +63,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Web Services Composite Application Framework (WS-CAF) TC
 ext:

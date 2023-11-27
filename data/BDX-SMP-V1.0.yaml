@@ -213,7 +213,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Business Document Exchange (BDXR) TC
 ext:

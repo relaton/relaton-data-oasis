@@ -88,7 +88,8 @@ relation:
     formattedref:
       content: OASIS OSLC-CoreVocab-3.0-CS01-Pt7
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS OSLC Lifecycle Integration Core (OSLC Core) TC
 ext:

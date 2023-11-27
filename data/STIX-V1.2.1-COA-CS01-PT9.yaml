@@ -191,7 +191,8 @@ relation:
     formattedref:
       content: OASIS STIX-v1.2.1-CS01
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
 ext:

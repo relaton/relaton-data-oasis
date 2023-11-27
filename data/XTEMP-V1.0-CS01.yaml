@@ -107,7 +107,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
 ext:

@@ -71,7 +71,8 @@ relation:
     formattedref:
       content: OASIS OSLC-Config-1.0-Part4-PS01
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project
 ext:

@@ -120,7 +120,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Digital Signature Services eXtended (DSS-X) TC
 ext:

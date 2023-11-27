@@ -257,7 +257,8 @@ relation:
     formattedref:
       content: OASIS STIX-v1.2.1-UML-Model-CS01-Pt15
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Cyber Threat Intelligence (CTI) TC
 ext:

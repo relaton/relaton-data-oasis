@@ -63,7 +63,8 @@ relation:
     formattedref:
       content: OASIS DocBook-5.0-Errata01
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS DocBook TC
 ext:

@@ -136,7 +136,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: Biometric Services (BIOSERV) TC
 ext:

@@ -92,7 +92,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: resolution
+doctype:
+  type: resolution
 editorialgroup:
 - name: Fragment Interchange Subcommittee
 ext:

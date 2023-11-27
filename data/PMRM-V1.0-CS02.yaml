@@ -138,7 +138,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Privacy Management Reference Model (PMRM) TC
 ext:

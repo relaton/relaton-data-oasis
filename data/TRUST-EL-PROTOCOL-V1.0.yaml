@@ -611,7 +611,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
     TC

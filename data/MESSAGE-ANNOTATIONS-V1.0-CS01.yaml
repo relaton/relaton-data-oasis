@@ -72,7 +72,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: Advanced Message Queuing Protocol (AMQP) TC
 ext:

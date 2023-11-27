@@ -167,7 +167,8 @@ relation:
     formattedref:
       content: OASIS mqtt-v3.1.1-plus-Errata01
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Message Queuing Telemetry Transport (MQTT) TC
 ext:

@@ -68,7 +68,8 @@ relation:
     formattedref:
       content: OASIS OSLC-TRS-v3.0-PS01-Pt3
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project
 ext:

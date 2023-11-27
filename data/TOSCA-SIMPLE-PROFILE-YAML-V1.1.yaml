@@ -165,7 +165,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA)
     TC

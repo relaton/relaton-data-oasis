@@ -145,7 +145,8 @@ relation:
     formattedref:
       content: OASIS S-RAMP-v1.0-atom-binding-CS01-Pt2
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC
 ext:

@@ -202,7 +202,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Service Oriented Architecture Reference Model TC
 ext:

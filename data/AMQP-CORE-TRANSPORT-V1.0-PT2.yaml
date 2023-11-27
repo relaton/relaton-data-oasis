@@ -196,7 +196,8 @@ relation:
     formattedref:
       content: OASIS amqp-core
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Advanced Message Queuing Protocol (AMQP) TC
 ext:

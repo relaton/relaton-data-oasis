@@ -61,7 +61,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Emergency Management TC
 ext:

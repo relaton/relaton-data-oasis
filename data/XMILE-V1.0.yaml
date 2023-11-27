@@ -246,7 +246,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS XML Interchange Language (XMILE) for System Dynamics TC
 ext:

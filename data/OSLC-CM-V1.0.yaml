@@ -67,7 +67,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: Open Services for Lifecycle Collaboration Open Project
 ext:

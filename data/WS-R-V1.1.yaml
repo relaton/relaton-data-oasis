@@ -55,7 +55,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Web Services Reliable Messaging TC
 ext:

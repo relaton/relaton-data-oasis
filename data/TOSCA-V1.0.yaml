@@ -60,7 +60,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: Topology and Orchestration Specification for Cloud Applications (TOSCA) TC
 ext:

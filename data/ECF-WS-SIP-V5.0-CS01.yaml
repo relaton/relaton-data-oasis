@@ -137,7 +137,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS LegalXML Electronic Court Filing TC
 ext:

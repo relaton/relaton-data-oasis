@@ -66,7 +66,8 @@ relation:
     formattedref:
       content: OASIS OSLC-am-2.1-Part2-CS01
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS OSLC Lifecycle Integration Domains TC
 ext:

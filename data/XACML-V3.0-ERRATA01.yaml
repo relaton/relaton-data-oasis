@@ -157,7 +157,8 @@ relation:
     formattedref:
       content: OASIS XACML-V3.0
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: "OASIS eXtensible Access\r\nControl Markup Language (XACML) TC"
 ext:

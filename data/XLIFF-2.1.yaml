@@ -59,7 +59,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS XML Localisation Interchange File Format (XLIFF) TC
 ext:

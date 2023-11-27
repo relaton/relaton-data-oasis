@@ -131,7 +131,8 @@ relation:
     formattedref:
       content: OASIS CMIS-v1.1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: "OASIS Content Management\r\nInteroperability Services (CMIS) TC"
 ext:

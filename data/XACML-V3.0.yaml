@@ -138,7 +138,8 @@ relation:
     formattedref:
       content: OASIS XACML-v3.0-Errata01-complete
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS eXtensible Access Control Markup Language (XACML) TC
 ext:

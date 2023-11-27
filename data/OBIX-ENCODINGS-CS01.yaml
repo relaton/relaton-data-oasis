@@ -110,7 +110,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Open Building Information Exchange (oBIX) TC
 ext:

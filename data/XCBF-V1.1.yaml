@@ -55,7 +55,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS XML Common Biometric Format TC
 ext:

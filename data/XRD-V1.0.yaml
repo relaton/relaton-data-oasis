@@ -52,7 +52,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Extensible Resource Identifier (XRI) TC
 ext:

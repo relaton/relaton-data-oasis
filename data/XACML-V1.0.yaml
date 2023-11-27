@@ -42,7 +42,8 @@ language:
 - en
 script:
 - Latn
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Extensible Access Control Markup Language TC
 ext:

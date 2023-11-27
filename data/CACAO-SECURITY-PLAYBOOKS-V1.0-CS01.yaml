@@ -94,7 +94,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Collaborative Automated Course of Action Operations (CACAO) for Cyber
     Security TC

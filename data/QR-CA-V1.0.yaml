@@ -74,7 +74,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: Electronic Secure Authentication (ESAT) TC
 ext:

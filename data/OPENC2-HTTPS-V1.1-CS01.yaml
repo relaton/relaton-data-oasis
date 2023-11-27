@@ -76,7 +76,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Open Command and Control (OpenC2) TC
 ext:

@@ -86,7 +86,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: Security Services (SAML) TC
 ext:

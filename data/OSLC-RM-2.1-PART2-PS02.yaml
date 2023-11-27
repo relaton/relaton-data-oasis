@@ -42,7 +42,8 @@ relation:
     formattedref:
       content: OASIS OSLC-RM-2.1-PS02
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 ext:
   schema-version: v1.0.1
 technology_area:

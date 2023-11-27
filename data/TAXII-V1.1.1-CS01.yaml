@@ -177,7 +177,8 @@ relation:
     formattedref:
       content: OASIS TAXII-v1.1.1-Query-CS01-Pt5
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Cyber Threat Intelligence (CTI) TC
 ext:

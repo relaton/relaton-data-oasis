@@ -156,7 +156,8 @@ relation:
     formattedref:
       content: OASIS mqtt-v3.1.1
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: "OASIS Message Queuing\r\nTelemetry Transport (MQTT) TC"
 ext:

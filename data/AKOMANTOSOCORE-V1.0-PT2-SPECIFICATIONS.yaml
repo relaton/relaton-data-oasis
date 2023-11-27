@@ -113,7 +113,8 @@ relation:
     formattedref:
       content: OASIS AkomaNtosoCore-v1.0
       format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS LegalDocumentML (LegalDocML) TC
 ext:

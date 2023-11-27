@@ -55,7 +55,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD) TC
 ext:

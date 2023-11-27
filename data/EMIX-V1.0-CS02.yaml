@@ -205,7 +205,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Energy Market Information Exchange (eMIX) TC
 ext:

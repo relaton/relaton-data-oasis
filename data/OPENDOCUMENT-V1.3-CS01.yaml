@@ -119,7 +119,8 @@ relation:
     formattedref:
       content: OASIS OpenDocument-v1.3-part4-CS01
       format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: OASIS Open Document Format for Office Applications (OpenDocument) TC
 ext:

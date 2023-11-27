@@ -187,7 +187,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: OASIS Message Queuing Telemetry Transport (MQTT) TC
 ext:
