@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISMessage-Annotations-v1.0-CS01
 title:
 - content: Message Annotations for Response Routing Version 1.0

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISOData-CSDL-JSON-v4.01
 title:
 - content: OData Common Schema Definition Language (CSDL) JSON Representation Version

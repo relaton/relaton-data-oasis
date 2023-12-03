@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISSTIX-v2.0-Pt2-Objects-CS01
 title:
 - content: 'STIX(TM) Version 2.0. Part 2: STIX Objects'

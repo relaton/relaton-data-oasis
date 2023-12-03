@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISOData-Part2
 title:
 - content: 'OData Version 4.01. Part 2: URL Conventions'

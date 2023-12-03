@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISVIRTIO-v1.2
 title:
 - content: Virtual I/O Device (VIRTIO) Version 1.2

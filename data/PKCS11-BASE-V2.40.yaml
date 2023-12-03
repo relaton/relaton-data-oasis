@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISPKCS11-base-v2.40
 title:
 - content: 'PKCS #11 Cryptographic Token Interface Base Specification Version 2.40'

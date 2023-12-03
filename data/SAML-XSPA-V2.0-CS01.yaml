@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISSAML-XSPA-v2.0-CS01
 title:
 - content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of SAML

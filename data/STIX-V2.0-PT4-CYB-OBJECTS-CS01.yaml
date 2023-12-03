@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISSTIX-v2.0-Pt4-Cyb-Objects-CS01
 title:
 - content: 'STIX(TM) Version 2.0. Part 4: Cyber Observable Objects'

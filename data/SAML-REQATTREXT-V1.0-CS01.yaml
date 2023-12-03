@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISSAML-ReqAttrExt-v1.0-CS01
 title:
 - content: SAML V2.0 Protocol Extension for Requesting Attributes per Request Version

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: OASISSAML-subj-profile-CS02
 title:
 - content: Subject-based Profiles for SAML V1.1 Assertions
