@@ -1,0 +1,96 @@
+---
+schema-version: v1.2.7
+id: OASISUBL-v2.4
+title:
+- content: Universal Business Language Version 2.4
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: OASIS UBL-v2.4
+  type: OASIS
+  primary: true
+docnumber: UBL-v2.4
+date:
+- type: issued
+  value: '2023-10-17'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Universal Business Language (UBL) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bengtsson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Kees
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Duvekot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+abstract:
+- content: UBL v2.4 is a minor revision to v2.3 that preserves backwards compatibility
+    with previous v2.# versions. It adds new document types, bringing the total number
+    of UBL business documents to 93.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: specification
+editorialgroup:
+- name: OASIS Universal Business Language (UBL) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Content-Technologies
+- e-Business

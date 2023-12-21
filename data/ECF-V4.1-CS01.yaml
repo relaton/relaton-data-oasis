@@ -1,0 +1,120 @@
+---
+schema-version: v1.2.7
+id: OASISECF-v4.1-CS01
+title:
+- content: Electronic Court Filing Version 4.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open.org/legalxml-courtfiling/ecf/v4.1/cs01/ecf-v4.1-cs01.docx
+  type: doc
+type: standard
+docid:
+- id: OASIS ECF-v4.1-CS01
+  type: OASIS
+  primary: true
+docnumber: ECF-v4.1-CS01
+date:
+- type: issued
+  value: '2023-09-29'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS LegalXML Electronic Court Filing TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legalxml-courtfiling
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: James
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Cabral
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: InfoTrack US
+        contact:
+        - uri: https://www.infotrack.com/
+    contact:
+    - email: jim.cabral@infotrack.com
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Gary
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Graham
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Arizona Supreme Court
+        contact:
+        - uri: http://www.azcourts.gov/
+    contact:
+    - email: GGraham@courts.az.gov
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+abstract:
+- content: LegalXML Electronic Court Filing Version 4.1 (ECF v4.1) consists of a set
+    of non-proprietary XML and Web Services specifications, along with clarifying
+    explanations and amendments to those specifications, that have been added for
+    the purpose of promoting interoperability among electronic court filing vendors
+    and systems. ECF Version 4.1 is a maintenance release to address several minor
+    schema and definition issues identified by implementers of the ECF 4.0 and 4.01
+    specifications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: specification
+editorialgroup:
+- name: OASIS LegalXML Electronic Court Filing TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- eGov/Legal

@@ -61,6 +61,8 @@
   :file: data/BUSINESS-DOCUMENT-NDR-V1.1-CS01.yaml
 - :id: Business-Document-NDR-v1.0
   :file: data/BUSINESS-DOCUMENT-NDR-V1.0.yaml
+- :id: CACAO-Security-Playbooks-v2.0-CS01
+  :file: data/CACAO-SECURITY-PLAYBOOKS-V2.0-CS01.yaml
 - :id: CACAO-Security-Playbooks-v1.0-CS01
   :file: data/CACAO-SECURITY-PLAYBOOKS-V1.0-CS01.yaml
 - :id: CACAO-Security-Playbooks-v1.0-CS02
@@ -213,10 +215,18 @@
   :file: data/EML-V5.0.yaml
 - :id: ECF v4.01
   :file: data/ECF_V4.01.yaml
+- :id: ECF-v4.1-CS01
+  :file: data/ECF-V4.1-CS01.yaml
 - :id: ECF-v5.0-CS01
   :file: data/ECF-V5.0-CS01.yaml
+- :id: ECF-v5.01-CS01
+  :file: data/ECF-V5.01-CS01.yaml
+- :id: ECF-WS-SIP-v4.1-CS01
+  :file: data/ECF-WS-SIP-V4.1-CS01.yaml
 - :id: ECF-WS-SIP-v5.0-CS01
   :file: data/ECF-WS-SIP-V5.0-CS01.yaml
+- :id: ECF-WS-SIP-v5.01-CS01
+  :file: data/ECF-WS-SIP-V5.01-CS01.yaml
 - :id: trust-el-framework-v1.0-CS01
   :file: data/TRUST-EL-FRAMEWORK-V1.0-CS01.yaml
 - :id: eTMF-v1.0-CS01
@@ -369,6 +379,8 @@
   :file: data/MQTT-V5.0-CS02.yaml
 - :id: mqtt-v5.0
   :file: data/MQTT-V5.0.yaml
+- :id: NIEM-M-v6.0
+  :file: data/NIEM-M-V6.0.yaml
 - :id: dxxs-profile-vr-v1.0-CS01
   :file: data/DXXS-PROFILE-VR-V1.0-CS01.yaml
 - :id: PartyIdType-v1.0-CS01
@@ -981,6 +993,8 @@
   :file: data/UBL-2.3-CS01.yaml
 - :id: UBL-2.3
   :file: data/UBL-2.3.yaml
+- :id: UBL-v2.4
+  :file: data/UBL-V2.4.yaml
 - :id: UDDI-v3.0.2
   :file: data/UDDI-V3.0.2.yaml
 - :id: UIMA-v1.0
