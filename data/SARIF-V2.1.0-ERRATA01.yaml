@@ -1,8 +1,9 @@
 ---
 schema-version: v1.2.7
-id: OASISSARIF-v2.1.0
+id: OASISSARIF-v2.1.0-Errata01
 title:
-- content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0
+- content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0 Plus Errata
+    01.
   language:
   - en
   script:
@@ -10,17 +11,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.html
+- content: https://docs.oasis-open.org/sarif/sarif/v2.1.0/errata01/os/sarif-v2.1.0-errata01-os-complete.html
   type: src
 type: standard
 docid:
-- id: OASIS SARIF-v2.1.0
+- id: OASIS SARIF-v2.1.0-Errata01
   type: OASIS
   primary: true
-docnumber: SARIF-v2.1.0
+docnumber: SARIF-v2.1.0-Errata01
 date:
 - type: issued
-  value: '2020-03-27'
+  value: '2023-08-28'
 contributor:
 - organization:
     name:
@@ -80,11 +81,11 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Semmle
+        - content: Microsoft
         contact:
-        - uri: http://www.semmle.com/
+        - uri: http://www.microsoft.com/
     contact:
-    - email: luke@semmle.com
+    - email: lcartey@github.com
   role:
   - description:
     - content: Chair

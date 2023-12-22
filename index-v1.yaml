@@ -865,6 +865,8 @@
   :file: data/SARIF-V2.1.0-CS01.yaml
 - :id: SARIF-v2.1.0
   :file: data/SARIF-V2.1.0.yaml
+- :id: SARIF-v2.1.0-Errata01
+  :file: data/SARIF-V2.1.0-ERRATA01.yaml
 - :id: STIX-v2.1-CS01
   :file: data/STIX-V2.1-CS01.yaml
 - :id: STIX-v2.1-CS02
