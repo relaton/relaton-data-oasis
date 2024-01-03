@@ -13,4 +13,4 @@ on:
 
 jobs:
   deploy:
-    uses: relaton/support/.github/workflows/data-deploy.yml@master
+    uses: relaton/support/.github/workflows/data-deploy.yml@main
