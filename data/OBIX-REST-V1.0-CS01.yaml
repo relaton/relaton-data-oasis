@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISOBIX-REST-v1.0-CS01
 title:
 - content: 'Bindings for OBIX: REST Bindings Version 1.0'

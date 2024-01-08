@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISlocalsig-v1.0-CS02
 title:
 - content: DSS Extension for Local Signature Computation Version 1.0

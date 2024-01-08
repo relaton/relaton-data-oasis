@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISXACML-Dyn-Attr-v3.0
 title:
 - content: XACML v3.0 Dynamic Attribute Authority Version 1.0 – Committee Specification

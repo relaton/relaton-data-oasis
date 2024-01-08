@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISPKCS11-curr-v2.40
 title:
 - content: 'PKCS #11 Cryptographic Token Interface Current Mechanisms Specification

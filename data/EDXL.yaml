@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISEDXL
 title:
 - content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISSAML-Metadata-UI-v1.0
 title:
 - content: SAML V2.0 Metadata Extensions for Login and Discovery User Interface Version

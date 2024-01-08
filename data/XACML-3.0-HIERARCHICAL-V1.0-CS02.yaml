@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISxacml-3.0-hierarchical-v1.0-CS02
 title:
 - content: XACML v3.0 Hierarchical Resource Profile Version 1.0

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISSTIX-v1.2.1-Indicator-CS01-Pt4
 title:
 - content: 'STIX(TM) Version 1.2.1. Part 4: Indicator'

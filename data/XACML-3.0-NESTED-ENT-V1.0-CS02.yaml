@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISxacml-3.0-nested-ent-v1.0-CS02
 title:
 - content: XACML v3.0 Related and Nested Entities Profile Version 1.0

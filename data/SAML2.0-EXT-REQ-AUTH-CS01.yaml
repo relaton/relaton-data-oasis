@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISSAML2.0-ext-req-auth-CS01
 title:
 - content: SAML 2.0 Protocol Extension for Requested Authentication Context

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISSAML-holder-of-key-assert-v1.0-CS02
 title:
 - content: SAML V2.0 Holder-of-Key Assertion Profile Version 1.0

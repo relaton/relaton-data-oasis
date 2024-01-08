@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: OASISKMIP-SASEDP-v1.0
 title:
 - content: KMIP Storage Array with Self-Encrypting Drives Profile v1.0
