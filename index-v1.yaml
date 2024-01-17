@@ -243,10 +243,10 @@
   :file: data/EDXL-HAVE-V2.0-CS01.yaml
 - :id: EDXL-HAVE-v2.0-CS02
   :file: data/EDXL-HAVE-V2.0-CS02.yaml
-- :id: EDXL-TEP-v1.1-CS02
-  :file: data/EDXL-TEP-V1.1-CS02.yaml
 - :id: EDXL-TEP-v1.1-CS01
   :file: data/EDXL-TEP-V1.1-CS01.yaml
+- :id: EDXL-TEP-v1.1-CS02
+  :file: data/EDXL-TEP-V1.1-CS02.yaml
 - :id: EDXL-RM-v1.0
   :file: data/EDXL-RM-V1.0.yaml
 - :id: EDXL-SitRep-CS02
@@ -399,10 +399,10 @@
   :file: data/ODATA-CSDL-JSON-V4.01.yaml
 - :id: OData-CSDL-XML-v4.01
   :file: data/ODATA-CSDL-XML-V4.01.yaml
-- :id: OData-Data-Agg-v4.0-CS03
-  :file: data/ODATA-DATA-AGG-V4.0-CS03.yaml
 - :id: OData-Data-Agg-v4.0-CS02
   :file: data/ODATA-DATA-AGG-V4.0-CS02.yaml
+- :id: OData-Data-Agg-v4.0-CS03
+  :file: data/ODATA-DATA-AGG-V4.0-CS03.yaml
 - :id: OData-Temporal-v4.0-CS01
   :file: data/ODATA-TEMPORAL-V4.0-CS01.yaml
 - :id: OData-JSON-Format-v4.0
