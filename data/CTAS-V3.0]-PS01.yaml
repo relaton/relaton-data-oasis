@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.8
+id: OASISCTAS-v3.0]-PS01
+title:
+- content: NIEMOpen Conformance Targets Attribute Specification (CTAS) 3.0 CS
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open.org/niemopen/ctas/v3.0/ps01/ctas-v3.0-ps01.html
+  type: src
+- content: https://docs.oasis-open.org/niemopen/ctas/v3.0/ps01/ctas-v3.0-ps01.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/niemopen/ctas/v3.0/ps01/schemas/conformanceTargets.xsd
+  type: xsd
+type: standard
+docid:
+- id: OASIS CTAS-v3.0]-PS01
+  type: OASIS
+  primary: true
+docnumber: CTAS-v3.0]-PS01
+date:
+- type: issued
+  value: '2023-02-22'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: NIEMOpen Open Project
+    contact:
+    - uri: https://github.com/niemopen
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+doctype:
+  type: specification
+editorialgroup:
+- name: NIEMOpen Open Project
+ext:
+  schema-version: v1.0.1

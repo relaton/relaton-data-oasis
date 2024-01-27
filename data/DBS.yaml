@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.8
+id: OASISDBS
+title:
+- content: DocBook Schema V5.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://DocX:https//docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.docxHTML:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.htmlPDF:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.pdf
+    Relax NG schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/rng/Schematron
+    schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/sch/XML catalog: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/catalog.xmlNVDL
+    schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/ For your convenience,
+    OASIS provides a complete package of the specification document and any related
+    files in ZIP distribution files. You can download the ZIP file at:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.zip
+  type: zip
+- content: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.pdf
+  type: pdf
+type: standard
+docid:
+- id: OASIS DBS
+  type: OASIS
+  primary: true
+docnumber: DBS
+date:
+- type: issued
+  value: '2023-07-19'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS DocBook TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=docbook
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+language:
+- en
+script:
+- Latn
+doctype:
+  type: specification
+editorialgroup:
+- name: OASIS DocBook TC
+ext:
+  schema-version: v1.0.1

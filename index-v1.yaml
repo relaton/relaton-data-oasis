@@ -165,6 +165,8 @@
   :file: data/DSS-V1.0.yaml
 - :id: DSML-v2.0
   :file: data/DSML-V2.0.yaml
+- :id: DBS
+  :file: data/DBS.yaml
 - :id: DB-v4.1
   :file: data/DB-V4.1.yaml
 - :id: DB-v4.5
@@ -381,6 +383,8 @@
   :file: data/MQTT-V5.0.yaml
 - :id: NIEM-M-v6.0
   :file: data/NIEM-M-V6.0.yaml
+- :id: CTAS-v3.0]-PS01
+  :file: data/CTAS-V3.0]-PS01.yaml
 - :id: dxxs-profile-vr-v1.0-CS01
   :file: data/DXXS-PROFILE-VR-V1.0-CS01.yaml
 - :id: PartyIdType-v1.0-CS01
