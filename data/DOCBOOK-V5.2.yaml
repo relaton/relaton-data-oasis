@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.8
+id: OASISDocBook-v5.2
+title:
+- content: DocBook Schema v.5.2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open.org/docbook/docbook/v5.2/os/docbook-v5.2-os.docx
+  type: doc
+type: standard
+docid:
+- id: OASIS DocBook-v5.2
+  type: OASIS
+  primary: true
+docnumber: DocBook-v5.2
+date:
+- type: issued
+  value: '2024-02-06'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS DocBook TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=docbook
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stayton
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bobs@sagehill.net
+  role:
+  - description:
+    - content: Chair
+    type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Robert
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Stayton
+        language:
+        - en
+        script:
+        - Latn
+    contact:
+    - email: bobs@sagehill.net
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+doctype:
+  type: standard
+editorialgroup:
+- name: OASIS DocBook TC
+ext:
+  schema-version: v1.0.1
