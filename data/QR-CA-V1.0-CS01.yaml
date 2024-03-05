@@ -1,8 +1,8 @@
 ---
 schema-version: v1.2.8
-id: OASISNIEM-M-v6.0
+id: OASISQR-CA-v1.0-CS01
 title:
-- content: NIEM Model v6.0
+- content: Secure QR Code Authentication Version 1.0
   language:
   - en
   script:
@@ -10,17 +10,21 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open.org/niemopen/niem-model/v6.0/ps01/niem-model-v6.0-ps01.md
-  type: md
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.docx
+  type: doc
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.pdf
+  type: pdf
 type: standard
 docid:
-- id: OASIS NIEM-M-v6.0
+- id: OASIS QR-CA-v1.0-CS01
   type: OASIS
   primary: true
-docnumber: NIEM-M-v6.0
+docnumber: QR-CA-v1.0-CS01
 date:
 - type: issued
-  value: '2023-12-04'
+  value: '2022-07-01'
 contributor:
 - organization:
     name:
@@ -34,9 +38,9 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: NIEMOpen Open Project
+    - content: Electronic Secure Authentication (ESAT) TC
     contact:
-    - uri: https://github.com/niemopen
+    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=esat
   role:
   - description:
     - content: Committee
@@ -45,13 +49,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Christina
+        - content: Don
           language:
           - en
           script:
           - Latn
       surname:
-        content: Medlin
+        content: Sheppard
         language:
         - en
         script:
@@ -63,10 +67,8 @@ language:
 script:
 - Latn
 abstract:
-- content: NIEM is a data model that enables efficient information exchange across
-    diverse public and private organizations. NIEM can improve interoperability among
-    message exchange partners by providing consistent rules, reusable data components,
-    and repeatable processes.
+- content: Describes the use of QR Codes and a mobile phone as a replacement for a
+    username and password
   language:
   - en
   script:
@@ -75,9 +77,9 @@ abstract:
 doctype:
   type: specification
 editorialgroup:
-- name: NIEMOpen Open Project
+- name: Electronic Secure Authentication (ESAT) TC
 ext:
   schema-version: v1.0.1
 technology_area:
-- Cybersecurity
-- eGov/Legal
+- Privacy/Identity
+- Security

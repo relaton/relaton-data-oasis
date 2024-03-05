@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.8
-id: OASISVIRTIO-v1.2
+id: OASISVIRTIO-v1.2-CS01
 title:
 - content: Virtual I/O Device (VIRTIO) Version 1.2
   language:
@@ -18,10 +18,10 @@ link:
   type: pdf
 type: standard
 docid:
-- id: OASIS VIRTIO-v1.2
+- id: OASIS VIRTIO-v1.2-CS01
   type: OASIS
   primary: true
-docnumber: VIRTIO-v1.2
+docnumber: VIRTIO-v1.2-CS01
 date:
 - type: issued
   value: '2022-07-01'

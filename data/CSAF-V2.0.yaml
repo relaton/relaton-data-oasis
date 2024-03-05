@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: OASIScsaf-v2.0
 title:
-- content: Common Security Advisory Framework Version 2.0
+- content: Common Security Advisory Framework Version 2.0.
   language:
   - en
   script:
@@ -10,12 +10,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.md
-  type: md
 - content: https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html
   type: src
-- content: https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.pdf
-  type: pdf
 type: standard
 docid:
 - id: OASIS csaf-v2.0
@@ -36,85 +32,18 @@ contributor:
     - content: Standards Development Organization
     type: authorizer
   - type: publisher
-- organization:
-    name:
-    - content: OASIS Common Security Advisory Framework (CSAF) TC
-    contact:
-    - uri: https://www.oasis-open.org/committees/csaf/
-  role:
-  - description:
-    - content: Committee
-    type: authorizer
-- person:
-    name:
-      given:
-        forename:
-        - content: Langley
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Rock
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Stefan
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Hagen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      given:
-        forename:
-        - content: Thomas
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Schmidt
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 language:
 - en
 script:
 - Latn
-abstract:
-- content: A language to exchange Security Advisories formulated in JSON. CSAF v2.0
-    is the definitive reference for the language which supports creation, update,
-    and interoperable exchange of security advisories as structured information on
-    products, vulnerabilities and the status of impact and remediation among interested
-    parties.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS csaf-v2.0
+      format: text/plain
 doctype:
   type: standard
-editorialgroup:
-- name: OASIS Common Security Advisory Framework (CSAF) TC
 ext:
   schema-version: v1.0.1
 technology_area:

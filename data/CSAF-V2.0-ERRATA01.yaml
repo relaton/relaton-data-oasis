@@ -1,8 +1,8 @@
 ---
 schema-version: v1.2.8
-id: OASISOSLC-AM-3.0-Part2-PS01
+id: OASIScsaf-v2.0-Errata01
 title:
-- content: 'OSLC Architecture Management Version 3.0. Part 2: Vocabulary'
+- content: Common Security Advisory Framework Version 2.0 Errata 01.
   language:
   - en
   script:
@@ -10,17 +10,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open-projects.org/oslc-op/am/v3.0/ps01/architecture-management-vocab.html
+- content: https://docs.oasis-open.org/csaf/csaf/v2.0/errata01/os/csaf-v2.0-errata01-os.html
   type: src
 type: standard
 docid:
-- id: OASIS OSLC-AM-3.0-Part2-PS01
+- id: OASIS csaf-v2.0-Errata01
   type: OASIS
   primary: true
-docnumber: OSLC-AM-3.0-Part2-PS01
+docnumber: csaf-v2.0-Errata01
 date:
 - type: issued
-  value: '2021-09-30'
+  value: '2024-01-26'
 contributor:
 - organization:
     name:
@@ -40,11 +40,11 @@ relation:
 - type: partOf
   bibitem:
     formattedref:
-      content: OASIS OSLC-AM-3.0-PS01
+      content: OASIS csaf-v2.0
       format: text/plain
 doctype:
-  type: specification
+  type: standard
 ext:
   schema-version: v1.0.1
 technology_area:
-- Software-Development
+- Cybersecurity

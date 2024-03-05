@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.8
+id: OASISgenericode-v1.0-CS02
+title:
+- content: Code List Representation (genericode) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open.org/codelist/genericode/v1.0/cs02/genericode-v1.0-cs02.xml
+  type: xml
+- content: https://docs.oasis-open.org/codelist/genericode/v1.0/cs02/genericode-v1.0-cs02.html
+  type: src
+- content: https://docs.oasis-open.org/codelist/genericode/v1.0/cs02/genericode-v1.0-cs02.pdf
+  type: pdf
+- content: https://docs.oasis-open.org/codelist/genericode/v1.0/cs02/genericode-v1.0-cs02-DIFF.pdf
+  type: pdf
+type: standard
+docid:
+- id: OASIS genericode-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: genericode-v1.0-CS02
+date:
+- type: issued
+  value: '2022-04-06'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Code List Representation TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/codelist/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: G
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: 
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Describes the OASIS Code List Representation model and W3C XML Schema,
+    known collectively as “genericode”.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: specification
+editorialgroup:
+- name: OASIS Code List Representation TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Content-Technologies

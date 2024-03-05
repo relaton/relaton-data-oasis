@@ -1,23 +1,30 @@
 ---
 schema-version: v1.2.8
-id: OASISUBL-v2.4
+id: OASISPKCS-S-v3.1-CS01
 title:
-- content: Universal Business Language Version 2.4
+- content: 'PKCS #11 Specification Version 3.1'
   language:
   - en
   script:
   - Latn
   format: text/plain
   type: main
+link:
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.docx
+  type: doc
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.html
+  type: src
+- content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.pdf
+  type: pdf
 type: standard
 docid:
-- id: OASIS UBL-v2.4
+- id: OASIS PKCS-S-v3.1-CS01
   type: OASIS
   primary: true
-docnumber: UBL-v2.4
+docnumber: PKCS-S-v3.1-CS01
 date:
 - type: issued
-  value: '2023-10-17'
+  value: '2022-08-11'
 contributor:
 - organization:
     name:
@@ -31,9 +38,9 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: OASIS Universal Business Language (UBL) TC
+    - content: PKCS 11 TC
     contact:
-    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
+    - uri: https://www.oasis-open.org/committees/pkcs11/
   role:
   - description:
     - content: Committee
@@ -42,13 +49,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Kenneth
+        - content: Dieter
           language:
           - en
           script:
           - Latn
       surname:
-        content: Bengtsson
+        content: Bong
         language:
         - en
         script:
@@ -59,13 +66,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Kees
+        - content: Tony
           language:
           - en
           script:
           - Latn
       surname:
-        content: Duvekot
+        content: Cox
         language:
         - en
         script:
@@ -77,9 +84,9 @@ language:
 script:
 - Latn
 abstract:
-- content: UBL v2.4 is a minor revision to v2.3 that preserves backwards compatibility
-    with previous v2.# versions. It adds new document types, bringing the total number
-    of UBL business documents to 93.
+- content: 'Defines data types, functions and other basic components of the PKCS #11
+    Cryptoki interface for devices that may hold cryptographic information and may
+    perform cryptographic functions.'
   language:
   - en
   script:
@@ -88,9 +95,8 @@ abstract:
 doctype:
   type: specification
 editorialgroup:
-- name: OASIS Universal Business Language (UBL) TC
+- name: PKCS 11 TC
 ext:
   schema-version: v1.0.1
 technology_area:
-- Content-Technologies
-- e-Business
+- Security

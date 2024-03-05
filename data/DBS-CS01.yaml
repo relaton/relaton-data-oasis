@@ -1,6 +1,6 @@
 ---
 schema-version: v1.2.8
-id: OASISDBS
+id: OASISDBS-CS01
 title:
 - content: DocBook Schema V5.2
   language:
@@ -23,10 +23,10 @@ link:
   type: pdf
 type: standard
 docid:
-- id: OASIS DBS
+- id: OASIS DBS-CS01
   type: OASIS
   primary: true
-docnumber: DBS
+docnumber: DBS-CS01
 date:
 - type: issued
   value: '2023-07-19'

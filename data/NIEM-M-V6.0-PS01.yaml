@@ -1,8 +1,8 @@
 ---
 schema-version: v1.2.8
-id: OASISQR-CA-v1.0
+id: OASISNIEM-M-v6.0-PS01
 title:
-- content: Secure QR Code Authentication Version 1.0
+- content: NIEM Model v6.0
   language:
   - en
   script:
@@ -10,21 +10,17 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.docx
-  type: doc
-- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.html
-  type: src
-- content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.pdf
-  type: pdf
+- content: https://docs.oasis-open.org/niemopen/niem-model/v6.0/ps01/niem-model-v6.0-ps01.md
+  type: md
 type: standard
 docid:
-- id: OASIS QR-CA-v1.0
+- id: OASIS NIEM-M-v6.0-PS01
   type: OASIS
   primary: true
-docnumber: QR-CA-v1.0
+docnumber: NIEM-M-v6.0-PS01
 date:
 - type: issued
-  value: '2022-07-01'
+  value: '2023-12-04'
 contributor:
 - organization:
     name:
@@ -38,9 +34,9 @@ contributor:
   - type: publisher
 - organization:
     name:
-    - content: Electronic Secure Authentication (ESAT) TC
+    - content: NIEMOpen Open Project
     contact:
-    - uri: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=esat
+    - uri: https://github.com/niemopen
   role:
   - description:
     - content: Committee
@@ -49,13 +45,13 @@ contributor:
     name:
       given:
         forename:
-        - content: Don
+        - content: Christina
           language:
           - en
           script:
           - Latn
       surname:
-        content: Sheppard
+        content: Medlin
         language:
         - en
         script:
@@ -67,8 +63,10 @@ language:
 script:
 - Latn
 abstract:
-- content: Describes the use of QR Codes and a mobile phone as a replacement for a
-    username and password
+- content: NIEM is a data model that enables efficient information exchange across
+    diverse public and private organizations. NIEM can improve interoperability among
+    message exchange partners by providing consistent rules, reusable data components,
+    and repeatable processes.
   language:
   - en
   script:
@@ -77,9 +75,9 @@ abstract:
 doctype:
   type: specification
 editorialgroup:
-- name: Electronic Secure Authentication (ESAT) TC
+- name: NIEMOpen Open Project
 ext:
   schema-version: v1.0.1
 technology_area:
-- Privacy/Identity
-- Security
+- Cybersecurity
+- eGov/Legal

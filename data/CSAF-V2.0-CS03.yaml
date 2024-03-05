@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.8
+id: OASISCSAF-v2.0-CS03
+title:
+- content: Common Security Advisory Framework Version 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open.org/csaf/csaf/v2.0/cs03/csaf-v2.0-cs03.md
+  type: md
+- content: https://docs.oasis-open.org/csaf/csaf/v2.0/cs03/csaf-v2.0-cs03.html
+  type: src
+- content: https://docs.oasis-open.org/csaf/csaf/v2.0/cs03/csaf-v2.0-cs03.pdf
+  type: pdf
+type: standard
+docid:
+- id: OASIS CSAF-v2.0-CS03
+  type: OASIS
+  primary: true
+docnumber: CSAF-v2.0-CS03
+date:
+- type: issued
+  value: '2022-08-01'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: Common Security Advisory Framework (CSAF) TC
+    contact:
+    - uri: https://www.oasis-open.org/committees/csaf/
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Langley
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Rock
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Stefan
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Hagen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Thomas
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Schmidt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A language to exchange Security Advisories formulated in JSON. CSAF v2.0
+    is the definitive reference for the language which supports creation, update,
+    and interoperable exchange of security advisories as structured information on
+    products, vulnerabilities and the status of impact and remediation among interested
+    parties.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: specification
+editorialgroup:
+- name: Common Security Advisory Framework (CSAF) TC
+ext:
+  schema-version: v1.0.1
+technology_area:
+- Cybersecurity
