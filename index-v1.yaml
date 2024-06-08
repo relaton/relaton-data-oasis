@@ -61,6 +61,8 @@
   :file: data/BUSINESS-DOCUMENT-NDR-V1.1-CS01.yaml
 - :id: Business-Document-NDR-v1.0
   :file: data/BUSINESS-DOCUMENT-NDR-V1.0.yaml
+- :id: CACAO-Layout-Extension-v1.0-CS01
+  :file: data/CACAO-LAYOUT-EXTENSION-V1.0-CS01.yaml
 - :id: CACAO-Security-Playbooks-v2.0-CS01
   :file: data/CACAO-SECURITY-PLAYBOOKS-V2.0-CS01.yaml
 - :id: CACAO-Security-Playbooks-v1.0-CS01
