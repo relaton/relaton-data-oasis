@@ -1013,6 +1013,8 @@
   :file: data/UBL-2.3.yaml
 - :id: UBL-v2.4-CS01
   :file: data/UBL-V2.4-CS01.yaml
+- :id: UBL-2.4
+  :file: data/UBL-2.4.yaml
 - :id: UDDI-v3.0.2
   :file: data/UDDI-V3.0.2.yaml
 - :id: UIMA-v1.0

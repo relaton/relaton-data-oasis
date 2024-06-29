@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.8
+id: OASISUBL-2.4
+title:
+- content: Universal Business Language Version 2.4
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.oasis-open.org/ubl/os-UBL-2.4/UBL-2.4.xml
+  type: xml
+type: standard
+docid:
+- id: OASIS UBL-2.4
+  type: OASIS
+  primary: true
+docnumber: UBL-2.4
+date:
+- type: issued
+  value: '2024-06-20'
+contributor:
+- organization:
+    name:
+    - content: OASIS
+    contact:
+    - uri: https://www.oasis-open.org/
+  role:
+  - description:
+    - content: Standards Development Organization
+    type: authorizer
+  - type: publisher
+- organization:
+    name:
+    - content: OASIS Universal Business Language (UBL) TC
+    contact:
+    - uri: https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=556949c8-dac8-40e6-bb16-018dc7ce54d6
+  role:
+  - description:
+    - content: Committee
+    type: authorizer
+- person:
+    name:
+      given:
+        forename:
+        - content: Kenneth
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Bengtsson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      given:
+        forename:
+        - content: Kees
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Duvekot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+language:
+- en
+script:
+- Latn
+doctype:
+  type: standard
+editorialgroup:
+- name: OASIS Universal Business Language (UBL) TC
+ext:
+  schema-version: v1.0.1
