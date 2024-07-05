@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISsstc-md-iop-v1.0
 title:
 - content: SAML V2.0 Metadata Interoperability Profile Version 1.0x

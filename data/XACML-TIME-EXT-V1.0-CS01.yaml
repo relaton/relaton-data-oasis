@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISxacml-time-ext-v1.0-CS01
 title:
 - content: XACML v3.0 Time Extensions Version 1.0

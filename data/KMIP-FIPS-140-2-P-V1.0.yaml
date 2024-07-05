@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISKMIP-FIPS-140-2-P-v1.0
 title:
 - content: KMIP Symmetric Key Foundry for FIPS 140-2 Profile v1.0

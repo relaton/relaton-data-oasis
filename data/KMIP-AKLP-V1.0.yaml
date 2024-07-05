@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISKMIP-AKLP-v1.0
 title:
 - content: KMIP Asymmetric Key Lifecycle Profile v1.0

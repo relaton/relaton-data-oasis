@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISxacml-3.0-dsig-v1.0-CS02
 title:
 - content: XACML v3.0 XML Digital Signature Profile Version 1.0

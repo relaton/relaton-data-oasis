@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISebMS-saml-conformance-CS01
 title:
 - content: SAML Conformance Clause for AS4/ebMS Version 1.0

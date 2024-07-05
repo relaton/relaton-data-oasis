@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISPKCS11-Hist-v2.40
 title:
 - content: 'PKCS #11 Cryptographic Token Interface Historical Mechanisms Specification

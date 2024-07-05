@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISSAML2.0-metadata-entity-CS01
 title:
 - content: SAML V2.0 Metadata Extension for Entity Attributes Version 1.0

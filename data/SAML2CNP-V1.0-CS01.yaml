@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISSAML2CNP-V1.0-CS01
 title:
 - content: SAML V2.0 Change Notify Protocol Version 1.0

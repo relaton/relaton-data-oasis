@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISSAML2.0-binding-simplesign-CS01
 title:
 - content: SAMLv2.0 HTTP POST “SimpleSign” Binding

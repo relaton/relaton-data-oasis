@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISamqp-core-transactions-v1.0-Pt4
 title:
 - content: 'OASIS Advanced Message Queuing Protocol (AMQP) Version 1.0 Part 4: Transactions'

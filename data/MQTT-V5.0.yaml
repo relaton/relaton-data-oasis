@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISmqtt-v5.0
 title:
 - content: MQTT Version 5.0

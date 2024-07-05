@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISOpenC2-MQTT-v1.0] -CS01
 title:
 - content: Specification for Transfer of OpenC2 Messages via MQTT Version 1.0 – Committee

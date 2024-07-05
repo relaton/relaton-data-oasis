@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISamqp-core
 title:
 - content: Advanced Message Queueing Protocol (AMQP) v1.0

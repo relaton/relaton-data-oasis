@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISPKCS11-Profiles-v3.0
 title:
 - content: 'PKCS #11 Cryptographic Token Interface Profiles Version 3.0'

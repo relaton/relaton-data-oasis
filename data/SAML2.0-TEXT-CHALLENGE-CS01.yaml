@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISSAML2.0-text-challenge-CS01
 title:
 - content: SAML V2.0 Text-Based Challenge/ Response Token AuthenticationContext Class

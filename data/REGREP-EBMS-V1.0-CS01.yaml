@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: OASISRegRep-ebMS-v1.0-CS01
 title:
 - content: ebXML Messaging Protocol Binding for RegRep Version 1.0
