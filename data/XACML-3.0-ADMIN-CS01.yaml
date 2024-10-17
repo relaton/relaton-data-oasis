@@ -116,7 +116,7 @@ contributor:
           script:
           - Latn
       surname:
-        content:
+        content: 
         language:
         - en
         script:
