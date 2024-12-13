@@ -63,12 +63,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Open Command and Control (OpenC2) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cybersecurity
-- Security
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Open Command and Control (OpenC2) TC
+  technology_area:
+  - Cybersecurity
+  - Security

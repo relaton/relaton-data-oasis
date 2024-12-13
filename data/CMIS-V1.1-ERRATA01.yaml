@@ -131,11 +131,11 @@ relation:
     formattedref:
       content: OASIS CMIS-v1.1
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: "OASIS Content Management\r\nInteroperability Services (CMIS) TC"
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: "OASIS Content Management\r\nInteroperability Services (CMIS) TC"
+  technology_area:
+  - Content-Technologies

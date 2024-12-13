@@ -73,11 +73,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: memorandum
-editorialgroup:
-- name: Tables Technical Committee
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: memorandum
+  editorialgroup:
+  - name: Tables Technical Committee
+  technology_area:
+  - Content-Technologies

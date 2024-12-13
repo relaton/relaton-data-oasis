@@ -216,12 +216,12 @@ relation:
     formattedref:
       content: OASIS AkomaNtosoCore-v1.0
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: "OASIS LegalDocumentML\r\n(LegalDocML) TC"
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
-- eGov/Legal
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: "OASIS LegalDocumentML\r\n(LegalDocML) TC"
+  technology_area:
+  - Content-Technologies
+  - eGov/Legal

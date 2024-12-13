@@ -134,11 +134,11 @@ relation:
     formattedref:
       content: OASIS XACML-V3.0
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: "OASIS eXtensible Access\r\nControl Markup Language (XACML) TC"
 ext:
   schema-version: v1.0.1
-technology_area:
-- Security
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: "OASIS eXtensible Access\r\nControl Markup Language (XACML) TC"
+  technology_area:
+  - Security

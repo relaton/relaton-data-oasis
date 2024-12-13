@@ -108,11 +108,11 @@ relation:
     formattedref:
       content: OASIS OpenDocument-v1.3-CS02
       format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Open Document Format for Office Applications (OpenDocument) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Open Document Format for Office Applications (OpenDocument) TC
+  technology_area:
+  - Content-Technologies

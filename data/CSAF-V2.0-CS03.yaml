@@ -111,11 +111,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: Common Security Advisory Framework (CSAF) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cybersecurity
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: Common Security Advisory Framework (CSAF) TC
+  technology_area:
+  - Cybersecurity

@@ -85,12 +85,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Universal Business Language (UBL) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
-- e-Business
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Universal Business Language (UBL) TC
+  technology_area:
+  - Content-Technologies
+  - e-Business

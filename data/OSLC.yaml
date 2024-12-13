@@ -92,11 +92,11 @@ relation:
     formattedref:
       content: OASIS OSLC-CoreShapes-3.0-Pt8
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP - OASIS Standard
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP - OASIS Standard
+  technology_area:
+  - Software-Development

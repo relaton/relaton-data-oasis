@@ -159,11 +159,11 @@ relation:
     formattedref:
       content: OASIS SARIF-v2.1.0
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: "OASIS\r\nStatic Analysis Results Interchange Format (SARIF) TC"
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: "OASIS\r\nStatic Analysis Results Interchange Format (SARIF) TC"
+  technology_area:
+  - Software-Development

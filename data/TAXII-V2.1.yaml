@@ -93,11 +93,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Cyber Threat Intelligence (CTI) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cybersecurity
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Cyber Threat Intelligence (CTI) TC
+  technology_area:
+  - Cybersecurity

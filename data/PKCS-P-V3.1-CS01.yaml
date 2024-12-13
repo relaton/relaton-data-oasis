@@ -74,12 +74,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: PKCS 11 TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Privacy/Identity
-- Security
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: PKCS 11 TC
+  technology_area:
+  - Privacy/Identity
+  - Security

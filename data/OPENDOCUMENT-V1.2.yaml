@@ -56,11 +56,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Open Document Format for Office Applications (OpenDocument) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Open Document Format for Office Applications (OpenDocument) TC
+  technology_area:
+  - Content-Technologies

@@ -170,12 +170,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Production Planning and Scheduling TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
-- e-Business
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Production Planning and Scheduling TC
+  technology_area:
+  - Content-Technologies
+  - e-Business

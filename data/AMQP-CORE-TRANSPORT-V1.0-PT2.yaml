@@ -196,11 +196,11 @@ relation:
     formattedref:
       content: OASIS amqp-core
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Advanced Message Queuing Protocol (AMQP) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Messaging
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Advanced Message Queuing Protocol (AMQP) TC
+  technology_area:
+  - Messaging

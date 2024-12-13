@@ -135,11 +135,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Code List Representation Technical Committee
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Code List Representation Technical Committee
+  technology_area:
+  - Content-Technologies

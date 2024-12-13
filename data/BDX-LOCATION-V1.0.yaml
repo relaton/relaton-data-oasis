@@ -85,11 +85,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Business Document Exchange (BDXR) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- e-Business
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Business Document Exchange (BDXR) TC
+  technology_area:
+  - e-Business

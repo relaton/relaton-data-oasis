@@ -150,11 +150,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Identity Metasystem Interoperability (IMI) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Security
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Identity Metasystem Interoperability (IMI) TC
+  technology_area:
+  - Security

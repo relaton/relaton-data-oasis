@@ -57,11 +57,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Web Services Distributed Management (WSDM) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Web-Services
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Web Services Distributed Management (WSDM) TC
+  technology_area:
+  - Web-Services

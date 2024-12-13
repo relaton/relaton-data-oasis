@@ -55,11 +55,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: Identity Metasystem Interoperability (IMI) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Privacy/Identity
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: Identity Metasystem Interoperability (IMI) TC
+  technology_area:
+  - Privacy/Identity

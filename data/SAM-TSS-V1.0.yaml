@@ -91,12 +91,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Security Algorithms and Methods (SAM) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cybersecurity
-- Security
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Security Algorithms and Methods (SAM) TC
+  technology_area:
+  - Cybersecurity
+  - Security

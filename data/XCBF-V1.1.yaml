@@ -55,12 +55,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS XML Common Biometric Format TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Privacy/Identity
-- Security
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS XML Common Biometric Format TC
+  technology_area:
+  - Privacy/Identity
+  - Security

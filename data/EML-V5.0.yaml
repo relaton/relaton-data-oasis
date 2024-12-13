@@ -55,12 +55,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Election and Voter Services TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- eGov/Legal
-- Messaging
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Election and Voter Services TC
+  technology_area:
+  - eGov/Legal
+  - Messaging

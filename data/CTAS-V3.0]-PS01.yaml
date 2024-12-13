@@ -49,9 +49,9 @@ language:
 - en
 script:
 - Latn
-doctype:
-  type: specification
-editorialgroup:
-- name: NIEMOpen Open Project
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: NIEMOpen Open Project

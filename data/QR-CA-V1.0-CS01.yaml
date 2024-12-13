@@ -74,12 +74,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: Electronic Secure Authentication (ESAT) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Privacy/Identity
-- Security
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: Electronic Secure Authentication (ESAT) TC
+  technology_area:
+  - Privacy/Identity
+  - Security

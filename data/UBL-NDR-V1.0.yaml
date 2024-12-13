@@ -53,11 +53,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Universal Business Language TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- e-Business
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Universal Business Language TC
+  technology_area:
+  - e-Business

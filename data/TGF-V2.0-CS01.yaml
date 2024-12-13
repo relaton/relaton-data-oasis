@@ -143,11 +143,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Transformational Government Framework TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- eGov/Legal
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Transformational Government Framework TC
+  technology_area:
+  - eGov/Legal

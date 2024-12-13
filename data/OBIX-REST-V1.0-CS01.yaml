@@ -138,12 +138,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Open Building Information Exchange (oBIX) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Energy
-- IoT
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Open Building Information Exchange (oBIX) TC
+  technology_area:
+  - Energy
+  - IoT

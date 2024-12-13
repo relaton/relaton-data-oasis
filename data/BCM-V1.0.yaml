@@ -55,11 +55,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Business-centric Methodology (BCM) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- e-Business
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Business-centric Methodology (BCM) TC
+  technology_area:
+  - e-Business

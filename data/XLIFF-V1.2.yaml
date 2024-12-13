@@ -57,12 +57,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS XML Localisation Interchange File Format (XLIFF) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
-- Localization
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS XML Localisation Interchange File Format (XLIFF) TC
+  technology_area:
+  - Content-Technologies
+  - Localization

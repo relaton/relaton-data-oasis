@@ -66,11 +66,11 @@ relation:
     formattedref:
       content: OASIS OSLC-am-2.1-Part2-CS01
       format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS OSLC Lifecycle Integration Domains TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS OSLC Lifecycle Integration Domains TC
+  technology_area:
+  - Software-Development

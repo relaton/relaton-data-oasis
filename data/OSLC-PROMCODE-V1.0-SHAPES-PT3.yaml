@@ -42,9 +42,9 @@ relation:
     formattedref:
       content: OASIS OSLC-PROMCODE-v1.0
       format: text/plain
-doctype:
-  type: standard
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: standard
+  technology_area:
+  - Software-Development

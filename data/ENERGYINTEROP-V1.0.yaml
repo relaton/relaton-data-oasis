@@ -143,11 +143,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Energy Interoperation TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Energy
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Energy Interoperation TC
+  technology_area:
+  - Energy

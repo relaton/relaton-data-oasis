@@ -92,11 +92,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: resolution
-editorialgroup:
-- name: Fragment Interchange Subcommittee
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: resolution
+  editorialgroup:
+  - name: Fragment Interchange Subcommittee
+  technology_area:
+  - Content-Technologies

@@ -99,11 +99,11 @@ relation:
     formattedref:
       content: OASIS DocBook-5.0
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS DocBook TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS DocBook TC
+  technology_area:
+  - Content-Technologies

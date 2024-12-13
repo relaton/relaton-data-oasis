@@ -62,12 +62,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: eXtensible Access Control Markup Language (XACML) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cybersecurity
-- Privacy/Identity
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: eXtensible Access Control Markup Language (XACML) TC
+  technology_area:
+  - Cybersecurity
+  - Privacy/Identity

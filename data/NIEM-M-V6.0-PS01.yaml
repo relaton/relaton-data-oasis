@@ -72,12 +72,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: NIEMOpen Open Project
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cybersecurity
-- eGov/Legal
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: NIEMOpen Open Project
+  technology_area:
+  - Cybersecurity
+  - eGov/Legal

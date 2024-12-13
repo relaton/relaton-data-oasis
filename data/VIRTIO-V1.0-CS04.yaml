@@ -62,11 +62,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Virtual I/O Device (VIRTIO) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- IoT
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Virtual I/O Device (VIRTIO) TC
+  technology_area:
+  - IoT

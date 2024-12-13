@@ -156,12 +156,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Advanced Message Queuing Protocol (AMQP) Bindings and Mappings (AMQP-BINDMAP)
-    TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Messaging
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Advanced Message Queuing Protocol (AMQP) Bindings and Mappings (AMQP-BINDMAP)
+      TC
+  technology_area:
+  - Messaging

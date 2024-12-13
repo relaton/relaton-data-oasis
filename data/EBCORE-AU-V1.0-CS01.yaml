@@ -114,11 +114,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS ebXML Core (ebCore) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Messaging
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS ebXML Core (ebCore) TC
+  technology_area:
+  - Messaging

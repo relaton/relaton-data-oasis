@@ -103,12 +103,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA)
-    TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cloud
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA)
+      TC
+  technology_area:
+  - Cloud

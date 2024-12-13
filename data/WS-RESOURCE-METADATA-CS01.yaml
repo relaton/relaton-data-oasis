@@ -75,11 +75,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Web Services Resource Framework (WSRF) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Web-Services
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Web Services Resource Framework (WSRF) TC
+  technology_area:
+  - Web-Services

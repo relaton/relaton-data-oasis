@@ -70,11 +70,11 @@ relation:
     formattedref:
       content: OASIS OSLC-RM-2.1-Part3-PS02
       format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+  technology_area:
+  - Software-Development

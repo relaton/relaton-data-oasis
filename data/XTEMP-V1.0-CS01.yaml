@@ -107,11 +107,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
+  technology_area:
+  - Content-Technologies

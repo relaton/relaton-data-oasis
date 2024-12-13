@@ -54,11 +54,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Unstructured Information Management Architecture (UIMA) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Unstructured Information Management Architecture (UIMA) TC
+  technology_area:
+  - Content-Technologies

@@ -57,11 +57,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Test Assertions Guidelines (TAG) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Test Assertions Guidelines (TAG) TC
+  technology_area:
+  - Software-Development

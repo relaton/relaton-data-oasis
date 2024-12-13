@@ -233,12 +233,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Privacy/Identity
-- Security
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
+  technology_area:
+  - Privacy/Identity
+  - Security

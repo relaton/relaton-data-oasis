@@ -79,9 +79,9 @@ language:
 - en
 script:
 - Latn
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Universal Business Language (UBL) TC
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Universal Business Language (UBL) TC

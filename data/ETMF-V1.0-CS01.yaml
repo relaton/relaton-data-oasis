@@ -285,11 +285,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Electronic Trial Master File (eTMF) Standard TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Electronic Trial Master File (eTMF) Standard TC
+  technology_area:
+  - Content-Technologies

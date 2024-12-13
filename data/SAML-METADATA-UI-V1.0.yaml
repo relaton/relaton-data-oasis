@@ -86,11 +86,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: Security Services (SAML) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Security
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: Security Services (SAML) TC
+  technology_area:
+  - Security

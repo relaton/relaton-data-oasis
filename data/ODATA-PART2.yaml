@@ -117,11 +117,11 @@ relation:
     formattedref:
       content: OASIS OData
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: "OASIS\r\nOpen Data Protocol (OData) TC"
 ext:
   schema-version: v1.0.1
-technology_area:
-- Messaging
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: "OASIS\r\nOpen Data Protocol (OData) TC"
+  technology_area:
+  - Messaging

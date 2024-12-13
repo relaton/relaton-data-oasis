@@ -55,11 +55,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Symptoms Automation Framework (SAF) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Symptoms Automation Framework (SAF) TC
+  technology_area:
+  - Software-Development

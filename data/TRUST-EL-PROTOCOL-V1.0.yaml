@@ -611,12 +611,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
-    TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Privacy/Identity
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation)
+      TC
+  technology_area:
+  - Privacy/Identity

@@ -74,11 +74,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: Open Architecture for XML Authoring and Localization (OAXAL) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: Open Architecture for XML Authoring and Localization (OAXAL) TC
+  technology_area:
+  - Software-Development

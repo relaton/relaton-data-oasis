@@ -130,11 +130,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Web Services Calendar (WS-Calendar) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Web-Services
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Web Services Calendar (WS-Calendar) TC
+  technology_area:
+  - Web-Services

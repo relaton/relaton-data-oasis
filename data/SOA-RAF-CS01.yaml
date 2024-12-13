@@ -202,11 +202,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Service Oriented Architecture Reference Model TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- e-Business
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Service Oriented Architecture Reference Model TC
+  technology_area:
+  - e-Business

@@ -59,12 +59,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended (UOML-X)
-    TC"
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended
+      (UOML-X) TC"
+  technology_area:
+  - Content-Technologies

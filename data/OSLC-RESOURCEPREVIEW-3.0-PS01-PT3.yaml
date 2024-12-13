@@ -42,9 +42,9 @@ relation:
     formattedref:
       content: OASIS OSLC-PS01
       format: text/plain
-doctype:
-  type: specification
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: specification
+  technology_area:
+  - Software-Development

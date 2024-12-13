@@ -78,11 +78,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS BPEL4People TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Web-Services
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS BPEL4People TC
+  technology_area:
+  - Web-Services

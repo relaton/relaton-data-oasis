@@ -53,12 +53,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Key Management Interoperability Protocol (KMIP) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cloud
-- Security
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Key Management Interoperability Protocol (KMIP) TC
+  technology_area:
+  - Cloud
+  - Security

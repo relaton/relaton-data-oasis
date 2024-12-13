@@ -98,9 +98,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS SOA for Telecom (SOA-Tel) TC
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS SOA for Telecom (SOA-Tel) TC

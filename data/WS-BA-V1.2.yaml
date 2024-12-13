@@ -64,11 +64,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Web Services Transaction (WS-TX) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Web-Services
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Web Services Transaction (WS-TX) TC
+  technology_area:
+  - Web-Services

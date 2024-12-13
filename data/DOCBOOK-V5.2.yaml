@@ -85,9 +85,9 @@ language:
 - en
 script:
 - Latn
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS DocBook TC
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS DocBook TC

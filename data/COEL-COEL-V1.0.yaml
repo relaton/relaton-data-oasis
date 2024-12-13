@@ -212,12 +212,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Classification of Everyday Living (COEL) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- e-Business
-- IoT
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Classification of Everyday Living (COEL) TC
+  technology_area:
+  - e-Business
+  - IoT

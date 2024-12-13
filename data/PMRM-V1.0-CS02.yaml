@@ -138,12 +138,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Privacy Management Reference Model (PMRM) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Cloud
-- Privacy/Identity
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Privacy Management Reference Model (PMRM) TC
+  technology_area:
+  - Cloud
+  - Privacy/Identity

@@ -56,11 +56,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS ebXML Registry TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Messaging
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS ebXML Registry TC
+  technology_area:
+  - Messaging

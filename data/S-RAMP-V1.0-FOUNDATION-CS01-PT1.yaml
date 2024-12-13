@@ -143,9 +143,9 @@ relation:
     formattedref:
       content: OASIS S-RAMP-v1.0-CS01
       format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: "OASIS SOA Repository\r\nArtifact Model and Protocol (S-RAMP) TC"
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: "OASIS SOA Repository\r\nArtifact Model and Protocol (S-RAMP) TC"

@@ -156,11 +156,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Static Analysis Results Interchange Format (SARIF) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Static Analysis Results Interchange Format (SARIF) TC
+  technology_area:
+  - Software-Development

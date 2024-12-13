@@ -52,11 +52,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Extensible Resource Identifier (XRI) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Security
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Extensible Resource Identifier (XRI) TC
+  technology_area:
+  - Security

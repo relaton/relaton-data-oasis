@@ -75,11 +75,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Product Life Cycle Support (PLCS) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Software-Development
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Product Life Cycle Support (PLCS) TC
+  technology_area:
+  - Software-Development

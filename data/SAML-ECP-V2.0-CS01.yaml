@@ -115,11 +115,11 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS Security Services (SAML) TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Security
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS Security Services (SAML) TC
+  technology_area:
+  - Security

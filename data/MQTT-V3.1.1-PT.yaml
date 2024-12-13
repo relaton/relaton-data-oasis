@@ -161,12 +161,12 @@ relation:
     formattedref:
       content: OASIS mqtt-v3.1.1
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: "OASIS Message Queuing\r\nTelemetry Transport (MQTT) TC"
 ext:
   schema-version: v1.0.1
-technology_area:
-- IoT
-- Messaging
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: "OASIS Message Queuing\r\nTelemetry Transport (MQTT) TC"
+  technology_area:
+  - IoT
+  - Messaging

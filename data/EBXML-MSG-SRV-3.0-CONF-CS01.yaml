@@ -63,12 +63,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: OASIS ebXML Messaging Services TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- e-Business
-- Messaging
+  doctype:
+    type: specification
+  editorialgroup:
+  - name: OASIS ebXML Messaging Services TC
+  technology_area:
+  - e-Business
+  - Messaging

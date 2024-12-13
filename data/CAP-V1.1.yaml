@@ -60,12 +60,12 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: OASIS Emergency Management TC
 ext:
   schema-version: v1.0.1
-technology_area:
-- Emergency-Management
-- Messaging
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: OASIS Emergency Management TC
+  technology_area:
+  - Emergency-Management
+  - Messaging

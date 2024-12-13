@@ -51,11 +51,11 @@ relation:
     formattedref:
       content: OASIS DocBook-5.0
       format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: http://www.oasis-open.org/committees/docbook/ipr.php
 ext:
   schema-version: v1.0.1
-technology_area:
-- Content-Technologies
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: http://www.oasis-open.org/committees/docbook/ipr.php
+  technology_area:
+  - Content-Technologies
