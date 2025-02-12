@@ -1,4 +1,7 @@
 ---
+- id: 'OASIS TOSCA-v2.0-CS01'
+  title: ''
+  file: 'data/TOSCA-V2.0-CS01.yaml'
 - id: 'OASIS amqp-core'
   title: 'Advanced Message Queueing Protocol (AMQP) v1.0'
   file: 'data/AMQP-CORE.yaml'

@@ -1,4 +1,6 @@
 ---
+- :id: TOSCA-v2.0-CS01
+  :file: data/TOSCA-V2.0-CS01.yaml
 - :id: amqp-core
   :file: data/AMQP-CORE.yaml
 - :id: amqp-core-overview-v1.0-Pt0
