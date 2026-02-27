@@ -1,0 +1,70 @@
+---
+id: OASISUIMAv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Unstructured Information Management Architecture (UIMA) v1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html
+docidentifier:
+- content: OASIS UIMA-v1.0
+  type: OASIS
+  primary: true
+docnumber: UIMA-v1.0
+date:
+- type: issued
+  at: '2009-03-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/uima/
+    name:
+    - content: OASIS Unstructured Information Management Architecture (UIMA) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Unstructured Information Management Architecture (UIMA) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines platform-independent data representations and interfaces for software
+    components or services called analytics, which analyze unstructured information
+    and assign semantics to regions of that unstructured information.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

@@ -1,0 +1,71 @@
+---
+id: OASISIMIv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Identity Metasystem Interoperability (IMI) v1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/imi/identity/v1.0/os/identity-1.0-spec-os.html
+docidentifier:
+- content: OASIS IMI-v1.0
+  type: OASIS
+  primary: true
+docnumber: IMI-v1.0
+date:
+- type: issued
+  at: '2009-07-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/imi
+    name:
+    - content: Identity Metasystem Interoperability (IMI) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Identity Metasystem Interoperability (IMI) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Intended for developers and architects who wish to design identity systems and applications that interoperate using the Identity Metasystem Interoperability specification.
+    An Identity Selector and the associated identity system components allow users to manage their Digital Identities from different Identity Providers, and employ them in various contexts to access online services.  In this specification, identities are represented to users as “Information Cards”.  Information Cards can be used both at applications hosted on Web sites accessed through Web browsers and rich client applications directly employing Web services.
+    This specification also provides a related mechanism to describe security-verifiable identity for endpoints by leveraging extensibility of the WS-Addressing specification.  This is achieved via XML [XML 1.0] elements for identity provided as part of WS-Addressing Endpoint References.  This mechanism enables messaging systems to support multiple trust models across networks that include processing nodes such as endpoint managers, firewalls, and gateways in a transport-neutral manner.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity

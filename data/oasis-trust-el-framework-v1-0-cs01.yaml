@@ -1,0 +1,269 @@
+---
+id: OASIStrustelframeworkv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic Identity Credential Trust Elevation Framework Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/trust-el/trust-el-framework/v1.0/cs01/trust-el-framework-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/trust-el/trust-el-framework/v1.0/cs01/trust-el-framework-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/trust-el/trust-el-framework/v1.0/cs01/trust-el-framework-v1.0-cs01.doc
+docidentifier:
+- content: OASIS trust-el-framework-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: trust-el-framework-v1.0-CS01
+date:
+- type: issued
+  at: '2014-05-22'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/trust-el/
+    name:
+    - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust
+        Elevation) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust
+          Elevation) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - abbie.barbir@bankofamerica.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.bankofamerica.com/
+        name:
+        - content: Bank of America
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - don@openidentityexchange.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Thibeau
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.openidentityexchange.org/
+        name:
+        - content: Open Identity Exchange
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Thibeau,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: " "
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - peter.alterman@nih.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Alterman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.safe-biopharma.org/
+        name:
+        - content: SAFE-BioPharma Assn
+- role:
+  - type: editor
+  person:
+    email:
+    - shaheen.abduljabbar@jpmchase.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shaheen
+      surname:
+        language: en
+        script: Latn
+        content: Abdul
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpmorganchase.com/
+        name:
+        - content: JPMorgan Chase Bank, N.A.
+- role:
+  - type: editor
+  person:
+    email:
+    - abbie.barbir@bankofamerica.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.bankofamerica.com/
+        name:
+        - content: Bank of America
+- role:
+  - type: editor
+  person:
+    email:
+    - mary@meristic.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mary
+      surname:
+        language: en
+        script: Latn
+        content: Ruddy
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.identitycommons.net/
+        name:
+        - content: Identity Commons
+- role:
+  - type: editor
+  person:
+    email:
+    - steveo@luminagroup.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Olshansky
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommends particular methods as satisfying defined degrees of assurance
+    for elevating trust in an electronic identity credential, to assure the submitter’s
+    identity sufficiently to support elevation between each pair of assurance levels
+    to transact business where material amounts of economic value or personally identifiable
+    data are involved. Alternative and optional methods may be included. The description
+    of each recommended method shall include functional definitions of the types of
+    identity and assertion data employed by each method, and may include specification
+    of the data services required in each elevation, substantive data exchange patterns
+    or models, message exchange patterns or models, and such other elements as the
+    TC deems useful.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity
+  - Security

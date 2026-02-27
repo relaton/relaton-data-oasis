@@ -1,0 +1,142 @@
+---
+id: OASISAkomaNtosoNamingv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Akoma Ntoso Naming Convention Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.doc
+docidentifier:
+- content: OASIS AkomaNtosoNaming-v1.0
+  type: OASIS
+  primary: true
+docnumber: AkomaNtosoNaming-v1.0
+date:
+- type: issued
+  at: '2019-02-21'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/legaldocml/
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS LegalDocumentML (LegalDocML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - fabio@cs.unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Fabio
+      surname:
+        language: en
+        script: Latn
+        content: Vitali
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - monica.palmirani@unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+  person:
+    email:
+    - V.PARISSE@aubay.lu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Véronique
+      surname:
+        language: en
+        script: Latn
+        content: Parisse
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://aubay.com/
+        name:
+        - content: Aubay S.A.
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defining the naming convention for IRIs and ids related to the Akoma Ntoso
+    XML standard. Id attributes are optional, but whenever attributes ‘eId’ and ‘wId’
+    are used, the specifications in this document are mandatory.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - eGov/Legal

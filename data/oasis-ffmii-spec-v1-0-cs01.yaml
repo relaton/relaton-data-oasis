@@ -1,0 +1,118 @@
+---
+id: OASISFFMIISPECv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Field Force Management Integration Interface Specification Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/ffm/FFMII-SPEC/v1.0/cs01/FFMII-SPEC-v1.0-cs01.doc
+docidentifier:
+- content: OASIS FFMII-SPEC-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: FFMII-SPEC-v1.0-CS01
+date:
+- type: issued
+  at: '2012-10-06'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ffm/
+    name:
+    - content: OASIS Field Force Management (FFM) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Field Force Management (FFM) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - thinh.nguyenphu@nsn.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thinh
+      surname:
+        language: en
+        script: Latn
+        content: Nguyenphu
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nsn.com/
+        name:
+        - content: Nokia Siemens Networks
+- role:
+  - type: editor
+  person:
+    email:
+    - thinh.nguyenphu@nsn.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thinh
+      surname:
+        language: en
+        script: Latn
+        content: Nguyenphu
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nsn.com/
+        name:
+        - content: Nokia Siemens Networks
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes the Field Force Management Integration Interface (FFMII), a flexible
+    interface between Enterprise Resource Management System (ERMS) and Field Force
+    Management System (FFMS).
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

@@ -1,0 +1,143 @@
+---
+id: OASISOBIXRESTv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Bindings for OBIX: REST Bindings Version 1.0'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/obix/obix-rest/v1.0/cs01/obix-rest-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/obix/obix-rest/v1.0/cs01/obix-rest-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/obix/obix-rest/v1.0/cs01/obix-rest-v1.0-cs01.doc
+docidentifier:
+- content: OASIS OBIX-REST-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: OBIX-REST-v1.0-CS01
+date:
+- type: issued
+  at: '2015-09-14'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/obix/
+    name:
+    - content: OASIS Open Building Information Exchange (oBIX) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Building Information Exchange (oBIX) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - craig.gemmill@tridium.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Craig
+      surname:
+        language: en
+        script: Latn
+        content: Gemmill
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.tridium.com/
+        name:
+        - content: Tridium, Inc.
+- role:
+  - type: editor
+  person:
+    email:
+    - mjung@auto.tuwien.ac.at
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Markus
+      surname:
+        language: en
+        script: Latn
+        content: Jung
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.auto.tuwien.ac.at/
+        name:
+        - content: Institute of Computer Aided Automation, Vienna University of Technology
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies REST bindings for OBIX. OBIX provides the core information model
+    and interaction pattern for communication with building control systems. Specific
+    implementations of OBIX must choose how to bind OBIX interactions. This document
+    describes the REST Binding, an interaction pattern that can be used in conjunction
+    with XML, EXI, CoAP, and JSON encodings, as well as other encodings that may be
+    specified elsewhere.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Energy
+  - IoT

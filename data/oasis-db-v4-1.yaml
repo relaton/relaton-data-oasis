@@ -1,0 +1,98 @@
+---
+id: OASISDBv41
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DocBook v4.1 [OASIS 200101]
+  type: main
+source:
+- type: zip
+  content: http://www.oasis-open.org/docbook/sgml/4.1/docbk41.zip
+- type: txt
+  content: http://www.oasis-open.org/docbook/sgml/4.1/readme.txt
+- type: txt
+  content: http://www.oasis-open.org/docbook/sgml/4.1/41chg.txt
+- type: txt
+  content: http://www.oasis-open.org/docbook/sgml/4.1/40chg.txt
+- type: txt
+  content: http://www.oasis-open.org/docbook/sgml/4.1/50issues.txt
+- type: dtd
+  content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.dtd
+- type: mod
+  content: http://www.oasis-open.org/docbook/sgml/4.1/dbpool.mod
+- type: mod
+  content: http://www.oasis-open.org/docbook/sgml/4.1/dbhier.mod
+- type: mod
+  content: http://www.oasis-open.org/docbook/sgml/4.1/dbnotn.mod
+- type: mod
+  content: http://www.oasis-open.org/docbook/sgml/4.1/dbcent.mod
+- type: mod
+  content: http://www.oasis-open.org/docbook/sgml/4.1/dbgenent.mod
+- type: dtd
+  content: http://www.oasis-open.org/docbook/sgml/4.1/cals-tbl.dtd
+- type: dcl
+  content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.dcl
+- type: cat
+  content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.cat
+- type: src
+  content: http://www.oasis-open.org/docbook/sgml/4.1/ChangeLog
+docidentifier:
+- content: OASIS DB-v4.1
+  type: OASIS
+  primary: true
+docnumber: DB-v4.1
+date:
+- type: issued
+  at: '2001-01-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/docbook
+    name:
+    - content: OASIS DocBook TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS DocBook TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: DocBook is a general purpose [XML] schema particularly well suited to books
+    and papers about computer hardware and software (though it is by no means limited
+    to these applications).
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

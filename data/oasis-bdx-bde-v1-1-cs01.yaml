@@ -1,0 +1,76 @@
+---
+id: OASISBDXBDEV11CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Business Document Envelope Version 1.1
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/bdxr/bdx-bde/v1.1/cs01/bdx-bde-v1.1-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/bdxr/bdx-bde/v1.1/cs01/bdx-bde-v1.1-cs01.pdf
+- type: xml
+  content: http://docs.oasis-open.org/bdxr/bdx-bde/v1.1/cs01/bdx-bde-v1.1-cs01.xml
+docidentifier:
+- content: OASIS BDX-BDE-V1.1-CS01
+  type: OASIS
+  primary: true
+docnumber: BDX-BDE-V1.1-CS01
+date:
+- type: issued
+  at: '2016-12-05'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/bdxr/
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Business Document Exchange (BDXR) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defining a business-oriented artefact enveloping a payload of one or more
+    business documents or other artefacts with supplemental semantic information about
+    the collection of payloads as a whole. This is distinct from any transport-layer
+    infrastructure envelope that may be required.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - Messaging

@@ -1,0 +1,161 @@
+---
+id: OASISTAXIIv111XMLMsgCS01Pt4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'TAXII(TM) Version 1.1.1. Part 4: XML Message Binding'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/cti/taxii/v1.1.1/cs01/part4-xml/taxii-v1.1.1-cs01-part4-xml.html
+docidentifier:
+- content: OASIS TAXII-v1.1.1-XML-Msg-CS01-Pt4
+  type: OASIS
+  primary: true
+docnumber: TAXII-v1.1.1-XML-Msg-CS01-Pt4
+date:
+- type: issued
+  at: '2016-05-05'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/cti/
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Richard.Struse@hq.dhs.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Struse
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.dhs.gov/office-cybersecurity-and-communications
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
+- role:
+  - type: editor
+  person:
+    email:
+    - mdavidson@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Davidson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - cmschmidt@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Charles
+      surname:
+        language: en
+        script: Latn
+        content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - bret.jordan@bluecoat.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bret
+      surname:
+        language: en
+        script: Latn
+        content: Jordan
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.bluecoat.com/
+        name:
+        - content: Blue Coat Systems, Inc.
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: The Trusted Automated eXchange of Indicator Information (TAXII™) specifies
+    mechanisms for exchanging structured cyber threat information between parties
+    over the network. This document describes how to express TAXII messages using
+    an XML binding.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS TAXII-v1.1.1-CS01
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Cybersecurity

@@ -1,0 +1,77 @@
+---
+id: OASISSAMLQR
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Metadata Extension for SAML V2.0 and V1.x Query Requesters
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ext-query-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ext-query-os.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ext-query-os.odt
+docidentifier:
+- content: OASIS SAML-QR
+  type: OASIS
+  primary: true
+docnumber: SAML-QR
+date:
+- type: issued
+  at: '2007-11-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/security/
+    name:
+    - content: OASIS Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Security Services (SAML) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines an extension to the SAML V2.0 metadata specification [SAML2Meta].
+    The extension defines role descriptor types that describe a standalone SAML V1.x
+    or V2.0 query requester for each of the three predefined query types. Readers
+    are advised to familiarize themselves with that specification before reading this
+    one.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity
+  - Security

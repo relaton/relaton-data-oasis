@@ -1,0 +1,47 @@
+---
+id: OASISOSLCPROMCODEv10ShapesCS02Pt3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC PROMCODE Version 1.0. Part 3: Constraints'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/oslc-promcode/promcode/v1.0/cs02/promcode-shapes.html
+docidentifier:
+- content: OASIS OSLC-PROMCODE-v1.0-Shapes-CS02-Pt3
+  type: OASIS
+  primary: true
+docnumber: OSLC-PROMCODE-v1.0-Shapes-CS02-Pt3
+date:
+- type: issued
+  at: '2021-11-10'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-PROMCODE-v1.0-CS02
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

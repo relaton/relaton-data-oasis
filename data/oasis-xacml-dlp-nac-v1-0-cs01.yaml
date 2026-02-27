@@ -1,0 +1,242 @@
+---
+id: OASISxacmldlpnacv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XACML Data Loss Prevention / Network Access Control (DLP/NAC) Profile Version
+    1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/xacml/xacml-3.0-dlp-nac/v1.0/cs01/xacml-3.0-dlp-nac-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/xacml/xacml-3.0-dlp-nac/v1.0/cs01/xacml-3.0-dlp-nac-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/xacml/xacml-3.0-dlp-nac/v1.0/cs01/xacml-3.0-dlp-nac-v1.0-cs01.doc
+docidentifier:
+- content: OASIS xacml-dlp-nac-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: xacml-dlp-nac-v1.0-CS01
+date:
+- type: issued
+  at: '2015-02-16'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/xacml/
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - john.tolbert@queraltinc.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Tolbert
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.queraltinc.com/
+        name:
+        - content: Queralt, Inc.
+- role:
+  - type: editor
+  person:
+    email:
+    - richard.c.hill@boeing.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Hill
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.boeing.com/
+        name:
+        - content: The Boeing Company
+- role:
+  - type: editor
+  person:
+    email:
+    - crystal.l.hayes@boeing.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Crystal
+      surname:
+        language: en
+        script: Latn
+        content: Hayes
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.boeing.com/
+        name:
+        - content: The Boeing Company
+- role:
+  - type: editor
+  person:
+    email:
+    - david.brossard@axiomatics.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Brossard
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.axiomatics.com/
+        name:
+        - content: Axiomatics AB
+- role:
+  - type: editor
+  person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - steven.legg@viewds.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steven
+      surname:
+        language: en
+        script: Latn
+        content: Legg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.viewds.com/
+        name:
+        - content: ViewDS
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a profile for the use of XACML in expressing policies for data
+    loss prevention and network access control tools and technologies.  It defines
+    standard attribute identifiers useful in such policies, and recommends attribute
+    value ranges for certain attributes. It also defines several new functions for
+    comparing IP addresses and DNS names, not provided in the XACML 3.0 core specification.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

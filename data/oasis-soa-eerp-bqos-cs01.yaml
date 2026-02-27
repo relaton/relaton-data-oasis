@@ -1,0 +1,138 @@
+---
+id: OASISSOAEERPbQosCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SOA-EERP Business Quality of Service Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/soa-eerp/bqos/v1.0/SOA-EERP-bQoS-Spec-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/soa-eerp/bqos/v1.0/SOA-EERP-bQoS-Spec-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/soa-eerp/bqos/v1.0/SOA-EERP-bQoS-Spec-cs01.doc
+docidentifier:
+- content: OASIS SOA-EERP-bQos-CS01
+  type: OASIS
+  primary: true
+docnumber: SOA-EERP-bQos-CS01
+date:
+- type: issued
+  at: '2010-11-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/soa-eerp/
+    name:
+    - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
+        TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Service-Oriented Architecture End-to-End Resource Planning
+          (SOA-EERP) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andy
+      surname:
+        language: en
+        script: Latn
+        content: Lee,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Szu
+      surname:
+        language: en
+        script: Latn
+        content: Chang,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: " "
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/soa-eerp/bqos/200903"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/soa-eerp/bqos/200903
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies the XML vocabulary for business quality of service (bQoS), one
+    of three Specifications for end-to-end resource planning (EERP). Business quality
+    of service describes the business-related characteristics or attributes of a service.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis

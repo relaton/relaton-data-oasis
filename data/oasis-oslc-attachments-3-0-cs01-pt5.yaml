@@ -1,0 +1,47 @@
+---
+id: OASISOSLCAttachments30CS01Pt5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Core Version 3.0. Part 5: Attachments'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/oslc-core/oslc-core/v3.0/cs01/part5-attachments/oslc-core-v3.0-cs01-part5-attachments.html
+docidentifier:
+- content: OASIS OSLC-Attachments-3.0-CS01-Pt5
+  type: OASIS
+  primary: true
+docnumber: OSLC-Attachments-3.0-CS01-Pt5
+date:
+- type: issued
+  at: '2017-04-04'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-CS01
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

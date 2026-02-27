@@ -1,0 +1,88 @@
+---
+id: OASISSAMLattrextv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Attribute Extensions Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-attribute-ext-cs-01.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-attribute-ext-cs-01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-attribute-ext-cs-01.odt
+docidentifier:
+- content: OASIS SAML-attr-ext-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-attr-ext-v1.0-CS01
+date:
+- type: issued
+  at: '2009-08-04'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: OASIS Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Security Services (SAML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart,
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines new XML attributes useful in extending the  element to communicate
+    additional information about SAML attributes, their origin, rules for handling
+    them, or any other kind of “meta-information” deemed interesting.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

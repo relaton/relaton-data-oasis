@@ -1,0 +1,75 @@
+---
+id: OASISSDDS10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Solution Deployment Descriptor Specification 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/sdd/v1.0/os/sdd-spec-v1.0-os.html
+docidentifier:
+- content: OASIS SDDS1.0
+  type: OASIS
+  primary: true
+docnumber: SDDS1.0
+date:
+- type: issued
+  at: '2008-09-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/sdd/
+    name:
+    - content: OASIS Solution Deployment Descriptor (SDD) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Solution Deployment Descriptor (SDD) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Defines schema for two XML document types: Package Descriptors and Deployment
+    Descriptors. Package Descriptors define characteristics of a package used to deploy
+    a solution. Deployment Descriptors define characteristics of the content of a
+    solution package, including the requirements that are relevant for creation, configuration
+    and maintenance of the solution content. The semantics of the descriptors are
+    fully defined, allowing software implementations to precisely understand the intent
+    of the descriptor authors and to use the information provided in the descriptors
+    to support solution deployment.'
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

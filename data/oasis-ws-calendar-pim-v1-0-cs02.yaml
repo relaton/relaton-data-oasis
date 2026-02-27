@@ -1,0 +1,133 @@
+---
+id: OASISWSCalendarPIMv10CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WS-Calendar Platform Independent Model (PIM) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-pim/v1.0/cs02/ws-calendar-pim-v1.0-cs02.html
+- type: pdf
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-pim/v1.0/cs02/ws-calendar-pim-v1.0-cs02.pdf
+- type: doc
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-pim/v1.0/cs02/ws-calendar-pim-v1.0-cs02.doc
+docidentifier:
+- content: OASIS WS-Calendar-PIM-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: WS-Calendar-PIM-v1.0-CS02
+date:
+- type: issued
+  at: '2015-08-21'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ws-calendar/
+    name:
+    - content: OASIS Web Services Calendar (WS-Calendar) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Calendar (WS-Calendar) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+- role:
+  - type: editor
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Defines conformance and improves interoperation of calendar and schedule models with each other and with WS-Calendar and Xcal, which are in turn based on IETF RFCs.
+    This is a Platform Independent Model under the Object Management Group’s Model-Driven Architecture. The Platform Dependent Model to which this specification relates is the full model for WS-Calendar as expressed in XML (xCal).
+    The focus of this Platform Independent Model is on describing and passing schedule and interval information with information attachments.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Web-Services

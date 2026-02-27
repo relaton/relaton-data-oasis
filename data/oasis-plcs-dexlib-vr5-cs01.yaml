@@ -1,0 +1,86 @@
+---
+id: OASISPLCSDEXLIBVR5CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Product Life Cycle Support DEXs Version R5
+  type: main
+source:
+- type: htm
+  content: http://docs.oasis-open.org/plcs/dexlib/cs01/oasis_cover.htm
+- type: pdf
+  content: http://docs.oasis-open.org/plcs/dexlib/cs01/oasis_cover.pdf
+docidentifier:
+- content: OASIS PLCS-DEXLIB-VR5-CS01
+  type: OASIS
+  primary: true
+docnumber: PLCS-DEXLIB-VR5-CS01
+date:
+- type: issued
+  at: '2010-11-19'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/plcs/
+    name:
+    - content: OASIS Product Life Cycle Support (PLCS) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Product Life Cycle Support (PLCS) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tor
+      surname:
+        language: en
+        script: Latn
+        content: Arne
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    To establish structured data exchange and sharing capabilities for use by industry to support complex engineered assets throughout their total life cycle. The OASIS Product Life Cycle Support (PLCS) DEXs standard is defined by Data Exchange Specifications (DEXs) that are based upon ISO 10303 (STEP) Application Protocol 239 (Product Life Cycle Support).
+    The scope of the information content of ISO 10303-239 covers:
+    The identification and composition of a product design from a support viewpoint; The definition of documents and their applicability to products and support activities; The identification and composition of individual products; Configuration management activities, over the complete life cycle; Activities required to sustain product function; The resources needed to perform such activities; The planning and scheduling of such activities; The capture of feedback on the performance of such activities, including the resources used; The capture of feedback on the usage and condition of a product; The definition of the support environment in terms of people, organizations, skills, experience and facilities. The business goals of the OASIS PLCS DEXs are to satisfy three significant requirements for owners/operators of complex products and systems such as aircraft, ships and power plants, namely:
+    Reduction in the total cost of ownership Increased asset availability Effective information management throughout the product lifecycle
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

@@ -1,0 +1,79 @@
+---
+id: OASISsksmlv10CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Symmetric Key Services Markup Language (SKSML) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.html
+- type: pdf
+  content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.pdf
+- type: odt
+  content: http://docs.oasis-open.org/ekmi/sksml/v1.0/cs02/SKSML-1.0-Specification.odt
+docidentifier:
+- content: OASIS sksml-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: sksml-v1.0-CS02
+date:
+- type: issued
+  at: '2011-01-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ekmi/
+    name:
+    - content: OASIS Enterprise Key Management Infrastructure (EKMI) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Enterprise Key Management Infrastructure (EKMI) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines the first (1.0) version of the Symmetric Key Services Markup Language
+    (SKSML), an XML-based messaging protocol, by which applications executing on computing
+    devices may request and receive symmetric key-management services from centralized
+    key-management servers, securely, over networks. Applications using SKSML are
+    expected to either implement the SKSML protocol, or use a software library – called
+    the Symmetric Key Client Library (SKCL) – that implements this protocol. SKSML
+    messages are transported securely over standard HTTP using XML Security (XML Signature
+    and XML Encryption).
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Messaging

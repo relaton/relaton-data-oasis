@@ -1,0 +1,192 @@
+---
+id: OASISSOARAFCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reference Architecture Foundation for Service Oriented Architecture Version
+    1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/cs01/soa-ra-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/cs01/soa-ra-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/cs01/soa-ra-v1.0-cs01.doc
+docidentifier:
+- content: OASIS SOA-RAF-CS01
+  type: OASIS
+  primary: true
+docnumber: SOA-RAF-CS01
+date:
+- type: issued
+  at: '2012-12-05'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/soa-rm/
+    name:
+    - content: OASIS Service Oriented Architecture Reference Model TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Service Oriented Architecture Reference Model TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - klaskey@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ken
+      surname:
+        language: en
+        script: Latn
+        content: Laskey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://mitre.org/
+        name:
+        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - peter@peterfbrown.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Brown
+- role:
+  - type: editor
+  person:
+    email:
+    - jeffrey.a.estefan@jpl.nasa.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeff
+      surname:
+        language: en
+        script: Latn
+        content: A.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpl.nasa.gov/
+        name:
+        - content: Jet Propulsion Laboratory
+- role:
+  - type: editor
+  person:
+    email:
+    - klaskey@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ken
+      surname:
+        language: en
+        script: Latn
+        content: Laskey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - fmccabe@gmail.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Francis
+      surname:
+        language: en
+        script: Latn
+        content: G.
+- role:
+  - type: editor
+  person:
+    email:
+    - danny.thornton@ngc.com.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Danny
+      surname:
+        language: en
+        script: Latn
+        content: Thornton
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.northropgrumman.com/
+        name:
+        - content: Northrop Grumman
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Specifies the OASIS Reference Architecture Foundation for Service Oriented Architecture (SOA-RAF). It follows from the concepts and relationships defined in the OASIS Reference Model for Service Oriented Architecture as well as work conducted in other organizations. While it remains abstract in nature, the current document describes the foundation upon which specific SOA concrete architectures can be built.
+    The focus of the SOA-RAF is on an approach to integrating business with the information technology needed to support it. These issues are always present but are all the more important when business integration involves crossing ownership boundaries.
+    The SOA-RAF follows the recommended practice of describing architecture in terms of models, views, and viewpoints, as prescribed in the ANSI/IEEE 1471-2000.
+    It has three main views: the Participation in a SOA Ecosystem view which focuses on the way that participants are part of a Service Oriented Architecture ecosystem; the Realization of a SOA Ecosystem view which addresses the requirements for constructing a SOA-based system in a SOA ecosystem; and the Ownership in a SOA Ecosystem view which focuses on what is meant to own a SOA-based system.
+    The SOA-RAF is of value to Enterprise Architects, Business and IT Architects as well as CIOs and other senior executives involved in strategic business and IT planning.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business

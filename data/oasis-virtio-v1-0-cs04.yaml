@@ -1,0 +1,78 @@
+---
+id: OASISVIRTIOv10CS04
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Virtual I/O Device (VIRTIO) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/virtio/virtio/v1.0/cs04/virtio-v1.0-cs04.html
+- type: pdf
+  content: http://docs.oasis-open.org/virtio/virtio/v1.0/cs04/virtio-v1.0-cs04.pdf
+- type: src
+  content: http://docs.oasis-open.org/virtio/virtio/v1.0/cs04/tex/
+docidentifier:
+- content: OASIS VIRTIO-v1.0-CS04
+  type: OASIS
+  primary: true
+docnumber: VIRTIO-v1.0-CS04
+date:
+- type: issued
+  at: '2016-03-03'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/virtio/
+    name:
+    - content: OASIS Virtual I/O Device (VIRTIO) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Virtual I/O Device (VIRTIO) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes the specifications of the “virtio” family of devices. These devices
+    are found in virtual environments, yet by design they look like physical devices
+    to the guest within the virtual machine – and this document treats them as such.
+    This similarity allows the guest to use standard drivers and discovery mechanisms.
+    The purpose of virtio and this specification is that virtual environments and
+    guests should have a straightforward, efficient, standard and extensible mechanism
+    for virtual devices, rather than boutique per-environment or per-OS mechanisms.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - IoT

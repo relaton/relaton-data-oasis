@@ -1,0 +1,183 @@
+---
+id: OASISEMIXv10CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Energy Market Information Exchange (EMIX) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/emix/emix/v1.0/cs02/emix-v1.0-cs02.html
+- type: pdf
+  content: http://docs.oasis-open.org/emix/emix/v1.0/cs02/emix-v1.0-cs02.pdf
+- type: doc
+  content: http://docs.oasis-open.org/emix/emix/v1.0/cs02/emix-v1.0-cs02.doc
+docidentifier:
+- content: OASIS EMIX-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: EMIX-v1.0-CS02
+date:
+- type: issued
+  at: '2012-01-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/emix/
+    name:
+    - content: OASIS Energy Market Information Exchange (eMIX) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Energy Market Information Exchange (eMIX) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ed@cazalet.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Edward
+      surname:
+        language: en
+        script: Latn
+        content: Cazalet
+- role:
+  - type: editor
+  person:
+    email:
+    - Toby.Considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/emix/2011/06"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/emix/2011/06
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/emix/2011/06/siscale"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/emix/2011/06/siscale
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/emix/2011/06/power"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/emix/2011/06/power
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/emix/2011/06/power/resource"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/emix/2011/06/power/resource
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Defines an information model and XML vocabulary for the interoperable and standard exchange of prices and product definitions in transactive energy markets:
+    ·         Price information
+    ·         Bid information
+    ·         Time for use or availability
+    ·         Units and quantity to be traded
+    ·         Characteristics of what is traded
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Energy

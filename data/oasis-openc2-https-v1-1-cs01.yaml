@@ -1,0 +1,88 @@
+---
+id: OASISOpenC2HTTPSv11CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Specification for Transfer of OpenC2 Messages via HTTPS Version 1.1 – Committee
+    Specification 01
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/openc2/open-impl-https/v1.1/cs01/open-impl-https-v1.1-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/openc2/open-impl-https/v1.1/cs01/open-impl-https-v1.1-cs01.pdf
+- type: md
+  content: https://docs.oasis-open.org/openc2/open-impl-https/v1.1/cs01/open-impl-https-v1.1-cs01.md
+docidentifier:
+- content: OASIS OpenC2-HTTPS-v1.1-CS01
+  type: OASIS
+  primary: true
+docnumber: OpenC2-HTTPS-v1.1-CS01
+date:
+- type: issued
+  at: '2021-11-30'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/openc2/
+    name:
+    - content: OASIS Open Command and Control (OpenC2) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Command and Control (OpenC2) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Lemire
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies the use of HTTP over TLS as a transfer mechanism for OpenC2 Messages.
+    A Testing conformance target is provided to support interoperability testing without
+    security mechanisms.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Cybersecurity
+  - Messaging

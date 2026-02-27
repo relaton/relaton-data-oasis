@@ -1,0 +1,100 @@
+---
+id: OASISPKCSSv31
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'PKCS #11 Specification Version 3.1'
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/os/pkcs11-spec-v3.1-os.docx
+- type: src
+  content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/os/pkcs11-spec-v3.1-os.html
+- type: pdf
+  content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/os/pkcs11-spec-v3.1-os.pdf
+docidentifier:
+- content: OASIS PKCS-S-v3.1
+  type: OASIS
+  primary: true
+docnumber: PKCS-S-v3.1
+date:
+- type: issued
+  at: '2023-07-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/pkcs11/
+    name:
+    - content: PKCS 11 TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: PKCS 11 TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dieter
+      surname:
+        language: en
+        script: Latn
+        content: Bong
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tony
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Defines a platform-independent API to cryptographic tokens, such as hardware
+    security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic
+    token interface”) and pronounced “crypto-key”. The specification defines data
+    types, functions and other basic components of the interface and also defines
+    mechanisms that are anticipated for use with the current version of PKCS #11.'
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Security

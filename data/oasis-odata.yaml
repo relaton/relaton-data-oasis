@@ -1,0 +1,123 @@
+---
+id: OASISOData
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OData Version 4.01
+  type: main
+docidentifier:
+- content: OASIS OData
+  type: OASIS
+  primary: true
+docnumber: OData
+date:
+- type: issued
+  at: '2020-04-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Data Protocol (OData) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ralf.handl@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ralf
+      surname:
+        language: en
+        script: Latn
+        content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - mikep@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: OData enables the creation and consumption of REST-based data services
+    which allow resources, identified using Uniform Resource Locators (URLs) and defined
+    in a data model, to be published and edited by Web clients using simple HTTP messages.
+    OData helps create a more open, programmable Web, and simplifies the querying
+    and sharing of data across applications for re-use in the enterprise, cloud, and
+    mobile devices.
+relation:
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OData-Part1
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OData-Part2
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Messaging

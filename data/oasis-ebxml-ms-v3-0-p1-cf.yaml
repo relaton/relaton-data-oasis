@@ -1,0 +1,82 @@
+---
+id: OASISebXMLMSv30P1CF
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'ebXML Messaging Services v3.0: Part 1, Core Features'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/core/os/ebms_core-3.0-spec-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/core/os/ebms_core-3.0-spec-os.pdf
+- type: odt
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/core/os/ebms_core-3.0-spec-os.odt
+- type: xsd
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/core/os/ebms-header-3_0-200704.xsd
+docidentifier:
+- content: OASIS ebXML-MS-v3.0-P1-CF
+  type: OASIS
+  primary: true
+docnumber: ebXML-MS-v3.0-P1-CF
+date:
+- type: issued
+  at: '2007-10-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/ebxml-msg
+    name:
+    - content: OASIS ebXML Messaging Services TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS ebXML Messaging Services TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a communications-protocol neutral method for exchanging electronic
+    business messages. It defines specific Web Services-based enveloping constructs
+    supporting reliable, secure delivery of business information. Furthermore, the
+    specification defines a flexible enveloping technique, permitting messages to
+    contain payloads of any format type. This versatility ensures legacy electronic
+    business systems employing traditional syntaxes (i.e. UN/EDIFACT, ASC X12, or
+    HL7) can leverage the advantages of the ebXML infrastructure along with users
+    of emerging technologies.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - Messaging

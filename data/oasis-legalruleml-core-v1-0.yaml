@@ -1,0 +1,147 @@
+---
+id: OASISLegalRuleMLCorev10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LegalRuleML Core Specification Version 1.0 – OASIS Standard
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/os/legalruleml-core-spec-v1.0-os.html
+- type: pdf
+  content: https://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/os/legalruleml-core-spec-v1.0-os.pdf
+- type: doc
+  content: https://docs.oasis-open.org/legalruleml/legalruleml-core-spec/v1.0/os/legalruleml-core-spec-v1.0-os.docx
+docidentifier:
+- content: OASIS LegalRuleML-Core-v1.0
+  type: OASIS
+  primary: true
+docnumber: LegalRuleML-Core-v1.0
+date:
+- type: issued
+  at: '2021-08-30'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/legalruleml/
+    name:
+    - content: OASIS LegalRuleML TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS LegalRuleML TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Guido
+      surname:
+        language: en
+        script: Latn
+        content: Governatori
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tara
+      surname:
+        language: en
+        script: Latn
+        content: Athan
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harold
+      surname:
+        language: en
+        script: Latn
+        content: Boley
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Adrian
+      surname:
+        language: en
+        script: Latn
+        content: Paschke
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Adam
+      surname:
+        language: en
+        script: Latn
+        content: Wyner
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defining a standard (expressed with XML-schema and Relax NG on the basis
+    of Consumer RuleML 1.02) that is able to represent the particularities of the
+    legal normative rules with a rich, articulated, and meaningful mark-up language.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - eGov/Legal

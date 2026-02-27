@@ -1,0 +1,92 @@
+---
+id: OASISOSLCPS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OSLC Core Version 3.0
+  type: main
+docidentifier:
+- content: OASIS OSLC-PS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-PS01
+date:
+- type: issued
+  at: '2020-09-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://open-services.net/about/
+    name:
+    - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defining the overall approach to Open Services for Lifecycle Collaboration
+    (OSLC) based specifications and capabilities that extend and complement W3C Linked
+    Data Platform.
+relation:
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-Core-3.0-Part1-PS01
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-Discovery-3.0-PS01-Pt2
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-ResourcePreview-3.0-PS01-Pt3
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-Dialogs-3.0-PS01-Pt4
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-Attachments-3.0-PS01-Pt5
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-Shapes-3.0-PS01-Pt6
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-CoreVocab-3.0-PS01-Pt7
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-CoreShapes-3.0-PS01-Pt8
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

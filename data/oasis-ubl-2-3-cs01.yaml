@@ -1,0 +1,83 @@
+---
+id: OASISUBL23CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Universal Business Language Version 2.3
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/ubl/cs01-UBL-2.3/UBL-2.3.html
+- type: pdf
+  content: https://docs.oasis-open.org/ubl/cs01-UBL-2.3/UBL-2.3.pdf
+- type: xml
+  content: https://docs.oasis-open.org/ubl/cs01-UBL-2.3/UBL-2.3.xml
+docidentifier:
+- content: OASIS UBL-2.3-CS01
+  type: OASIS
+  primary: true
+docnumber: UBL-2.3-CS01
+date:
+- type: issued
+  at: '2021-01-19'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ubl/
+    name:
+    - content: OASIS Universal Business Language TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Universal Business Language TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: G
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: UBL is the leading interchange format for business documents.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business

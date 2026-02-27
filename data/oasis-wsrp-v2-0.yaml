@@ -1,0 +1,73 @@
+---
+id: OASISWSRPv20
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Web Services for Remote Portlets (WSRP) v2.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/wsrp/v2/wsrp-2.0-spec-os-01.html
+- type: pdf
+  content: http://docs.oasis-open.org/wsrp/v2/wsrp-2.0-spec-os-01.pdf
+docidentifier:
+- content: OASIS WSRP-v2.0
+  type: OASIS
+  primary: true
+docnumber: WSRP-v2.0
+date:
+- type: issued
+  at: '2008-04-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/wsrp
+    name:
+    - content: OASIS Web Services for Remote Portlets TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services for Remote Portlets TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Integration of remote content and application logic into an End-User presentation has been a task requiring significant custom programming effort. Typically, vendors of aggregating applications, such as a portal, write special adapters for applications and content providers to accommodate the variety of different interfaces and protocols those providers use. The goal of this specification is to enable an application designer or administrator to pick from a rich choice of compliant remote content and application providers, and integrate them with just a few mouse clicks and no programming effort. This revision of the specification adds Consumer managed coordination, additional lifecycle management and a set of related aggregation enhancements.
+    This specification is the effort of the OASIS Web Services for Remote Portlets (WSRP) Technical Committee which aims to simplify the effort required of integrating applications to quickly exploit new web services as they become available.
+    This standard layers on top of the existing web services stack, utilizing existing web services standards and will leverage emerging web service standards (such as policy) as they become available. The interfaces defined by this specification use the Web Services Description Language (WSDL).
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

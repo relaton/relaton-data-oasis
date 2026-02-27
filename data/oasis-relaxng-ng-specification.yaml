@@ -1,0 +1,70 @@
+---
+id: OASISrelaxngngspecification
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RELAX NG Specification
+  type: main
+source:
+- type: src
+  content: https://www.oasis-open.org/committees/relax-ng/spec-20011203.html
+docidentifier:
+- content: OASIS relaxng-ng-specification
+  type: OASIS
+  primary: true
+docnumber: relaxng-ng-specification
+date:
+- type: issued
+  at: '2001-11-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/relax-ng/
+    name:
+    - content: OASIS RELAX NG TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS RELAX NG TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: The definitive specification of RELAX NG, a simple schema language for
+    XML, based on [RELAX] and [TREX]. A RELAX NG schema specifies a pattern for the
+    structure and content of an XML document. A RELAX NG schema is itself an XML document.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

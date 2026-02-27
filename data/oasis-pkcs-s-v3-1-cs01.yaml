@@ -1,0 +1,98 @@
+---
+id: OASISPKCSSv31CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'PKCS #11 Specification Version 3.1'
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.docx
+- type: src
+  content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/cs01/pkcs11-spec-v3.1-cs01.pdf
+docidentifier:
+- content: OASIS PKCS-S-v3.1-CS01
+  type: OASIS
+  primary: true
+docnumber: PKCS-S-v3.1-CS01
+date:
+- type: issued
+  at: '2022-08-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/pkcs11/
+    name:
+    - content: PKCS 11 TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: PKCS 11 TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Dieter
+      surname:
+        language: en
+        script: Latn
+        content: Bong
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tony
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Defines data types, functions and other basic components of the PKCS #11
+    Cryptoki interface for devices that may hold cryptographic information and may
+    perform cryptographic functions.'
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

@@ -1,0 +1,74 @@
+---
+id: OASISKMIPBPv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: KMIP Suite B Profile v1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/os/kmip-suite-b-profile-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/os/kmip-suite-b-profile-v1.0-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/os/kmip-suite-b-profile-v1.0-os.doc
+docidentifier:
+- content: OASIS KMIP-B-P-v1.0
+  type: OASIS
+  primary: true
+docnumber: KMIP-B-P-v1.0
+date:
+- type: issued
+  at: '2015-05-19'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/kmip/
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes a profile for KMIP clients and KMIP servers using Suite B cryptography
+    that has been approved by NIST for use by the U.S. Government and specified in
+    NIST standards or recommendations.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Security

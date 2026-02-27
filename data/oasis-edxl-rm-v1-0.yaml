@@ -1,0 +1,79 @@
+---
+id: OASISEDXLRMv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Emergency Data Exchange Language Resource Messaging (EDXL-RM) v1.0 incorporating
+    Approved Errata
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/emergency/edxl-rm/v1.0/errata/EDXL-RM-v1.0-OS-errata-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/emergency/edxl-rm/v1.0/errata/EDXL-RM-v1.0-OS-errata-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/emergency/edxl-rm/v1.0/errata/EDXL-RM-v1.0-OS-errata-os.doc
+- type: src
+  content: http://docs.oasis-open.org/emergency/edxl-rm/v1.0/os/EDXL-RM-v1.0-Schemas-Examples/RMSchemas080126/
+docidentifier:
+- content: OASIS EDXL-RM-v1.0
+  type: OASIS
+  primary: true
+docnumber: EDXL-RM-v1.0
+date:
+- type: issued
+  at: '2008-11-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/emergency
+    name:
+    - content: OASIS Emergency Management TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Emergency Management TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes a suite of standard messages for data sharing among emergency
+    and other information systems that deal in requesting and providing emergency
+    equipment, supplies, people and teams. This format may be used over any data transmission
+    system, including but not limited to the SOAP HTTP binding.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Emergency-Management
+  - Messaging

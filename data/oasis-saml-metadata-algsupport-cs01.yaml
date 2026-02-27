@@ -1,0 +1,76 @@
+---
+id: OASISSAMLmetadataalgsupportCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML v2.0 Metadata Profile for Algorithm Support Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-algsupport-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-algsupport-v1.0-cs01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-algsupport-v1.0-cs01.odt
+docidentifier:
+- content: OASIS SAML-metadata-algsupport-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-metadata-algsupport-CS01
+date:
+- type: issued
+  at: '2011-02-22'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Security Services (SAML) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Includes an element allowing entities to describe the XML Encryption [XMLEnc]
+    algorithms they support. This specification defines metadata extension elements
+    to enable entities to describe the XML Signature [XMLSig] algorithms they support,
+    and a profile for using both elements to enable better algorithm agility for profiles
+    that rely on metadata.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

@@ -1,0 +1,130 @@
+---
+id: OASISXRICS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Extensible Resource Identifier (XRI) Syntax V2.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/xri/xri-syntax/2.0/specs/cs01/xri-syntax-V2.0-cs.html
+- type: pdf
+  content: http://docs.oasis-open.org/xri/xri-syntax/2.0/specs/cs01/xri-syntax-V2.0-cs.pdf
+- type: doc
+  content: http://docs.oasis-open.org/xri/xri-syntax/2.0/specs/cs01/xri-syntax-V2.0-cs.doc
+docidentifier:
+- content: OASIS XRI-CS01
+  type: OASIS
+  primary: true
+docnumber: XRI-CS01
+date:
+- type: issued
+  at: '2005-11-14'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/xri/
+    name:
+    - content: OASIS Extensible Resource Identifier (XRI) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Extensible Resource Identifier (XRI) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    email:
+    - drummond.reed@cordance.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Drummond
+      surname:
+        language: en
+        script: Latn
+        content: Reed,
+- role:
+  - type: editor
+  person:
+    email:
+    - peter.davis@neustar.biz
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Davis,
+- role:
+  - type: editor
+  person:
+    email:
+    - mlindels@visa.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mike
+      surname:
+        language: en
+        script: Latn
+        content: Lindelsee,
+- role:
+  - type: editor
+  person:
+    email:
+    - gwachob@visa.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gabe
+      surname:
+        language: en
+        script: Latn
+        content: Wachob,
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This is the normative technical specification for XRI generic syntax. For
+    a non-normative introduction to the uses and features of XRIs, see Introduction
+    to XRIs [XRIIntro].
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

@@ -1,0 +1,121 @@
+---
+id: OASISODataCSDLJSONv401
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OData Common Schema Definition Language (CSDL) JSON Representation Version
+    4.01
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/odata/odata-csdl-json/v4.01/os/odata-csdl-json-v4.01-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/odata/odata-csdl-json/v4.01/os/odata-csdl-json-v4.01-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/odata/odata-csdl-json/v4.01/os/odata-csdl-json-v4.01-os.docx
+docidentifier:
+- content: OASIS OData-CSDL-JSON-v4.01
+  type: OASIS
+  primary: true
+docnumber: OData-CSDL-JSON-v4.01
+date:
+- type: issued
+  at: '2020-05-12'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Data Protocol (OData) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ralf.handl@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ralf
+      surname:
+        language: en
+        script: Latn
+        content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com
+        name:
+        - content: SAP SE
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - mikep@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: The Common Schema Definition Language (CSDL) defines specific representations
+    of the entity data model exposed by an OData service. This document specifically
+    defines the XML representation of CSDL.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Messaging

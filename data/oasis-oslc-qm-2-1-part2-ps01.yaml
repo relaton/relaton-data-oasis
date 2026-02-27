@@ -1,0 +1,47 @@
+---
+id: OASISOSLCqm21Part2PS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Quality Management Version 2.1. Part 2: Vocabulary'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/qm/v2.1/ps01/quality-management-vocab.html
+docidentifier:
+- content: OASIS OSLC-qm-2.1-Part2-PS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-qm-2.1-Part2-PS01
+date:
+- type: issued
+  at: '2020-08-27'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-QM-2.1-PS01
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

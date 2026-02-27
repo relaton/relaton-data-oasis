@@ -1,0 +1,47 @@
+---
+id: OASISOSLCCoreShapes30PS02Pt8
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Core Version 3.0. Part 8: Constraints'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/core/v3.0/ps02/core-shapes.html
+docidentifier:
+- content: OASIS OSLC-CoreShapes-3.0-PS02-Pt8
+  type: OASIS
+  primary: true
+docnumber: OSLC-CoreShapes-3.0-PS02-Pt8
+date:
+- type: issued
+  at: '2021-04-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-PS02
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

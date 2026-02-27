@@ -1,0 +1,136 @@
+---
+id: OASISxacml30nestedentv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XACML v3.0 Related and Nested Entities Profile Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/xacml/xacml-3.0-related-entities/v1.0/cs01/xacml-3.0-related-entities-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/xacml/xacml-3.0-related-entities/v1.0/cs01/xacml-3.0-related-entities-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/xacml/xacml-3.0-related-entities/v1.0/cs01/xacml-3.0-related-entities-v1.0-cs01.doc
+docidentifier:
+- content: OASIS xacml-3.0-nested-ent-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: xacml-3.0-nested-ent-v1.0-CS01
+date:
+- type: issued
+  at: '2015-10-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/xacml/
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci
+- role:
+  - type: editor
+  person:
+    email:
+    - steven.legg@viewds.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steven
+      surname:
+        language: en
+        script: Latn
+        content: Legg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.viewds.com/
+        name:
+        - content: ViewDS
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: It is not unusual for access control policy to be dependent on attributes
+    that are not naturally properties of the access subject or resource, but rather
+    are properties of entities that are related to the access subject or resource.
+    This profile defines the means to reference such attributes from within XACML
+    policies for processing by a policy decision point.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

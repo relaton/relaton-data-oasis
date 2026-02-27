@@ -1,0 +1,47 @@
+---
+id: OASISOSLCCM30Part2CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Change Management Version 3.0. Part 2: Vocabulary'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/oslc-domains/cm/v3.0/cs01/part2-change-mgt-vocab/cm-v3.0-cs01-part2-change-mgt-vocab.html
+docidentifier:
+- content: OASIS OSLC-CM-3.0-Part2-CS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-CM-3.0-Part2-CS01
+date:
+- type: issued
+  at: '2018-06-08'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-CM-3.0-CS01
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

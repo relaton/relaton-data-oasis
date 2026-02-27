@@ -1,0 +1,92 @@
+---
+id: OASISEDXLSitRepCS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Emergency Data Exchange Language Situation Reporting (EDXL-SitRep) Version
+    1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/emergency/edxl-sitrep/v1.0/cs02/edxl-sitrep-v1.0-cs02.html
+- type: pdf
+  content: http://docs.oasis-open.org/emergency/edxl-sitrep/v1.0/cs02/edxl-sitrep-v1.0-cs02.pdf
+- type: odt
+  content: http://docs.oasis-open.org/emergency/edxl-sitrep/v1.0/cs02/edxl-sitrep-v1.0-cs02.odt
+docidentifier:
+- content: OASIS EDXL-SitRep-CS02
+  type: OASIS
+  primary: true
+docnumber: EDXL-SitRep-CS02
+date:
+- type: issued
+  at: '2016-10-06'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/emergency/
+    name:
+    - content: OASIS Emergency Management TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Emergency Management TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - elysajones@yahoo.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elysa
+      surname:
+        language: en
+        script: Latn
+        content: Jones
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes a set of standard reports and elements that can be used for data
+    sharing among emergency information systems, and that provide incident information
+    for situation awareness on which incident command can base decisions.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Emergency-Management
+  - Messaging

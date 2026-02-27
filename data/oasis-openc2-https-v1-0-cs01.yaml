@@ -1,0 +1,73 @@
+---
+id: OASISOpenC2HTTPSv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Specification for Transfer of OpenC2 Messages via HTTPS Version 1.0d
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/openc2/open-impl-https/v1.0/cs01/open-impl-https-v1.0-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/openc2/open-impl-https/v1.0/cs01/open-impl-https-v1.0-cs01.pdf
+- type: md
+  content: https://docs.oasis-open.org/openc2/open-impl-https/v1.0/cs01/open-impl-https-v1.0-cs01.md
+docidentifier:
+- content: OASIS OpenC2-HTTPS-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: OpenC2-HTTPS-v1.0-CS01
+date:
+- type: issued
+  at: '2019-07-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/openc2/
+    name:
+    - content: OASIS Open Command and Control (OpenC2) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Command and Control (OpenC2) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies the use of HTTP over TLS as a transfer mechanism for OpenC2 Messages.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Cybersecurity
+  - Security

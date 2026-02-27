@@ -1,0 +1,80 @@
+---
+id: OASISTGFv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transformational Government Framework (TGF) Pattern Language Core Patterns
+    v1.0
+  type: main
+source:
+- type: pdf
+  content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.pdf
+- type: src
+  content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.html
+- type: doc
+  content: http://docs.oasis-open.org/tgf/TGF-PL-Core/v1.0/os/TGF-PL-Core-v1.0-os.doc
+docidentifier:
+- content: OASIS TGF-v1.0
+  type: OASIS
+  primary: true
+docnumber: TGF-v1.0
+date:
+- type: issued
+  at: '2013-04-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/tgf/
+    name:
+    - content: OASIS Transformational Government Framework TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Transformational Government Framework TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A practical “how to” standard for the design and implementation of an effective program of technology-enabled change at national, state or local government level. It describes a managed process of ICT-enabled change in the public sector, which puts the needs of citizens and businesses at the heart of that process and which achieves significant and transformational impacts on the efficiency and effectiveness of government.
+    The complete Framework consists of:
+    ·         The TGF Primer
+    ·         The TGF Pattern Language
+    ·         and possibly other future deliverables
+    The TGF Pattern Language is a formalization of the Framework that is both human-readable and machine-tractable. It provides a concise, structured and formal set of “patterns” using the so‑called “Alexandrian form”, where each pattern describes a core problem, a context in which the problem arises and an archetypal solution to the stated problem.
+    This Work Product constitutes the initial set of patterns that form the core of the TGF Pattern Language. This set may be revised and/or extended from time to time as appropriate.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - eGov/Legal

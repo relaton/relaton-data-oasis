@@ -1,0 +1,156 @@
+---
+id: OASISSARIFv210Errata01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0 Plus Errata
+    01.
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/sarif/sarif/v2.1.0/errata01/os/sarif-v2.1.0-errata01-os-complete.html
+docidentifier:
+- content: OASIS SARIF-v2.1.0-Errata01
+  type: OASIS
+  primary: true
+docnumber: SARIF-v2.1.0-Errata01
+date:
+- type: issued
+  at: '2023-08-28'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/sarif/
+    name:
+    - content: OASIS Static Analysis Results Interchange Format (SARIF) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: "OASIS\r\nStatic Analysis Results Interchange Format (SARIF) TC"
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - dmk@dmk.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Keaton
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - lcartey@github.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Luke
+      surname:
+        language: en
+        script: Latn
+        content: Cartey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - mikefan@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: C.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - v-lgold@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Laurence
+      surname:
+        language: en
+        script: Latn
+        content: J.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document defines a standard format for the output of static analysis
+    tools. The format is referred to as the “Static Analysis Results Interchange Format”
+    and is abbreviated as SARIF.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS SARIF-v2.1.0
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Software-Development

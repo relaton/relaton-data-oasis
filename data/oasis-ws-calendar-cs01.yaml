@@ -1,0 +1,148 @@
+---
+id: OASISWSCalendarCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WS-Calendar Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-spec/v1.0/cs01/ws-calendar-spec-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-spec/v1.0/cs01/ws-calendar-spec-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-spec/v1.0/cs01/ws-calendar-spec-v1.0-cs01.doc
+docidentifier:
+- content: OASIS WS-Calendar-CS01
+  type: OASIS
+  primary: true
+docnumber: WS-Calendar-CS01
+date:
+- type: issued
+  at: '2011-07-31'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ws-calendar/
+    name:
+    - content: OASIS Web Services Calendar (WS-Calendar) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Calendar (WS-Calendar) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - douglm@rpi.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mike
+      surname:
+        language: en
+        script: Latn
+        content: Douglass
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.rpi.edu
+        name:
+        - content: Rensselaer Polytechnic Institute
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Describes: .       A semantic (or information) model for exchange of calendar information to coordinate activities .       A means of synchronizing and maintaining calendars
+    The specification includes XML vocabularies for the interoperable and standard exchange of:
+    .       Schedules, including sequences of schedules
+    .       Intervals, including sequences of Intervals
+    .       Other calendar information consistent with the IETF iCalendar standards
+    These vocabularies describe schedules and Intervals future, present, or past (historical).
+    The specification is divided into three parts.
+    1) The information model and XML vocabularies for exchanging schedule information
+    2) RESTful Services for calendar update and synchronization
+    3) Web services for calendar update and synchronization
+    The Technical Committee has decided not to publish Parts 2 and 3 until a later version.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Web-Services

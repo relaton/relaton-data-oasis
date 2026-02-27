@@ -1,0 +1,120 @@
+---
+id: OASISAkomaNtosoCorev10Pt2Specifications
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Akoma Ntoso Version 1.0. Part 2: Specifications'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/akn-core-v1.0-os-part2-specs.html
+docidentifier:
+- content: OASIS AkomaNtosoCore-v1.0-Pt2-Specifications
+  type: OASIS
+  primary: true
+docnumber: AkomaNtosoCore-v1.0-Pt2-Specifications
+date:
+- type: issued
+  at: '2018-08-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/legaldocml/
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS LegalDocumentML (LegalDocML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - fabio@cs.unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Fabio
+      surname:
+        language: en
+        script: Latn
+        content: Vitali
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - monica.palmirani@unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document provides the specifications of Akoma Ntoso XSD and DTD standard,
+    including the graphic representation using Oxygen library.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS AkomaNtosoCore-v1.0
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - eGov/Legal

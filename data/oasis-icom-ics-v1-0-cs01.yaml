@@ -1,0 +1,300 @@
+---
+id: OASISICOMicsv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Integrated Collaboration Object Model (ICOM) for Interoperable Collaboration
+    Services Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/icom/icom-ics/v1.0/cs01/icom-ics-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/icom/icom-ics/v1.0/cs01/icom-ics-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/icom/icom-ics/v1.0/cs01/icom-ics-v1.0-cs01.doc
+docidentifier:
+- content: OASIS ICOM-ics-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ICOM-ics-v1.0-CS01
+date:
+- type: issued
+  at: '2013-01-31'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/icom/
+    name:
+    - content: OASIS Integrated Collaboration Object Model for Interoperable Collaboration
+        Services (ICOM) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Integrated Collaboration Object Model for Interoperable Collaboration
+          Services (ICOM) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - eric.s.chan@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: S.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kenb@ccs.neu.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: P.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.neu.edu/
+        name:
+        - content: Northeastern University
+- role:
+  - type: editor
+  person:
+    email:
+    - eric.s.chan@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: S.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - patrick@durusau.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Patrick
+      surname:
+        language: en
+        script: Latn
+        content: Durusau
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/core/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/core/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/accesscontrol/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/accesscontrol/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/metadata/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/metadata/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/content/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/content/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/document/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/document/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/message/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/message/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/presence/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/presence/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/contact/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/contact/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/calendar/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/calendar/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/task/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/task/201008
+      surname:
+        language: en
+        script: Latn
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/icom/forum/201008"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/icom/forum/201008
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a framework for integrating a broad range of domain models for
+    collaboration activities in an integrated and interoperable collaboration environment.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

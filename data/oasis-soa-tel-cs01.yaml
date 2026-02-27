@@ -1,0 +1,115 @@
+---
+id: OASISsoatelCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Telecom SOA Use Cases and Issues Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/soa-tel/t-soa-uci/v1.0/cs01/t-soa-uc-cs-01.html
+- type: pdf
+  content: http://docs.oasis-open.org/soa-tel/t-soa-uci/v1.0/cs01/t-soa-uc-cs-01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/soa-tel/t-soa-uci/v1.0/cs01/t-soa-uc-cs-01.doc
+docidentifier:
+- content: OASIS soa-tel-CS01
+  type: OASIS
+  primary: true
+docnumber: soa-tel-CS01
+date:
+- type: issued
+  at: '2010-03-09'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/soa-tel/
+    name:
+    - content: OASIS SOA for Telecom (SOA-Tel) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS SOA for Telecom (SOA-Tel) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - giordano@avaya.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mike
+      surname:
+        language: en
+        script: Latn
+        content: Giordano,
+- role:
+  - type: editor
+  person:
+    email:
+    - ''
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Enrico
+      surname:
+        language: en
+        script: Latn
+        content: Ronco,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Not
+      surname:
+        language: en
+        script: Latn
+        content: Applicable
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Collecting potential technical issues and gaps of SOA standards (specified by OASIS and other SDOs) utilized within the context of Telecoms.
+    All perceived technical issues on SOA standards contained in this document are structured with a description of the context, a use case, and a rationalization of the possible gap within the standard.
+    Amongst future deliverables of the SOA-TEL TC there is a Requirements specification, which will aim to extend the current core SOA enabling stack (Web Services and/or REST, etc.) in support of Telecom needs on the basis of the issues identified within the present document.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis

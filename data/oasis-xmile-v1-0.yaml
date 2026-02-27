@@ -1,0 +1,227 @@
+---
+id: OASISxmilev10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XML Interchange Language for System Dynamics (XMILE) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/xmile/xmile/v1.0/os/xmile-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/xmile/xmile/v1.0/os/xmile-v1.0-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/xmile/xmile/v1.0/os/xmile-v1.0-os.doc
+docidentifier:
+- content: OASIS xmile-v1.0
+  type: OASIS
+  primary: true
+docnumber: xmile-v1.0
+date:
+- type: issued
+  at: '2015-12-14'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/xmile/
+    name:
+    - content: OASIS XML Interchange Language (XMILE) for System Dynamics TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS XML Interchange Language (XMILE) for System Dynamics TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kchichakly@iseesystems.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karim
+      surname:
+        language: en
+        script: Latn
+        content: Chichakly
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.iseesystems.com/
+        name:
+        - content: isee systems inc.
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - adler1@us.ibm.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steven
+      surname:
+        language: en
+        script: Latn
+        content: Adler
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
+- role:
+  - type: editor
+  person:
+    email:
+    - kchichakly@iseesystems.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Karim
+      surname:
+        language: en
+        script: Latn
+        content: Chichakly
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.iseesystems.com/
+        name:
+        - content: isee systems inc.
+- role:
+  - type: editor
+  person:
+    email:
+    - garyrbaxter@yahoo.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Baxter
+- role:
+  - type: editor
+  person:
+    email:
+    - bob@astutesd.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Eberlein
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.systemdynamics.org/
+        name:
+        - content: System Dynamics Society, Inc.
+- role:
+  - type: editor
+  person:
+    email:
+    - wglass@forio.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Will
+      surname:
+        language: en
+        script: Latn
+        content: Glass-Husain
+- role:
+  - type: editor
+  person:
+    email:
+    - bobbypowers@gmail.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Powers
+- role:
+  - type: editor
+  person:
+    email:
+    - bschoenberg@iseesystems.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Schoenberg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.iseesystems.com/
+        name:
+        - content: isee systems inc.
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines an open XML protocol for the sharing, interoperability, and reuse
+    of SD models and simulations. This document describes the XMILE language and format
+    anyone who wishes to use SD models or embed them in their applications, such as
+    vendors of SD software, Big Data, cloud, mobile, and social media solutions, as
+    well as end users and consultants in the SD field.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

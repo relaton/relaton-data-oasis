@@ -1,0 +1,127 @@
+---
+id: OASISEMLv70CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Election Markup Language (EML) Specification Version 7.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/election/eml/v7.0/cs01/eml-v7.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/election/eml/v7.0/cs01/eml-v7.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/election/eml/v7.0/cs01/eml-v7.0-cs01.doc
+docidentifier:
+- content: OASIS EML-v7.0-CS01
+  type: OASIS
+  primary: true
+docnumber: EML-v7.0-CS01
+date:
+- type: issued
+  at: '2011-10-28'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/election/
+    name:
+    - content: OASIS Election and Voter Services TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Election and Voter Services TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - johnaborras@yahoo.co.uk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Borras
+- role:
+  - type: editor
+  person:
+    email:
+    - david.webber@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Webber
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: urn:oasis:names:tc:evs:schema:eml
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes the background and purpose of the Election Markup Language, the
+    electoral processes from which it derives its structure and the security and audit
+    mechanisms it is designed to support.  It also provides an explanation of the
+    core schemas used throughout, definitions of the simple and complex datatypes,
+    plus the EML schemas themselves. It also covers the conventions used in the specification
+    and the use of namespaces, as well as guidance on the constraints, extensibility,
+    and splitting of messages.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - Messaging

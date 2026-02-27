@@ -1,0 +1,78 @@
+---
+id: OASISecontractsv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: eContracts Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/legalxml-econtracts/CS01/legalxml-econtracts-specification-1.0.html
+- type: pdf
+  content: http://docs.oasis-open.org/legalxml-econtracts/CS01/legalxml-econtracts-specification-1.0.pdf
+- type: xml
+  content: http://docs.oasis-open.org/legalxml-econtracts/CS01/legalxml-econtracts-specification-1.0.xml
+docidentifier:
+- content: OASIS econtracts-v1.0
+  type: OASIS
+  primary: true
+docnumber: econtracts-v1.0
+date:
+- type: issued
+  at: '2007-04-28'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/legalxml-econtracts/
+    name:
+    - content: OASIS LegalXML eContracts TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS LegalXML eContracts TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes the generic hierarchical structure of a wide range of contract
+    documents. The TC envisages that the primary use of the eContracts Schema will
+    be to facilitate the maintenance of precedent or template contract documents and
+    contract terms by persons who wish to use them to create new contract documents
+    with automated tools. Use cases covered include negotiated business contracts,
+    ticket contracts, standard form business and consumer contracts and click-through
+    agreements.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

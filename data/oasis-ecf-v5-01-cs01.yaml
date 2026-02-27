@@ -1,0 +1,108 @@
+---
+id: OASISECFv501CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic Court Filing Version 5.01
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/legalxml-courtfiling/ecf/v5.01/cs01/ecf-v5.01-cs01.docx
+docidentifier:
+- content: OASIS ECF-v5.01-CS01
+  type: OASIS
+  primary: true
+docnumber: ECF-v5.01-CS01
+date:
+- type: issued
+  at: '2023-09-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legalxml-courtfiling
+    name:
+    - content: OASIS LegalXML Electronic Court Filing TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS LegalXML Electronic Court Filing TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Cabral
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Graham
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Philip
+      surname:
+        language: en
+        script: Latn
+        content: Baughman
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Electronic Court Filing Version 5.01 (ECF v5.01) consists of a set of non-proprietary
+    XML and Web Services specifications developed to promote interoperability among
+    electronic court filing vendors and systems. ECF v5.01 is a minor release that
+    adds new functionality and capabilities beyond the scope of the ECF 5,0, 4.0 and
+    4.01 specifications that it supersedes
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - eGov/Legal

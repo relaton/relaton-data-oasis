@@ -1,0 +1,107 @@
+---
+id: OASISxacmltimeextv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XACML v3.0 Time Extensions Version 1.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/xacml/xacml-3.0-time-extensions/v1.0/cs01/xacml-3.0-time-extensions-v1.0-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/xacml/xacml-3.0-time-extensions/v1.0/cs01/xacml-3.0-time-extensions-v1.0-cs01.pdf
+- type: doc
+  content: https://docs.oasis-open.org/xacml/xacml-3.0-time-extensions/v1.0/cs01/xacml-3.0-time-extensions-v1.0-cs01.docx
+docidentifier:
+- content: OASIS xacml-time-ext-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: xacml-time-ext-v1.0-CS01
+date:
+- type: issued
+  at: '2020-02-13'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/xacml/
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - harold.w.lochhart@gmail.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lochhart
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines XACML functions for comparing time values that are not sensitive
+    to the time zone chosen for those values, defines functions for performing arithmetic
+    on date and time values and defines a data-type for representing the day of the
+    week along with functions to operate on values of the data‑type.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

@@ -1,0 +1,73 @@
+---
+id: OASISUBL21
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Universal Business Language (UBL) v2.1
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html
+- type: pdf
+  content: http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.pdf
+- type: xml
+  content: http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.xml
+docidentifier:
+- content: OASIS UBL-2.1
+  type: OASIS
+  primary: true
+docnumber: UBL-2.1
+date:
+- type: issued
+  at: '2013-11-04'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/ubl/
+    name:
+    - content: OASIS Universal Business Language TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Universal Business Language TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines the Universal Business Language, version 2.1.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - e-Business

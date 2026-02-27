@@ -1,0 +1,75 @@
+---
+id: OASISWv20
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WebCGM v2.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/webcgm/v2.0/OS/webcgm-v2.0-index.html
+- type: pdf
+  content: http://docs.oasis-open.org/webcgm/v2.0/OS/webcgm-v2.0.pdf
+- type: dtd
+  content: http://docs.oasis-open.org/webcgm/v2.0/OS/webcgm20.dtd
+docidentifier:
+- content: OASIS W-v2.0
+  type: OASIS
+  primary: true
+docnumber: W-v2.0
+date:
+- type: issued
+  at: '2007-01-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/cgmo-webcgm/
+    name:
+    - content: OASIS CGM Open WebCGM TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS CGM Open WebCGM TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Computer Graphics Metafile (CGM) is an ISO standard, defined by ISO/IEC 8632:1999, for the interchange of 2D vector and mixed vector/raster graphics. WebCGM is a profile of CGM, which adds Web linking and is optimized for Web applications in technical illustration, electronic documentation, geophysical data visualization, and similar fields. First published (1.0) in 1999 and followed by a second (errata) release in 2001, WebCGM unifies potentially diverse approaches to CGM utilization in Web document applications. It therefore represents a significant interoperability agreement amongst major users and implementers of the ISO CGM standard.
+    WebCGM 2.0 adds a DOM (API) specification for programmatic access to WebCGM objects, and a specification of an XML Companion File (XCF) architecture, for externalization of non-graphical metadata. WebCGM 2.0, in addition, builds upon and extends the graphical and intelligent content of WebCGM 1.0, delivering functionality that was forecast for WebCGM 1.0, but was postponed in order to get the standard and its implementations to users expeditiously.
+    The design criteria for WebCGM aim at a balance between graphical expressive power on the one hand, and simplicity and implementability on the other. A small but powerful set of standardized metadata elements supports the functionalities of hyperlinking and document navigation, picture structuring and layering, and enabling search and query of WebCGM picture content.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

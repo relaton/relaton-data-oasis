@@ -1,0 +1,76 @@
+---
+id: OASISXHEV10CS03
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Exchange Header Envelope (XHE) Version 1.0
+  type: main
+source:
+- type: xml
+  content: https://docs.oasis-open.org/bdxr/xhe/v1.0/cs03/xhe-v1.0-cs03.xml
+- type: src
+  content: https://docs.oasis-open.org/bdxr/xhe/v1.0/cs03/xhe-v1.0-cs03-oasis.html
+- type: pdf
+  content: https://docs.oasis-open.org/bdxr/xhe/v1.0/cs03/xhe-v1.0-cs03-oasis.pdf
+docidentifier:
+- content: OASIS XHE-V1.0-CS03
+  type: OASIS
+  primary: true
+docnumber: XHE-V1.0-CS03
+date:
+- type: issued
+  at: '2020-12-13'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/bdxr/
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Business Document Exchange (BDXR) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a business-oriented artifact either referencing (as a header) or
+    containing (as an envelope) a payload of one or more business documents or other
+    artifacts with supplemental semantic information about the collection of payloads
+    as a whole.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - e-Business

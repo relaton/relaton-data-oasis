@@ -1,0 +1,116 @@
+---
+id: OASISECFWSSIPv41CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic Court Filing Web Services Service Interaction Profile Version
+    4.1
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/legalxml-courtfiling/ecf-webservices/v4.1/cs01/ecf-webservices-v4.1-cs01.docx
+docidentifier:
+- content: OASIS ECF-WS-SIP-v4.1-CS01
+  type: OASIS
+  primary: true
+docnumber: ECF-WS-SIP-v4.1-CS01
+date:
+- type: issued
+  at: '2023-09-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=legalxml-courtfiling
+    name:
+    - content: OASIS LegalXML Electronic Court Filing TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS LegalXML Electronic Court Filing TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - jim.cabral@infotrack.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Cabral
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: https://www.infotrack.com/
+        name:
+        - content: InfoTrack US
+- role:
+  - type: editor
+  person:
+    email:
+    - GGraham@courts.az.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gary
+      surname:
+        language: en
+        script: Latn
+        content: Graham
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.azcourts.gov/
+        name:
+        - content: Arizona Supreme Court
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Electronic Court Filing Web Services Service Interaction Profile defines
+    a Service Interaction Profile, as defined in section 5 of the ECF v4.1 specification.
+    The Web Services Service Interaction Profile may be used to transmit ECF 4.1 messages
+    between Internet-connected systems.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - eGov/Legal

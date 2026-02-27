@@ -1,0 +1,156 @@
+---
+id: OASISamqpwsbv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Advanced Message Queuing Protocol (AMQP) WebSocket Binding (WSB) Version
+    1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/amqp-bindmap/amqp-wsb/v1.0/cs01/amqp-wsb-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/amqp-bindmap/amqp-wsb/v1.0/cs01/amqp-wsb-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/amqp-bindmap/amqp-wsb/v1.0/cs01/amqp-wsb-v1.0-cs01.doc
+docidentifier:
+- content: OASIS amqp-wsb-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: amqp-wsb-v1.0-CS01
+date:
+- type: issued
+  at: '2016-08-16'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/amqp-bindmap/
+    name:
+    - content: OASIS Advanced Message Queuing Protocol (AMQP) Bindings and Mappings
+        (AMQP-BINDMAP) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Advanced Message Queuing Protocol (AMQP) Bindings and Mappings
+          (AMQP-BINDMAP) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - shuston@riverace.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Huston
+- role:
+  - type: editor
+  person:
+    email:
+    - john.fallows@kaazing.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Fallows
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://kaazing.com/
+        name:
+        - content: Kaazing
+- role:
+  - type: editor
+  person:
+    email:
+    - dingham@redhat.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Ingham
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com/
+        name:
+        - content: Red Hat
+- role:
+  - type: editor
+  person:
+    email:
+    - robert.godfrey@jpmorgan.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Godfrey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpmorganchase.com/
+        name:
+        - content: JPMorgan Chase & Co.
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defining a mechanism for tunneling an AMQP connection over a WebSocket
+    transport. It is applicable as an approach for general firewall tunneling and
+    for Web browser messaging scenarios.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Messaging

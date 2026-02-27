@@ -1,0 +1,169 @@
+---
+id: OASISPPSCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Production Planning and Scheduling (PPS) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/pps/pps/v1.0/cs01/pps-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/pps/pps/v1.0/cs01/pps-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/pps/pps/v1.0/cs01/pps-v1.0-cs01.doc
+docidentifier:
+- content: OASIS PPS-CS01
+  type: OASIS
+  primary: true
+docnumber: PPS-CS01
+date:
+- type: issued
+  at: '2011-09-30'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/pps/
+    name:
+    - content: OASIS Production Planning and Scheduling TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Production Planning and Scheduling TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - nishioka@hosei.ac.jp
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yasuyuki
+      surname:
+        language: en
+        script: Latn
+        content: Nishioka
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.pslx.org/
+        name:
+        - content: PSLX Forum
+- role:
+  - type: editor
+  person:
+    email:
+    - nishioka@hosei.ac.jp
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yasuyuki
+      surname:
+        language: en
+        script: Latn
+        content: Nishioka
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.pslx.org/
+        name:
+        - content: PSLX Forum
+- role:
+  - type: editor
+  person:
+    email:
+    - wada@kt.rim.or.jp
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Koichi
+      surname:
+        language: en
+        script: Latn
+        content: Wada
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.pslx.org/
+        name:
+        - content: PSLX Forum
+- role:
+  - type: editor
+  person:
+    email:
+    - "//docs.oasis-open.org/ns/pps/2011"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: http://docs.oasis-open.org/ns/pps/2011
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Deals with problems of decision-making in all manufacturing companies who
+    want to have a sophisticated information system for production planning and scheduling.
+    PPS specification provides XML schema and communication protocols for information
+    exchange among manufacturing application programs in the web-services environment.
+    The Core Elements section focuses on information model of core elements which
+    can be used as ontology in the production planning and scheduling domain. Since
+    the elements have been designed without particular contexts in planning and scheduling,
+    they can be used in any specific type of messages as a building block depending
+    on the context of application programs. The Transaction Messages section focuses
+    on transaction messages that represent domain information sent or received by
+    application programs in accordance with the context of the communication, as well
+    as transaction rules for contexts such as pushing and pulling of the information
+    required. Finally, the Profile Specifications section focuses on profiles of application
+    programs that may exchange the messages. Application profile and implementation
+    profile are defined. Implementation profile shows capability of application programs
+    in terms of services for message exchange, selecting from all exchange items defined
+    in the application profile. The profile can be used for definition of a minimum
+    level of implementation of application programs which are involved in a community
+    of data exchange.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - e-Business

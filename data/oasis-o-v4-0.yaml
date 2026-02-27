@@ -1,0 +1,77 @@
+---
+id: OASISOv40
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OData v4.0
+  type: main
+source:
+- type: doc
+  content: http://docs.oasis-open.org/odata/odata/v4.0/os/part1-protocol/odata-v4.0-os-part1-protocol.doc
+- type: src
+  content: http://docs.oasis-open.org/odata/odata/v4.0/os/part1-protocol/odata-v4.0-os-part1-protocol.html
+- type: pdf
+  content: http://docs.oasis-open.org/odata/odata/v4.0/os/part1-protocol/odata-v4.0-os-part1-protocol.pdf
+docidentifier:
+- content: OASIS O-v4.0
+  type: OASIS
+  primary: true
+docnumber: O-v4.0
+date:
+- type: issued
+  at: '2014-02-24'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Data Protocol (OData) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: OData enables the creation and consumption of REST-based data services
+    which allow resources, identified using Uniform Resource Locators (URLs) and defined
+    in a data model, to be published and edited by Web clients using simple HTTP messages.
+    OData helps create a more open, programmable Web, and simplifies the querying
+    and sharing of data across applications for re-use in the enterprise, cloud, and
+    mobile devices.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Messaging

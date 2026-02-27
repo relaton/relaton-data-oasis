@@ -1,0 +1,72 @@
+---
+id: OASISXCBFv11
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XML Common Biometric Format (XCBF) v1.1 [OASIS 200305]
+  type: main
+source:
+- type: doc
+  content: https://www.oasis-open.org/committees/download.php/3353/oasis-200305-xcbf-specification-1.1.doc
+docidentifier:
+- content: OASIS XCBF-v1.1
+  type: OASIS
+  primary: true
+docnumber: XCBF-v1.1
+date:
+- type: issued
+  at: '2003-09-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/xcbf
+    name:
+    - content: OASIS XML Common Biometric Format TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS XML Common Biometric Format TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a common set of secure XML encodings for the patron formats specified
+    in CBEFF, the Common Biometric Exchange File Format (NISTIR 6529). These XML encodings
+    are based on the ASN.1 schema defined in ANSI X9.84 Biometric Information Management
+    and Security.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity
+  - Security

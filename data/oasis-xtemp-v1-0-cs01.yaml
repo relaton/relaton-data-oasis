@@ -1,0 +1,114 @@
+---
+id: OASISXTempV10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XML Testing and Event-driven Monitoring of Processes (XTemp) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/tamie/xtemp/v1.0/cs01/xtemp-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/tamie/xtemp/v1.0/cs01/xtemp-v1.0-cs01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/tamie/xtemp/v1.0/cs01/xtemp-v1.0-cs01.odt
+docidentifier:
+- content: OASIS XTemp-V1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: XTemp-V1.0-CS01
+date:
+- type: issued
+  at: '2011-12-08'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tamie/
+    name:
+    - content: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Testing and Monitoring Internet Exchanges (TaMIE) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hyunbo.cho@gmail.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hyunbo
+      surname:
+        language: en
+        script: Latn
+        content: Cho
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - jdurand@us.fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jacques
+      surname:
+        language: en
+        script: Latn
+        content: Durand
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: XTemp is an XML mark-up language that is event-centric and intended for
+    the analysis of a sequence of events that represent traces of business processes.
+    It is designed for both log analysis and real-time execution. It leverages XPath
+    and XSLT.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

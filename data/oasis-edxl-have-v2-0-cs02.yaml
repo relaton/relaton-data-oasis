@@ -1,0 +1,165 @@
+---
+id: OASISEDXLHAVEv20CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange
+    (HAVE) Version 2.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/emergency/edxl-have/v2.0/cs02/edxl-have-v2.0-cs02.html
+- type: pdf
+  content: https://docs.oasis-open.org/emergency/edxl-have/v2.0/cs02/edxl-have-v2.0-cs02.pdf
+- type: doc
+  content: https://docs.oasis-open.org/emergency/edxl-have/v2.0/cs02/edxl-have-v2.0-cs02.doc
+docidentifier:
+- content: OASIS EDXL-HAVE-v2.0-CS02
+  type: OASIS
+  primary: true
+docnumber: EDXL-HAVE-v2.0-CS02
+date:
+- type: issued
+  at: '2019-03-18'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/emergency/
+    name:
+    - content: OASIS Emergency Management TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Emergency Management TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - elysajones@yahoo.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Elysa
+      surname:
+        language: en
+        script: Latn
+        content: Jones
+- role:
+  - type: editor
+  person:
+    email:
+    - darrell.odonnell@continuumloop.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Darrell
+      surname:
+        language: en
+        script: Latn
+        content: O’Donnell
+- role:
+  - type: editor
+  person:
+    email:
+    - bwilkins@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Brian
+      surname:
+        language: en
+        script: Latn
+        content: Wilkins
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - rexb@starbourne.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rex
+      surname:
+        language: en
+        script: Latn
+        content: Brooks
+- role:
+  - type: editor
+  person:
+    email:
+    - scott.m.robertson@kp.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: M.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.kp.org/
+        name:
+        - content: Kaiser Permanente
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: An XML messaging standard primarily for exchange of information related
+    to health facilities in the context of emergency management. HAVE supports sharing
+    information about facility services, bed counts, operations, capacities, and resource
+    needs so first responders, emergency managers, coordinating organizations, hospitals,
+    care facilities, and the health community can provide each other with a coherent
+    view of the health system.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Emergency-Management
+  - Messaging

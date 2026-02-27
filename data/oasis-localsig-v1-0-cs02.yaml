@@ -1,0 +1,74 @@
+---
+id: OASISlocalsigv10CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DSS Extension for Local Signature Computation Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/dss-x/localsig/v1.0/cs02/localsig-v1.0-cs02.html
+- type: pdf
+  content: http://docs.oasis-open.org/dss-x/localsig/v1.0/cs02/localsig-v1.0-cs02.pdf
+- type: xml
+  content: http://docs.oasis-open.org/dss-x/localsig/v1.0/cs02/localsig-v1.0-cs02.xml
+docidentifier:
+- content: OASIS localsig-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: localsig-v1.0-CS02
+date:
+- type: issued
+  at: '2017-03-06'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/dss-x/
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The core OASIS Digital Signature Service webservice [DSSCore] supports the creation of signatures on behalf of applications and / or users by utilizing server-based signature keys.
+    This Local Signature Computation profile extends the core functionality such that end users can bring (use) their own (secure) signature-creation device. Examples of such devices are smartcards or usb-tokens but also smartphones, mobile phones, tablets, pc’s or laptops with privately held signature keys.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

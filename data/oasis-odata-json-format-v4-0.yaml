@@ -1,0 +1,194 @@
+---
+id: OASISODataJSONFormatv40
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OData JSON Format v4.0
+  type: main
+docidentifier:
+- content: OASIS OData-JSON-Format-v4.0
+  type: OASIS
+  primary: true
+docnumber: OData-JSON-Format-v4.0
+date:
+- type: issued
+  at: '2014-02-24'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Data Protocol (OData) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - barbara.hartel@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barbara
+      surname:
+        language: en
+        script: Latn
+        content: Hartel
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP AG
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Ram.Jeyaraman@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ram
+      surname:
+        language: en
+        script: Latn
+        content: Jeyaraman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - ralf.handl@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ralf
+      surname:
+        language: en
+        script: Latn
+        content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP AG
+- role:
+  - type: editor
+  person:
+    email:
+    - mikep@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - mark.biamonte@progress.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Biamonte
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.progress.com/
+        name:
+        - content: Progress Software
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: OData enables the creation and consumption of REST-based data services
+    which allow resources, identified using Uniform Resource Locators (URLs) and defined
+    in a data model, to be published and edited by Web clients using simple HTTP messages.
+    This document extends the core specification by defining representations for OData
+    requests and responses using a JSON format.
+relation:
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OData-JSON-Format-v4.0-Pt
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OData-JSON-Format-v4.0-plus-Errata01
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OData-JSON-Format-v4.0-plus-Errata02
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OData-JSON-Format-v4.0-Errata03
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OData-JSON-Format-v4.0-plus-Errata03
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Messaging

@@ -1,0 +1,108 @@
+---
+id: OASISBusinessDocumentNDRv11CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Business Document Naming and Design Rules (BDNDR) Version 1.1
+  type: main
+source:
+- type: xml
+  content: https://docs.oasis-open.org/ubl/Business-Document-NDR/v1.1/cs01/Business-Document-NDR-v1.1-cs01.xml
+- type: src
+  content: https://docs.oasis-open.org/ubl/Business-Document-NDR/v1.1/cs01/Business-Document-NDR-v1.1-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/ubl/Business-Document-NDR/v1.1/cs01/Business-Document-NDR-v1.1-cs01.pdf
+docidentifier:
+- content: OASIS Business-Document-NDR-v1.1-CS01
+  type: OASIS
+  primary: true
+docnumber: Business-Document-NDR-v1.1-CS01
+date:
+- type: issued
+  at: '2021-11-08'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ubl/
+    name:
+    - content: OASIS Universal Business Language (UBL) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Universal Business Language (UBL) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Bengtsson
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Erlend
+      surname:
+        language: en
+        script: Latn
+        content: Klakegg
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: G
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Prescribes a set of naming and design rules used to create complete CCTS
+    models of interoperable business documents.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business

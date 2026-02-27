@@ -1,0 +1,204 @@
+---
+id: OASISBDXsmpv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service Metadata Publishing (SMP) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/os/bdx-smp-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/os/bdx-smp-v1.0-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/os/bdx-smp-v1.0-os.doc
+docidentifier:
+- content: OASIS BDX-smp-v1.0
+  type: OASIS
+  primary: true
+docnumber: BDX-smp-v1.0
+date:
+- type: issued
+  at: '2017-08-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/bdxr/
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Business Document Exchange (BDXR) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kenneth@alfa1lab.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Bengtsson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.alfa1lab.com/
+        name:
+        - content: Alfa1lab
+- role:
+  - type: editor
+  person:
+    email:
+    - jea@difi.no
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jens
+      surname:
+        language: en
+        script: Latn
+        content: Aabol
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.difi.no/
+        name:
+        - content: Difi-Agency for Public Management and eGovernment
+- role:
+  - type: editor
+  person:
+    email:
+    - kenneth@alfa1lab.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Bengtsson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.alfa1lab.com/
+        name:
+        - content: Alfa1lab
+- role:
+  - type: editor
+  person:
+    email:
+    - erlend.klakegg.bergheim@difi.no
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Erlend
+      surname:
+        language: en
+        script: Latn
+        content: Klakegg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.difi.no/
+        name:
+        - content: Difi-Agency for Public Management and eGovernment
+- role:
+  - type: editor
+  person:
+    email:
+    - sander@fieten-it.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sander
+      surname:
+        language: en
+        script: Latn
+        content: Fieten
+- role:
+  - type: editor
+  person:
+    email:
+    - svrra@digst.dk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sven
+      surname:
+        language: en
+        script: Latn
+        content: Rasmussen
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.digst.dk/
+        name:
+        - content: Danish Agency for Digitisation, Ministry of Finance
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes a protocol for publishing service metadata within a 4-corner
+    network. In a 4-corner network, entities are exchanging business documents through
+    intermediary gateway services (sometimes called Access Points). To successfully
+    send a business document in a 4-corner network, an entity must be able to discover
+    critical metadata about the recipient (endpoint) of the business document, such
+    as types of documents the endpoint is capable of receiving and methods of transport
+    supported. The recipient makes this metadata available to other entities in the
+    network through a Service Metadata Publisher service. This specification describes
+    the request/response exchanges between a Service Metadata Publisher and a client
+    wishing to discover endpoint information. A client can either be an end-user business
+    application or a gateway/access point in the 4-corner network. It also defines
+    the request processing that must happen at the client.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business

@@ -1,0 +1,265 @@
+---
+id: OASISeTMFv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic Trial Master File (eTMF) Specification Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/etmf/etmf/v1.0/cs01/etmf-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/etmf/etmf/v1.0/cs01/etmf-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/etmf/etmf/v1.0/cs01/etmf-v1.0-cs01.docx
+docidentifier:
+- content: OASIS eTMF-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: eTMF-v1.0-CS01
+date:
+- type: issued
+  at: '2016-10-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/etmf/
+    name:
+    - content: OASIS Electronic Trial Master File (eTMF) Standard TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Electronic Trial Master File (eTMF) Standard TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - zs@sureclinical.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zack
+      surname:
+        language: en
+        script: Latn
+        content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sureclinical.com/
+        name:
+        - content: SureClinical
+- role:
+  - type: editor
+  person:
+    email:
+    - abadr@carelex.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aliaa
+      surname:
+        language: en
+        script: Latn
+        content: Badr
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.carelex.org/
+        name:
+        - content: CareLex
+- role:
+  - type: editor
+  person:
+    email:
+    - jalpert@carelex.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jennifer
+      surname:
+        language: en
+        script: Latn
+        content: Alpert
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.carelex.org/
+        name:
+        - content: CareLex
+- role:
+  - type: editor
+  person:
+    email:
+    - rich.lustig@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Lustig
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/index.html
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - cms@SterlingBio.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Catherine
+      surname:
+        language: en
+        script: Latn
+        content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sterlingbio.com
+        name:
+        - content: SterlingBio
+- role:
+  - type: editor
+  person:
+    email:
+    - zs@sureclinical.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zack
+      surname:
+        language: en
+        script: Latn
+        content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sureclinical.com/
+        name:
+        - content: SureClinical
+- role:
+  - type: editor
+  person:
+    email:
+    - airat@sureclinical.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Airat
+      surname:
+        language: en
+        script: Latn
+        content: Sadreev,
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sureclinical.com/
+        name:
+        - content: SureClinical
+- role:
+  - type: editor
+  person:
+    email:
+    - troy.jacobson@forteresearch.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Troy
+      surname:
+        language: en
+        script: Latn
+        content: Jacobson,
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://forteresearch.com/
+        name:
+        - content: Forte Research Systems
+- role:
+  - type: editor
+  person:
+    email:
+    - "///C"
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Prabhat
+      surname:
+        language: en
+        script: Latn
+        content: Vatsal
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nextdocs.com/
+        name:
+        - content: Next Docs
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Publishes details of an interoperable content classification system with rules, policies and procedures for how electronic content can be shared and customized for clinical trials.  Machine readable, open standards-based technologies are used in a vendor neutral approach.
+    Instructions on converting the eTMF schema spreadsheet to an OWL RDF/XML ontology are available from IEEE.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

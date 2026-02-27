@@ -1,0 +1,123 @@
+---
+id: OASISSAMLecpv20CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Enhanced Client or Proxy Profile Version 2.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/saml-ecp/v2.0/cs01/saml-ecp-v2.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/saml-ecp/v2.0/cs01/saml-ecp-v2.0-cs01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/saml-ecp/v2.0/cs01/saml-ecp-v2.0-cs01.odt
+docidentifier:
+- content: OASIS SAML-ecp-v2.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-ecp-v2.0-CS01
+date:
+- type: issued
+  at: '2013-08-26'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: OASIS Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Security Services (SAML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ndk@internet2.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nathan
+      surname:
+        language: en
+        script: Latn
+        content: Klingenstein
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.internet2.edu/
+        name:
+        - content: Internet2
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hardjono@mit.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: M.I.T
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: The SAML V2.0 Enhanced Client or Proxy profile is a SSO profile for use
+    with HTTP, and clients with the capability to directly contact a principal’s identity
+    provider(s) without requiring discovery and redirection by the service provider,
+    as in the case of a browser. This specification updates the original profile by
+    adding support for “Holder of Key” subject confirmation [SAML2HOK] and channel
+    bindings [ChanBind].
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

@@ -1,0 +1,134 @@
+---
+id: OASISWSCalendarMinv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WS-Calendar Minimal PIM-Conformant Schema Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-min/v1.0/cs01/ws-calendar-min-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-min/v1.0/cs01/ws-calendar-min-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/ws-calendar/ws-calendar-min/v1.0/cs01/ws-calendar-min-v1.0-cs01.docx
+docidentifier:
+- content: OASIS WS-Calendar-Min-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: WS-Calendar-Min-v1.0-CS01
+date:
+- type: issued
+  at: '2016-09-26'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ws-calendar/
+    name:
+    - content: OASIS Web Services Calendar (WS-Calendar) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Calendar (WS-Calendar) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina
+- role:
+  - type: editor
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina
+- role:
+  - type: editor
+  person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: T.
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The WS-Calendar MIN is a WS-Calendar conformant schema optimized for use in machine-to-machine (M2M) schedule negotiations.
+    iCalendar (RFC5545) and its peer specification XCAL (also in WS-Calendar 1.0) is a well-known and long used means to convey schedule-related information. iCalendar makes extensive use of extension and recursion. The WS-Calendar Platform Independent Model (PIM) constrains iCalendar and defines a simpler information model which shares iCalendar semantics and can be used to create as the common basis for any number of Platform Specific Models (PSMs).
+    Because an information model is abstract, it can apply to many transmission and serialization schemas. The PIM itself does not include a transmission and serialization schemas. Through transitive conformance such PSMs themselves conform to WS-Calendar.
+    The Minimal PIM-Conformant (MIN) schema defines an XML Schema that conforms with the PIM. MIN can be used by itself or as a seed-schema for other specifications.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Web-Services

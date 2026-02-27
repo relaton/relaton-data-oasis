@@ -1,0 +1,71 @@
+---
+id: OASISWSRv11
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WS-Reliability v1.1
+  type: main
+source:
+- type: pdf
+  content: http://docs.oasis-open.org/wsrm/ws-reliability/v1.1/wsrm-ws_reliability-1.1-spec-os.pdf
+docidentifier:
+- content: OASIS WS-R-v1.1
+  type: OASIS
+  primary: true
+docnumber: WS-R-v1.1
+date:
+- type: issued
+  at: '2004-11-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/wsrm/
+    name:
+    - content: OASIS Web Services Reliable Messaging TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Reliable Messaging TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Web Services Reliability (WS-Reliability) is a SOAP-based protocol for
+    exchanging SOAP messages with guaranteed delivery, no duplicates, and guaranteed
+    message ordering. WS-Reliability is defined as SOAP header extensions and is independent
+    of the underlying protocol. This specification contains a binding to HTTP.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

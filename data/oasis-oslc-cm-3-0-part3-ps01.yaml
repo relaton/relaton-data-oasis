@@ -1,0 +1,47 @@
+---
+id: OASISOSLCCM30Part3PS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Change Management Version 3.0. Part 3: Constraints'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/cm/v3.0/ps01/change-mgt-shapes.html
+docidentifier:
+- content: OASIS OSLC-CM-3.0-Part3-PS01
+  type: OASIS
+  primary: true
+docnumber: OSLC-CM-3.0-Part3-PS01
+date:
+- type: issued
+  at: '2020-09-17'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-CM-3.0-PS01
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

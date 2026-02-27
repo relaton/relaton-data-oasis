@@ -1,0 +1,76 @@
+---
+id: OASISSAMLassurprofv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Identity Assurance Profiles Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-assurance-profile-cs-01.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-assurance-profile-cs-01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-assurance-profile-cs-01.odt
+docidentifier:
+- content: OASIS SAML-assur-prof-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-assur-prof-v1.0-CS01
+date:
+- type: issued
+  at: '2010-11-05'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: OASIS Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Security Services (SAML) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies methods of representing assurance information in two different
+    aspects of SAML. It provides guidelines for the use of SAML’s Authentication Context
+    [SAMLAC] mechanisms to express authentication assurance information within authentication
+    requests and assertions. Separately, it defines an attribute suitable for inclusion
+    in SAML Metadata [SAMLMeta] for enumerating an Identity Provider’s assurance certifications.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

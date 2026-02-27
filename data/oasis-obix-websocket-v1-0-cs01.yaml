@@ -1,0 +1,119 @@
+---
+id: OASISOBIXWebSocketv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Bindings for OBIX: WebSocket Bindings Version 1.0'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/obix/obix-websocket/v1.0/cs01/obix-websocket-v1.0-cs01.doc
+docidentifier:
+- content: OASIS OBIX-WebSocket-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: OBIX-WebSocket-v1.0-CS01
+date:
+- type: issued
+  at: '2015-09-14'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/obix/
+    name:
+    - content: OASIS Open Building Information Exchange (oBIX) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Building Information Exchange (oBIX) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - matthias.hub@de.ibm.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthias
+      surname:
+        language: en
+        script: Latn
+        content: Hub
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: OBIX provides the core information model and interaction pattern for communication
+    with building control systems. Specific implementations of OBIX must choose how
+    to bind OBIX interactions. This document specifies WebSocket binding for OBIX.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Energy
+  - IoT

@@ -1,0 +1,142 @@
+---
+id: OASISRepeatableRequestsv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Repeatable Requests Version 1.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/odata/repeatable-requests/v1.0/cs01/repeatable-requests-v1.0-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/odata/repeatable-requests/v1.0/cs01/repeatable-requests-v1.0-cs01.pdf
+- type: doc
+  content: https://docs.oasis-open.org/odata/repeatable-requests/v1.0/cs01/repeatable-requests-v1.0-cs01.docx
+docidentifier:
+- content: OASIS RepeatableRequests-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: RepeatableRequests-v1.0-CS01
+date:
+- type: issued
+  at: '2020-07-07'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Data Protocol (OData) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ralf.handl@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ralf
+      surname:
+        language: en
+        script: Latn
+        content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - mikep@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mike
+      surname:
+        language: en
+        script: Latn
+        content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - evan.ireland@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Evan
+      surname:
+        language: en
+        script: Latn
+        content: Ireland
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes a method to provide the ability to retry unsafe (i.e. POST, PUT,
+    PATCH, DELETE) requests without incurring unintended side-effects. This specification
+    can be applied to any HTTP based protocol.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Cloud
+  - Messaging

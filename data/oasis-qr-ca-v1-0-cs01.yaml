@@ -1,0 +1,86 @@
+---
+id: OASISQRCAv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Secure QR Code Authentication Version 1.0
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.docx
+- type: src
+  content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/esat/sqrap/v1.0/cs01/sqrap-v1.0-cs01.pdf
+docidentifier:
+- content: OASIS QR-CA-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: QR-CA-v1.0-CS01
+date:
+- type: issued
+  at: '2022-07-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=esat
+    name:
+    - content: Electronic Secure Authentication (ESAT) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Electronic Secure Authentication (ESAT) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Sheppard
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes the use of QR Codes and a mobile phone as a replacement for a
+    username and password
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity
+  - Security

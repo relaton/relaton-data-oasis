@@ -1,0 +1,125 @@
+---
+id: OASISSAML2KrbSSOCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Kerberos Web Browser SSO Profile Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/saml-kerberos-browser-sso/v1.0/cs01/saml-kerberos-browser-sso-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/saml-kerberos-browser-sso/v1.0/cs01/saml-kerberos-browser-sso-v1.0-cs01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/saml-kerberos-browser-sso/v1.0/cs01/saml-kerberos-browser-sso-v1.0-cs01.odt
+docidentifier:
+- content: OASIS SAML2KrbSSO-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2KrbSSO-CS01
+date:
+- type: issued
+  at: '2012-02-07'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Security Services (SAML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hardjono@mit.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: M.I.T.
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ndk@internet2.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nathan
+      surname:
+        language: en
+        script: Latn
+        content: Klingenstein
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.internet2.edu/
+        name:
+        - content: Internet2
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Allows for transport of assertions using the Kerberos subject confirmation
+    method by standard HTTP user agents with no modification of client software and
+    maximum compatibility with existing deployments.  The flow is similar to standard
+    Web Browser SSO, but a Kerberos AP-REQ message is presented by the user agent
+    via the HTTP Negotiate authentication scheme and the Kerberos GSS-API mechanism.
+    The presentation of a valid Kerberos AP-REQ message whose client principal name
+    matches the principal name given in the subject confirmation strengthens the assurance
+    of the resulting authentication context and protects against credential theft.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

@@ -1,0 +1,76 @@
+---
+id: OASISUnstructuredOperationMarkupLanguagev10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: UOML (Unstructured Operation Markup Language) Part 1 v1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/uoml-x/v1.0/os/uoml-part1-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/uoml-x/v1.0/os/uoml-part1-v1.0-os.pdf
+- type: odt
+  content: http://docs.oasis-open.org/uoml-x/v1.0/os/uoml-part1-v1.0-os.odt
+docidentifier:
+- content: OASIS Unstructured-Operation-Markup-Language-v1.0
+  type: OASIS
+  primary: true
+docnumber: Unstructured-Operation-Markup-Language-v1.0
+date:
+- type: issued
+  at: '2008-10-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/uoml-x
+    name:
+    - content: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended
+        (UOML-X) TC"
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended
+          (UOML-X) TC"
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a markup language for unstructured document operation, including
+    the definitions of abstract document model and document operating instructions
+    to the abstract document model.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

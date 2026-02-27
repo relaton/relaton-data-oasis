@@ -1,0 +1,146 @@
+---
+id: OASISEnergyInteropv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Energy Interoperation Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/energyinterop/ei/v1.0/os/energyinterop-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/energyinterop/ei/v1.0/os/energyinterop-v1.0-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/energyinterop/ei/v1.0/os/energyinterop-v1.0-os.doc
+docidentifier:
+- content: OASIS EnergyInterop-v1.0
+  type: OASIS
+  primary: true
+docnumber: EnergyInterop-v1.0
+date:
+- type: issued
+  at: '2014-06-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/energyinterop
+    name:
+    - content: OASIS Energy Interoperation TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Energy Interoperation TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - david.holmberg@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Holmberg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: T.
+- role:
+  - type: editor
+  person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Describes an information model and a communication model to enable collaborative and transactive use of energy, service definitions consistent with the OASIS SOA Reference Model [SOA-RM], and XML vocabularies for the interoperable and standard exchange of:
+    ·         Dynamic price signals
+    ·         Reliability signals
+    ·         Emergency signals
+    ·         Communication of market participation information such as bids
+    ·         Load predictability and generation information
+    This work facilitates enterprise interaction with energy markets, which:
+    ·         Allows effective response to emergency and reliability events
+    ·         Allows taking advantage of lower energy costs by deferring or accelerating usage
+    ·         Enables trading of curtailment and generation
+    ·         Supports symmetry of interaction between providers and consumers of energy
+    ·         Provides for aggregation of provision, curtailment, and use
+    The definition of a price and of reliability information depends on the market context in which it exists. It is not in scope for this TC to define specifications for markets or for pricing models, but the TC has coordinated with others to ensure that commonly used market and pricing models are supported.
+    While this specification uses Web Services to describe the services, no requirement or expectation of specific messaging implementation is assumed.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Energy

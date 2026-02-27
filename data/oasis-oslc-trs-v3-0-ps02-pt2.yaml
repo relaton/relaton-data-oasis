@@ -1,0 +1,47 @@
+---
+id: OASISOSLCTRSv30PS02Pt2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Tracked Resource Set Version 3.0. Part 2: Vocabulary'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/trs/v3.0/ps02/tracked-resource-set-vocab.html
+docidentifier:
+- content: OASIS OSLC-TRS-v3.0-PS02-Pt2
+  type: OASIS
+  primary: true
+docnumber: OSLC-TRS-v3.0-PS02-Pt2
+date:
+- type: issued
+  at: '2022-11-24'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-TRS-v3.0-PS02
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

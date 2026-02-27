@@ -1,0 +1,74 @@
+---
+id: OASISIPCv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XACML Intellectual Property Control (IPC) Profile Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/xacml/3.0/ipc/v1.0/os/xacml-3.0-ipc-v1.0-os-en.html
+- type: pdf
+  content: http://docs.oasis-open.org/xacml/3.0/ipc/v1.0/os/xacml-3.0-ipc-v1.0-os-en.pdf
+- type: doc
+  content: http://docs.oasis-open.org/xacml/3.0/ipc/v1.0/os/xacml-3.0-ipc-v1.0-os-en.doc
+docidentifier:
+- content: OASIS IPC-v1.0
+  type: OASIS
+  primary: true
+docnumber: IPC-v1.0
+date:
+- type: issued
+  at: '2015-01-19'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/xacml/
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a profile for the use of XACML in expressing policies for intellectual
+    property control (IPC). It defines standard attribute identifiers useful in such
+    policies, and recommends attribute value ranges for certain attributes.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Security

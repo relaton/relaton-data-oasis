@@ -1,0 +1,119 @@
+---
+id: OASISSAML2CNPV10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Change Notify Protocol Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-notify-protocol/v1.0/cs01/sstc-saml2-notify-protocol-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-notify-protocol/v1.0/cs01/sstc-saml2-notify-protocol-v1.0-cs01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-notify-protocol/v1.0/cs01/sstc-saml2-notify-protocol-v1.0-cs01.odt
+docidentifier:
+- content: OASIS SAML2CNP-V1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML2CNP-V1.0-CS01
+date:
+- type: issued
+  at: '2011-09-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: OASIS Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Security Services (SAML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hardjono@mit.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: M.I.T.
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ndk@internet2.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nathan
+      surname:
+        language: en
+        script: Latn
+        content: Klingenstein
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.internet2.edu/
+        name:
+        - content: Internet2
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes request and response messages for informing SAML endpoints about
+    available changes to subjects and attributes associated with subjects.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

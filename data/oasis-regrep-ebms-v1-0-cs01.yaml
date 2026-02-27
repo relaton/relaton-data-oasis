@@ -1,0 +1,96 @@
+---
+id: OASISRegRepebMSv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ebXML Messaging Protocol Binding for RegRep Version 1.0
+  type: main
+source:
+- type: odt
+  content: https://docs.oasis-open.org/ebcore/ebrr-ebms/v1.0/cs01/ebrr-ebms-v1.0-cs01.odt
+docidentifier:
+- content: OASIS RegRep-ebMS-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: RegRep-ebMS-v1.0-CS01
+date:
+- type: issued
+  at: '2021-03-09'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ebcore/
+    name:
+    - content: OASIS ebXML Core (ebCore) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS ebXML Core (ebCore) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nikola
+      surname:
+        language: en
+        script: Latn
+        content: Stojanovic
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Pim
+      surname:
+        language: en
+        script: Latn
+        content: van
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies a messaging protocol binding for the Registry Services of the
+    OASIS ebXML RegRep Version 4.0 OASIS Standard. This binding is compatible with
+    both the versions 2.0 and 3.0 of ebMS as well as the AS4 profile and complements
+    the existing protocol bindings specified in OASIS RegRep Version 4.0.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - Messaging

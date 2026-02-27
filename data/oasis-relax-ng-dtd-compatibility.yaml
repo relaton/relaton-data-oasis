@@ -1,0 +1,70 @@
+---
+id: OASISrelaxngdtdcompatibility
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RELAX NG DTD Compatibility
+  type: main
+source:
+- type: src
+  content: https://www.oasis-open.org/committees/relax-ng/compatibility-20011203.html
+docidentifier:
+- content: OASIS relax-ng-dtd-compatibility
+  type: OASIS
+  primary: true
+docnumber: relax-ng-dtd-compatibility
+date:
+- type: issued
+  at: '2001-11-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/relax-ng/
+    name:
+    - content: OASIS RELAX NG TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS RELAX NG TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines datatypes and annotations for use in [RELAX NG] schemas. The purpose
+    of these datatypes and annotations is to support some of the features of XML 1.0
+    DTDs that are not supported directly by RELAX NG.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

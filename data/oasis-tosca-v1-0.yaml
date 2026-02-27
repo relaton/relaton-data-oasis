@@ -1,0 +1,77 @@
+---
+id: OASISTOSCAv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topology and Orchestration Specification for Cloud Applications Version
+    1.0
+  type: main
+source:
+- type: doc
+  content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.doc
+- type: src
+  content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.pdf
+docidentifier:
+- content: OASIS TOSCA-v1.0
+  type: OASIS
+  primary: true
+docnumber: TOSCA-v1.0
+date:
+- type: issued
+  at: '2013-11-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/tosca/
+    name:
+    - content: Topology and Orchestration Specification for Cloud Applications (TOSCA)
+        TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Topology and Orchestration Specification for Cloud Applications (TOSCA)
+          TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Enable interoperable deployment of cloud services and their management
+    throughout the complete lifecycle (e.g. scaling, patching, monitoring, etc.) when
+    the applications are ported over alternative cloud environments.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Cloud

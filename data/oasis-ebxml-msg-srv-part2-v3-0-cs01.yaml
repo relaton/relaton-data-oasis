@@ -1,0 +1,76 @@
+---
+id: OASISebxmlmsgsrvpart2v30CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OASIS ebXML Messaging Services Version 3.0: Part 2, Advanced Features'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/part2/201004/cs01/ebms-v3.0-part2-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/part2/201004/cs01/ebms-v3.0-part2-cs01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/part2/201004/cs01/ebms-v3.0-part2-cs01.odt
+docidentifier:
+- content: OASIS ebxml-msg-srv-part2-v3.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ebxml-msg-srv-part2-v3.0-CS01
+date:
+- type: issued
+  at: '2011-05-20'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ebxml-msg/
+    name:
+    - content: OASIS ebXML Messaging Services TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS ebXML Messaging Services TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Complements the ebMS 3.0 Core Specification by specifying advanced messaging
+    functionality for message service configuration, message bundling, messaging across
+    intermediaries (multi-hop) and transfer of (compressed) messages as series of
+    smaller message fragments.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - Messaging

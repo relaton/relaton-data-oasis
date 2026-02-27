@@ -1,0 +1,205 @@
+---
+id: OASISCOELCOELv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Classification of Everyday Living Version 1.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/coel/COEL/v1.0/os/COEL-v1.0-os.html
+- type: pdf
+  content: https://docs.oasis-open.org/coel/COEL/v1.0/os/COEL-v1.0-os.pdf
+- type: doc
+  content: https://docs.oasis-open.org/coel/COEL/v1.0/os/COEL-v1.0-os.docx
+docidentifier:
+- content: OASIS COEL-COEL-v1.0
+  type: OASIS
+  primary: true
+docnumber: COEL-COEL-v1.0
+date:
+- type: issued
+  at: '2019-01-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/coel/
+    name:
+    - content: OASIS Classification of Everyday Living (COEL) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Classification of Everyday Living (COEL) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - joss@activinsights.co.uk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joss
+      surname:
+        language: en
+        script: Latn
+        content: Langford
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.activinsights.com/
+        name:
+        - content: Activinsights Ltd
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - David.Snelling@UK.Fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Snelling
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
+- role:
+  - type: editor
+  person:
+    email:
+    - Paul.Bruton@tessella.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Bruton
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://tessella.com/
+        name:
+        - content: Tessella Ltd.
+- role:
+  - type: editor
+  person:
+    email:
+    - joss@activinsights.co.uk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joss
+      surname:
+        language: en
+        script: Latn
+        content: Langford
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.activinsights.com/
+        name:
+        - content: Activinsights Ltd
+- role:
+  - type: editor
+  person:
+    email:
+    - matt@coelition.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Reed
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.coelition.org/
+        name:
+        - content: Coelition
+- role:
+  - type: editor
+  person:
+    email:
+    - Dave.Snelling@UK.Fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Snelling
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines the Classification of Everyday Living (COEL) version 1.0 specification
+    for the complete implementation of a compliant system. Examples and non-normative
+    material are also offered as guidance.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - IoT

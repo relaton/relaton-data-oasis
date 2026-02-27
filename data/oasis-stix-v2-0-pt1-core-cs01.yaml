@@ -1,0 +1,160 @@
+---
+id: OASISSTIXv20Pt1CoreCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'STIX(TM) Version 2.0. Part 1: STIX Core Concepts'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/cti/stix/v2.0/cs01/part1-stix-core/stix-v2.0-cs01-part1-stix-core.html
+docidentifier:
+- content: OASIS STIX-v2.0-Pt1-Core-CS01
+  type: OASIS
+  primary: true
+docnumber: STIX-v2.0-Pt1-Core-CS01
+date:
+- type: issued
+  at: '2017-07-19'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/cti/
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Richard.Struse@HQ.DHS.GOV
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Struse
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.dhs.gov/office-cybersecurity-and-communications
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
+- role:
+  - type: editor
+  person:
+    email:
+    - bret_jordan@symantec.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bret
+      surname:
+        language: en
+        script: Latn
+        content: Jordan
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.symantec.com/
+        name:
+        - content: Symantec Corp.
+- role:
+  - type: editor
+  person:
+    email:
+    - rpiazza@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Piazza
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - jwunder@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Wunder
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Structured Threat Information Expression (STIX™) is a language for expressing
+    cyber threat and observable information. This document defines concepts that apply
+    across all of STIX and defines the overall structure of the STIX language.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS STIX-v2.0-CS01
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Cybersecurity

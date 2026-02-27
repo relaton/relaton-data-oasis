@@ -1,0 +1,161 @@
+---
+id: OASISAS4Profile
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AS4 Profile of ebMS 3.0 v1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/AS4-profile-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/AS4-profile-v1.0-os.pdf
+- type: odt
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/AS4-profile-v1.0-os.odt
+- type: src
+  content: http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/os/examples/
+docidentifier:
+- content: OASIS AS4-Profile
+  type: OASIS
+  primary: true
+docnumber: AS4-Profile
+date:
+- type: issued
+  at: '2013-01-24'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/ebxml-msg/
+    name:
+    - content: OASIS ebXML Messaging Services TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS ebXML Messaging Services TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - marao@cisco.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Makesh
+      surname:
+        language: en
+        script: Latn
+        content: Rao
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cisco.com/
+        name:
+        - content: Cisco Systems, Inc.
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - sander@fieten-it.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sander
+      surname:
+        language: en
+        script: Latn
+        content: Fieten
+- role:
+  - type: editor
+  person:
+    email:
+    - jdurand@us.fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jacques
+      surname:
+        language: en
+        script: Latn
+        content: Durand
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://us.fujitsu.com/
+        name:
+        - content: Fujitsu America Inc.
+- role:
+  - type: editor
+  person:
+    email:
+    - pvde@sonnenglanz.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Pim
+      surname:
+        language: en
+        script: Latn
+        content: van
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sonnenglanz.net/
+        name:
+        - content: Sonnenglanz Consulting
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: The OASIS ebMS 3.0 Standard combined multiple Web Service standards to
+    create a single comprehensive specification for defining the secure and reliable
+    exchange of documents using Web Services. The AS4 profile of the ebMS 3.0 specification
+    was developed in order to bring continuity to the principles and simplicity that
+    made AS2 successful, while adding better compliance to Web Services standards,
+    and features such as message pulling capability and a built-in Receipt mechanism.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - Messaging

@@ -1,0 +1,75 @@
+---
+id: OASISWSSCv13
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WS-SecureConversation v1.3
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/200512/ws-secureconversation-1.3-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/200512/ws-secureconversation-1.3-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/200512/ws-secureconversation-1.3-os.doc
+- type: xsd
+  content: http://docs.oasis-open.org/ws-sx/ws-secureconversation/200512/ws-secureconversation-1.3.xsd
+docidentifier:
+- content: OASIS WS-SC-v1.3
+  type: OASIS
+  primary: true
+docnumber: WS-SC-v1.3
+date:
+- type: issued
+  at: '2007-03-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/ws-sx/
+    name:
+    - content: OASIS Web Services Secure Exchange (WS-SX) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Secure Exchange (WS-SX) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines extensions that build on [WS-Security] to provide a framework for
+    requesting and issuing security tokens, and to broker trust relationships.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

@@ -1,0 +1,80 @@
+---
+id: OASISWSBAv12
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WS-BusinessActivity v1.2
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os/wstx-wsba-1.2-spec-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os.doc
+- type: src
+  content: http://docs.oasis-open.org/ws-tx/wsba/2006/06
+docidentifier:
+- content: OASIS WS-BA-v1.2
+  type: OASIS
+  primary: true
+docnumber: WS-BA-v1.2
+date:
+- type: issued
+  at: '2009-02-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/ws-tx/
+    name:
+    - content: OASIS Web Services Transaction (WS-TX) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Transaction (WS-TX) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Provides the definition of two Business Activity coordination types: AtomicOutcome
+    or MixedOutcome, that are to be used with the extensible coordination framework
+    described in the WS-Coordination specification. This specification also defines
+    two specific Business Activity agreement coordination protocols for the Business
+    Activity coordination types: BusinessAgreementWithParticipantCompletion, and BusinessAgreementWithCoordinatorCompletion.
+    Developers can use these protocols when building applications that require consistent
+    agreement on the outcome of long-running distributed activities.'
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

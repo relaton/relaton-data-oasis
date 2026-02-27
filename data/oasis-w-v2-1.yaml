@@ -1,0 +1,72 @@
+---
+id: OASISWv21
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WebCGM v2.1
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/webcgm/v2.1/os/webcgm-v2.1-index.html
+docidentifier:
+- content: OASIS W-v2.1
+  type: OASIS
+  primary: true
+docnumber: W-v2.1
+date:
+- type: issued
+  at: '2010-03-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/cgmo-webcgm
+    name:
+    - content: OASIS CGM Open WebCGM TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS CGM Open WebCGM TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describing a profile of Computer Graphics Metafile (CGM), ISO/IEC 8632:1999.
+    WebCGM adds Web linking and is optimized for Web applications in technical illustration,
+    electronic documentation, geophysical data visualization, and similar fields.
+    It represents a significant interoperability agreement amongst major users and
+    implementers of the ISO CGM standard.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

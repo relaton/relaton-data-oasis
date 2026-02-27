@@ -1,0 +1,80 @@
+---
+id: OASIScontextvalueassocv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Context/value association using genericode 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/codelist/cs01-ContextValueAssociation-1.0/doc/context-value-association.html
+- type: pdf
+  content: http://docs.oasis-open.org/codelist/cs01-ContextValueAssociation-1.0/doc/context-value-association.pdf
+- type: xml
+  content: http://docs.oasis-open.org/codelist/cs01-ContextValueAssociation-1.0/doc/context-value-association.xml
+docidentifier:
+- content: OASIS context-value-assoc-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: context-value-assoc-v1.0-CS01
+date:
+- type: issued
+  at: '2010-04-15'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/codelist/
+    name:
+    - content: OASIS Code List Representation Technical Committee
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Code List Representation Technical Committee
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes the file format used in a “context/value association” file (termed
+    in short as “a CVA file”). This file format is an XML vocabulary using address
+    expressions to specify hierarchical document contexts and their associated constraints.
+    A document context specifies one or more locations found in an XML document or
+    other similarly structured hierarchy of information. A constraint is expressed
+    as either an explicit expression evaluation or as a value inclusion in one or
+    more controlled vocabularies of values. This file format specification assumes
+    a controlled vocabulary of values is expressed in an external resource described
+    by the OASIS genericode standard.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

@@ -1,0 +1,47 @@
+---
+id: OASISOSLCDialogs30PS01Pt4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Core Version 3.0. Part 4: Delegated Dialogs'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/core/v3.0/ps01/dialogs.html
+docidentifier:
+- content: OASIS OSLC-Dialogs-3.0-PS01-Pt4
+  type: OASIS
+  primary: true
+docnumber: OSLC-Dialogs-3.0-PS01-Pt4
+date:
+- type: issued
+  at: '2020-09-17'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-PS01
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

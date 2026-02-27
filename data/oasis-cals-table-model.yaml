@@ -1,0 +1,93 @@
+---
+id: OASIScalstablemodel
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CALS Table Model DTD
+  type: main
+source:
+- type: src
+  content: https://web.archive.org/web/20011109091732/http://www.oasis-open.org/specs/tm9502.html
+- type: xml
+  content: https://www.oasis-open.org/specs/tm9502.xml
+docidentifier:
+- content: OASIS cals-table-model
+  type: OASIS
+  primary: true
+docnumber: cals-table-model
+date:
+- type: issued
+  at: '1995-10-19'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+    name:
+    - content: Tables Technical Committee
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Tables Technical Committee
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Harvey
+      surname:
+        language: en
+        script: Latn
+        content: Bingham
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Norman
+      surname:
+        language: en
+        script: Latn
+        content: Walsh
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommended updates to the CALS table model DTD model
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: memorandum
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

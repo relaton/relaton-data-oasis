@@ -1,0 +1,97 @@
+---
+id: OASISBDXLocationv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Business Document Metadata Service Location Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/bdxr/BDX-Location/v1.0/os/BDX-Location-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/bdxr/BDX-Location/v1.0/os/BDX-Location-v1.0-os.pdf
+- type: odt
+  content: http://docs.oasis-open.org/bdxr/BDX-Location/v1.0/os/BDX-Location-v1.0-os.odt
+docidentifier:
+- content: OASIS BDX-Location-v1.0
+  type: OASIS
+  primary: true
+docnumber: BDX-Location-v1.0
+date:
+- type: issued
+  at: '2017-08-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/bdxr/
+    name:
+    - content: OASIS Business Document Exchange (BDXR) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Business Document Exchange (BDXR) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kenneth@alfa1lab.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Bengtsson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://alfa1lab.com/
+        name:
+        - content: Alfa1lab
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines service discovery method values for use in DNS Resource Record
+    service fields. The methods defined are instances of the generic pattern defined
+    within IETF RFCs for Dynamic Delegation Discovery Services (DDDS).
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business

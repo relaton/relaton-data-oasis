@@ -1,0 +1,103 @@
+---
+id: OASISDocBook50Errata01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The DocBook Schema Version 5.0 Errata 01
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/docbook/specs/docbook-5.0-spec-errata01-os.html
+docidentifier:
+- content: OASIS DocBook-5.0-Errata01
+  type: OASIS
+  primary: true
+docnumber: DocBook-5.0-Errata01
+date:
+- type: issued
+  at: '2018-03-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/docbook/
+    name:
+    - content: OASIS DocBook TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS DocBook TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bobs@sagehill.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Stayton
+- role:
+  - type: editor
+  person:
+    email:
+    - bobs@sagehill.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Stayton
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document lists errata for the OASIS Standard The DocBook Schema Version
+    5.0.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS DocBook-5.0
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

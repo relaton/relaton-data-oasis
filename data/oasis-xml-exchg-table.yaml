@@ -1,0 +1,83 @@
+---
+id: OASISxmlexchgtable
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XML Exchange Table Model Document Type Definition
+  type: main
+source:
+- type: src
+  content: https://www.oasis-open.org/specs/tm9901.html
+- type: xml
+  content: https://www.oasis-open.org/specs/tm9901.xml
+docidentifier:
+- content: OASIS xml-exchg-table
+  type: OASIS
+  primary: true
+docnumber: xml-exchg-table
+date:
+- type: issued
+  at: '1999-09-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+    name:
+    - content: Tables Technical Committee
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Tables Technical Committee
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Norman
+      surname:
+        language: en
+        script: Latn
+        content: Walsh
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: An XML expression of the Exchange subset of the full CALS table model DTD,
+    providing high probability that tagged tables will interoperate across majority
+    of products
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: memorandum
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

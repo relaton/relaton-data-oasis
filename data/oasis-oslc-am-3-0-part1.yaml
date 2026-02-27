@@ -1,0 +1,47 @@
+---
+id: OASISOSLCAM30Part1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Architecture Management Version 3.0. Part 1: Specification'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/am/v3.0/os/architecture-management-spec.html
+docidentifier:
+- content: OASIS OSLC-AM-3.0-Part1
+  type: OASIS
+  primary: true
+docnumber: OSLC-AM-3.0-Part1
+date:
+- type: issued
+  at: '2022-07-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-AM-3.0
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Software-Development

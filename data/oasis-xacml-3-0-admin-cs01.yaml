@@ -1,0 +1,130 @@
+---
+id: OASISXACML30AdminCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XACML v3.0 Administration and Delegation Profile Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-administration-v1-spec-cs-01-en.html
+- type: pdf
+  content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-administration-v1-spec-cs-01-en.pdf
+- type: doc
+  content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-administration-v1-spec-cs-01-en.doc
+docidentifier:
+- content: OASIS XACML-3.0-Admin-CS01
+  type: OASIS
+  primary: true
+docnumber: XACML-3.0-Admin-CS01
+date:
+- type: issued
+  at: '2010-08-10'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/xacml/
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart,
+- role:
+  - type: editor
+  person:
+    email:
+    - erik@axiomatics.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Erik
+      surname:
+        language: en
+        script: Latn
+        content: Rissanen,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: None
+      surname:
+        language: en
+        script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes a profile for XACML 3.0 to enable it to express administration
+    and delegation policies.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

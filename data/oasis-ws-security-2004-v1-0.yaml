@@ -1,0 +1,69 @@
+---
+id: OASISWSSecurity2004v10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Web Services Security v1.0 (WS-Security 2004) [OASIS 200401]
+  type: main
+source:
+- type: pdf
+  content: http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0.pdf
+docidentifier:
+- content: OASIS WS-Security-2004-v1.0
+  type: OASIS
+  primary: true
+docnumber: WS-Security-2004-v1.0
+date:
+- type: issued
+  at: '2004-04-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/wss
+    name:
+    - content: OASIS Web Services Security TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Security TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Builds on the Web Services security foundations as described in the WS-Security
+    specification
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

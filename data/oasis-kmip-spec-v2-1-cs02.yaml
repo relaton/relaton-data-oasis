@@ -1,0 +1,122 @@
+---
+id: OASISkmipspecv21CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Key Management Interoperability Protocol Specification Version 2.1
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/kmip/kmip-spec/v2.1/cs02/kmip-spec-v2.1-cs02.html
+- type: pdf
+  content: https://docs.oasis-open.org/kmip/kmip-spec/v2.1/cs02/kmip-spec-v2.1-cs02.pdf
+- type: doc
+  content: https://docs.oasis-open.org/kmip/kmip-spec/v2.1/cs02/kmip-spec-v2.1-cs02.docx
+docidentifier:
+- content: OASIS kmip-spec-v2.1-CS02
+  type: OASIS
+  primary: true
+docnumber: kmip-spec-v2.1-CS02
+date:
+- type: issued
+  at: '2020-11-16'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/kmip/
+    name:
+    - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Key Management Interoperability Protocol (KMIP) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - tony.cox@cryptsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tony
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cryptsoft.com
+        name:
+        - content: Cryptsoft Pty Ltd.
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Judith.Furlong@dell.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Judith
+      surname:
+        language: en
+        script: Latn
+        content: Furlong
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.dell.com
+        name:
+        - content: Dell
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies the protocol used for the communication between clients and servers
+    performing certain management operations on objects stored and maintained by a
+    key management system, including symmetric and asymmetric cryptographic keys and
+    digital certificates.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity
+  - Security

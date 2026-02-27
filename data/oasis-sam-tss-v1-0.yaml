@@ -1,0 +1,98 @@
+---
+id: OASISSAMTSSv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAM Threshold Sharing Schemes Version 1.0
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/sam/sam-tss/v1.0/os/sam-tss-v1.0-os.docx
+- type: src
+  content: https://docs.oasis-open.org/sam/sam-tss/v1.0/os/sam-tss-v1.0-os.html
+- type: pdf
+  content: https://docs.oasis-open.org/sam/sam-tss/v1.0/os/sam-tss-v1.0-os.pdf
+docidentifier:
+- content: OASIS SAM-TSS-v1.0
+  type: OASIS
+  primary: true
+docnumber: SAM-TSS-v1.0
+date:
+- type: issued
+  at: '2022-03-09'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/sam/
+    name:
+    - content: OASIS Security Algorithms and Methods (SAM) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Security Algorithms and Methods (SAM) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim
+      surname:
+        language: en
+        script: Latn
+        content: Chevalier
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim
+      surname:
+        language: en
+        script: Latn
+        content: Hudson
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Intended for developers and architects who wish to design systems and applications
+    that utilize threshold sharing schemes in an interoperable manner.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Cybersecurity
+  - Security

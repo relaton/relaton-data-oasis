@@ -1,0 +1,76 @@
+---
+id: OASISSAMLholderofkeyassertv10CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Holder-of-Key Assertion Profile Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-holder-of-key-cs-02.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-holder-of-key-cs-02.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml2-holder-of-key-cs-02.odt
+docidentifier:
+- content: OASIS SAML-holder-of-key-assert-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: SAML-holder-of-key-assert-v1.0-CS02
+date:
+- type: issued
+  at: '2010-01-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: OASIS Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Security Services (SAML) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Describes the issuing and processing of holder-of-key SAML assertions.
+    Specifically, we show how a SAML issuer binds X.509 data to a  element and how
+    a relying party confirms that a  element matches given X.509 data. The binding
+    material used by the SAML issuer and the matching data used by the relying party
+    are obtained from an X.509 certificate.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

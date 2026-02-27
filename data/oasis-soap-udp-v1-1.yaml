@@ -1,0 +1,70 @@
+---
+id: OASISSOAPUDPv11
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SOAP-over-UDP v1.1
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ws-dd/soapoverudp/1.1/os/wsdd-soapoverudp-1.1-spec-os.html
+docidentifier:
+- content: OASIS SOAP-UDP-v1.1
+  type: OASIS
+  primary: true
+docnumber: SOAP-UDP-v1.1
+date:
+- type: issued
+  at: '2009-07-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/ws-dd
+    name:
+    - content: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD)
+        TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD)
+          TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a binding for SOAP envelopes to use datagrams.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

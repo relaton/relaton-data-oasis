@@ -1,0 +1,96 @@
+---
+id: OASISTAMLCS02Pt2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Test Assertions Part 2 – Test Assertion Markup Language Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/tag/taml/v1.0/cs02/testassertionmarkuplanguage-1.0-cs02.html
+- type: pdf
+  content: http://docs.oasis-open.org/tag/taml/v1.0/cs02/testassertionmarkuplanguage-1.0-cs02.pdf
+- type: odt
+  content: http://docs.oasis-open.org/tag/taml/v1.0/cs02/testassertionmarkuplanguage-1.0-cs02.odt
+docidentifier:
+- content: OASIS TAML-CS02-Pt2
+  type: OASIS
+  primary: true
+docnumber: TAML-CS02-Pt2
+date:
+- type: issued
+  at: '2011-12-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tag/
+    name:
+    - content: OASIS Test Assertions Guidelines (TAG) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Test Assertions Guidelines (TAG) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - jdurand@us.fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jacques
+      surname:
+        language: en
+        script: Latn
+        content: Durand
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines an XML vocabulary for representing test assertions aligned with
+    the Test Assertions Model.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

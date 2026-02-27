@@ -1,0 +1,80 @@
+---
+id: OASISPartyIdTypev10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OASIS ebCore Party Id Type Technical Specification Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ebcore/PartyIdType/v1.0/CS01/PartyIdType-1.0.html
+- type: pdf
+  content: http://docs.oasis-open.org/ebcore/PartyIdType/v1.0/CS01/PartyIdType-1.0.pdf
+- type: odt
+  content: http://docs.oasis-open.org/ebcore/PartyIdType/v1.0/CS01/PartyIdType-1.0.odt
+docidentifier:
+- content: OASIS PartyIdType-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: PartyIdType-v1.0-CS01
+date:
+- type: issued
+  at: '2010-09-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ebcore/
+    name:
+    - content: OASIS ebXML Core (ebCore) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS ebXML Core (ebCore) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'A mechanism for the identification of business partners in business documents
+    based on XML (or other structured formats) and message headers using URN-based
+    identifier types is required in many electronic business exchanges. This specification
+    specifies a formal URN-based mechanism for referencing party types from the ISO
+    6523, ISO 9735 and ISO 20022 identification scheme catalogs using the oasis URN
+    namespace. Sample applications include (but are not limited to): ebXML message
+    headers; ebXML collaboration protocol profiles and agreements; UBL, UN/CEFACT
+    and OAGIS XML business documents; the UN/CEFACT SBDH; and XBRL documents.'
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - Web-Services

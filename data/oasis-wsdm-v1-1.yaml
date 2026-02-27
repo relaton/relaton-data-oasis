@@ -1,0 +1,73 @@
+---
+id: OASISWSDMv11
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WSDM v1.1
+  type: main
+source:
+- type: htm
+  content: http://docs.oasis-open.org/wsdm/wsdm-muws1-1.1-spec-os-01.htm
+- type: pdf
+  content: http://docs.oasis-open.org/wsdm/wsdm-muws1-1.1-spec-os-01.pdf
+docidentifier:
+- content: OASIS WSDM-v1.1
+  type: OASIS
+  primary: true
+docnumber: WSDM-v1.1
+date:
+- type: issued
+  at: '2006-08-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/wsdm
+    name:
+    - content: OASIS Web Services Distributed Management (WSDM) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Distributed Management (WSDM) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    There are two specifications produced by the Web Services Distributed Management technical committee: Management Using Web services (MUWS) and Management Of Web Services (MOWS, see [[MOWS]]). This document is part of MUWS.
+    MUWS defines how an Information Technology resource connected to a network provides manageability interfaces such that the IT resource can be managed locally and from remote locations using Web services technologies.
+    MUWS is composed of two parts. This document is MUWS part 1 and provides the fundamental concepts for management using Web services. MUWS part 2 [MUWS Part 2] provides specific messaging formats used to enable the interoperability of MUWS implementations. MUWS part 2 depends on MUWS part 1, while part 1 is independent from part 2.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

@@ -1,0 +1,124 @@
+---
+id: OASISBIASPROFILE
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Biometric Identity Assurance Services (BIAS) SOAP Profile Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/biasprofile-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/biasprofile-v1.0-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/biasprofile-v1.0-os.doc
+- type: xsd
+  content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/cbeff.xsd
+- type: wsdl
+  content: http://docs.oasis-open.org/bias/soap-profile/v1.0/os/BIAS.wsdl
+docidentifier:
+- content: OASIS BIASPROFILE
+  type: OASIS
+  primary: true
+docnumber: BIASPROFILE
+date:
+- type: issued
+  at: '2012-05-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/bias/
+    name:
+    - content: OASIS Biometric Identity Assurance Services (BIAS) Integration TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Biometric Identity Assurance Services (BIAS) Integration TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - cathy.tilton@daon.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Cathy
+      surname:
+        language: en
+        script: Latn
+        content: Tilton
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.daon.com/
+        name:
+        - content: Daon
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kevin.mangold@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Mangold
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Specifies a SOAP profile that implements the Biometric Identity Assurance
+    Services (BIAS) abstract operations specified in INCITS 442 as SOAP messages.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity
+  - Security

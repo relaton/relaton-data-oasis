@@ -1,0 +1,140 @@
+---
+id: OASISTGFv20CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transformational Government Framework Version 2.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/tgf/TGF/v2.0/cs01/TGF-v2.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/tgf/TGF/v2.0/cs01/TGF-v2.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/tgf/TGF/v2.0/cs01/TGF-v2.0-cs01.doc
+docidentifier:
+- content: OASIS TGF-v2.0-CS01
+  type: OASIS
+  primary: true
+docnumber: TGF-v2.0-CS01
+date:
+- type: issued
+  at: '2014-05-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tgf/
+    name:
+    - content: OASIS Transformational Government Framework TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Transformational Government Framework TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - johnaborras@yahoo.co.uk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Borras
+- role:
+  - type: editor
+  person:
+    email:
+    - johnaborras@yahoo.co.uk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Borras
+- role:
+  - type: editor
+  person:
+    email:
+    - peter@peterfbrown.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: F
+- role:
+  - type: editor
+  person:
+    email:
+    - chris.parker@cstransform.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Parker
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://cstransform.com/
+        name:
+        - content: CS Transform Limited
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A practical “how to” standard for the design and implementation of an effective program of technology-enabled change at national, state or local government level. It describes a managed process of ICT-enabled change within the public sector and in its relationships with the private and voluntary sectors, which puts the needs of citizens and businesses at the heart of that process and which achieves significant and transformational impacts on the efficiency and effectiveness of government.
+    The TGF provides a tried and tested way forward utilizing the best parts of existing e-Government programs and avoiding large new investments. Its formalization as a Pattern Language enables it to be encapsulated in more formal, tractable, and machine-processable forms, thus making it easy to integrate into desk-top tools and management software aiding testing and assurance of compliance and conformance.
+    This Work Product constitutes the initial core set of patterns that form the TGF Standard. This set may be revised and/or extended from time to time as appropriate. It replaces and supersedes both the TGF Primer Version 1.0 and the TGF Pattern Languages Core Patterns Version 1.0.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - eGov/Legal

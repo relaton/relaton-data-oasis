@@ -1,0 +1,96 @@
+---
+id: OASISDITAv13Errata01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Darwin Information Typing Architecture (DITA) Version 1.3 Errata 01
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/dita/dita/v1.3/errata01/os/dita-v1.3-errata01-os.html
+docidentifier:
+- content: OASIS DITA-v1.3-Errata01
+  type: OASIS
+  primary: true
+docnumber: DITA-v1.3-Errata01
+date:
+- type: issued
+  at: '2016-10-25'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/dita/
+    name:
+    - content: OASIS Darwin Information Typing Architecture (DITA) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Darwin Information Typing Architecture (DITA) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kris@eberleinconsulting.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kristen
+      surname:
+        language: en
+        script: Latn
+        content: James
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://eberleinconsulting.com/
+        name:
+        - content: Eberlein Consulting             LLC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document contains the Errata 01 for Darwin Information Typing         Architecture
+    (DITA) Version 1.3.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS DITA-v1.3
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

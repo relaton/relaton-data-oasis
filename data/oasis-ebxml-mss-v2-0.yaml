@@ -1,0 +1,70 @@
+---
+id: OASISebXMLMSSv20
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ebXML Message Service Specification v2.0 [OASIS 200204]
+  type: main
+source:
+- type: pdf
+  content: http://www.oasis-open.org/committees/ebxml-msg/documents/ebMS_v2_0.pdf
+docidentifier:
+- content: OASIS ebXML-MSS-v2.0
+  type: OASIS
+  primary: true
+docnumber: ebXML-MSS-v2.0
+date:
+- type: issued
+  at: '2004-08-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/ebxml-msg
+    name:
+    - content: OASIS ebXML Messaging Services TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS ebXML Messaging Services TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a communications-protocol neutral method for exchanging electronic
+    business messages. It defines specific enveloping constructs supporting reliable,
+    secure delivery of business information.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business

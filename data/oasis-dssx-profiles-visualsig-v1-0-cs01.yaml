@@ -1,0 +1,121 @@
+---
+id: OASISdssxprofilesvisualsigv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Visible Signature Profile of the OASIS Digital Signature Services Version
+    1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/dss-x/profiles/visualsig/v1.0/cs01/oasis-dssx-1.0-profiles-visualsig-cs1.html
+- type: pdf
+  content: http://docs.oasis-open.org/dss-x/profiles/visualsig/v1.0/cs01/oasis-dssx-1.0-profiles-visualsig-cs1.pdf
+- type: doc
+  content: http://docs.oasis-open.org/dss-x/profiles/visualsig/v1.0/cs01/oasis-dssx-1.0-profiles-visualsig-cs1.doc
+docidentifier:
+- content: OASIS dssx-profiles-visualsig-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: dssx-profiles-visualsig-v1.0-CS01
+date:
+- type: issued
+  at: '2010-05-08'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/dss-x/
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - cruellas@ac.upc.ede
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Juan
+      surname:
+        language: en
+        script: Latn
+        content: Carlos
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - stefan@drees.name
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stefan
+      surname:
+        language: en
+        script: Latn
+        content: Drees,
+- role:
+  - type: editor
+  person:
+    email:
+    - ezer@arx.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ezer
+      surname:
+        language: en
+        script: Latn
+        content: Farhi,
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Enables to embed visible signature characteristics into documents as part
+    of a digital signature operation and also validate these characteristics as part
+    of the verify signature operation.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business

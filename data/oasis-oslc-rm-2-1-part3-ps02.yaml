@@ -1,0 +1,47 @@
+---
+id: OASISOSLCRM21Part3PS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Requirements Management Version 2.1. Part 3: Constraints'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/rm/v2.1/ps02/requirements-management-shapes.html
+docidentifier:
+- content: OASIS OSLC-RM-2.1-Part3-PS02
+  type: OASIS
+  primary: true
+docnumber: OSLC-RM-2.1-Part3-PS02
+date:
+- type: issued
+  at: '2021-05-28'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-RM-2.1-PS02
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Software-Development

@@ -1,0 +1,112 @@
+---
+id: OASISDSSMDv10CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Digital Signature Service Metadata Version 1.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/dss-x/dss-md/v1.0/cs02/dss-md-v1.0-cs02.html
+- type: pdf
+  content: https://docs.oasis-open.org/dss-x/dss-md/v1.0/cs02/dss-md-v1.0-cs02.pdf
+- type: doc
+  content: https://docs.oasis-open.org/dss-x/dss-md/v1.0/cs02/dss-md-v1.0-cs02.docx
+docidentifier:
+- content: OASIS DSS-MD-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: DSS-MD-v1.0-CS02
+date:
+- type: issued
+  at: '2019-12-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/dss-x/
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kuehne@trustable.de
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andreas
+      surname:
+        language: en
+        script: Latn
+        content: Kuehne
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - EJvN@Sonnenglanz.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ernst
+      surname:
+        language: en
+        script: Latn
+        content: Jan
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sonnenglanz.net/
+        name:
+        - content: Sonnenglanz Consulting
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines JSON and XML structures and discovery mechanisms for metadata related
+    to digital signature services.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

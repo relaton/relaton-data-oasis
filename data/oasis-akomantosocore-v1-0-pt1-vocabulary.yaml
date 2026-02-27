@@ -1,0 +1,207 @@
+---
+id: OASISAkomaNtosoCorev10Pt1Vocabulary
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Akoma Ntoso Version 1.0 Part 1: XML Vocabulary'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part1-vocabulary/akn-core-v1.0-os-part1-vocabulary.html
+docidentifier:
+- content: OASIS AkomaNtosoCore-v1.0-Pt1-Vocabulary
+  type: OASIS
+  primary: true
+docnumber: AkomaNtosoCore-v1.0-Pt1-Vocabulary
+date:
+- type: issued
+  at: '2018-08-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/legaldocml/
+    name:
+    - content: OASIS LegalDocumentML (LegalDocML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: "OASIS LegalDocumentML\r\n(LegalDocML) TC"
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - fabio@cs.unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Fabio
+      surname:
+        language: en
+        script: Latn
+        content: Vitali
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - monica.palmirani@unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+  person:
+    email:
+    - monica.palmirani@unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+  person:
+    email:
+    - roger.sperberg@lexisnexis.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Roger
+      surname:
+        language: en
+        script: Latn
+        content: Sperberg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.lexisnexis.com/
+        name:
+        - content: LexisNexis, a Division of Reed Elsevier
+- role:
+  - type: editor
+  person:
+    email:
+    - grant.vergottini@xcential.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Grant
+      surname:
+        language: en
+        script: Latn
+        content: Vergottini
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://xcential.com/
+        name:
+        - content: Xcential Group, LLC
+- role:
+  - type: editor
+  person:
+    email:
+    - fabio@cs.unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Fabio
+      surname:
+        language: en
+        script: Latn
+        content: Vitali
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document provides the motivations, the scope, and the design principles
+    of the Akoma Ntoso XML standard. We include also a narrative part concerning the
+    main functionalities of Akoma Ntoso XML standard. We intend also to provide a
+    discursive illustration of the benefits, features and scenarios using Akoma Ntoso
+    XML standard.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS AkomaNtosoCore-v1.0
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - eGov/Legal

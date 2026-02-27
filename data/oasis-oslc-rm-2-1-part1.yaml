@@ -1,0 +1,47 @@
+---
+id: OASISOSLCRM21Part1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Requirements Management Version 2.1. Part 1: Specification'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/rm/v2.1/os/requirements-management-spec.html
+docidentifier:
+- content: OASIS OSLC-RM-2.1-Part1
+  type: OASIS
+  primary: true
+docnumber: OSLC-RM-2.1-Part1
+date:
+- type: issued
+  at: '2021-06-21'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC-RM-2.1
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Software-Development

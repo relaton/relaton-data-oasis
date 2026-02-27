@@ -1,0 +1,71 @@
+---
+id: OASISWSDMMOWSv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WSDM Management Using Web Services v1.0 (WSDM-MOWS)
+  type: main
+source:
+- type: zip
+  content: http://docs.oasis-open.org/wsdm/2004/12/wsdm-1.0.zip
+docidentifier:
+- content: OASIS WSDM-MOWS-v1.0
+  type: OASIS
+  primary: true
+docnumber: WSDM-MOWS-v1.0
+date:
+- type: issued
+  at: '2005-03-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/wsdm
+    name:
+    - content: OASIS Web Services Distributed Management TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Web Services Distributed Management TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines A) how management of any resource can be accessed via 15 Web services
+    protocols – Management Using Web Services, or MUWS, and B) 16 management of the
+    Web services resources via the former – Management Of Web 17 Services, or MOWS.
+    This document is the WSDM specification defining MOWS.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Web-Services

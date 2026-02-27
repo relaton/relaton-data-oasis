@@ -1,0 +1,190 @@
+---
+id: OASISamqpcoresecurityv10Pt5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OASIS Advanced Message Queuing Protocol (AMQP) Version 1.0 Part 5: Security'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-security-v1.0-os.html
+docidentifier:
+- content: OASIS amqp-core-security-v1.0-Pt5
+  type: OASIS
+  primary: true
+docnumber: amqp-core-security-v1.0-Pt5
+date:
+- type: issued
+  at: '2012-10-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/amqp/
+    name:
+    - content: OASIS Advanced Message Queuing Protocol (AMQP) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Advanced Message Queuing Protocol (AMQP) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Ram.Jeyaraman@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ram
+      surname:
+        language: en
+        script: Latn
+        content: Jeyaraman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - angus.telfer@inetco.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Angus
+      surname:
+        language: en
+        script: Latn
+        content: Telfer
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.inetco.com
+        name:
+        - content: INETCO Systems
+- role:
+  - type: editor
+  person:
+    email:
+    - robert.godfrey@jpmorgan.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Godfrey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpmorganchase.com
+        name:
+        - content: JPMorgan Chase & Co.
+- role:
+  - type: editor
+  person:
+    email:
+    - David.Ingham@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Ingham
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - rafaels@redhat.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rafael
+      surname:
+        language: en
+        script: Latn
+        content: Schloming
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com
+        name:
+        - content: Red Hat
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: The Advanced Message Queuing Protocol (AMQP) is an open internet protocol
+    for business     messaging. It defines a binary wire-level protocol that allows
+    for the reliable exchange     of business messages between two parties.     AMQP
+    has a layered architecture and the specification is organized as a set of parts
+    that     reflects that architecture. Part 1 defines the AMQP type system and encoding.
+    Part 2 defines     the AMQP transport layer, an efficient, binary, peer-to-peer
+    protocol for transporting messages     between two processes over a network. Part
+    3 defines the AMQP message format, with a     concrete encoding. Part 4 defines
+    how interactions can be grouped within atomic     transactions. Part 5 defines
+    the AMQP security layers.
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS amqp-core
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Messaging

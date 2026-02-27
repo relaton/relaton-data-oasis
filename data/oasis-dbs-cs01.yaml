@@ -1,0 +1,71 @@
+---
+id: OASISDBSCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DocBook Schema V5.2
+  type: main
+source:
+- type: zip
+  content: http://DocX:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.docxHTML:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.htmlPDF:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.pdf
+    Relax NG schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/rng/Schematron
+    schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/sch/XML catalog: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/catalog.xmlNVDL
+    schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/ For your convenience,
+    OASIS provides a complete package of the specification document and any related
+    files in ZIP distribution files. You can download the ZIP file at:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.zip
+- type: src
+  content: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.pdf
+docidentifier:
+- content: OASIS DBS-CS01
+  type: OASIS
+  primary: true
+docnumber: DBS-CS01
+date:
+- type: issued
+  at: '2023-07-19'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=docbook
+    name:
+    - content: OASIS DocBook TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS DocBook TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis

@@ -1,0 +1,78 @@
+---
+id: OASISOSLCPROMCODEv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OSLC PROMCODE Version 1.0
+  type: main
+docidentifier:
+- content: OASIS OSLC-PROMCODE-v1.0
+  type: OASIS
+  primary: true
+docnumber: OSLC-PROMCODE-v1.0
+date:
+- type: issued
+  at: '2022-03-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=oslc-promcode
+    name:
+    - content: OSLC Lifecycle Integration for Project Management of Contracted Delivery
+        (OSLC PROMCODE) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OSLC Lifecycle Integration for Project Management of Contracted Delivery
+          (OSLC PROMCODE) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines standard information for managing contracted software delivery
+    based on the OSLC framework
+relation:
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-PROMCODE-v1.0-Spec-Pt1
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-PROMCODE-v1.0-Vocab-Pt2
+- type: hasPart
+  bibitem:
+    formattedref: OASIS OSLC-PROMCODE-v1.0-Shapes-Pt3
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Software-Development

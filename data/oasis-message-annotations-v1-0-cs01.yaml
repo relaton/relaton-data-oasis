@@ -1,0 +1,84 @@
+---
+id: OASISMessageAnnotationsv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Message Annotations for Response Routing Version 1.0
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/amqp/respann/v1.0/cs01/respann-v1.0-cs01.docx
+docidentifier:
+- content: OASIS Message-Annotations-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: Message-Annotations-v1.0-CS01
+date:
+- type: issued
+  at: '2021-02-16'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/amqp/
+    name:
+    - content: Advanced Message Queuing Protocol (AMQP) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Advanced Message Queuing Protocol (AMQP) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rob
+      surname:
+        language: en
+        script: Latn
+        content: Godfrey
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: AMQP is a vendor-neutral, platform-agnostic protocol for passing real-time
+    data streams and business transactions. This document defines mechanisms to allow
+    messages which transit boundaries to be annotated with sufficient information
+    to allow responses to be directed back to the intended recipient.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - IoT

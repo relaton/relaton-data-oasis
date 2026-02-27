@@ -1,0 +1,73 @@
+---
+id: OASISOSLCQuery30
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OSLC Query Version 3.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/query/v3.0/os/oslc-query.html
+- type: pdf
+  content: https://docs.oasis-open-projects.org/oslc-op/query/v3.0/os/oslc-query.pdf
+docidentifier:
+- content: OASIS OSLC-Query-3.0
+  type: OASIS
+  primary: true
+docnumber: OSLC-Query-3.0
+date:
+- type: issued
+  at: '2021-08-26'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://open-services.net/
+    name:
+    - content: Open Services for Lifecycle Collaboration (OSLC) OP
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Open Services for Lifecycle Collaboration (OSLC) OP
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Provides a mechanism for a client to query or search for RDF resources
+    that match a given criteria. The response to a successful query includes the RDF
+    of a query result container that references the member resources found by the
+    query, and optionally includes selected properties of each member resource.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Software-Development

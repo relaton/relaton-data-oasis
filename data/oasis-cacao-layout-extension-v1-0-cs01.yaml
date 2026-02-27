@@ -1,0 +1,88 @@
+---
+id: OASISCACAOLayoutExtensionv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CACAO Layout Extension v1.0
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/cacao/layout-extension/v1.0/cs01/layout-extension-v1.0-cs01.docx
+docidentifier:
+- content: OASIS CACAO-Layout-Extension-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: CACAO-Layout-Extension-v1.0-CS01
+date:
+- type: issued
+  at: '2024-04-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=b75cccb8-adc6-4de5-8b99-018dc7d322b6
+    name:
+    - content: OASIS Collaborative Automated Course of Action Operations (CACAO) for
+        Cyber Security TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Collaborative Automated Course of Action Operations (CACAO)
+          for Cyber Security TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vasileios
+      surname:
+        language: en
+        script: Latn
+        content: Mavroeidis
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mateusz
+      surname:
+        language: en
+        script: Latn
+        content: Zych
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis

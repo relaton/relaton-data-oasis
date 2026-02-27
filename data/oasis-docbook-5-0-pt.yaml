@@ -1,0 +1,68 @@
+---
+id: OASISDocBook50Pt
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The DocBook Schema Version 5.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/docbook/specs/docbook-5.0-spec-os.html
+docidentifier:
+- content: OASIS DocBook-5.0-Pt
+  type: OASIS
+  primary: true
+docnumber: DocBook-5.0-Pt
+date:
+- type: issued
+  at: '2009-11-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/docbook/ipr.php
+    name:
+    - content: http://www.oasis-open.org/committees/docbook/ipr.php
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: http://www.oasis-open.org/committees/docbook/ipr.php
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS DocBook-5.0
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

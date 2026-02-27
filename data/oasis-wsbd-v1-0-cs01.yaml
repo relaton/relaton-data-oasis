@@ -1,0 +1,140 @@
+---
+id: OASISWSBDv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WS-Biometric Devices Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/WSBD-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/WSBD-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/WSBD-v1.0-cs01.docx
+- type: xsd
+  content: http://docs.oasis-open.org/bioserv/WSBD/v1.0/cs01/schemas/wsbd-v1.0.xsd
+docidentifier:
+- content: OASIS WSBD-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: WSBD-v1.0-CS01
+date:
+- type: issued
+  at: '2017-07-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/bioserv/
+    name:
+    - content: Biometric Services (BIOSERV) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Biometric Services (BIOSERV) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kevin.mangold@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Mangold
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+- role:
+  - type: editor
+  person:
+    email:
+    - kevin.mangold@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Mangold
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+- role:
+  - type: editor
+  person:
+    email:
+    - kayee@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kayee
+      surname:
+        language: en
+        script: Latn
+        content: Hanaoka
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: WS-Biometric Devices is a protocol for the command and control of biometric
+    sensors using the same protocols that underlie the web.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Web-Services

@@ -1,0 +1,47 @@
+---
+id: OASISOSLCResourcePreview30Pt3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OSLC Core Version 3.0. Part 3: Resource Preview'
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open-projects.org/oslc-op/core/v3.0/os/resource-preview.html
+docidentifier:
+- content: OASIS OSLC-ResourcePreview-3.0-Pt3
+  type: OASIS
+  primary: true
+docnumber: OSLC-ResourcePreview-3.0-Pt3
+date:
+- type: issued
+  at: '2021-08-26'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref: OASIS OSLC
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Software-Development

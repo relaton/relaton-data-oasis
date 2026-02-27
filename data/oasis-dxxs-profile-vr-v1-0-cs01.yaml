@@ -1,0 +1,122 @@
+---
+id: OASISdxxsprofilevrv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OASIS DSS v1.0 Profile for Comprehensive Multi-Signature Verification Reports
+    Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/dss-x/profiles/verificationreport/oasis-dssx-1.0-profiles-vr-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/dss-x/profiles/verificationreport/oasis-dssx-1.0-profiles-vr-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/dss-x/profiles/verificationreport/oasis-dssx-1.0-profiles-vr-cs01.doc
+docidentifier:
+- content: OASIS dxxs-profile-vr-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: dxxs-profile-vr-v1.0-CS01
+date:
+- type: issued
+  at: '2010-11-12'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/dss-x/
+    name:
+    - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Digital Signature Services eXtended (DSS-X) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - cruellas@ac.upc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Juan
+      surname:
+        language: en
+        script: Latn
+        content: Carlos
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - stefan@drees.name
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stefan
+      surname:
+        language: en
+        script: Latn
+        content: Drees,
+- role:
+  - type: editor
+  person:
+    email:
+    - detlef.huehnlein@ecsec.desecunet.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Detlef
+      surname:
+        language: en
+        script: Latn
+        content: Hühnlein,
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a protocol and processing profile of the DSS Verifying Protocol
+    specified in Section 4 of [DSSCore], which allows to return individual signature
+    verification reports for each signature in a verification request and include
+    detailed information of the different steps taken during verification.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

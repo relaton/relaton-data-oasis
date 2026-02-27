@@ -1,0 +1,75 @@
+---
+id: OASISODFAccessGuidelinesv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Open Document Format v1.1 Accessibility Guidelines Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/office/office-accessibility/v1.0/cs01/ODF_Accessibility_Guidelines-v1.0.html
+- type: pdf
+  content: http://docs.oasis-open.org/office/office-accessibility/v1.0/cs01/ODF_Accessibility_Guidelines-v1.0.pdf
+- type: odt
+  content: http://docs.oasis-open.org/office/office-accessibility/v1.0/cs01/ODF_Accessibility_Guidelines-v1.0.odt
+docidentifier:
+- content: OASIS ODF-Access-Guidelines-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: ODF-Access-Guidelines-v1.0-CS01
+date:
+- type: issued
+  at: '2008-05-01'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/office/
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: A guide for Office Applications, that support version 1.1 of the OpenDocument
+    format, to promote and preserve accessible ODF documents. This guide is not a
+    comprehensive guide for content mapping to platform accessibility APIs.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

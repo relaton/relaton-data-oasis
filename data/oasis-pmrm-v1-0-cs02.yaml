@@ -1,0 +1,135 @@
+---
+id: OASISPMRMv10CS02
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Privacy Management Reference Model and Methodology (PMRM) Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/pmrm/PMRM/v1.0/cs02/PMRM-v1.0-cs02.html
+- type: pdf
+  content: http://docs.oasis-open.org/pmrm/PMRM/v1.0/cs02/PMRM-v1.0-cs02.pdf
+- type: doc
+  content: http://docs.oasis-open.org/pmrm/PMRM/v1.0/cs02/PMRM-v1.0-cs02.doc
+docidentifier:
+- content: OASIS PMRM-v1.0-CS02
+  type: OASIS
+  primary: true
+docnumber: PMRM-v1.0-CS02
+date:
+- type: issued
+  at: '2016-05-17'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/pmrm/
+    name:
+    - content: OASIS Privacy Management Reference Model (PMRM) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Privacy Management Reference Model (PMRM) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - john.annapolis@comcast.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Sabo
+- role:
+  - type: editor
+  person:
+    email:
+    - micheledrgon@dataprobity.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michele
+      surname:
+        language: en
+        script: Latn
+        content: Drgon,
+- role:
+  - type: editor
+  person:
+    email:
+    - gail.magnuson@gmail.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gail
+      surname:
+        language: en
+        script: Latn
+        content: Magnuson
+- role:
+  - type: editor
+  person:
+    email:
+    - john.annapolis@verizon.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Sabo
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Provides a model and a methodology to
+    ·         understand and analyze privacy policies and their privacy management requirements in defined Use Cases; and
+    ·         select the technical Services, Functions and Mechanisms that must be implemented to support requisite Privacy Controls.
+    It is particularly valuable for Use Cases in which Personal Information (PI) flows across regulatory, policy, jurisdictional, and system boundaries.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Cloud
+  - Privacy/Identity

@@ -1,0 +1,84 @@
+---
+id: OASISentitymgmt
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Entity Management
+  type: main
+source:
+- type: htm
+  content: https://www.oasis-open.org/specs/a401.htm
+- type: xml
+  content: https://www.oasis-open.org/specs/a401.xml
+docidentifier:
+- content: OASIS entity-mgmt
+  type: OASIS
+  primary: true
+docnumber: entity-mgmt
+date:
+- type: issued
+  at: '1997-09-10'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/entity/
+    name:
+    - content: Entity Resolution TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Entity Resolution TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Grosso
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines an entity catalog that handles the simple cases of mapping an external
+    entity’s public identifier and/or entity name to a file name, URL, or other storage
+    object identifier.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: resolution
+  flavor: oasis
+  technology_area:
+  - Content-Technologies

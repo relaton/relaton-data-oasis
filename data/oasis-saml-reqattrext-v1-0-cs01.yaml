@@ -1,0 +1,122 @@
+---
+id: OASISSAMLReqAttrExtv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Protocol Extension for Requesting Attributes per Request Version
+    1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/security/saml-protoc-req-attr-req/v1.0/cs01/saml-protoc-req-attr-req-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/security/saml-protoc-req-attr-req/v1.0/cs01/saml-protoc-req-attr-req-v1.0-cs01.pdf
+- type: odt
+  content: http://docs.oasis-open.org/security/saml-protoc-req-attr-req/v1.0/cs01/saml-protoc-req-attr-req-v1.0-cs01.odt
+docidentifier:
+- content: OASIS SAML-ReqAttrExt-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: SAML-ReqAttrExt-v1.0-CS01
+date:
+- type: issued
+  at: '2017-08-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Security Services (SAML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hardjono@mit.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: MIT
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ndk@internet2.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nate
+      surname:
+        language: en
+        script: Latn
+        content: Klingenstein
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.internet2.edu/
+        name:
+        - content: Internet2
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines an extension to the SAML V2.0 protocol specification [SAML2Core].
+    The extension allows Service Providers to specify ad-hoc sets of attributes per
+    request. This brings more flexibility than existing mechanisms, which are based
+    on signaling pre-defined sets of requested attributes.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

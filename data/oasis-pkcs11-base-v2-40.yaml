@@ -1,0 +1,197 @@
+---
+id: OASISPKCS11basev240
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'PKCS #11 Cryptographic Token Interface Base Specification Version 2.40'
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/pkcs11/pkcs11-base/v2.40/os/pkcs11-base-v2.40-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/pkcs11/pkcs11-base/v2.40/os/pkcs11-base-v2.40-os.pdf
+- type: doc
+  content: http://docs.oasis-open.org/pkcs11/pkcs11-base/v2.40/os/pkcs11-base-v2.40-os.doc
+docidentifier:
+- content: OASIS PKCS11-base-v2.40
+  type: OASIS
+  primary: true
+docnumber: PKCS11-base-v2.40
+date:
+- type: issued
+  at: '2015-04-14'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/pkcs11/
+    name:
+    - content: OASIS PKCS 11 TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS PKCS 11 TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - valerie.fenwick@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Valerie
+      surname:
+        language: en
+        script: Latn
+        content: Fenwick
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - rrelyea@redhat.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Relyea
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com
+        name:
+        - content: Red Hat
+- role:
+  - type: editor
+  person:
+    email:
+    - susan.gleeson@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Susan
+      surname:
+        language: en
+        script: Latn
+        content: Gleeson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - chris@wmpp.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Chris
+      surname:
+        language: en
+        script: Latn
+        content: Zimman
+- role:
+  - type: editor
+  person:
+    email:
+    - robert.griffin@emc.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Griffin
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.emc.com
+        name:
+        - content: EMC Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - tjh@cryptsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim
+      surname:
+        language: en
+        script: Latn
+        content: Hudson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cryptsoft.com
+        name:
+        - content: Cryptsoft Pty Ltd
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Defines data types, functions and other basic components of the PKCS #11
+    Cryptoki interface.'
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Privacy/Identity
+  - Security

@@ -1,0 +1,135 @@
+---
+id: OASISebMSsamlconformanceCS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML Conformance Clause for AS4/ebMS Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ebxml-msg/ebms-v3.0-saml-conformance/v1.0/cs01/ebms-v3.0-saml-conformance-v1.0-cs01.html
+- type: pdf
+  content: http://docs.oasis-open.org/ebxml-msg/ebms-v3.0-saml-conformance/v1.0/cs01/ebms-v3.0-saml-conformance-v1.0-cs01.pdf
+- type: doc
+  content: http://docs.oasis-open.org/ebxml-msg/ebms-v3.0-saml-conformance/v1.0/cs01/ebms-v3.0-saml-conformance-v1.0-cs01.doc
+docidentifier:
+- content: OASIS ebMS-saml-conformance-CS01
+  type: OASIS
+  primary: true
+docnumber: ebMS-saml-conformance-CS01
+date:
+- type: issued
+  at: '2014-01-30'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ebxml-msg/
+    name:
+    - content: OASIS ebXML Messaging Services TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS ebXML Messaging Services TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - sander@fieten-it.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sander
+      surname:
+        language: en
+        script: Latn
+        content: Fieten
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - marao@cisco.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Makesh
+      surname:
+        language: en
+        script: Latn
+        content: Rao
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cisco.com/
+        name:
+        - content: Cisco Systems
+- role:
+  - type: editor
+  person:
+    email:
+    - Ian.Otto@industry.gov.au
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ian
+      surname:
+        language: en
+        script: Latn
+        content: Otto
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.industry.gov.au/
+        name:
+        - content: Australian Department of Industry
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Provides a specification as to how an ebMS3/AS4 MSH can support SAML in addition to the username/password and X.509 token profiles of WS-Security for authentication.
+    The usage of the username/password and X.509 token profiles of WS-Security are defined in some detail in ebMS3 and AS4. SAML is included in ebMS3 but is not defined in detail. AS4 does not discuss SAML.
+    This document will define the use of SAML in ebMS3 and apply that to the scenarios addressed by AS4.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Security

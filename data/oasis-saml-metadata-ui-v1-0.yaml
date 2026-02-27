@@ -1,0 +1,98 @@
+---
+id: OASISSAMLMetadataUIv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAML V2.0 Metadata Extensions for Login and Discovery User Interface Version
+    1.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ui/v1.0/os/sstc-saml-metadata-ui-v1.0-os.html
+- type: pdf
+  content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ui/v1.0/os/sstc-saml-metadata-ui-v1.0-os.pdf
+- type: odt
+  content: https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-metadata-ui/v1.0/os/sstc-saml-metadata-ui-v1.0-os.odt
+docidentifier:
+- content: OASIS SAML-Metadata-UI-v1.0
+  type: OASIS
+  primary: true
+docnumber: SAML-Metadata-UI-v1.0
+date:
+- type: issued
+  at: '2019-10-24'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/security/
+    name:
+    - content: Security Services (SAML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: Security Services (SAML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hardjono@mit.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: M.I.T.
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines a set of extensions to SAML metadata that provide information necessary
+    for user agents to present effective user interfaces and, in the case of identity
+    provider discovery, recommend appropriate choices to the user.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Security

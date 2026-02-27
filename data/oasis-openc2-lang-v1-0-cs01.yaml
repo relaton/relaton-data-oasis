@@ -1,0 +1,80 @@
+---
+id: OASISOpenC2Langv10CS01
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Open Command and Control (OpenC2) Language Specification Version 1.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/openc2/oc2ls/v1.0/cs01/oc2ls-v1.0-cs01.html
+- type: pdf
+  content: https://docs.oasis-open.org/openc2/oc2ls/v1.0/cs01/oc2ls-v1.0-cs01.pdf
+- type: md
+  content: https://docs.oasis-open.org/openc2/oc2ls/v1.0/cs01/oc2ls-v1.0-cs01.md
+docidentifier:
+- content: OASIS OpenC2-Lang-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: OpenC2-Lang-v1.0-CS01
+date:
+- type: issued
+  at: '2019-07-11'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/openc2/
+    name:
+    - content: OASIS Open Command and Control (OpenC2) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Command and Control (OpenC2) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: A concise and extensible language to enable machine-to-machine communications
+    for purposes of command and control of cyber defense components, subsystems and/or
+    systems in a manner that is agnostic of the underlying products, technologies,
+    transport mechanisms or other aspects of the implementation. It should be understood
+    that a language such as OpenC2 is necessary but insufficient to enable coordinated
+    cyber responses that occur within cyber relevant time. Other aspects of coordinated
+    cyber response such as sensing, analytics, and selecting appropriate courses of
+    action are beyond the scope of OpenC2.
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - Cybersecurity
+  - Security

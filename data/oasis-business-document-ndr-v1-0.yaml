@@ -1,0 +1,75 @@
+---
+id: OASISBusinessDocumentNDRv10
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Business Document Naming and Design Rules Version 1.0
+  type: main
+source:
+- type: src
+  content: http://docs.oasis-open.org/ubl/Business-Document-NDR/v1.0/os/Business-Document-NDR-v1.0-os.html
+- type: pdf
+  content: http://docs.oasis-open.org/ubl/Business-Document-NDR/v1.0/os/Business-Document-NDR-v1.0-os.pdf
+- type: xml
+  content: http://docs.oasis-open.org/ubl/Business-Document-NDR/v1.0/os/Business-Document-NDR-v1.0-os.xml
+docidentifier:
+- content: OASIS Business-Document-NDR-v1.0
+  type: OASIS
+  primary: true
+docnumber: Business-Document-NDR-v1.0
+date:
+- type: issued
+  at: '2017-01-18'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/ubl/
+    name:
+    - content: OASIS Universal Business Language (UBL) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Universal Business Language (UBL) TC
+      type: technical-committee
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Prescribes a set of naming and design rules used to create XML document
+    model validation artefacts (W3C Schema XSD files and OASIS Context/value association
+    files) associated with abstract information bundles formally described using the
+    Core Component Technical Specification 2.01 [CCTS].
+ext:
+  schema_version: v1.0.1
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - e-Business
