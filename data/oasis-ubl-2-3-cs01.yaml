@@ -1,7 +1,7 @@
 ---
 id: OASISUBL23CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -75,7 +75,7 @@ abstract:
   script: Latn
   content: UBL is the leading interchange format for business documents.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

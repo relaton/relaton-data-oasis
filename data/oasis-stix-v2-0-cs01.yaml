@@ -1,7 +1,7 @@
 ---
 id: OASISSTIXv20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -50,53 +50,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - Richard.Struse@HQ.DHS.GOV
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: Struse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.dhs.gov/office-cybersecurity-and-communications
-        name:
-        - content: DHS Office of Cybersecurity and Communications (CS&C)
-- role:
-  - type: editor
-  person:
-    email:
-    - bret_jordan@symantec.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Bret
-      surname:
-        language: en
-        script: Latn
-        content: Jordan
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.symantec.com/
-        name:
-        - content: Symantec Corp.
-- role:
-  - type: editor
-  person:
-    email:
-    - rpiazza@mitre.org
     name:
       forename:
       - language: en
@@ -106,18 +60,9 @@ contributor:
         language: en
         script: Latn
         content: Piazza
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - jwunder@mitre.org
     name:
       forename:
       - language: en
@@ -127,13 +72,18 @@ contributor:
         language: en
         script: Latn
         content: Wunder
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bret
+      surname:
+        language: en
+        script: Latn
+        content: Jordan
 language:
 - en
 script:
@@ -147,21 +97,26 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v2.0-Pt1-Core-CS01
+    formattedref:
+      content: OASIS STIX-v2.0-Pt1-Core-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v2.0-Pt2-Objects-CS01
+    formattedref:
+      content: OASIS STIX-v2.0-Pt2-Objects-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v2.0-Pt3-Cyb-Core-CS01
+    formattedref:
+      content: OASIS STIX-v2.0-Pt3-Cyb-Core-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v2.0-Pt4-Cyb-Objects-CS01
+    formattedref:
+      content: OASIS STIX-v2.0-Pt4-Cyb-Objects-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v2.0-Pt5-Patterning-CS01
+    formattedref:
+      content: OASIS STIX-v2.0-Pt5-Patterning-CS01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

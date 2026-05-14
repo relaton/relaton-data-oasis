@@ -1,7 +1,7 @@
 ---
 id: OASISBusinessDocumentNDRv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,41 @@ contributor:
     - name:
       - content: OASIS Universal Business Language (UBL) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim
+      surname:
+        language: en
+        script: Latn
+        content: McGrath
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andy
+      surname:
+        language: en
+        script: Latn
+        content: Schoka
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: G
+      surname:
+        language: en
+        script: Latn
 language:
 - en
 script:
@@ -67,7 +102,7 @@ abstract:
     files) associated with abstract information bundles formally described using the
     Core Component Technical Specification 2.01 [CCTS].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

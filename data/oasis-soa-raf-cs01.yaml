@@ -1,7 +1,7 @@
 ---
 id: OASISSOARAFCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,32 +58,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - klaskey@mitre.org
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ken
-      surname:
-        language: en
-        script: Latn
-        content: Laskey
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://mitre.org/
-        name:
-        - content: MITRE Corporation
-- role:
-  - type: editor
-  person:
-    email:
-    - peter@peterfbrown.com
     name:
       forename:
       - language: en
@@ -96,8 +71,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - jeffrey.a.estefan@jpl.nasa.gov
     name:
       forename:
       - language: en
@@ -106,70 +79,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: A.
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.jpl.nasa.gov/
-        name:
-        - content: Jet Propulsion Laboratory
-- role:
-  - type: editor
-  person:
-    email:
-    - klaskey@mitre.org
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ken
-      surname:
-        language: en
-        script: Latn
-        content: Laskey
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
-- role:
-  - type: editor
-  person:
-    email:
-    - fmccabe@gmail.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Francis
-      surname:
-        language: en
-        script: Latn
-        content: G.
-- role:
-  - type: editor
-  person:
-    email:
-    - danny.thornton@ngc.com.org
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Danny
-      surname:
-        language: en
-        script: Latn
-        content: Thornton
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.northropgrumman.com/
-        name:
-        - content: Northrop Grumman
+        content: A
 language:
 - en
 script:
@@ -184,7 +94,7 @@ abstract:
     It has three main views: the Participation in a SOA Ecosystem view which focuses on the way that participants are part of a Service Oriented Architecture ecosystem; the Realization of a SOA Ecosystem view which addresses the requirements for constructing a SOA-based system in a SOA ecosystem; and the Ownership in a SOA Ecosystem view which focuses on what is meant to own a SOA-based system.
     The SOA-RAF is of value to Enterprise Architects, Business and IT Architects as well as CIOs and other senior executives involved in strategic business and IT planning.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

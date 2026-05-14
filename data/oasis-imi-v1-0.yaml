@@ -1,7 +1,7 @@
 ---
 id: OASISIMIv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/imi
+      content: https://www.oasis-open.org/committees/imi
     name:
     - content: Identity Metasystem Interoperability (IMI) TC
 - role:
@@ -63,7 +63,7 @@ abstract:
     An Identity Selector and the associated identity system components allow users to manage their Digital Identities from different Identity Providers, and employ them in various contexts to access online services.  In this specification, identities are represented to users as “Information Cards”.  Information Cards can be used both at applications hosted on Web sites accessed through Web browsers and rich client applications directly employing Web services.
     This specification also provides a related mechanism to describe security-verifiable identity for endpoints by leveraging extensibility of the WS-Addressing specification.  This is achieved via XML [XML 1.0] elements for identity provided as part of WS-Addressing Endpoint References.  This mechanism enables messaging systems to support multiple trust models across networks that include processing nodes such as endpoint managers, firewalls, and gateways in a transport-neutral manner.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLholderofkeyassertv10CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,18 @@ contributor:
     - name:
       - content: OASIS Security Services (SAML) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Scavo
 language:
 - en
 script:
@@ -68,7 +80,7 @@ abstract:
     material used by the SAML issuer and the matching data used by the relying party
     are obtained from an X.509 certificate.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

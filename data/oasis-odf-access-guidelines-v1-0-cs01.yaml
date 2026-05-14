@@ -1,7 +1,7 @@
 ---
 id: OASISODFAccessGuidelinesv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -56,6 +56,30 @@ contributor:
       - content: OASIS Open Document Format for Office Applications (OpenDocument)
           TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Korn
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Schwerdtfeger
 language:
 - en
 script:
@@ -67,7 +91,7 @@ abstract:
     format, to promote and preserve accessible ODF documents. This guide is not a
     comprehensive guide for content mapping to platform accessibility APIs.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

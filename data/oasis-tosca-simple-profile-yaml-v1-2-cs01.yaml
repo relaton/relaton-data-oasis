@@ -1,7 +1,7 @@
 ---
 id: OASISTOSCASimpleProfileYAMLv12CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -59,55 +59,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - paul.lipton@ca.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Paul
-      surname:
-        language: en
-        script: Latn
-        content: Lipton
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ca.com/
-        name:
-        - content: CA Technologies
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - smoser@de.ibm.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Simon
-      surname:
-        language: en
-        script: Latn
-        content: Moser
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com/
-        name:
-        - content: IBM
-- role:
-  - type: editor
-  person:
-    email:
-    - mrutkows@us.ibm.com
     name:
       forename:
       - language: en
@@ -117,18 +69,9 @@ contributor:
         language: en
         script: Latn
         content: Rutkowski
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com/
-        name:
-        - content: IBM
 - role:
   - type: editor
   person:
-    email:
-    - luc.boutier@fastconnect.fr
     name:
       forename:
       - language: en
@@ -138,18 +81,9 @@ contributor:
         language: en
         script: Latn
         content: Boutier
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fastconnect.fr/
-        name:
-        - content: FastConnect
 - role:
   - type: editor
   person:
-    email:
-    - lauwers@ubicity.com
     name:
       forename:
       - language: en
@@ -172,7 +106,7 @@ abstract:
     reduced level of indirection between different modeling artifacts as well as the
     assumption of a base type system.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

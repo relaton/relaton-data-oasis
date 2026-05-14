@@ -1,7 +1,7 @@
 ---
 id: OASISDocBook50
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/docbook
+      content: https://www.oasis-open.org/committees/docbook
     name:
     - content: OASIS DocBook TC
 - role:
@@ -48,6 +48,18 @@ contributor:
     - name:
       - content: OASIS DocBook TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Norman
+      surname:
+        language: en
+        script: Latn
+        content: Walsh
 language:
 - en
 script:
@@ -62,12 +74,14 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS DocBook-5.0-Pt
+    formattedref:
+      content: OASIS DocBook-5.0-Pt
 - type: hasPart
   bibitem:
-    formattedref: OASIS DocBook-5.0-Errata01
+    formattedref:
+      content: OASIS DocBook-5.0-Errata01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISODataJSONFormatv401
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,34 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - ralf.handl@sap.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ralf
-      surname:
-        language: en
-        script: Latn
-        content: Handl
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sap.com
-        name:
-        - content: SAP SE
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - mikep@microsoft.com
     name:
       forename:
       - language: en
@@ -94,13 +67,30 @@ contributor:
         language: en
         script: Latn
         content: Pizzo
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com
-        name:
-        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ralf
+      surname:
+        language: en
+        script: Latn
+        content: Handl
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mark
+      surname:
+        language: en
+        script: Latn
+        content: Biamonte
 language:
 - en
 script:
@@ -114,7 +104,7 @@ abstract:
     This document extends the core specification by defining representations for OData
     requests and responses using a JSON format.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISsoatelreqCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - enrico.ronco@telecomitalia.it
     name:
       forename:
       - language: en
@@ -70,21 +66,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Ronco,
-- role:
-  - type: editor
-  person:
-    email:
-    - enrico.ronco@telecomitalia.it
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Enrico
-      surname:
-        language: en
-        script: Latn
-        content: Ronco,
+        content: Ronco
 language:
 - en
 script:
@@ -96,7 +78,7 @@ abstract:
     Collecting requirements related to technical issues and gaps of SOA standards (specified by OASIS and other SDOs) utilized within the context of Telecoms. Such technical issues are documented in SOA-TEL’s TC first deliverable “Telecom Use Cases and Issues, v.1.0”.
     For each of the issues within the “Telecom Use Cases and Issues, v.1.0”, specific requirements are provided within this document. Where possible, non prescriptive solution proposals to the identified issues and requirements are also described, in order to possibly assist those Technical Committees (within OASIS and other SDOs) responsible for the development and maintenance of the SOA related standards.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

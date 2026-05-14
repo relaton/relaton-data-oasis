@@ -1,7 +1,7 @@
 ---
 id: OASISOBIXSOAPv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,32 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - toby.considine@unc.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Toby
-      surname:
-        language: en
-        script: Latn
-        content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu/
-        name:
-        - content: University of North Carolina at Chapel Hill
-- role:
-  - type: editor
-  person:
-    email:
-    - mjung@auto.tuwien.ac.at
     name:
       forename:
       - language: en
@@ -92,13 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Jung
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.auto.tuwien.ac.at/
-        name:
-        - content: Institute of Computer Aided Automation, Vienna University of Technology
 language:
 - en
 script:
@@ -110,7 +78,7 @@ abstract:
     with building control systems. Specific implementations of OBIX must choose how
     to bind OBIX interactions. Specifies SOAP protocol bindings for OBIX.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

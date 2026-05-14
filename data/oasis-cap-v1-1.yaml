@@ -1,7 +1,7 @@
 ---
 id: OASISCAPv11
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,9 +9,9 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://www.oasis-open.org/committees/download.php/15135/emergency-CAPv1.1-Corrected_DOM.pdf
+  content: https://www.oasis-open.org/committees/download.php/15135/emergency-CAPv1.1-Corrected_DOM.pdf
 - type: doc
-  content: http://www.oasis-open.org/committees/download.php/15134/emergency-CAPv1.1-Corrected_DOM.doc
+  content: https://www.oasis-open.org/committees/download.php/15134/emergency-CAPv1.1-Corrected_DOM.doc
 docidentifier:
 - content: OASIS CAP-v1.1
   type: OASIS
@@ -39,7 +39,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/emergency
+      content: https://www.oasis-open.org/committees/emergency
     name:
     - content: OASIS Emergency Management TC
 - role:
@@ -68,7 +68,7 @@ abstract:
     hazard or hostile act. And CAP provides a template for effective warning messages
     based on best practices identified in academic research and real-world experience.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

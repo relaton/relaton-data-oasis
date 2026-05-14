@@ -1,7 +1,7 @@
 ---
 id: OASISentitymgmt
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -39,7 +39,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/entity/
+      content: https://www.oasis-open.org/committees/entity/
     name:
     - content: Entity Resolution TC
 - role:
@@ -76,7 +76,7 @@ abstract:
     entity’s public identifier and/or entity name to a file name, URL, or other storage
     object identifier.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: resolution
   flavor: oasis

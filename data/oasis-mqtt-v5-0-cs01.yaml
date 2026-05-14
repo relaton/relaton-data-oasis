@@ -1,7 +1,7 @@
 ---
 id: OASISmqttv50CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,55 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - brian.raymor@microsoft.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Brian
-      surname:
-        language: en
-        script: Latn
-        content: Raymor
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com
-        name:
-        - content: Microsoft
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - coppen@uk.ibm.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: Coppen
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com
-        name:
-        - content: IBM
-- role:
-  - type: editor
-  person:
-    email:
-    - andrew_banks@uk.ibm.com
     name:
       forename:
       - language: en
@@ -115,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Banks
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com
-        name:
-        - content: IBM
 - role:
   - type: editor
   person:
-    email:
-    - edbriggs@microsoft.com
     name:
       forename:
       - language: en
@@ -136,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Briggs
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com
-        name:
-        - content: Microsoft
 - role:
   - type: editor
   person:
-    email:
-    - kwb@us.ibm.com
     name:
       forename:
       - language: en
@@ -157,18 +91,9 @@ contributor:
         language: en
         script: Latn
         content: Borgendale
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com
-        name:
-        - content: IBM
 - role:
   - type: editor
   person:
-    email:
-    - rahul.gupta@us.ibm.com
     name:
       forename:
       - language: en
@@ -178,13 +103,6 @@ contributor:
         language: en
         script: Latn
         content: Gupta
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com
-        name:
-        - content: IBM
 language:
 - en
 script:
@@ -198,7 +116,7 @@ abstract:
     as for communication in Machine to Machine (M2M) and Internet of Things (IoT)
     contexts.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISSAML20textchallengeCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,30 @@ contributor:
     - name:
       - content: Security Services (SAML) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sharon
+      surname:
+        language: en
+        script: Latn
+        content: Boeyen
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: Wisniewski
 language:
 - en
 script:
@@ -66,7 +90,7 @@ abstract:
     Covers a subset of challenge/response schemes including those that are based on cryptographic functions and time-based tokens. The notion of text-based challenge/response tokens are not covered by any of the current authentication context definitions.
     This document proposes an authentication context class to cover the general case of text-based challenge/response tokens to facilitate signaling their use in SAML. Such schemes include, for example, scratch tokens, numbered list tokens, grid tokens, etc. associated with a challenge/response authentication function. This document also proposes an extension that enables text-based challenge/response token parameters to be specified in relevant authentication contexts. This extension would be included in the  of such contexts.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

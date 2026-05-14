@@ -1,7 +1,7 @@
 ---
 id: OASISSTIXv21CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,34 +57,31 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - rjs@mitre.org
     name:
       forename:
       - language: en
         script: Latn
-        content: Richard
+        content: Bret
       surname:
         language: en
         script: Latn
-        content: Struse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
+        content: Jordan
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - trey.darley@cert.be
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Piazza
+- role:
+  - type: editor
+  person:
     name:
       forename:
       - language: en
@@ -94,13 +91,6 @@ contributor:
         language: en
         script: Latn
         content: Darley
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: https://cert.be/
-        name:
-        - content: CCB/CERT.be
 language:
 - en
 script:
@@ -112,7 +102,7 @@ abstract:
     document defines concepts that apply across all of STIX and defines the overall
     structure of the STIX language.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

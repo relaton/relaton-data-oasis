@@ -1,7 +1,7 @@
 ---
 id: OASISXLIFF21
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/xliff
+      content: https://www.oasis-open.org/committees/xliff
     name:
     - content: OASIS XML Localisation Interchange File Format (XLIFF) TC
 - role:
@@ -55,6 +55,66 @@ contributor:
     - name:
       - content: OASIS XML Localisation Interchange File Format (XLIFF) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Filip
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Comerford
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Soroush
+      surname:
+        language: en
+        script: Latn
+        content: Saadatfar
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Felix
+      surname:
+        language: en
+        script: Latn
+        content: Sasaki
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yves
+      surname:
+        language: en
+        script: Latn
+        content: Savourel
 language:
 - en
 script:
@@ -67,7 +127,7 @@ abstract:
     one step of the localization process to the other, while allowing interoperability
     between and among tools.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

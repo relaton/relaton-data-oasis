@@ -1,7 +1,7 @@
 ---
 id: OASISCAMPv11CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,32 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - martin.chapman@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Martin
-      surname:
-        language: en
-        script: Latn
-        content: Chapman
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-  person:
-    email:
-    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -92,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Durand
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
 - role:
   - type: editor
   person:
-    email:
-    - adrian.otto@rackspace.com
     name:
       forename:
       - language: en
@@ -113,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Otto
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.rackspace.com/
-        name:
-        - content: Rackspace Hosting, Inc.
 - role:
   - type: editor
   person:
-    email:
-    - gilbert.pilz@oracle.com
     name:
       forename:
       - language: en
@@ -134,18 +91,9 @@ contributor:
         language: en
         script: Latn
         content: Pilz
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
 - role:
   - type: editor
   person:
-    email:
-    - trutt@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -155,13 +103,6 @@ contributor:
         language: en
         script: Latn
         content: Rutt
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
 language:
 - en
 script:
@@ -178,7 +119,7 @@ abstract:
     Cloud vendors can use these interfaces to develop new PaaS offerings that will
     interact with independently developed tools and components.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

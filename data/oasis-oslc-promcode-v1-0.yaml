@@ -1,7 +1,7 @@
 ---
 id: OASISOSLCPROMCODEv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -50,6 +50,102 @@ contributor:
       - content: OSLC Lifecycle Integration for Project Management of Contracted Delivery
           (OSLC PROMCODE) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mikio
+      surname:
+        language: en
+        script: Latn
+        content: Aoyama
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yoshio
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Kamimura
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shinji
+      surname:
+        language: en
+        script: Latn
+        content: Matsuoka
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shigeaki
+      surname:
+        language: en
+        script: Latn
+        content: Matsumoto
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Masaki
+      surname:
+        language: en
+        script: Latn
+        content: Wakao
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kazuo
+      surname:
+        language: en
+        script: Latn
+        content: Yabuta
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hiroyuki
+      surname:
+        language: en
+        script: Latn
+        content: Yoshida
 language:
 - en
 script:
@@ -62,15 +158,18 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-PROMCODE-v1.0-Spec-Pt1
+    formattedref:
+      content: OASIS OSLC-PROMCODE-v1.0-Spec-Pt1
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-PROMCODE-v1.0-Vocab-Pt2
+    formattedref:
+      content: OASIS OSLC-PROMCODE-v1.0-Vocab-Pt2
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-PROMCODE-v1.0-Shapes-Pt3
+    formattedref:
+      content: OASIS OSLC-PROMCODE-v1.0-Shapes-Pt3
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

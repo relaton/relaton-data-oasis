@@ -1,7 +1,7 @@
 ---
 id: OASISSAML20contextextCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -56,6 +56,30 @@ contributor:
     - name:
       - content: Security Services (SAML) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Madsen
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ashish
+      surname:
+        language: en
+        script: Latn
+        content: Patel
 language:
 - en
 script:
@@ -67,7 +91,7 @@ abstract:
     Defines an authentication context extension to the SAML 2.0 Authentication Context specification SAMLAC that allows providers to distinguish whether or not the credential by which a principal authenticates to the identity provider is known to be shared amongst a group of users or unique to that user. Two new Authentication Context classes and associated schemas are also introduced to distinguish between these two cases.
     Readers should be familiar with SAMLAC before reading this document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,0 +1,125 @@
+---
+id: OASISDMLex10
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Data Model for Lexicography (DMLex) Version 1.0
+  type: main
+docidentifier:
+- content: OASIS DMLex-1.0
+  type: OASIS
+  primary: true
+docnumber: DMLex-1.0
+date:
+- type: issued
+  at: '2025-04-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/lexidma/
+    name:
+    - content: OASIS Lexicographic Infrastructure Data Model and API (LEXIDMA) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Lexicographic Infrastructure Data Model and API (LEXIDMA) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Filip
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Miloš
+      surname:
+        language: en
+        script: Latn
+        content: Jakubíček
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Simon
+      surname:
+        language: en
+        script: Latn
+        content: Krek
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: McCrae
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michal
+      surname:
+        language: en
+        script: Latn
+        content: Měchura
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This document defines the 1st version of a data model in support of the high-priority technical goals described in the LEXIDMA TC’s charter, including:
+    – A serialization-independent Data Model for Lexicography (DMLex) – An XML serialization of DMLex – A JSON serialization of DMLex – A relational database serialization of DMLex – An RDF serialization of DMLex – An informative NVH serialization of DMLex
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: standard
+  flavor: oasis

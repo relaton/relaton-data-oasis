@@ -1,7 +1,7 @@
 ---
 id: OASISAkomaNtosoNamingv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - fabio@cs.unibo.it
     name:
       forename:
       - language: en
@@ -71,20 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Vitali
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cirsfid.unibo.it/
-        name:
-        - content: University of Bologna-CIRSFID
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - monica.palmirani@unibo.it
     name:
       forename:
       - language: en
@@ -94,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Palmirani
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cirsfid.unibo.it/
-        name:
-        - content: University of Bologna-CIRSFID
 - role:
   - type: editor
   person:
-    email:
-    - V.PARISSE@aubay.lu
     name:
       forename:
       - language: en
@@ -115,13 +91,6 @@ contributor:
         language: en
         script: Latn
         content: Parisse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://aubay.com/
-        name:
-        - content: Aubay S.A.
 language:
 - en
 script:
@@ -133,7 +102,7 @@ abstract:
     XML standard. Id attributes are optional, but whenever attributes ‘eId’ and ‘wId’
     are used, the specifications in this document are mandatory.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

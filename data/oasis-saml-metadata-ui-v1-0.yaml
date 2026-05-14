@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLMetadataUIv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,27 +58,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hardjono@mit.edu
     name:
       forename:
       - language: en
         script: Latn
-        content: Thomas
+        content: Scott
       surname:
         language: en
         script: Latn
-        content: Hardjono
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mit.edu/
-        name:
-        - content: M.I.T.
+        content: Cantor
 language:
 - en
 script:
@@ -90,7 +79,7 @@ abstract:
     for user agents to present effective user interfaces and, in the case of identity
     provider discovery, recommend appropriate choices to the user.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

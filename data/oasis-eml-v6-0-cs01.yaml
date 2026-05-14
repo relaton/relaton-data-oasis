@@ -1,7 +1,7 @@
 ---
 id: OASISEMLv60CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,20 +57,6 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: John
-      surname:
-        language: en
-        script: Latn
-        content: Borras
-- role:
-  - type: editor
   person:
     name:
       forename:
@@ -93,17 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Webber
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: urn:oasis:names:tc:evs:schema:eml
-      surname:
-        language: en
-        script: Latn
 language:
 - en
 script:
@@ -119,7 +94,7 @@ abstract:
     and the use of namespaces, as well as the guidance on the constraints, extendibility,
     and splitting of messages.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

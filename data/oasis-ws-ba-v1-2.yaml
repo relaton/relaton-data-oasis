@@ -1,7 +1,7 @@
 ---
 id: OASISWSBAv12
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -43,7 +43,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ws-tx/
+      content: https://www.oasis-open.org/committees/ws-tx/
     name:
     - content: OASIS Web Services Transaction (WS-TX) TC
 - role:
@@ -72,7 +72,7 @@ abstract:
     Developers can use these protocols when building applications that require consistent
     agreement on the outcome of long-running distributed activities.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

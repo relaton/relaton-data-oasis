@@ -1,7 +1,7 @@
 ---
 id: OASISWSCalendarCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - toby.considine@unc.edu
     name:
       forename:
       - language: en
@@ -71,39 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu
-        name:
-        - content: University of North Carolina at Chapel Hill
 - role:
   - type: editor
   person:
-    email:
-    - toby.considine@unc.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Toby
-      surname:
-        language: en
-        script: Latn
-        content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu
-        name:
-        - content: University of North Carolina at Chapel Hill
-- role:
-  - type: editor
-  person:
-    email:
-    - douglm@rpi.edu
     name:
       forename:
       - language: en
@@ -113,13 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Douglass
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.rpi.edu
-        name:
-        - content: Rensselaer Polytechnic Institute
 language:
 - en
 script:
@@ -140,7 +99,7 @@ abstract:
     3) Web services for calendar update and synchronization
     The Technical Committee has decided not to publish Parts 2 and 3 until a later version.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

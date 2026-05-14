@@ -1,7 +1,7 @@
 ---
 id: OASISOSLCAM21CS01Pt1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -30,6 +30,18 @@ contributor:
       content: https://www.oasis-open.org/
     name:
     - content: OASIS
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jim
+      surname:
+        language: en
+        script: Latn
+        content: Amsden
 language:
 - en
 script:
@@ -37,9 +49,10 @@ script:
 relation:
 - type: partOf
   bibitem:
-    formattedref: OASIS OSLC-AM-2.1-CS01
+    formattedref:
+      content: OASIS OSLC-AM-2.1-CS01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

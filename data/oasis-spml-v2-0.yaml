@@ -1,7 +1,7 @@
 ---
 id: OASISSPMLv20
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: zip
-  content: http://www.oasis-open.org/committees/download.php/17708/pstc-spml-2.0-os.zip
+  content: https://www.oasis-open.org/committees/download.php/17708/pstc-spml-2.0-os.zip
 docidentifier:
 - content: OASIS SPML-v2.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/provision
+      content: https://www.oasis-open.org/committees/provision
     name:
     - content: OASIS Provisioning Services TC
 - role:
@@ -61,7 +61,7 @@ abstract:
   content: Defines an XML-based framework for exchanging user, resource, and service
     provisioning information within and between organizations.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

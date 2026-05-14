@@ -1,7 +1,7 @@
 ---
 id: OASISAttrPredicateV10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,55 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hardjono@mit.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Thomas
-      surname:
-        language: en
-        script: Latn
-        content: Hardjono
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mit.edu/
-        name:
-        - content: M.I.T
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - ndk@internet2.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Nathan
-      surname:
-        language: en
-        script: Latn
-        content: Klingenstein
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.internet2.edu/
-        name:
-        - content: Internet2
-- role:
-  - type: editor
-  person:
-    email:
-    - FRP@zurich.ibm.com
     name:
       forename:
       - language: en
@@ -115,13 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Preiss
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.zurich.ibm.com/
-        name:
-        - content: IBM
 language:
 - en
 script:
@@ -134,7 +79,7 @@ abstract:
     revealing the exact values of these attributes. The profile further defines a
     query format for attribute predicates.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISsksmlv10CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,42 @@ contributor:
     - name:
       - content: OASIS Enterprise Key Management Infrastructure (EKMI) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Allen
+      surname:
+        language: en
+        script: Latn
+        content: Schaaf
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anil
+      surname:
+        language: en
+        script: Latn
+        content: Saldhana
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tomas
+      surname:
+        language: en
+        script: Latn
+        content: Gustavsson
 language:
 - en
 script:
@@ -71,7 +107,7 @@ abstract:
     messages are transported securely over standard HTTP using XML Security (XML Signature
     and XML Encryption).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

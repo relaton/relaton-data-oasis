@@ -1,7 +1,7 @@
 ---
 id: OASISEMLv50
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/election
+      content: https://www.oasis-open.org/committees/election
     name:
     - content: OASIS Election and Voter Services TC
 - role:
@@ -63,7 +63,7 @@ abstract:
     and the use of namespaces, as well as the guidance on the constraints, extendibility,
     and splitting of messages.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

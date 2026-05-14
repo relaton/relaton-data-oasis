@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLXSPAv20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -59,50 +59,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - mohammad.jafari@bookzurman.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Mohammad
+        content: John
       surname:
         language: en
         script: Latn
-        content: Jafari
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.va.gov/
-        name:
-        - content: Veterans Health Administration
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - christopher.shawn2@va.gov)
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Christopher
-      surname:
-        language: en
-        script: Latn
-        content: Shawn
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.va.gov/
-        name:
-        - content: Veterans Health Administration
+        content: M
 language:
 - en
 script:
@@ -113,7 +79,7 @@ abstract:
   content: Defines a set of SAML attributes and corresponding vocabularies for healthcare
     information exchange applications.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

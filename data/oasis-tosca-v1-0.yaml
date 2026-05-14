@@ -1,7 +1,7 @@
 ---
 id: OASISTOSCAv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -42,7 +42,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/tosca/
+      content: https://www.oasis-open.org/committees/tosca/
     name:
     - content: Topology and Orchestration Specification for Cloud Applications (TOSCA)
         TC
@@ -69,7 +69,7 @@ abstract:
     throughout the complete lifecycle (e.g. scaling, patching, monitoring, etc.) when
     the applications are ported over alternative cloud environments.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

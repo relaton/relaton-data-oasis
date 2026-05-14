@@ -1,7 +1,7 @@
 ---
 id: OASISEMLv40
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: zip
-  content: http://www.oasis-open.org/committees/download.php/18158/EML%20v4.0%20-%20OASIS%20Standard.zip
+  content: https://www.oasis-open.org/committees/download.php/18158/EML%20v4.0%20-%20OASIS%20Standard.zip
 docidentifier:
 - content: OASIS EML-v4.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/election
+      content: https://www.oasis-open.org/committees/election
     name:
     - content: OASIS Election and Voter Services TC
 - role:
@@ -66,7 +66,7 @@ abstract:
     and the use of namespaces, as well as the guidance on the constraints, extendibility,
     and splitting of messages.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

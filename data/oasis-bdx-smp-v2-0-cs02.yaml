@@ -1,7 +1,7 @@
 ---
 id: OASISBDXSMPv20CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - kbengtsson@efact.pe
     name:
       forename:
       - language: en
@@ -71,6 +67,41 @@ contributor:
         language: en
         script: Latn
         content: Bengtsson
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Erlend
+      surname:
+        language: en
+        script: Latn
+        content: Klakegg
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sander
+      surname:
+        language: en
+        script: Latn
+        content: Fieten
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: G
+      surname:
+        language: en
+        script: Latn
 language:
 - en
 script:
@@ -91,7 +122,7 @@ abstract:
     or a gateway/access point in the 4-corner network. It also defines the request
     processing that must happen at the client.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISTOSCASimpleProfileYAMLv13
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -59,27 +59,19 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - paul.lipton@live.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Paul
+        content: Matt
       surname:
         language: en
         script: Latn
-        content: Lipton
+        content: Rutkowski
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - lauwers@ubicity.com
     name:
       forename:
       - language: en
@@ -89,6 +81,30 @@ contributor:
         language: en
         script: Latn
         content: Lauwers
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Claude
+      surname:
+        language: en
+        script: Latn
+        content: Noshpitz
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Calin
+      surname:
+        language: en
+        script: Latn
+        content: Curescu
 language:
 - en
 script:
@@ -101,7 +117,7 @@ abstract:
     in order to minimize the learning curve and speed the adoption of the use of TOSCA
     to portably describe cloud applications.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

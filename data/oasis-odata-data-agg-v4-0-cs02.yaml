@@ -1,7 +1,7 @@
 ---
 id: OASISODataDataAggv40CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - ralf.handl@sap.com
     name:
       forename:
       - language: en
@@ -71,62 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Handl
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sap.com/
-        name:
-        - content: SAP AG
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - Ram.Jeyaraman@microsoft.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ram
-      surname:
-        language: en
-        script: Latn
-        content: Jeyaraman
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com/
-        name:
-        - content: Microsoft
 - role:
   - type: editor
   person:
-    email:
-    - ralf.handl@sap.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ralf
-      surname:
-        language: en
-        script: Latn
-        content: Handl
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sap.com/
-        name:
-        - content: SAP AG
-- role:
-  - type: editor
-  person:
-    email:
-    - hubert.heijkers@nl.ibm.com
     name:
       forename:
       - language: en
@@ -136,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Heijkers
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com/
-        name:
-        - content: IBM
 - role:
   - type: editor
   person:
-    email:
-    - gerald.krause@sap.com
     name:
       forename:
       - language: en
@@ -157,18 +91,9 @@ contributor:
         language: en
         script: Latn
         content: Krause
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sap.com/
-        name:
-        - content: SAP AG
 - role:
   - type: editor
   person:
-    email:
-    - mikep@microsoft.com
     name:
       forename:
       - language: en
@@ -178,18 +103,9 @@ contributor:
         language: en
         script: Latn
         content: Pizzo
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com/
-        name:
-        - content: Microsoft
 - role:
   - type: editor
   person:
-    email:
-    - martin.zurmuehl@sap.com
     name:
       forename:
       - language: en
@@ -199,13 +115,6 @@ contributor:
         language: en
         script: Latn
         content: Zurmuehl
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sap.com/
-        name:
-        - content: SAP AG
 language:
 - en
 script:
@@ -217,7 +126,7 @@ abstract:
     to the Open Data Protocol (OData) without changing any of the base principles
     of OData.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

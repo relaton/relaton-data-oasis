@@ -1,0 +1,125 @@
+---
+id: OASISOpenDocumentv14
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Open Document Format for Office Applications (OpenDocument) Version 1.4.
+  type: main
+docidentifier:
+- content: OASIS OpenDocument-v1.4
+  type: OASIS
+  primary: true
+docnumber: OpenDocument-v1.4
+date:
+- type: issued
+  at: '2025-10-06'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=4bf06d41-79ad-4c58-9e8e-018dc7d05da8
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Francis
+      surname:
+        language: en
+        script: Latn
+        content: Cave
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Patrick
+      surname:
+        language: en
+        script: Latn
+        content: Durusau
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Svante
+      surname:
+        language: en
+        script: Latn
+        content: Schubert
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Stahl
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OpenDocument-v1.4-part1
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OpenDocument-v1.4-part2
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OpenDocument-v1.4-part3
+- type: hasPart
+  bibitem:
+    formattedref:
+      content: OASIS OpenDocument-v1.4-part4
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: standard
+  flavor: oasis

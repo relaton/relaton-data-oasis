@@ -1,7 +1,7 @@
 ---
 id: OASISRv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -43,7 +43,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/search-ws/
+      content: https://www.oasis-open.org/committees/search-ws/
     name:
     - content: OASIS Search Web Services TC
 - role:
@@ -67,7 +67,7 @@ abstract:
   content: A set of documents for the OASIS Search Web Services (SWS) initiative.
     This document is the Overview and serves to introduce the full collection of documents.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISODataTemporalv40CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -138,7 +138,7 @@ abstract:
   content: Defines how to represent and interact with time-dependent data using the
     Open Data Protocol (OData).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

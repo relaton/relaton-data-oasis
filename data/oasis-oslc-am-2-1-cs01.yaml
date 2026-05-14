@@ -1,7 +1,7 @@
 ---
 id: OASISOSLCAM21CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -48,6 +48,18 @@ contributor:
     - name:
       - content: OASIS OSLC Lifecycle Integration Domains TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jim
+      surname:
+        language: en
+        script: Latn
+        content: Amsden
 language:
 - en
 script:
@@ -65,12 +77,14 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-AM-2.1-CS01-Pt1
+    formattedref:
+      content: OASIS OSLC-AM-2.1-CS01-Pt1
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-am-2.1-Part2-CS01
+    formattedref:
+      content: OASIS OSLC-am-2.1-Part2-CS01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

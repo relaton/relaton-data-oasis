@@ -1,7 +1,7 @@
 ---
 id: OASISebxmlmsgsrvpart2v30CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,42 @@ contributor:
     - name:
       - content: OASIS ebXML Messaging Services TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jacques
+      surname:
+        language: en
+        script: Latn
+        content: Durand
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sander
+      surname:
+        language: en
+        script: Latn
+        content: Fieten
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Pim
+      surname:
+        language: en
+        script: Latn
+        content: van
 language:
 - en
 script:
@@ -67,7 +103,7 @@ abstract:
     intermediaries (multi-hop) and transfer of (compressed) messages as series of
     smaller message fragments.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

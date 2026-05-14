@@ -1,7 +1,7 @@
 ---
 id: OASISTPBEICS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,43 +58,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - david.holmberg@nist.gov
     name:
       forename:
       - language: en
         script: Latn
-        content: David
+        content: Pim
       surname:
         language: en
         script: Latn
-        content: Holmberg
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nist.gov/
-        name:
-        - content: NIST
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - wtcox@coxsoftwarearchitects.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: William
-      surname:
-        language: en
-        script: Latn
-        content: T.
+        content: van
 language:
 - en
 script:
@@ -109,7 +82,7 @@ abstract:
     This version of this specification specifies standardized exchange of EI messages
     using the AS4 profile of the OASIS ebMS 3.0 OASIS Standard.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

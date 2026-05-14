@@ -1,7 +1,7 @@
 ---
 id: OASISWSRPv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://www.oasis-open.org/committees/download.php/3343/oasis-200304-wsrp-specification-1.0.pdf
+  content: https://www.oasis-open.org/committees/download.php/3343/oasis-200304-wsrp-specification-1.0.pdf
 docidentifier:
 - content: OASIS WSRP-v1.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/wsrp
+      content: https://www.oasis-open.org/committees/wsrp
     name:
     - content: OASIS Web Services for Remote Portlets TC
 - role:
@@ -62,7 +62,7 @@ abstract:
     of compliant remote content and application providers, and integrate them with
     just a few mouse clicks and no programming effort.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

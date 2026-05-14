@@ -1,0 +1,109 @@
+---
+id: OASISLVCSv10CS01
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Lightweight Verifiable Credential Schema Version 1.0
+  type: main
+source:
+- type: doc
+  content: https://docs.oasis-open.org/lvcsp/lvcs/v1.0/cs01/lvcs-v1.0-cs01.docx
+docidentifier:
+- content: OASIS LVCS-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: LVCS-v1.0-CS01
+date:
+- type: issued
+  at: '2025-05-23'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=d518c57f-50d4-4694-aad8-018dc7d3f54c
+    name:
+    - content: OASIS Lightweight Verifiable Credential Schema and Process (LVCSP)
+        TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Lightweight Verifiable Credential Schema and Process (LVCSP)
+          TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Sheppard
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stefan
+      surname:
+        language: en
+        script: Latn
+        content: Hagen
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: '23'
+      surname:
+        language: en
+        script: Latn
+        content: May
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defining a lightweight identity credential schema, based on the W3C Verifiable
+    Credential (VC) standard, to enable individuals (VC subjects) to share their verified
+    identity attestations across different platforms and services.
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: specification
+  flavor: oasis
+  technology_area:
+  - e-Business
+  - Information-Modeling

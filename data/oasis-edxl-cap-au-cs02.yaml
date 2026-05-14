@@ -1,7 +1,7 @@
 ---
 id: OASISEDXLCAPAUCS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,46 +58,19 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - elysajones@yahoo.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Elysa
-      surname:
-        language: en
-        script: Latn
-        content: Jones
-- role:
-  - type: editor
-  person:
-    email:
-    - Gregory.Trott@ag.gov.au
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Greg
+        content: Gret
       surname:
         language: en
         script: Latn
         content: Trott
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ag.gov.au/
-        name:
-        - content: Australian Government Attorney-General's Department
 - role:
   - type: editor
   person:
-    email:
-    - elysajones@yahoo.com
     name:
       forename:
       - language: en
@@ -117,7 +90,7 @@ abstract:
   content: Describes an interpretation of the OASIS CAP v1.2 standard necessary to
     meet the needs of the Australian Government.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

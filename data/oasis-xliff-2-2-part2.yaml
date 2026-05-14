@@ -1,0 +1,45 @@
+---
+id: OASISXLIFF22part2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/xliff/xliff-core/v2.2/xliff-v2.2-part2-extended.html
+docidentifier:
+- content: OASIS XLIFF-2.2-part2
+  type: OASIS
+  primary: true
+docnumber: XLIFF-2.2-part2
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+language:
+- en
+script:
+- Latn
+relation:
+- type: partOf
+  bibitem:
+    formattedref:
+      content: OASIS XLIFF-v2.2
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: standard
+  flavor: oasis
+  technology_area:
+  - Content-Technologies
+  - Localization

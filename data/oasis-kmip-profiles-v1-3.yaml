@@ -1,7 +1,7 @@
 ---
 id: OASISKMIPProfilesv13
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,55 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - saikat.saha@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Saikat
-      surname:
-        language: en
-        script: Latn
-        content: Saha
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - tony.cox@cryptsoft.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Tony
-      surname:
-        language: en
-        script: Latn
-        content: Cox
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://cryptsoft.com/
-        name:
-        - content: Cryptsoft Pty Ltd.
-- role:
-  - type: editor
-  person:
-    email:
-    - tjh@cryptsoft.com
     name:
       forename:
       - language: en
@@ -115,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Hudson
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://cryptsoft.com/
-        name:
-        - content: Cryptsoft Pty Ltd.
 - role:
   - type: editor
   person:
-    email:
-    - Robert.Lockhart@thalesesec.com
     name:
       forename:
       - language: en
@@ -136,46 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Lockhart
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.thales-esecurity.com/
-        name:
-        - content: Thales e-Security
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: This
-      surname:
-        language: en
-        script: Latn
-        content: prose
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/kmip/profiles/v1.3/os/test-cases/kmip-v1.3/mandatory/"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: "·        "
-      surname:
-        language: en
-        script: Latn
-        content: Test
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://docs.oasis-open.org/kmip/profiles/v1.3/os/test-cases/kmip-v1.3/optional/
-        name:
-        - content: http://docs.oasis-open.org/kmip/profiles/v1.3/os/test-cases/kmip-v1.3/optional/
 language:
 - en
 script:
@@ -186,7 +89,7 @@ abstract:
   content: Intended for developers and architects who wish to design systems and applications
     that conform to the Key Management Interoperability Protocol specification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

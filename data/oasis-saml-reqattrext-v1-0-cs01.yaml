@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLReqAttrExtv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,50 +58,52 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hardjono@mit.edu
     name:
       forename:
       - language: en
         script: Latn
-        content: Thomas
+        content: Madalina
       surname:
         language: en
         script: Latn
-        content: Hardjono
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mit.edu/
-        name:
-        - content: MIT
+        content: Sultan
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - ndk@internet2.edu
     name:
       forename:
       - language: en
         script: Latn
-        content: Nate
+        content: Mert
       surname:
         language: en
         script: Latn
-        content: Klingenstein
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.internet2.edu/
-        name:
-        - content: Internet2
+        content: Aybat
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: van
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Martijn
+      surname:
+        language: en
+        script: Latn
+        content: Kaag
 language:
 - en
 script:
@@ -114,7 +116,7 @@ abstract:
     request. This brings more flexibility than existing mechanisms, which are based
     on signaling pre-defined sets of requested attributes.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

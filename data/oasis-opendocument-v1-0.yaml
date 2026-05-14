@@ -1,7 +1,7 @@
 ---
 id: OASISOpenDocumentv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf
+  content: https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf
 docidentifier:
 - content: OASIS OpenDocument-v1.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/office
+      content: https://www.oasis-open.org/committees/office
     name:
     - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
 - role:
@@ -62,7 +62,7 @@ abstract:
   content: An open, XML-based file format for office applications, based on OpenOffice.org
     XML [OOo].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLsubjprofileCS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,18 @@ contributor:
     - name:
       - content: OASIS Security Services TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Scavo
 language:
 - en
 script:
@@ -65,7 +77,7 @@ abstract:
   content: Places constraints upon SAML V1.1 subjects and assertions so that they
     have properties similar to SAML V2.0 subjects and assertions.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

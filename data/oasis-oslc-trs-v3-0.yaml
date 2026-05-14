@@ -1,7 +1,7 @@
 ---
 id: OASISOSLCTRSv30
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -71,7 +71,7 @@ abstract:
     to discover that set of resources, to track additions to and removals from the
     set, and to track state changes to the resources in the set.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

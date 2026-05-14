@@ -1,7 +1,7 @@
 ---
 id: OASISECFWSSIPv50CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -42,7 +42,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/legalxml-courtfiling/
+      content: https://www.oasis-open.org/committees/legalxml-courtfiling/
     name:
     - content: OASIS LegalXML Electronic Court Filing TC
 - role:
@@ -58,11 +58,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jcabral@mtgmc.com
     name:
       forename:
       - language: en
@@ -72,39 +68,9 @@ contributor:
         language: en
         script: Latn
         content: Cabral
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://mtgmc.com/
-        name:
-        - content: MTG Management Consultants
 - role:
   - type: editor
   person:
-    email:
-    - jcabral@mtgmc.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: James
-      surname:
-        language: en
-        script: Latn
-        content: Cabral
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://mtgmc.com/
-        name:
-        - content: MTG Management Consultants
-- role:
-  - type: editor
-  person:
-    email:
-    - GGraham@courts.az.gov
     name:
       forename:
       - language: en
@@ -114,13 +80,18 @@ contributor:
         language: en
         script: Latn
         content: Graham
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.azcourts.gov/
-        name:
-        - content: Arizona Supreme Court
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Philip
+      surname:
+        language: en
+        script: Latn
+        content: Baughman
 language:
 - en
 script:
@@ -133,7 +104,7 @@ abstract:
     Service Interaction Profile may be used to transmit ECF 5.0 messages between Internet-connected
     systems.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

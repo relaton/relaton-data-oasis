@@ -1,7 +1,7 @@
 ---
 id: OASISCOELCOELv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,55 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - joss@activinsights.co.uk
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Joss
-      surname:
-        language: en
-        script: Latn
-        content: Langford
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.activinsights.com/
-        name:
-        - content: Activinsights Ltd
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - David.Snelling@UK.Fujitsu.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: David
-      surname:
-        language: en
-        script: Latn
-        content: Snelling
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
-- role:
-  - type: editor
-  person:
-    email:
-    - Paul.Bruton@tessella.com
     name:
       forename:
       - language: en
@@ -115,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Bruton
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://tessella.com/
-        name:
-        - content: Tessella Ltd.
 - role:
   - type: editor
   person:
-    email:
-    - joss@activinsights.co.uk
     name:
       forename:
       - language: en
@@ -136,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Langford
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.activinsights.com/
-        name:
-        - content: Activinsights Ltd
 - role:
   - type: editor
   person:
-    email:
-    - matt@coelition.org
     name:
       forename:
       - language: en
@@ -157,18 +91,9 @@ contributor:
         language: en
         script: Latn
         content: Reed
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.coelition.org/
-        name:
-        - content: Coelition
 - role:
   - type: editor
   person:
-    email:
-    - Dave.Snelling@UK.Fujitsu.com
     name:
       forename:
       - language: en
@@ -178,13 +103,6 @@ contributor:
         language: en
         script: Latn
         content: Snelling
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
 language:
 - en
 script:
@@ -196,7 +114,7 @@ abstract:
     for the complete implementation of a compliant system. Examples and non-normative
     material are also offered as guidance.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISebXMLRRv40
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/regrep/
+      content: https://www.oasis-open.org/committees/regrep/
     name:
     - content: OASIS ebXML Registry TC
 - role:
@@ -59,7 +59,7 @@ abstract:
     model for an integrated registry and repository. The repository stores digital
     content while the registry stores metadata that describes the content in the repository.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISUnstructuredOperationMarkupLanguagev10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,9 +41,9 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/uoml-x
+      content: https://www.oasis-open.org/committees/uoml-x
     name:
-    - content: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended
+    - content: "OASIS Unstructured Operation\n\t\t\t\t\t\t\tMarkup Language Extended
         (UOML-X) TC"
 - role:
   - type: author
@@ -54,7 +54,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: "OASIS Unstructured Operation\r\n\t\t\t\t\t\t\tMarkup Language Extended
+      - content: "OASIS Unstructured Operation\n\t\t\t\t\t\t\tMarkup Language Extended
           (UOML-X) TC"
       type: technical-committee
 language:
@@ -68,7 +68,7 @@ abstract:
     the definitions of abstract document model and document operating instructions
     to the abstract document model.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

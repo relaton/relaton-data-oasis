@@ -1,7 +1,7 @@
 ---
 id: OASISUIMLv40CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jhelms@harmonia.com
     name:
       forename:
       - language: en
@@ -70,20 +66,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Helms,
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/uiml/ns/uiml4.0"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/uiml/ns/uiml4.0
-      surname:
-        language: en
-        script: Latn
+        content: Helms
 - role:
   - type: editor
   person:
@@ -91,10 +74,59 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: " "
+        content: Robbie
       surname:
         language: en
         script: Latn
+        content: Schaefer
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kris
+      surname:
+        language: en
+        script: Latn
+        content: Luyten
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jean
+      surname:
+        language: en
+        script: Latn
+        content: Vanderdonckt
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jo
+      surname:
+        language: en
+        script: Latn
+        content: Vermeulen
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marc
+      surname:
+        language: en
+        script: Latn
+        content: Abrams
 language:
 - en
 script:
@@ -106,7 +138,7 @@ abstract:
     (UI) suitable for mapping to existing languages. UIML provides a highly device-independent
     method to describe a user interface.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

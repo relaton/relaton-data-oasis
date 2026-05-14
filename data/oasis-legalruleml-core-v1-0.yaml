@@ -1,7 +1,7 @@
 ---
 id: OASISLegalRuleMLCorev10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -138,7 +138,7 @@ abstract:
     of Consumer RuleML 1.02) that is able to represent the particularities of the
     legal normative rules with a rich, articulated, and meaningful mark-up language.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

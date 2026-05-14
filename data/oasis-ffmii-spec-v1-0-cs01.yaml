@@ -1,7 +1,7 @@
 ---
 id: OASISFFMIISPECv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - thinh.nguyenphu@nsn.com
     name:
       forename:
       - language: en
@@ -71,34 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Nguyenphu
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nsn.com/
-        name:
-        - content: Nokia Siemens Networks
-- role:
-  - type: editor
-  person:
-    email:
-    - thinh.nguyenphu@nsn.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Thinh
-      surname:
-        language: en
-        script: Latn
-        content: Nguyenphu
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nsn.com/
-        name:
-        - content: Nokia Siemens Networks
 language:
 - en
 script:
@@ -110,7 +78,7 @@ abstract:
     interface between Enterprise Resource Management System (ERMS) and Field Force
     Management System (FFMS).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

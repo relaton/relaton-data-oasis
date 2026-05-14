@@ -1,7 +1,7 @@
 ---
 id: OASISEnergyInteropv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/energyinterop
+      content: https://www.oasis-open.org/committees/energyinterop
     name:
     - content: OASIS Energy Interoperation TC
 - role:
@@ -57,48 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - david.holmberg@nist.gov
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: David
-      surname:
-        language: en
-        script: Latn
-        content: Holmberg
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nist.gov/
-        name:
-        - content: NIST
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - wtcox@coxsoftwarearchitects.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: William
-      surname:
-        language: en
-        script: Latn
-        content: T.
-- role:
-  - type: editor
-  person:
-    email:
-    - toby.considine@unc.edu
     name:
       forename:
       - language: en
@@ -108,13 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu/
-        name:
-        - content: University of North Carolina at Chapel Hill
 language:
 - en
 script:
@@ -138,7 +90,7 @@ abstract:
     The definition of a price and of reliability information depends on the market context in which it exists. It is not in scope for this TC to define specifications for markets or for pricing models, but the TC has coordinated with others to ensure that commonly used market and pricing models are supported.
     While this specification uses Web Services to describe the services, no requirement or expectation of specific messaging implementation is assumed.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

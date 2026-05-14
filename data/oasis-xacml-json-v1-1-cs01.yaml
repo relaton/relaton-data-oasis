@@ -1,7 +1,7 @@
 ---
 id: OASISxacmljsonv11CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,48 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hal.lockhart@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Hal
-      surname:
-        language: en
-        script: Latn
-        content: Lockhart
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - bill@parducci.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Bill
-      surname:
-        language: en
-        script: Latn
-        content: Parducci
-- role:
-  - type: editor
-  person:
-    email:
-    - david.brossard@axiomatics.com
     name:
       forename:
       - language: en
@@ -108,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Brossard
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.axiomatics.com/
-        name:
-        - content: Axiomatics AB
 - role:
   - type: editor
   person:
-    email:
-    - steven.legg@viewds.com
     name:
       forename:
       - language: en
@@ -129,27 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Legg
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/xacml/3.0/errata01/os/xacml-3.0-core-spec-errata01-os-complete.html"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: "·        "
-      surname:
-        language: en
-        script: Latn
-        content: eXtensible
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-en.html
-        name:
-        - content: http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-en.html
 language:
 - en
 script:
@@ -161,7 +90,7 @@ abstract:
     a policy decision point using JSON. The decision request and response structure
     is specified in the core XACML specification. This profile leverages it.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

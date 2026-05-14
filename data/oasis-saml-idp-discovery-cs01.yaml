@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLidpdiscoveryCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,30 @@ contributor:
     - name:
       - content: OASIS Security Services (SAML) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rod
+      surname:
+        language: en
+        script: Latn
+        content: Widdowson
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Cantor
 language:
 - en
 script:
@@ -67,7 +91,7 @@ abstract:
     service provider with the unique identifier of an identity provider that can authenticate
     a principal.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

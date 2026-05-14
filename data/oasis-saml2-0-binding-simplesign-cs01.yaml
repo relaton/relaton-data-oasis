@@ -1,7 +1,7 @@
 ---
 id: OASISSAML20bindingsimplesignCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,30 @@ contributor:
     - name:
       - content: Security Services (SAML) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jeff
+      surname:
+        language: en
+        script: Latn
+        content: Hodges
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Cantor
 language:
 - en
 script:
@@ -69,7 +93,7 @@ abstract:
     assertions may be individually signed using XMLdsig. Security is optional in this
     binding.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISdxxsprofilevrv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,41 +58,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - cruellas@ac.upc.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Juan
-      surname:
-        language: en
-        script: Latn
-        content: Carlos
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - stefan@drees.name
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Stefan
-      surname:
-        language: en
-        script: Latn
-        content: Drees,
-- role:
-  - type: editor
-  person:
-    email:
-    - detlef.huehnlein@ecsec.desecunet.com
     name:
       forename:
       - language: en
@@ -101,7 +67,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Hühnlein,
+        content: Huhnlein
 language:
 - en
 script:
@@ -114,7 +80,7 @@ abstract:
     verification reports for each signature in a verification request and include
     detailed information of the different steps taken during verification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

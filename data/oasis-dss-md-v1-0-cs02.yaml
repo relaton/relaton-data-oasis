@@ -1,7 +1,7 @@
 ---
 id: OASISDSSMDv10CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,19 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - kuehne@trustable.de
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Detlef
+      surname:
+        language: en
+        script: Latn
+        content: Hühnlein
+- role:
+  - type: editor
+  person:
     name:
       forename:
       - language: en
@@ -71,29 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Kuehne
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - EJvN@Sonnenglanz.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ernst
-      surname:
-        language: en
-        script: Latn
-        content: Jan
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sonnenglanz.net/
-        name:
-        - content: Sonnenglanz Consulting
 language:
 - en
 script:
@@ -104,7 +89,7 @@ abstract:
   content: Defines JSON and XML structures and discovery mechanisms for metadata related
     to digital signature services.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

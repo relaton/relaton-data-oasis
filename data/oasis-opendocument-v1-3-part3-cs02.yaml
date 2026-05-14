@@ -1,7 +1,7 @@
 ---
 id: OASISOpenDocumentv13part3CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -32,34 +32,20 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: authorizer
-    description:
-    - content: Committee
-  organization:
-    uri:
-    - type: uri
-      content: https://www.oasis-open.org/committees/office/
+  - type: editor
+  person:
     name:
-    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: OASIS
-    subdivision:
-    - name:
-      - content: OASIS Open Document Format for Office Applications (OpenDocument)
-          TC
-      type: technical-committee
+      forename:
+      - language: en
+        script: Latn
+        content: Francis
+      surname:
+        language: en
+        script: Latn
+        content: Cave
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - patrick@durusau.net
     name:
       forename:
       - language: en
@@ -71,42 +57,39 @@ contributor:
         content: Durusau
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jos.vanden.oever@logius.nl
     name:
       forename:
       - language: en
         script: Latn
-        content: Jos
+        content: Svante
       surname:
         language: en
         script: Latn
-        content: van
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.logius.nl/
-        name:
-        - content: Logius
+        content: Schubert
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Stahl
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: This document is Part 3 of the Open Document Format for Office Applications
-    (OpenDocument) Version 1.3 specification.
 relation:
 - type: partOf
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-CS02
+    formattedref:
+      content: OASIS OpenDocument-v1.3-CS02
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

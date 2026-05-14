@@ -1,7 +1,7 @@
 ---
 id: OASISUBLNDRv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://www.oasis-open.org/committees/download.php/10323/cd-UBL-NDR-1.0Rev1c.pdf
+  content: https://www.oasis-open.org/committees/download.php/10323/cd-UBL-NDR-1.0Rev1c.pdf
 docidentifier:
 - content: OASIS UBL-NDR-v1.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ubl
+      content: https://www.oasis-open.org/committees/ubl
     name:
     - content: OASIS Universal Business Language TC
 - role:
@@ -61,7 +61,7 @@ abstract:
   content: Documents the naming and design rules and guidelines for the construction
     of XML components for the UBL vocabulary.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

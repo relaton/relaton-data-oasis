@@ -1,7 +1,7 @@
 ---
 id: OASISOSLC
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -62,30 +62,38 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-Core-3.0-Part1
+    formattedref:
+      content: OASIS OSLC-Core-3.0-Part1
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-Discovery-3.0-Pt2
+    formattedref:
+      content: OASIS OSLC-Discovery-3.0-Pt2
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-ResourcePreview-3.0-Pt3
+    formattedref:
+      content: OASIS OSLC-ResourcePreview-3.0-Pt3
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-Dialogs-3.0-Pt4
+    formattedref:
+      content: OASIS OSLC-Dialogs-3.0-Pt4
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-Attachments-3.0-Pt5
+    formattedref:
+      content: OASIS OSLC-Attachments-3.0-Pt5
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-Shapes-3.0-Pt6
+    formattedref:
+      content: OASIS OSLC-Shapes-3.0-Pt6
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-CoreVocab-3.0-Pt7
+    formattedref:
+      content: OASIS OSLC-CoreVocab-3.0-Pt7
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-CoreShapes-3.0-Pt8
+    formattedref:
+      content: OASIS OSLC-CoreShapes-3.0-Pt8
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

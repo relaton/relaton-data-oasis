@@ -1,7 +1,7 @@
 ---
 id: OASISOSLCRM21
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -64,15 +64,18 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-RM-2.1-Part1
+    formattedref:
+      content: OASIS OSLC-RM-2.1-Part1
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-RM-2.1-Part2
+    formattedref:
+      content: OASIS OSLC-RM-2.1-Part2
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-RM-2.1-Part3
+    formattedref:
+      content: OASIS OSLC-RM-2.1-Part3
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

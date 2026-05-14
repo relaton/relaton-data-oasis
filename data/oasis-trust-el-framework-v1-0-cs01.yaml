@@ -1,7 +1,7 @@
 ---
 id: OASIStrustelframeworkv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -59,96 +59,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - abbie.barbir@bankofamerica.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Abbie
-      surname:
-        language: en
-        script: Latn
-        content: Barbir
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.bankofamerica.com/
-        name:
-        - content: Bank of America
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - don@openidentityexchange.org
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Don
-      surname:
-        language: en
-        script: Latn
-        content: Thibeau
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.openidentityexchange.org/
-        name:
-        - content: Open Identity Exchange
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Abbie
-      surname:
-        language: en
-        script: Latn
-        content: Barbir,
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Don
-      surname:
-        language: en
-        script: Latn
-        content: Thibeau,
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: " "
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    email:
-    - peter.alterman@nih.gov
     name:
       forename:
       - language: en
@@ -158,18 +69,9 @@ contributor:
         language: en
         script: Latn
         content: Alterman
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.safe-biopharma.org/
-        name:
-        - content: SAFE-BioPharma Assn
 - role:
   - type: editor
   person:
-    email:
-    - shaheen.abduljabbar@jpmchase.com
     name:
       forename:
       - language: en
@@ -179,18 +81,9 @@ contributor:
         language: en
         script: Latn
         content: Abdul
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.jpmorganchase.com/
-        name:
-        - content: JPMorgan Chase Bank, N.A.
 - role:
   - type: editor
   person:
-    email:
-    - abbie.barbir@bankofamerica.com
     name:
       forename:
       - language: en
@@ -200,18 +93,9 @@ contributor:
         language: en
         script: Latn
         content: Barbir
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.bankofamerica.com/
-        name:
-        - content: Bank of America
 - role:
   - type: editor
   person:
-    email:
-    - mary@meristic.com
     name:
       forename:
       - language: en
@@ -221,18 +105,9 @@ contributor:
         language: en
         script: Latn
         content: Ruddy
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.identitycommons.net/
-        name:
-        - content: Identity Commons
 - role:
   - type: editor
   person:
-    email:
-    - steveo@luminagroup.com
     name:
       forename:
       - language: en
@@ -260,7 +135,7 @@ abstract:
     or models, message exchange patterns or models, and such other elements as the
     TC deems useful.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

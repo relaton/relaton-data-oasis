@@ -1,6 +1,4 @@
 ---
-- :id: OASIS TOSCA-v2.0-CS01
-  :file: data/oasis-tosca-v2-0-cs01.yaml
 - :id: OASIS amqp-core
   :file: data/oasis-amqp-core.yaml
 - :id: OASIS amqp-core-overview-v1.0-Pt0
@@ -159,6 +157,10 @@
   :file: data/oasis-dita-v1-3-errata01.yaml
 - :id: OASIS DITA-v1.3-Errata02
   :file: data/oasis-dita-v1-3-errata02.yaml
+- :id: OASIS DMLex-1.0
+  :file: data/oasis-dmlex-1-0.yaml
+- :id: OASIS DMLex-1.0-CS01
+  :file: data/oasis-dmlex-1-0-cs01.yaml
 - :id: OASIS DPWS-v1.1
   :file: data/oasis-dpws-v1-1.yaml
 - :id: OASIS DSS-v2.0-CS01
@@ -265,6 +267,8 @@
   :file: data/oasis-edxl-sitrep-cs02.yaml
 - :id: OASIS OBIX-Encodings-CS01
   :file: data/oasis-obix-encodings-cs01.yaml
+- :id: OASIS Energyinterop-CTS-v1.0-CS01
+  :file: data/oasis-energyinterop-cts-v1-0-cs01.yaml
 - :id: OASIS EnergyInterop-v1.0
   :file: data/oasis-energyinterop-v1-0.yaml
 - :id: OASIS EMIX-v1.0-CS02
@@ -371,6 +375,8 @@
   :file: data/oasis-legalruleml-core-v1-0-cs02.yaml
 - :id: OASIS LegalRuleML-Core-v1.0
   :file: data/oasis-legalruleml-core-v1-0.yaml
+- :id: OASIS LVCS-v1.0-CS01
+  :file: data/oasis-lvcs-v1-0-cs01.yaml
 - :id: OASIS Message-Annotations-v1.0-CS01
   :file: data/oasis-message-annotations-v1-0-cs01.yaml
 - :id: OASIS SAML-QR
@@ -393,6 +399,10 @@
   :file: data/oasis-mqtt-v5-0.yaml
 - :id: OASIS NIEM-M-v6.0-PS01
   :file: data/oasis-niem-m-v6-0-ps01.yaml
+- :id: OASIS NIEM-Model-v6.0
+  :file: data/oasis-niem-model-v6-0.yaml
+- :id: OASIS NIEM-NDR-v6.0-PS01
+  :file: data/oasis-niem-ndr-v6-0-ps01.yaml
 - :id: OASIS CTAS-v3.0]-PS01
   :file: data/oasis-ctas-v3-0]-ps01.yaml
 - :id: OASIS dxxs-profile-vr-v1.0-CS01
@@ -417,6 +427,8 @@
   :file: data/oasis-odata-data-agg-v4-0-cs02.yaml
 - :id: OASIS OData-Data-Agg-v4.0-CS03
   :file: data/oasis-odata-data-agg-v4-0-cs03.yaml
+- :id: OASIS OData-Data-Agg-v4.0-CS04
+  :file: data/oasis-odata-data-agg-v4-0-cs04.yaml
 - :id: OASIS OData-Temporal-v4.0-CS01
   :file: data/oasis-odata-temporal-v4-0-cs01.yaml
 - :id: OASIS OData-JSON-Format-v4.0
@@ -481,6 +493,18 @@
   :file: data/oasis-opendocument-v1-3-part3.yaml
 - :id: OASIS OpenDocument-v1.3-part4
   :file: data/oasis-opendocument-v1-3-part4.yaml
+- :id: OASIS OpenDocument-v1.4-CS01
+  :file: data/oasis-opendocument-v1-4-cs01.yaml
+- :id: OASIS OpenDocument-v1.4-part1
+  :file: data/oasis-opendocument-v1-4-part1.yaml
+- :id: OASIS OpenDocument-v1.4-part2
+  :file: data/oasis-opendocument-v1-4-part2.yaml
+- :id: OASIS OpenDocument-v1.4-part3
+  :file: data/oasis-opendocument-v1-4-part3.yaml
+- :id: OASIS OpenDocument-v1.4-part4
+  :file: data/oasis-opendocument-v1-4-part4.yaml
+- :id: OASIS OpenDocument-v1.4
+  :file: data/oasis-opendocument-v1-4.yaml
 - :id: OASIS ODF-Access-Guidelines-v1.0-CS01
   :file: data/oasis-odf-access-guidelines-v1-0-cs01.yaml
 - :id: OASIS OpenDocument-v1.0
@@ -723,10 +747,14 @@
   :file: data/oasis-pkcs-p-v3-1-cs01.yaml
 - :id: OASIS PKCS-P-v3.1
   :file: data/oasis-pkcs-p-v3-1.yaml
+- :id: OASIS PKCS11-Profiles-v3.2-CS01
+  :file: data/oasis-pkcs11-profiles-v3-2-cs01.yaml
 - :id: OASIS PKCS-S-v3.1-CS01
   :file: data/oasis-pkcs-s-v3-1-cs01.yaml
 - :id: OASIS PKCS-S-v3.1
   :file: data/oasis-pkcs-s-v3-1.yaml
+- :id: OASIS PKCS11-Spec-v3.2-CS01
+  :file: data/oasis-pkcs11-spec-v3-2-cs01.yaml
 - :id: OASIS PMRM-v1.0-CS02
   :file: data/oasis-pmrm-v1-0-cs02.yaml
 - :id: OASIS PLCS-DEXLIB-VR5-CS01
@@ -985,6 +1013,8 @@
   :file: data/oasis-tosca-simple-profile-yaml-v1-3-cs01.yaml
 - :id: OASIS TOSCA-Simple-Profile-YAML-v1.3
   :file: data/oasis-tosca-simple-profile-yaml-v1-3.yaml
+- :id: OASIS TOSCA-v2.0-CS01
+  :file: data/oasis-tosca-v2-0-cs01.yaml
 - :id: OASIS TGF-v1.0
   :file: data/oasis-tgf-v1-0.yaml
 - :id: OASIS TGF-v2.0-CS01
@@ -1149,6 +1179,10 @@
   :file: data/oasis-xacml-3-0-nested-ent-v1-0-cs01.yaml
 - :id: OASIS xacml-3.0-nested-ent-v1.0-CS02
   :file: data/oasis-xacml-3-0-nested-ent-v1-0-cs02.yaml
+- :id: OASIS xacml-3.0-nested-ent-v1.0-CS03
+  :file: data/oasis-xacml-3-0-nested-ent-v1-0-cs03.yaml
+- :id: OASIS XACML-Duties-v1.0-CS01
+  :file: data/oasis-xacml-duties-v1-0-cs01.yaml
 - :id: OASIS xacml-time-ext-v1.0-CS01
   :file: data/oasis-xacml-time-ext-v1-0-cs01.yaml
 - :id: OASIS xacml-3.0-dsig-v1.0-CS02
@@ -1157,6 +1191,12 @@
   :file: data/oasis-xliff-v2-0.yaml
 - :id: OASIS XLIFF-2.1
   :file: data/oasis-xliff-2-1.yaml
+- :id: OASIS XLIFF-v2.2
+  :file: data/oasis-xliff-v2-2.yaml
+- :id: OASIS XLIFF-2.2-part1
+  :file: data/oasis-xliff-2-2-part1.yaml
+- :id: OASIS XLIFF-2.2-part2
+  :file: data/oasis-xliff-2-2-part2.yaml
 - :id: OASIS XML-C-v1.1
   :file: data/oasis-xml-c-v1-1.yaml
 - :id: OASIS XCBF-v1.1

@@ -1,7 +1,7 @@
 ---
 id: OASISebXMLBPSSTSv204
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -39,7 +39,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ebxml-bp/
+      content: https://www.oasis-open.org/committees/ebxml-bp/
     name:
     - content: OASIS ebXML Business Process TC
 - role:
@@ -64,7 +64,7 @@ abstract:
     automation and predictable exchange of Business Collaboration definitions using
     XML.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

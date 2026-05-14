@@ -1,7 +1,7 @@
 ---
 id: OASISUDDIv2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/uddi-spec
+      content: https://www.oasis-open.org/committees/uddi-spec
     name:
     - content: OASIS UDDI Specifications TC
 - role:
@@ -60,7 +60,7 @@ abstract:
     primary audience for this document is programmers who want to write software that
     will directly interact with a UDDI Operator Site.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

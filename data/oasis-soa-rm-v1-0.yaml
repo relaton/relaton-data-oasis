@@ -1,7 +1,7 @@
 ---
 id: OASISSOARMv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/soa-rm
+      content: https://www.oasis-open.org/committees/soa-rm
     name:
     - content: OASIS SOA Reference Model TC
 - role:
@@ -67,7 +67,7 @@ abstract:
     A reference model is not directly tied to any standards, technologies or other concrete implementation details. It does seek to provide a common semantics that can be used unambiguously across and between different implementations. The relationship between the Reference Model and particular architectures, technologies and other aspects of SOA is illustrated in Figure 1.
     While service-orientation may be a popular concept found in a broad variety of applications, this reference model focuses on the field of software architecture. The concepts and relationships described may apply to other “service” environments; however, this specification makes no attempt to completely account for use outside of the software domain.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

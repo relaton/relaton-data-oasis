@@ -1,7 +1,7 @@
 ---
 id: OASISUBLcustomizationCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,34 +57,6 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jon
-      surname:
-        language: en
-        script: Latn
-        content: Bosak
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Tim
-      surname:
-        language: en
-        script: Latn
-        content: McGrath
-- role:
-  - type: editor
   person:
     name:
       forename:
@@ -126,23 +98,10 @@ contributor:
       forename:
       - language: en
         script: Latn
-        content: G.
+        content: G
       surname:
         language: en
         script: Latn
-        content: Ken
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jon
-      surname:
-        language: en
-        script: Latn
-        content: Bosak
 language:
 - en
 script:
@@ -153,7 +112,7 @@ abstract:
   content: Provides practical guidance in creating UBL-conformant and UBL-compatible
     document schemas.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,0 +1,74 @@
+---
+id: OASISEnergyinteropCTSv10CS01
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Energy Interoperation Common Transactive Services (CTS) Version 1.0
+  type: main
+source:
+- type: pdf
+  content: https://docs.oasis-open.org/energyinterop/ei-cts/v1.0/cs01/ei-cts-v1.0-cs01.pdf
+docidentifier:
+- content: OASIS Energyinterop-CTS-v1.0-CS01
+  type: OASIS
+  primary: true
+docnumber: Energyinterop-CTS-v1.0-CS01
+date:
+- type: issued
+  at: '2025-09-02'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://groups.oasis-open.org/higherlogic/ws/public/workgroup?wg_id=d3a22f3f-887d-465e-bb0f-018dc7d3f405
+    name:
+    - content: OASIS Energy Interoperation TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Energy Interoperation TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: specification
+  flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISWv21
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/cgmo-webcgm
+      content: https://www.oasis-open.org/committees/cgmo-webcgm
     name:
     - content: OASIS CGM Open WebCGM TC
 - role:
@@ -64,7 +64,7 @@ abstract:
     It represents a significant interoperability agreement amongst major users and
     implementers of the ISO CGM standard.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

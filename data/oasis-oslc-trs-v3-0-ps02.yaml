@@ -1,7 +1,7 @@
 ---
 id: OASISOSLCTRSv30PS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -62,15 +62,18 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-TRS-v3.0-PS02-Pt1
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS02-Pt1
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-TRS-v3.0-PS02-Pt2
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS02-Pt2
 - type: hasPart
   bibitem:
-    formattedref: OASIS OSLC-TRS-v3.0-PS02-Pt3
+    formattedref:
+      content: OASIS OSLC-TRS-v3.0-PS02-Pt3
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

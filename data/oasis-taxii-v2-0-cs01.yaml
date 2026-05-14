@@ -1,7 +1,7 @@
 ---
 id: OASISTAXIIv20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,32 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - Richard.Struse@hq.dhs.gov
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: Struse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.dhs.gov/office-cybersecurity-and-communications
-        name:
-        - content: DHS Office of Cybersecurity and Communications (CS&C)
-- role:
-  - type: editor
-  person:
-    email:
-    - jwunder@mitre.org
     name:
       forename:
       - language: en
@@ -92,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Wunder
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: https://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - Mark.Davidson@nc4.com
     name:
       forename:
       - language: en
@@ -113,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Davidson
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nc4.com/
-        name:
-        - content: NC4
 - role:
   - type: editor
   person:
-    email:
-    - bret_jordan@symantec.com
     name:
       forename:
       - language: en
@@ -134,13 +91,6 @@ contributor:
         language: en
         script: Latn
         content: Jordan
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.symantec.com/
-        name:
-        - content: Symantec Corp.
 language:
 - en
 script:
@@ -153,7 +103,7 @@ abstract:
     API and its resources along with the requirements for TAXII Client and Server
     implementations.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

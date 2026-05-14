@@ -1,7 +1,7 @@
 ---
 id: OASISCMISv11PlusErrata01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -32,26 +32,29 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: authorizer
-    description:
-    - content: Committee
-  organization:
-    uri:
-    - type: uri
-      content: http://www.oasis-open.org/committees/cmis/ipr.php
+  - type: editor
+  person:
     name:
-    - content: http://www.oasis-open.org/committees/cmis/ipr.php
+      forename:
+      - language: en
+        script: Latn
+        content: Florian
+      surname:
+        language: en
+        script: Latn
+        content: Müller
 - role:
-  - type: author
-    description:
-    - content: committee
-  organization:
+  - type: editor
+  person:
     name:
-    - content: OASIS
-    subdivision:
-    - name:
-      - content: http://www.oasis-open.org/committees/cmis/ipr.php
-      type: technical-committee
+      forename:
+      - language: en
+        script: Latn
+        content: Ken
+      surname:
+        language: en
+        script: Latn
+        content: Baclawski
 language:
 - en
 script:
@@ -59,9 +62,10 @@ script:
 relation:
 - type: partOf
   bibitem:
-    formattedref: OASIS CMIS-v1.1
+    formattedref:
+      content: OASIS CMIS-v1.1
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

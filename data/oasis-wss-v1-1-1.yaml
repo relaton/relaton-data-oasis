@@ -1,7 +1,7 @@
 ---
 id: OASISWSSv111
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/wss-m/
+      content: https://www.oasis-open.org/committees/wss-m/
     name:
     - content: OASIS Web Services Security Maintenance TC
 - role:
@@ -58,7 +58,7 @@ abstract:
   content: Describes how to use various security and rights tokens ISO/IEC 21000-5
     Rights Expressions with the Web Services Security (WSS) specification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISXCBFv11
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/xcbf
+      content: https://www.oasis-open.org/committees/xcbf
     name:
     - content: OASIS XML Common Biometric Format TC
 - role:
@@ -63,7 +63,7 @@ abstract:
     are based on the ASN.1 schema defined in ANSI X9.84 Biometric Information Management
     and Security.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

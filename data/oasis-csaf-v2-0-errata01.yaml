@@ -1,7 +1,7 @@
 ---
 id: OASIScsafv20Errata01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -30,6 +30,42 @@ contributor:
       content: https://www.oasis-open.org/
     name:
     - content: OASIS
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Langley
+      surname:
+        language: en
+        script: Latn
+        content: Rock
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stefan
+      surname:
+        language: en
+        script: Latn
+        content: Hagen
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thomas
+      surname:
+        language: en
+        script: Latn
+        content: Schmidt
 language:
 - en
 script:
@@ -37,9 +73,10 @@ script:
 relation:
 - type: partOf
   bibitem:
-    formattedref: OASIS csaf-v2.0
+    formattedref:
+      content: OASIS csaf-v2.0
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

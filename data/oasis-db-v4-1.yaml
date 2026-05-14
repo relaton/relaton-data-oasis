@@ -1,7 +1,7 @@
 ---
 id: OASISDBv41
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,35 +9,35 @@ title:
   type: main
 source:
 - type: zip
-  content: http://www.oasis-open.org/docbook/sgml/4.1/docbk41.zip
+  content: https://www.oasis-open.org/docbook/sgml/4.1/docbk41.zip
 - type: txt
-  content: http://www.oasis-open.org/docbook/sgml/4.1/readme.txt
+  content: https://www.oasis-open.org/docbook/sgml/4.1/readme.txt
 - type: txt
-  content: http://www.oasis-open.org/docbook/sgml/4.1/41chg.txt
+  content: https://www.oasis-open.org/docbook/sgml/4.1/41chg.txt
 - type: txt
-  content: http://www.oasis-open.org/docbook/sgml/4.1/40chg.txt
+  content: https://www.oasis-open.org/docbook/sgml/4.1/40chg.txt
 - type: txt
-  content: http://www.oasis-open.org/docbook/sgml/4.1/50issues.txt
+  content: https://www.oasis-open.org/docbook/sgml/4.1/50issues.txt
 - type: dtd
-  content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.dtd
+  content: https://www.oasis-open.org/docbook/sgml/4.1/docbook.dtd
 - type: mod
-  content: http://www.oasis-open.org/docbook/sgml/4.1/dbpool.mod
+  content: https://www.oasis-open.org/docbook/sgml/4.1/dbpool.mod
 - type: mod
-  content: http://www.oasis-open.org/docbook/sgml/4.1/dbhier.mod
+  content: https://www.oasis-open.org/docbook/sgml/4.1/dbhier.mod
 - type: mod
-  content: http://www.oasis-open.org/docbook/sgml/4.1/dbnotn.mod
+  content: https://www.oasis-open.org/docbook/sgml/4.1/dbnotn.mod
 - type: mod
-  content: http://www.oasis-open.org/docbook/sgml/4.1/dbcent.mod
+  content: https://www.oasis-open.org/docbook/sgml/4.1/dbcent.mod
 - type: mod
-  content: http://www.oasis-open.org/docbook/sgml/4.1/dbgenent.mod
+  content: https://www.oasis-open.org/docbook/sgml/4.1/dbgenent.mod
 - type: dtd
-  content: http://www.oasis-open.org/docbook/sgml/4.1/cals-tbl.dtd
+  content: https://www.oasis-open.org/docbook/sgml/4.1/cals-tbl.dtd
 - type: dcl
-  content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.dcl
+  content: https://www.oasis-open.org/docbook/sgml/4.1/docbook.dcl
 - type: cat
-  content: http://www.oasis-open.org/docbook/sgml/4.1/docbook.cat
+  content: https://www.oasis-open.org/docbook/sgml/4.1/docbook.cat
 - type: src
-  content: http://www.oasis-open.org/docbook/sgml/4.1/ChangeLog
+  content: https://www.oasis-open.org/docbook/sgml/4.1/ChangeLog
 docidentifier:
 - content: OASIS DB-v4.1
   type: OASIS
@@ -65,7 +65,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/docbook
+      content: https://www.oasis-open.org/committees/docbook
     name:
     - content: OASIS DocBook TC
 - role:
@@ -90,7 +90,7 @@ abstract:
     and papers about computer hardware and software (though it is by no means limited
     to these applications).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

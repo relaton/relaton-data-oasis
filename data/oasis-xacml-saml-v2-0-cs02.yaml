@@ -1,7 +1,7 @@
 ---
 id: OASISXACMLSAMLv20CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,48 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - bill@parducci.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Bill
-      surname:
-        language: en
-        script: Latn
-        content: Parducci
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - hal.lockhart@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Hal
-      surname:
-        language: en
-        script: Latn
-        content: Lockhart
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-  person:
-    email:
-    - erik@axiomatics.com
     name:
       forename:
       - language: en
@@ -108,13 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Rissanen
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.axiomatics.com/
-        name:
-        - content: Axiomatics
 language:
 - en
 script:
@@ -126,7 +78,7 @@ abstract:
     Defines a profile for the integration of the OASIS Security Assertion Markup Language (SAML) Version 2.0 with all versions of XACML.  SAML 2.0 complements XACML functionality in many ways, so a number of somewhat independent functions are described in this profile: 1) use of SAML 2.0 Attribute Assertions with XACML, including the use of SAML Attribute Assertions in a SOAP Header to convey Attributes that can be consumed by an XACML PDP 2) use of SAML to carry XACML authorization decisions, authorization decision queries, and authorization decision responses 3) use of SAML to carry XACML policies, policy queries, and policy query responses 4) use of XACML authorization decisions or policies as Advice in SAML Assertions 5) use of XACML responses in SAML Assertions as authorization tokens.
     Particular implementations may provide only a subset of these functions.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

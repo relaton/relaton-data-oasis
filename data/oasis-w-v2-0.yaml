@@ -1,7 +1,7 @@
 ---
 id: OASISWv20
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/cgmo-webcgm/
+      content: https://www.oasis-open.org/committees/cgmo-webcgm/
     name:
     - content: OASIS CGM Open WebCGM TC
 - role:
@@ -67,7 +67,7 @@ abstract:
     WebCGM 2.0 adds a DOM (API) specification for programmatic access to WebCGM objects, and a specification of an XML Companion File (XCF) architecture, for externalization of non-graphical metadata. WebCGM 2.0, in addition, builds upon and extends the graphical and intelligent content of WebCGM 1.0, delivering functionality that was forecast for WebCGM 1.0, but was postponed in order to get the standard and its implementations to users expeditiously.
     The design criteria for WebCGM aim at a balance between graphical expressive power on the one hand, and simplicity and implementability on the other. A small but powerful set of standardized metadata elements supports the functionalities of hyperlinking and document navigation, picture structuring and layering, and enabling search and query of WebCGM picture content.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

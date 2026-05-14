@@ -1,7 +1,7 @@
 ---
 id: OASISXHEV10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -51,6 +51,17 @@ contributor:
     - name:
       - content: OASIS Business Document Exchange (BDXR) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: G
+      surname:
+        language: en
+        script: Latn
 language:
 - en
 script:
@@ -62,7 +73,7 @@ abstract:
     or containing (as an envelope) a payload of one or more business documents or
     other artifacts.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

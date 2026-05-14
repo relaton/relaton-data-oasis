@@ -1,7 +1,7 @@
 ---
 id: OASISPKCSSv31
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -92,7 +92,7 @@ abstract:
     types, functions and other basic components of the interface and also defines
     mechanisms that are anticipated for use with the current version of PKCS #11.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

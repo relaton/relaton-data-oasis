@@ -1,7 +1,7 @@
 ---
 id: OASISgenericodev10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,25 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - gkholman@CraneSoftwrights.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: G.
-      surname:
-        language: en
-        script: Latn
-        content: Ken
-- role:
-  - type: editor
-  person:
-    email:
-    - abcoates@mileywatts.com
     name:
       forename:
       - language: en
@@ -84,33 +66,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: B.
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/codelist/ns/genericode/1.0/"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/codelist/ns/genericode/1.0/
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/codelist/ns/rule/1.0/"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/codelist/ns/rule/1.0/
-      surname:
-        language: en
-        script: Latn
+        content: B
 language:
 - en
 script:
@@ -121,7 +77,7 @@ abstract:
   content: Describes the OASIS Code List Representation model and W3C XML Schema,
     known collectively as “genericode”.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

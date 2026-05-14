@@ -1,7 +1,7 @@
 ---
 id: OASISebXMLCPPAv2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://www.oasis-open.org/committees/ebxml-cppa/documents/ebcpp-2.0.pdf
+  content: https://www.oasis-open.org/committees/ebxml-cppa/documents/ebcpp-2.0.pdf
 docidentifier:
 - content: OASIS ebXML-CPPA-v2
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ebxml-cppa
+      content: https://www.oasis-open.org/committees/ebxml-cppa
     name:
     - content: OASIS ebXML CPPA TC
 - role:
@@ -62,7 +62,7 @@ abstract:
     Agreement (CPA), a component of the suite of ebXML specifications. A CPP describes
     the message exchange capabilities of a party to a business transaction.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

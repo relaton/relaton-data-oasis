@@ -1,7 +1,7 @@
 ---
 id: OASISPKCS11Basev30
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,50 +57,28 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - tony.cox@cryptsoft.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Tony
+        content: Chris
       surname:
         language: en
         script: Latn
-        content: Cox
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: https://cryptsoft.com/
-        name:
-        - content: Cryptsoft Pty Ltd
+        content: Zimman
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - rrelyea@redhat.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Robert
+        content: Dieter
       surname:
         language: en
         script: Latn
-        content: Relyea
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.redhat.com
-        name:
-        - content: Red Hat
+        content: Bong
 language:
 - en
 script:
@@ -112,7 +90,7 @@ abstract:
     security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic
     token interface” and pronounced as “crypto-key”).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

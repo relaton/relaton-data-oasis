@@ -1,7 +1,7 @@
 ---
 id: OASISWSSecurity2004v10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/wss
+      content: https://www.oasis-open.org/committees/wss
     name:
     - content: OASIS Web Services Security TC
 - role:
@@ -61,7 +61,7 @@ abstract:
   content: Builds on the Web Services security foundations as described in the WS-Security
     specification
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

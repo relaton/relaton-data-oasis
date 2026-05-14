@@ -1,7 +1,7 @@
 ---
 id: OASISecontractsv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,30 @@ contributor:
     - name:
       - content: OASIS LegalXML eContracts TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Laurence
+      surname:
+        language: en
+        script: Latn
+        content: Leff
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Meyer
 language:
 - en
 script:
@@ -70,7 +94,7 @@ abstract:
     ticket contracts, standard form business and consumer contracts and click-through
     agreements.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

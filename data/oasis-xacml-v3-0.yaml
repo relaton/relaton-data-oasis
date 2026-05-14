@@ -1,7 +1,7 @@
 ---
 id: OASISXACMLV30
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/xacml
+      content: https://www.oasis-open.org/committees/xacml
     name:
     - content: OASIS eXtensible Access Control Markup Language (XACML) TC
 - role:
@@ -50,48 +50,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - bill@parducci.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Bill
-      surname:
-        language: en
-        script: Latn
-        content: Parducci
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - hal.lockhart@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Hal
-      surname:
-        language: en
-        script: Latn
-        content: Lockhart
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-  person:
-    email:
-    - erik@axiomatics.com
     name:
       forename:
       - language: en
@@ -101,13 +60,6 @@ contributor:
         language: en
         script: Latn
         content: Rissanen
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.axiomatics.com/
-        name:
-        - content: Axiomatics AB
 language:
 - en
 script:
@@ -119,15 +71,18 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS XACML-V3.0-Pt
+    formattedref:
+      content: OASIS XACML-V3.0-Pt
 - type: hasPart
   bibitem:
-    formattedref: OASIS XACML-v3.0-Errata01
+    formattedref:
+      content: OASIS XACML-v3.0-Errata01
 - type: hasPart
   bibitem:
-    formattedref: OASIS XACML-v3.0-Errata01-complete
+    formattedref:
+      content: OASIS XACML-v3.0-Errata01-complete
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISamqpcore
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/amqp/
+      content: https://www.oasis-open.org/committees/amqp/
     name:
     - content: OASIS Advanced Message Queuing Protocol (AMQP) TC
 - role:
@@ -50,55 +50,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - Ram.Jeyaraman@microsoft.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ram
-      surname:
-        language: en
-        script: Latn
-        content: Jeyaraman
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com
-        name:
-        - content: Microsoft
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - angus.telfer@inetco.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Angus
-      surname:
-        language: en
-        script: Latn
-        content: Telfer
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.inetco.com
-        name:
-        - content: INETCO Systems
-- role:
-  - type: editor
-  person:
-    email:
-    - robert.godfrey@jpmorgan.com
     name:
       forename:
       - language: en
@@ -108,18 +60,9 @@ contributor:
         language: en
         script: Latn
         content: Godfrey
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.jpmorganchase.com
-        name:
-        - content: JPMorgan Chase & Co.
 - role:
   - type: editor
   person:
-    email:
-    - David.Ingham@microsoft.com
     name:
       forename:
       - language: en
@@ -129,18 +72,9 @@ contributor:
         language: en
         script: Latn
         content: Ingham
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com
-        name:
-        - content: Microsoft
 - role:
   - type: editor
   person:
-    email:
-    - rafaels@redhat.com
     name:
       forename:
       - language: en
@@ -150,13 +84,6 @@ contributor:
         language: en
         script: Latn
         content: Schloming
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.redhat.com
-        name:
-        - content: Red Hat
 language:
 - en
 script:
@@ -168,24 +95,30 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS amqp-core-overview-v1.0-Pt0
+    formattedref:
+      content: OASIS amqp-core-overview-v1.0-Pt0
 - type: hasPart
   bibitem:
-    formattedref: OASIS amqp-core-types-v1.0-Pt1
+    formattedref:
+      content: OASIS amqp-core-types-v1.0-Pt1
 - type: hasPart
   bibitem:
-    formattedref: OASIS amqp-core-transport-v1.0-Pt2
+    formattedref:
+      content: OASIS amqp-core-transport-v1.0-Pt2
 - type: hasPart
   bibitem:
-    formattedref: OASIS amqp-core-messaging-v1.0-Pt3
+    formattedref:
+      content: OASIS amqp-core-messaging-v1.0-Pt3
 - type: hasPart
   bibitem:
-    formattedref: OASIS amqp-core-transactions-v1.0-Pt4
+    formattedref:
+      content: OASIS amqp-core-transactions-v1.0-Pt4
 - type: hasPart
   bibitem:
-    formattedref: OASIS amqp-core-security-v1.0-Pt5
+    formattedref:
+      content: OASIS amqp-core-security-v1.0-Pt5
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

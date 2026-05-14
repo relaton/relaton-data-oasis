@@ -1,7 +1,7 @@
 ---
 id: OASISDocBook51
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,18 @@ contributor:
     - name:
       - content: OASIS DocBook TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Norman
+      surname:
+        language: en
+        script: Latn
+        content: Walsh
 language:
 - en
 script:
@@ -67,7 +79,7 @@ abstract:
     The Version 5.1 release introduces assemblies for topic-oriented authoring. It also addresses a selection of bugs and feature requests.
     The Technical Committee provides the DocBook 5.1 schema in other schema languages, including W3C XML Schema and an XML DTD, but the RELAX NG Schema is the normative schema.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

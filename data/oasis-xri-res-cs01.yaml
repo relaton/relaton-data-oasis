@@ -1,7 +1,7 @@
 ---
 id: OASISXRIResCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - gabe.wachob@amsoft.net
     name:
       forename:
       - language: en
@@ -70,14 +66,10 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Wachob,
+        content: Wachob
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - drummond.reed@cordance.net
     name:
       forename:
       - language: en
@@ -86,40 +78,10 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Reed,
+        content: Reed
 - role:
   - type: editor
   person:
-    email:
-    - gabe.wachob@amsoft.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Gabe
-      surname:
-        language: en
-        script: Latn
-        content: Wachob,
-- role:
-  - type: editor
-  person:
-    email:
-    - drummond.reed@cordance.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Drummond
-      surname:
-        language: en
-        script: Latn
-        content: Reed,
-- role:
-  - type: editor
-  person:
-    email:
-    - les.chasen@neustar.biz
     name:
       forename:
       - language: en
@@ -128,12 +90,10 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Chasen,
+        content: Chasen
 - role:
   - type: editor
   person:
-    email:
-    - william.tan@neustar.biz
     name:
       forename:
       - language: en
@@ -142,12 +102,10 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Tan,
+        content: Tan
 - role:
   - type: editor
   person:
-    email:
-    - steven.churchill@xdi.org
     name:
       forename:
       - language: en
@@ -156,95 +114,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Churchill,
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$res
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$xrds
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$xrd
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$xrd*
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$res*auth
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$res*auth*
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$res*proxy
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: xri://$res*proxy*
-      surname:
-        language: en
-        script: Latn
+        content: Churchill
 language:
 - en
 script:
@@ -259,7 +129,7 @@ abstract:
     as defined in [RFC2616] and with XRIs as defined by Extensible Resource Identifier
     (XRI) Syntax Version 2.0 [XRISyntax] or higher.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

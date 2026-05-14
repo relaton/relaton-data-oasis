@@ -1,7 +1,7 @@
 ---
 id: OASISSTIXv121CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -50,32 +50,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - Richard.Struse@HQ.DHS.GOV
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: Struse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.dhs.gov/office-cybersecurity-and-communications
-        name:
-        - content: DHS Office of Cybersecurity and Communications (CS&C)
-- role:
-  - type: editor
-  person:
-    email:
-    - sbarnum@mitre.org
     name:
       forename:
       - language: en
@@ -85,18 +60,9 @@ contributor:
         language: en
         script: Latn
         content: Barnum
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - dbeck@mitre.org
     name:
       forename:
       - language: en
@@ -106,18 +72,9 @@ contributor:
         language: en
         script: Latn
         content: Beck
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - achernin@soltra.com
     name:
       forename:
       - language: en
@@ -127,18 +84,9 @@ contributor:
         language: en
         script: Latn
         content: Chernin
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.soltra.com/
-        name:
-        - content: Soltra
 - role:
   - type: editor
   person:
-    email:
-    - rpiazza@mitre.org
     name:
       forename:
       - language: en
@@ -148,13 +96,6 @@ contributor:
         language: en
         script: Latn
         content: Piazza
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 language:
 - en
 script:
@@ -171,51 +112,66 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Overview-CS01-Pt1
+    formattedref:
+      content: OASIS STIX-v1.2.1-Overview-CS01-Pt1
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Common-CS01-Pt2
+    formattedref:
+      content: OASIS STIX-v1.2.1-Common-CS01-Pt2
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Core-CS01-Pt3
+    formattedref:
+      content: OASIS STIX-v1.2.1-Core-CS01-Pt3
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Indicator-CS01-Pt4
+    formattedref:
+      content: OASIS STIX-v1.2.1-Indicator-CS01-Pt4
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-TTP-CS01-Pt5
+    formattedref:
+      content: OASIS STIX-v1.2.1-TTP-CS01-Pt5
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Incident-CS01-Pt6
+    formattedref:
+      content: OASIS STIX-v1.2.1-Incident-CS01-Pt6
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Threat-actor-CS01-Pt7
+    formattedref:
+      content: OASIS STIX-v1.2.1-Threat-actor-CS01-Pt7
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Campaign-CS01
+    formattedref:
+      content: OASIS STIX-v1.2.1-Campaign-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-COA-CS01-Pt9
+    formattedref:
+      content: OASIS STIX-v1.2.1-COA-CS01-Pt9
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Exploit-Target-CS01-Pt10
+    formattedref:
+      content: OASIS STIX-v1.2.1-Exploit-Target-CS01-Pt10
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Report-CS01-Pt11
+    formattedref:
+      content: OASIS STIX-v1.2.1-Report-CS01-Pt11
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Extensions-CS01-Pt12
+    formattedref:
+      content: OASIS STIX-v1.2.1-Extensions-CS01-Pt12
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Data-Marking-CS01-Pt13
+    formattedref:
+      content: OASIS STIX-v1.2.1-Data-Marking-CS01-Pt13
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-Vocabularies-CS01-Pt14
+    formattedref:
+      content: OASIS STIX-v1.2.1-Vocabularies-CS01-Pt14
 - type: hasPart
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-UML-Model-CS01-Pt15
+    formattedref:
+      content: OASIS STIX-v1.2.1-UML-Model-CS01-Pt15
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

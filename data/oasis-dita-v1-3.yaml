@@ -1,7 +1,7 @@
 ---
 id: OASISDITAv13
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/dita
+      content: https://www.oasis-open.org/committees/dita
     name:
     - content: OASIS Darwin Information Typing Architecture (DITA) TC
 - role:
@@ -50,27 +50,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - kris@eberleinconsulting.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Kristen
+        content: Robert
       surname:
         language: en
         script: Latn
-        content: James
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://eberleinconsulting.com/
-        name:
-        - content: Eberlein Consulting             LLC
+        content: D
 language:
 - en
 script:
@@ -84,24 +73,30 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS DITA-v1.3-part0-overview
+    formattedref:
+      content: OASIS DITA-v1.3-part0-overview
 - type: hasPart
   bibitem:
-    formattedref: OASIS DITA-v1.3-part1-base
+    formattedref:
+      content: OASIS DITA-v1.3-part1-base
 - type: hasPart
   bibitem:
-    formattedref: OASIS DITA-v1.3-part2-tech-content
+    formattedref:
+      content: OASIS DITA-v1.3-part2-tech-content
 - type: hasPart
   bibitem:
-    formattedref: OASIS DITA-v1.3-part3-all-inclusive
+    formattedref:
+      content: OASIS DITA-v1.3-part3-all-inclusive
 - type: hasPart
   bibitem:
-    formattedref: OASIS DITA-v1.3-Errata01
+    formattedref:
+      content: OASIS DITA-v1.3-Errata01
 - type: hasPart
   bibitem:
-    formattedref: OASIS DITA-v1.3-Errata02
+    formattedref:
+      content: OASIS DITA-v1.3-Errata02
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

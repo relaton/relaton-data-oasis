@@ -1,7 +1,7 @@
 ---
 id: OASISPPSCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - nishioka@hosei.ac.jp
     name:
       forename:
       - language: en
@@ -71,39 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Nishioka
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.pslx.org/
-        name:
-        - content: PSLX Forum
 - role:
   - type: editor
   person:
-    email:
-    - nishioka@hosei.ac.jp
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Yasuyuki
-      surname:
-        language: en
-        script: Latn
-        content: Nishioka
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.pslx.org/
-        name:
-        - content: PSLX Forum
-- role:
-  - type: editor
-  person:
-    email:
-    - wada@kt.rim.or.jp
     name:
       forename:
       - language: en
@@ -113,26 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Wada
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.pslx.org/
-        name:
-        - content: PSLX Forum
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/ns/pps/2011"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/ns/pps/2011
-      surname:
-        language: en
-        script: Latn
 language:
 - en
 script:
@@ -160,7 +106,7 @@ abstract:
     level of implementation of application programs which are involved in a community
     of data exchange.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISEMLv70CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - johnaborras@yahoo.co.uk
     name:
       forename:
       - language: en
@@ -74,8 +70,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - david.webber@oracle.com
     name:
       forename:
       - language: en
@@ -85,24 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Webber
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: urn:oasis:names:tc:evs:schema:eml
-      surname:
-        language: en
-        script: Latn
 language:
 - en
 script:
@@ -118,7 +94,7 @@ abstract:
     and the use of namespaces, as well as guidance on the constraints, extensibility,
     and splitting of messages.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

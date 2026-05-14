@@ -1,7 +1,7 @@
 ---
 id: OASISmqttv311
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/mqtt/
+      content: https://www.oasis-open.org/committees/mqtt/
     name:
     - content: OASIS Message Queuing Telemetry Transport (MQTT) TC
 - role:
@@ -50,48 +50,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - raphael.cohn@stormmq.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Raphael
-      surname:
-        language: en
-        script: Latn
-        content: J
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - coppen@uk.ibm.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: J
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com/
-        name:
-        - content: IBM
-- role:
-  - type: editor
-  person:
-    email:
-    - Andrew_Banks@uk.ibm.com
     name:
       forename:
       - language: en
@@ -101,18 +60,9 @@ contributor:
         language: en
         script: Latn
         content: Banks
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com/
-        name:
-        - content: IBM
 - role:
   - type: editor
   person:
-    email:
-    - rahul.gupta@us.ibm.com
     name:
       forename:
       - language: en
@@ -122,13 +72,6 @@ contributor:
         language: en
         script: Latn
         content: Gupta
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ibm.com/
-        name:
-        - content: IBM
 language:
 - en
 script:
@@ -144,15 +87,18 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS mqtt-v3.1.1-Pt
+    formattedref:
+      content: OASIS mqtt-v3.1.1-Pt
 - type: hasPart
   bibitem:
-    formattedref: OASIS mqtt-v3.1.1-Errata01
+    formattedref:
+      content: OASIS mqtt-v3.1.1-Errata01
 - type: hasPart
   bibitem:
-    formattedref: OASIS mqtt-v3.1.1-plus-Errata01
+    formattedref:
+      content: OASIS mqtt-v3.1.1-plus-Errata01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

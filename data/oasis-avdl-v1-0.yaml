@@ -1,7 +1,7 @@
 ---
 id: OASISAVDLv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: doc
-  content: http://www.oasis-open.org/committees/download.php/7144/AVDL%20Specification%20V1.doc
+  content: https://www.oasis-open.org/committees/download.php/7144/AVDL%20Specification%20V1.doc
 docidentifier:
 - content: OASIS AVDL-v1.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/avdl
+      content: https://www.oasis-open.org/committees/avdl
     name:
     - content: OASIS Application Vulnerability Description Language (AVDL) TC
 - role:
@@ -61,7 +61,7 @@ abstract:
   content: AVDL is a security interoperability standard for creating a uniform method
     of describing application security vulnerabilities using XML.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

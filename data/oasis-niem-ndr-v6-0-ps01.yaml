@@ -1,0 +1,76 @@
+---
+id: OASISNIEMNDRv60PS01
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: NIEM Naming and Design Rules (NDR) Version 6.0
+  type: main
+source:
+- type: src
+  content: https://docs.oasis-open.org/niemopen/ndr/v6.0/ps01/ndr-v6.0-ps01.html
+- type: pdf
+  content: https://docs.oasis-open.org/niemopen/ndr/v6.0/ps01/ndr-v6.0-ps01.pdf
+docidentifier:
+- content: OASIS NIEM-NDR-v6.0-PS01
+  type: OASIS
+  primary: true
+docnumber: NIEM-NDR-v6.0-PS01
+date:
+- type: issued
+  at: '2025-08-29'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://github.com/niemopen
+    name:
+    - content: NIEMOpen Open Project
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: NIEMOpen Open Project
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Scott
+      surname:
+        language: en
+        script: Latn
+        content: Renner
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: specification
+  flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISKMIPSKLPv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/kmip/
+      content: https://www.oasis-open.org/committees/kmip/
     name:
     - content: OASIS Key Management Interoperability Protocol (KMIP) TC
 - role:
@@ -65,7 +65,7 @@ abstract:
   content: Describes a profile for a KMIP server performing symmetric key lifecycle
     operations based on requests received from a KMIP client.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

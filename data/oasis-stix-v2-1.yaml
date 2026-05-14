@@ -1,7 +1,7 @@
 ---
 id: OASISSTIXv21
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -102,7 +102,7 @@ abstract:
     document defines concepts that apply across all of STIX and defines the overall
     structure of the STIX language.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

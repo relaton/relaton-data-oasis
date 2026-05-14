@@ -1,7 +1,7 @@
 ---
 id: OASISOpenDocumentv13CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -51,11 +51,19 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - patrick@durusau.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Francis
+      surname:
+        language: en
+        script: Latn
+        content: Cave
+- role:
+  - type: editor
+  person:
     name:
       forename:
       - language: en
@@ -67,27 +75,28 @@ contributor:
         content: Durusau
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jos.vanden.oever@logius.nl
     name:
       forename:
       - language: en
         script: Latn
-        content: Jos
+        content: Svante
       surname:
         language: en
         script: Latn
-        content: van
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.logius.nl/
-        name:
-        - content: Logius
+        content: Schubert
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Stahl
 language:
 - en
 script:
@@ -100,18 +109,22 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part1-CS02
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part1-CS02
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part2-CS02
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part2-CS02
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part3-CS02
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part3-CS02
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part4-CS02
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part4-CS02
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

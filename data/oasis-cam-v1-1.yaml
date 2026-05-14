@@ -1,7 +1,7 @@
 ---
 id: OASISCAMv11
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/cam/
+      content: https://www.oasis-open.org/committees/cam/
     name:
     - content: OASIS Content Assembly Mechanism (CAM) TC
 - role:
@@ -66,7 +66,7 @@ abstract:
     Provides an open XML based system for using business rules to define, validate and compose specific business documents from generalized schema elements and structures.
     The core role of the OASIS CAM specifications is to provide a generic standalone content assembly mechanism that extends beyond the basic structural definition features in XML and schema to provide a comprehensive system with which to define dynamic e-business interoperability.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

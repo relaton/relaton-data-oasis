@@ -1,7 +1,7 @@
 ---
 id: OASISXRICS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,8 +58,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - drummond.reed@cordance.net
     name:
       forename:
       - language: en
@@ -68,49 +66,19 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Reed,
+        content: Reed
 - role:
   - type: editor
   person:
-    email:
-    - peter.davis@neustar.biz
     name:
       forename:
       - language: en
         script: Latn
-        content: Peter
+        content: Dave
       surname:
         language: en
         script: Latn
-        content: Davis,
-- role:
-  - type: editor
-  person:
-    email:
-    - mlindels@visa.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Mike
-      surname:
-        language: en
-        script: Latn
-        content: Lindelsee,
-- role:
-  - type: editor
-  person:
-    email:
-    - gwachob@visa.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Gabe
-      surname:
-        language: en
-        script: Latn
-        content: Wachob,
+        content: McAlpin
 language:
 - en
 script:
@@ -122,7 +90,7 @@ abstract:
     a non-normative introduction to the uses and features of XRIs, see Introduction
     to XRIs [XRIIntro].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

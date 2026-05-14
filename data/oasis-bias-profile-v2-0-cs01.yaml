@@ -1,7 +1,7 @@
 ---
 id: OASISBIASProfilev20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -59,11 +59,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - kevin.mangold@nist.gov
     name:
       forename:
       - language: en
@@ -73,39 +69,9 @@ contributor:
         language: en
         script: Latn
         content: Mangold
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nist.gov/
-        name:
-        - content: NIST
 - role:
   - type: editor
   person:
-    email:
-    - kevin.mangold@nist.gov
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Kevin
-      surname:
-        language: en
-        script: Latn
-        content: Mangold
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nist.gov/
-        name:
-        - content: NIST
-- role:
-  - type: editor
-  person:
-    email:
-    - karen.marshall@nist.gov
     name:
       forename:
       - language: en
@@ -115,13 +81,6 @@ contributor:
         language: en
         script: Latn
         content: Marshall
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.nist.gov/
-        name:
-        - content: NIST
 language:
 - en
 script:
@@ -132,7 +91,7 @@ abstract:
   content: Specifies a SOAP profile that implements the Biometric Identity Assurance
     Services (BIAS) abstract operations specified in INCITS 442 as SOAP messages.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

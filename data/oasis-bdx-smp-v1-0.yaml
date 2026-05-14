@@ -1,7 +1,7 @@
 ---
 id: OASISBDXsmpv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,32 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - kenneth@alfa1lab.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Kenneth
-      surname:
-        language: en
-        script: Latn
-        content: Bengtsson
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.alfa1lab.com/
-        name:
-        - content: Alfa1lab
-- role:
-  - type: editor
-  person:
-    email:
-    - jea@difi.no
     name:
       forename:
       - language: en
@@ -92,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Aabol
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.difi.no/
-        name:
-        - content: Difi-Agency for Public Management and eGovernment
 - role:
   - type: editor
   person:
-    email:
-    - kenneth@alfa1lab.com
     name:
       forename:
       - language: en
@@ -113,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Bengtsson
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.alfa1lab.com/
-        name:
-        - content: Alfa1lab
 - role:
   - type: editor
   person:
-    email:
-    - erlend.klakegg.bergheim@difi.no
     name:
       forename:
       - language: en
@@ -134,18 +91,9 @@ contributor:
         language: en
         script: Latn
         content: Klakegg
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.difi.no/
-        name:
-        - content: Difi-Agency for Public Management and eGovernment
 - role:
   - type: editor
   person:
-    email:
-    - sander@fieten-it.com
     name:
       forename:
       - language: en
@@ -158,8 +106,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - svrra@digst.dk
     name:
       forename:
       - language: en
@@ -169,13 +115,6 @@ contributor:
         language: en
         script: Latn
         content: Rasmussen
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.digst.dk/
-        name:
-        - content: Danish Agency for Digitisation, Ministry of Finance
 language:
 - en
 script:
@@ -196,7 +135,7 @@ abstract:
     application or a gateway/access point in the 4-corner network. It also defines
     the request processing that must happen at the client.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

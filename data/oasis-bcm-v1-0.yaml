@@ -1,7 +1,7 @@
 ---
 id: OASISBCMv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/bcm
+      content: https://www.oasis-open.org/committees/bcm
     name:
     - content: OASIS Business-centric Methodology (BCM) TC
 - role:
@@ -63,7 +63,7 @@ abstract:
     enabling organizations to identify and exploit business success factors in a technology-neutral
     manner.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

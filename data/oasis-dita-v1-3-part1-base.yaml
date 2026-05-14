@@ -1,7 +1,7 @@
 ---
 id: OASISDITAv13part1base
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -32,66 +32,28 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: authorizer
-    description:
-    - content: Committee
-  organization:
-    uri:
-    - type: uri
-      content: https://www.oasis-open.org/committees/dita/
-    name:
-    - content: OASIS Darwin Information Typing Architecture (DITA) TC
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: OASIS
-    subdivision:
-    - name:
-      - content: OASIS Darwin Information Typing Architecture (DITA) TC
-      type: technical-committee
-- role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - kris@eberleinconsulting.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Kristen
+        content: Robert
       surname:
         language: en
         script: Latn
-        content: James
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://eberleinconsulting.com/
-        name:
-        - content: Eberlein Consulting             LLC
+        content: D
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: The Darwin Information Typing Architecture (DITA) 1.3 specification defines
-    both a) a set         of document types for authoring and organizing topic-oriented
-    information; and b) a set of         mechanisms for combining, extending, and
-    constraining document types.
 relation:
 - type: partOf
   bibitem:
-    formattedref: OASIS DITA-v1.3
+    formattedref:
+      content: OASIS DITA-v1.3
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

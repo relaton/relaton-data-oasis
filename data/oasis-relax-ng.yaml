@@ -1,7 +1,7 @@
 ---
 id: OASISrelaxng
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -51,6 +51,18 @@ contributor:
     - name:
       - content: OASIS RELAX NG TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Clark
 language:
 - en
 script:
@@ -60,7 +72,7 @@ abstract:
   script: Latn
   content: Specifies a compact, non-XML syntax for [RELAX NG].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

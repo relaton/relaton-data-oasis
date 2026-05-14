@@ -1,7 +1,7 @@
 ---
 id: OASISDocBookv52
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -53,25 +53,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - bobs@sagehill.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Robert
-      surname:
-        language: en
-        script: Latn
-        content: Stayton
-- role:
-  - type: editor
-  person:
-    email:
-    - bobs@sagehill.net
     name:
       forename:
       - language: en
@@ -86,7 +68,7 @@ language:
 script:
 - Latn
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISOpenDocumentv13CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -51,34 +51,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jos.vanden.oever@logius.nl
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jos
-      surname:
-        language: en
-        script: Latn
-        content: van
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.logius.nl/
-        name:
-        - content: Logius
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - patrick@durusau.net
     name:
       forename:
       - language: en
@@ -100,18 +73,22 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part1-CS01
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part1-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part2-CS01
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part2-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part3-CS01
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part3-CS01
 - type: hasPart
   bibitem:
-    formattedref: OASIS OpenDocument-v1.3-part4-CS01
+    formattedref:
+      content: OASIS OpenDocument-v1.3-part4-CS01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

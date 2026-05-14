@@ -1,7 +1,7 @@
 ---
 id: OASISEMIXv10CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,41 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - wtcox@coxsoftwarearchitects.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: William
-      surname:
-        language: en
-        script: Latn
-        content: Cox
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - ed@cazalet.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Edward
-      surname:
-        language: en
-        script: Latn
-        content: Cazalet
-- role:
-  - type: editor
-  person:
-    email:
-    - Toby.Considine@unc.edu
     name:
       forename:
       - language: en
@@ -101,65 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu/
-        name:
-        - content: University of North Carolina at Chapel Hill
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/ns/emix/2011/06"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/ns/emix/2011/06
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/ns/emix/2011/06/siscale"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/ns/emix/2011/06/siscale
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/ns/emix/2011/06/power"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/ns/emix/2011/06/power
-      surname:
-        language: en
-        script: Latn
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/ns/emix/2011/06/power/resource"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/ns/emix/2011/06/power/resource
-      surname:
-        language: en
-        script: Latn
 language:
 - en
 script:
@@ -175,7 +82,7 @@ abstract:
     ·         Units and quantity to be traded
     ·         Characteristics of what is traded
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

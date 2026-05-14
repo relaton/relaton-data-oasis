@@ -1,7 +1,7 @@
 ---
 id: OASISCMISv11
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/cmis
+      content: https://www.oasis-open.org/committees/cmis
     name:
     - content: OASIS Content Management Interoperability Services (CMIS) TC
 - role:
@@ -48,6 +48,42 @@ contributor:
     - name:
       - content: OASIS Content Management Interoperability Services (CMIS) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Florian
+      surname:
+        language: en
+        script: Latn
+        content: Müller
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ryan
+      surname:
+        language: en
+        script: Latn
+        content: McVeigh
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jens
+      surname:
+        language: en
+        script: Latn
+        content: Hübel
 language:
 - en
 script:
@@ -67,15 +103,18 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS CMIS-v1.1-Pt
+    formattedref:
+      content: OASIS CMIS-v1.1-Pt
 - type: hasPart
   bibitem:
-    formattedref: OASIS CMIS-v1.1-Errata01
+    formattedref:
+      content: OASIS CMIS-v1.1-Errata01
 - type: hasPart
   bibitem:
-    formattedref: OASIS CMIS-v1.1-Plus-Errata01
+    formattedref:
+      content: OASIS CMIS-v1.1-Plus-Errata01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

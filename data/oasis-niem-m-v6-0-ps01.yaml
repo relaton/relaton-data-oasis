@@ -1,11 +1,11 @@
 ---
 id: OASISNIEMMv60PS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
-  content: NIEM Model v6.0
+  content: NIEM Model Version 6.0
   type: main
 source:
 - type: md
@@ -75,7 +75,7 @@ abstract:
     message exchange partners by providing consistent rules, reusable data components,
     and repeatable processes.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

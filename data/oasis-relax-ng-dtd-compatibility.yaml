@@ -1,7 +1,7 @@
 ---
 id: OASISrelaxngdtdcompatibility
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -51,6 +51,30 @@ contributor:
     - name:
       - content: OASIS RELAX NG TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Clark
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Murata
+      surname:
+        language: en
+        script: Latn
+        content: Makoto
 language:
 - en
 script:
@@ -62,7 +86,7 @@ abstract:
     of these datatypes and annotations is to support some of the features of XML 1.0
     DTDs that are not supported directly by RELAX NG.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISWSResourceMetadataCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -78,7 +78,7 @@ abstract:
     The components introduced by the WS Resource Framework (WSRF) address functional aspects of modeling stateful resources (such as systems resources) using Web services. WSRF uses WSDL (currently WSDL 1.1) as the form of service description. There is a need to be able to supplement the descriptive information available about a WS-Resource. The format of the information about the components of a WS-Resource is standardized by WSRF, most notably in the resource properties document [WS-ResourceProperties].
     In the realm of resource properties, the loosely coupled operations for reading and writing of properties [WS-ResourceProperties] would benefit from metadata. An example of this type of metadata is the mutability constraints and an enumeration of possible values for resource property elements. This document explains the need for such metadata and proposes an information model representing it that would be applicable to Manageable Resources and WS-Resources in general.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

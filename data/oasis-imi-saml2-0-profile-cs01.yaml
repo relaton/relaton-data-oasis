@@ -1,7 +1,7 @@
 ---
 id: OASISIMISAML20PROFILECS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,34 +57,6 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Marc
-      surname:
-        language: en
-        script: Latn
-        content: Goodner,
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Anthony
-      surname:
-        language: en
-        script: Latn
-        content: Nadalin,
-- role:
-  - type: editor
   person:
     name:
       forename:
@@ -94,7 +66,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Cantor,
+        content: Cantor
 - role:
   - type: editor
   person:
@@ -106,20 +78,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: B.
-- role:
-  - type: editor
-  person:
-    email:
-    - "//docs.oasis-open.org/imi/ns/token/saml2/200908"
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: http://docs.oasis-open.org/imi/ns/token/saml2/200908
-      surname:
-        language: en
-        script: Latn
+        content: B
 language:
 - en
 script:
@@ -132,7 +91,7 @@ abstract:
     so that interoperability and security is achieved commensurate with other SAML
     authentication profiles.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

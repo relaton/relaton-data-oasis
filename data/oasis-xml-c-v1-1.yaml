@@ -1,7 +1,7 @@
 ---
 id: OASISXMLCv11
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://www.oasis-open.org/committees/download.php/14810/xml-catalogs.pdf
+  content: https://www.oasis-open.org/committees/download.php/14810/xml-catalogs.pdf
 docidentifier:
 - content: OASIS XML-C-v1.1
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/entity/
+      content: https://www.oasis-open.org/committees/entity/
     name:
     - content: OASIS Entity Resolution TC
 - role:
@@ -61,7 +61,7 @@ abstract:
   content: Defines an entity catalog that maps both external identifiers and arbitrary
     URI references to URI references.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

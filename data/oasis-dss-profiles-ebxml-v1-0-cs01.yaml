@@ -1,7 +1,7 @@
 ---
 id: OASISdssprofilesebxmlv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,41 +58,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - cruellas@ac.upc.ede
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Juan
-      surname:
-        language: en
-        script: Latn
-        content: Carlos
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - stefan@drees.name
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Stefan
-      surname:
-        language: en
-        script: Latn
-        content: Drees,
-- role:
-  - type: editor
-  person:
-    email:
-    - pvde@sonnenglanz.net
     name:
       forename:
       - language: en
@@ -105,8 +71,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - ejvn@sonnenglanz.net
     name:
       forename:
       - language: en
@@ -130,7 +94,7 @@ abstract:
     OASIS ebXML Messaging Service. This profile supports is compatible with both the
     version 2.0 [ebMS 2.0] and version 3.0 [ebMS 3.0] ebXML Messaging OASIS standards.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

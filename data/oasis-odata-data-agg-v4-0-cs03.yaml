@@ -1,7 +1,7 @@
 ---
 id: OASISODataDataAggv40CS03
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -138,7 +138,7 @@ abstract:
     to the Open Data Protocol (OData) without changing any of the base principles
     of OData.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

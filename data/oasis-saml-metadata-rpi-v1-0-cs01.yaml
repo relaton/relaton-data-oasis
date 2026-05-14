@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLMetadataRPIv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,55 +58,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hardjono@mit.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Thomas
-      surname:
-        language: en
-        script: Latn
-        content: Hardjono
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mit.edu/
-        name:
-        - content: M.I.T.
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - ndk@internet2.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Nate
-      surname:
-        language: en
-        script: Latn
-        content: Klingenstein
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.internet2.edu/
-        name:
-        - content: Internet2
-- role:
-  - type: editor
-  person:
-    email:
-    - lajoie@itumi.biz
     name:
       forename:
       - language: en
@@ -116,13 +68,6 @@ contributor:
         language: en
         script: Latn
         content: La
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.internet2.edu/
-        name:
-        - content: Internet2
 language:
 - en
 script:
@@ -134,7 +79,7 @@ abstract:
     the creation and intended usage of the metadata document and information about
     who and how particular entities were registered.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

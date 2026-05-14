@@ -1,7 +1,7 @@
 ---
 id: OASISReliableSecureProfilev10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,32 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jdurand@us.fujitsu.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jacques
-      surname:
-        language: en
-        script: Latn
-        content: Durand
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
-- role:
-  - type: editor
-  person:
-    email:
-    - Ram.Jeyaraman@microsoft.com
     name:
       forename:
       - language: en
@@ -92,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Jeyaraman
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com/
-        name:
-        - content: Microsoft
 - role:
   - type: editor
   person:
-    email:
-    - trutt@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -113,18 +79,9 @@ contributor:
         language: en
         script: Latn
         content: Rutt
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
 - role:
   - type: editor
   person:
-    email:
-    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -134,18 +91,9 @@ contributor:
         language: en
         script: Latn
         content: Durand
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
 - role:
   - type: editor
   person:
-    email:
-    - micah.hainline@asolutions.com
     name:
       forename:
       - language: en
@@ -155,13 +103,6 @@ contributor:
         language: en
         script: Latn
         content: Hainline
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.asolutions.com/
-        name:
-        - content: Asynchrony Solutions, Inc.
 language:
 - en
 script:
@@ -176,7 +117,7 @@ abstract:
     and WS-MakeConnection. This profile extends either one of the Basic Profiles BP1.2
     or BP2.0.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

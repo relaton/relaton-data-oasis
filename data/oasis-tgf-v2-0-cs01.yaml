@@ -1,7 +1,7 @@
 ---
 id: OASISTGFv20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - johnaborras@yahoo.co.uk
     name:
       forename:
       - language: en
@@ -74,22 +70,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - johnaborras@yahoo.co.uk
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: John
-      surname:
-        language: en
-        script: Latn
-        content: Borras
-- role:
-  - type: editor
-  person:
-    email:
-    - peter@peterfbrown.com
     name:
       forename:
       - language: en
@@ -102,8 +82,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - chris.parker@cstransform.com
     name:
       forename:
       - language: en
@@ -113,13 +91,6 @@ contributor:
         language: en
         script: Latn
         content: Parker
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://cstransform.com/
-        name:
-        - content: CS Transform Limited
 language:
 - en
 script:
@@ -132,7 +103,7 @@ abstract:
     The TGF provides a tried and tested way forward utilizing the best parts of existing e-Government programs and avoiding large new investments. Its formalization as a Pattern Language enables it to be encapsulated in more formal, tractable, and machine-processable forms, thus making it easy to integrate into desk-top tools and management software aiding testing and assurance of compliance and conformance.
     This Work Product constitutes the initial core set of patterns that form the TGF Standard. This set may be revised and/or extended from time to time as appropriate. It replaces and supersedes both the TGF Primer Version 1.0 and the TGF Pattern Languages Core Patterns Version 1.0.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

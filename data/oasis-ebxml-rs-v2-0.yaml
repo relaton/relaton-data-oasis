@@ -1,7 +1,7 @@
 ---
 id: OASISebXMLRSv20
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://www.oasis-open.org/committees/regrep/documents/2.0/specs/ebrs.pdf
+  content: https://www.oasis-open.org/committees/regrep/documents/2.0/specs/ebrs.pdf
 docidentifier:
 - content: OASIS ebXML-RS-v2.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/regrep
+      content: https://www.oasis-open.org/committees/regrep
     name:
     - content: OASIS ebXML Registry TC
 - role:
@@ -60,7 +60,7 @@ abstract:
   script: Latn
   content: Defines the services and protocols for an ebXML Registry.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

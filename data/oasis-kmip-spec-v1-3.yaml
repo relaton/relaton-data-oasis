@@ -1,7 +1,7 @@
 ---
 id: OASISkmipspecv13
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,55 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - tony.cox@cryptsoft.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Tony
-      surname:
-        language: en
-        script: Latn
-        content: Cox
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cryptsoft.com
-        name:
-        - content: Cryptsoft Pty Ltd.
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - saikat.saha@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Saikat
-      surname:
-        language: en
-        script: Latn
-        content: Saha
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-  person:
-    email:
-    - kthota@vmware.com
     name:
       forename:
       - language: en
@@ -115,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Thota
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.vmware.com/
-        name:
-        - content: VMware, Inc.
 - role:
   - type: editor
   person:
-    email:
-    - tony.cox@cryptsoft.com
     name:
       forename:
       - language: en
@@ -136,13 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Cox
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cryptsoft.com
-        name:
-        - content: Cryptsoft Pty Ltd.
 language:
 - en
 script:
@@ -153,7 +89,7 @@ abstract:
   content: Intended for developers and architects who wish to design systems and applications
     that interoperate using the Key Management Interoperability Protocol Specification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

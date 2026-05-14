@@ -1,7 +1,7 @@
 ---
 id: OASISSTIXv121IndicatorCS01Pt4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -31,54 +31,8 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: authorizer
-    description:
-    - content: Committee
-  organization:
-    uri:
-    - type: uri
-      content: https://www.oasis-open.org/committees/cti/
-    name:
-    - content: OASIS Cyber Threat Intelligence (CTI) TC
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: OASIS
-    subdivision:
-    - name:
-      - content: "OASIS Cyber Threat\r\nIntelligence (CTI) TC"
-      type: technical-committee
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - Richard.Struse@HQ.DHS.GOV
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: Struse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.dhs.gov/office-cybersecurity-and-communications
-        name:
-        - content: DHS Office of Cybersecurity and Communications (CS&C)
-- role:
   - type: editor
   person:
-    email:
-    - sbarnum@mitre.org
     name:
       forename:
       - language: en
@@ -88,18 +42,9 @@ contributor:
         language: en
         script: Latn
         content: Barnum
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - dbeck@mitre.org
     name:
       forename:
       - language: en
@@ -109,18 +54,9 @@ contributor:
         language: en
         script: Latn
         content: Beck
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - achernin@soltra.com
     name:
       forename:
       - language: en
@@ -130,18 +66,9 @@ contributor:
         language: en
         script: Latn
         content: Chernin
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.soltra.com/
-        name:
-        - content: Soltra
 - role:
   - type: editor
   person:
-    email:
-    - rpiazza@mitre.org
     name:
       forename:
       - language: en
@@ -151,32 +78,17 @@ contributor:
         language: en
         script: Latn
         content: Piazza
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: The Structured Threat Information Expression (STIX) framework defines nine
-    core constructs and the relationships between them for the purposes of modeling
-    cyber threat information and enabling cyber threat information analysis and sharing.
-    This specification document defines the Indicator construct, which conveys specific
-    Observable patterns combined with contextual information intended to represent
-    artifacts and/or behaviors of interest within a cyber security context.
 relation:
 - type: partOf
   bibitem:
-    formattedref: OASIS STIX-v1.2.1-CS01
+    formattedref:
+      content: OASIS STIX-v1.2.1-CS01
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

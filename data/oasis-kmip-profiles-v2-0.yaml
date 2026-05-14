@@ -1,7 +1,7 @@
 ---
 id: OASISkmipprofilesv20
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,50 +57,28 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - tony.cox@cryptsoft.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Tony
+        content: Tim
       surname:
         language: en
         script: Latn
-        content: Cox
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cryptsoft.com
-        name:
-        - content: Cryptsoft Pty Ltd.
+        content: Hudson
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - Judith.Furlong@dell.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Judith
+        content: Robert
       surname:
         language: en
         script: Latn
-        content: Furlong
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.dell.com
-        name:
-        - content: Dell
+        content: Lockhart
 language:
 - en
 script:
@@ -113,7 +91,7 @@ abstract:
     KMIP functionality or in other respects define the processing rules to be followed
     by profile actors.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

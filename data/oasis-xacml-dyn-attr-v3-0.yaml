@@ -1,7 +1,7 @@
 ---
 id: OASISXACMLDynAttrv30
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -70,7 +70,7 @@ abstract:
     the additional attributes and values, and are processed in the normal manner of
     a Policy Decision Point. d
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

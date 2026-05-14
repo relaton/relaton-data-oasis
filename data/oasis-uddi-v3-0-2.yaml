@@ -1,7 +1,7 @@
 ---
 id: OASISUDDIv302
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: htm
-  content: http://www.oasis-open.org/committees/uddi-spec/doc/spec/v3/uddi-v3.0.2-20041019.htm
+  content: https://www.oasis-open.org/committees/uddi-spec/doc/spec/v3/uddi-v3.0.2-20041019.htm
 docidentifier:
 - content: OASIS UDDI-v3.0.2
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/uddi-spec
+      content: https://www.oasis-open.org/committees/uddi-spec
     name:
     - content: OASIS UDDI Specification TC
 - role:
@@ -63,7 +63,7 @@ abstract:
     and other Web services providers, the Web services they make available, and the
     technical interfaces which may be used to access those services.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

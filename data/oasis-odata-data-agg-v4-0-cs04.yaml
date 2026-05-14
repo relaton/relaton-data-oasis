@@ -1,0 +1,138 @@
+---
+id: OASISODataDataAggv40CS04
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OData Extension for Data Aggregation Version 4.0
+  type: main
+source:
+- type: md
+  content: https://docs.oasis-open.org/odata/odata-data-aggregation-ext/v4.0/cs04/odata-data-aggregation-ext-v4.0-cs04.md
+- type: src
+  content: https://docs.oasis-open.org/odata/odata-data-aggregation-ext/v4.0/cs04/odata-data-aggregation-ext-v4.0-cs04.html
+- type: pdf
+  content: https://docs.oasis-open.org/odata/odata-data-aggregation-ext/v4.0/cs04/odata-data-aggregation-ext-v4.0-cs04.pdf
+docidentifier:
+- content: OASIS OData-Data-Agg-v4.0-CS04
+  type: OASIS
+  primary: true
+docnumber: OData-Data-Agg-v4.0-CS04
+date:
+- type: issued
+  at: '2025-11-14'
+contributor:
+- role:
+  - type: authorizer
+    description:
+    - content: Standards Development Organization
+  - type: publisher
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/
+    name:
+    - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Data Protocol (OData) TC
+      type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ralf
+      surname:
+        language: en
+        script: Latn
+        content: Handl
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hubert
+      surname:
+        language: en
+        script: Latn
+        content: Heijkers
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gerald
+      surname:
+        language: en
+        script: Latn
+        content: Krause
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Pizzo
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Heiko
+      surname:
+        language: en
+        script: Latn
+        content: Theißen
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Martin
+      surname:
+        language: en
+        script: Latn
+        content: Zurmuehl
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.4
+  doctype:
+    content: specification
+  flavor: oasis

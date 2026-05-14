@@ -1,7 +1,7 @@
 ---
 id: OASISUBL21
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ubl/
+      content: https://www.oasis-open.org/committees/ubl/
     name:
     - content: OASIS Universal Business Language TC
 - role:
@@ -55,6 +55,41 @@ contributor:
     - name:
       - content: OASIS Universal Business Language TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jon
+      surname:
+        language: en
+        script: Latn
+        content: Bosak
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tim
+      surname:
+        language: en
+        script: Latn
+        content: McGrath
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: G
+      surname:
+        language: en
+        script: Latn
 language:
 - en
 script:
@@ -64,7 +99,7 @@ abstract:
   script: Latn
   content: Defines the Universal Business Language, version 2.1.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

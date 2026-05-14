@@ -1,7 +1,7 @@
 ---
 id: OASISPKCS11Profilesv240
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,55 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - robert.griffin@rsa.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Robert
-      surname:
-        language: en
-        script: Latn
-        content: Griffin
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.emc.com/
-        name:
-        - content: EMC Corporation
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - valerie.fenwick@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Valerie
-      surname:
-        language: en
-        script: Latn
-        content: Fenwick
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-  person:
-    email:
-    - tjh@cryptsoft.com
     name:
       forename:
       - language: en
@@ -115,13 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Hudson
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://cryptsoft.com/
-        name:
-        - content: Cryptsoft Pty Ltd.
 language:
 - en
 script:
@@ -133,7 +78,7 @@ abstract:
     Intended for developers and architects who wish to design systems and applications that conform to the PKCS #11 Cryptographic Token Interface standard.
     The PKCS #11 Cryptographic Token Interface standard documents an API for devices that may hold cryptographic information and may perform cryptographic functions.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISWSSCv13
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -43,7 +43,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ws-sx/
+      content: https://www.oasis-open.org/committees/ws-sx/
     name:
     - content: OASIS Web Services Secure Exchange (WS-SX) TC
 - role:
@@ -67,7 +67,7 @@ abstract:
   content: Defines extensions that build on [WS-Security] to provide a framework for
     requesting and issuing security tokens, and to broker trust relationships.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

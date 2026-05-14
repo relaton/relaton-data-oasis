@@ -1,7 +1,7 @@
 ---
 id: OASISSAML2KSCMV10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,34 +57,19 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hal.lockhart@oracle.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Hal
+        content: Josh
       surname:
         language: en
         script: Latn
-        content: Lockhart
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle, Inc.
+        content: Howlett
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hardjono@mit.edu
     name:
       forename:
       - language: en
@@ -94,13 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Hardjono
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mit.edu/
-        name:
-        - content: M.I.T.
 language:
 - en
 script:
@@ -110,7 +88,7 @@ abstract:
   script: Latn
   content: Defines a subject confirmation method for use with the Kerberos protocol.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

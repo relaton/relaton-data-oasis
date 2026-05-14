@@ -1,7 +1,7 @@
 ---
 id: OASISTAXIIv111CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -50,32 +50,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - Richard.Struse@hq.dhs.gov
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: Struse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.dhs.gov/office-cybersecurity-and-communications
-        name:
-        - content: DHS Office of Cybersecurity and Communications (CS&C)
-- role:
-  - type: editor
-  person:
-    email:
-    - mdavidson@mitre.org
     name:
       forename:
       - language: en
@@ -85,18 +60,9 @@ contributor:
         language: en
         script: Latn
         content: Davidson
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - cmschmidt@mitre.org
     name:
       forename:
       - language: en
@@ -106,18 +72,9 @@ contributor:
         language: en
         script: Latn
         content: Schmidt
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - bret.jordan@bluecoat.com
     name:
       forename:
       - language: en
@@ -127,13 +84,6 @@ contributor:
         language: en
         script: Latn
         content: Jordan
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.bluecoat.com/
-        name:
-        - content: Blue Coat Systems, Inc.
 language:
 - en
 script:
@@ -145,21 +95,26 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS TAXII-v1.1.1-Overview-CS01-Pt1
+    formattedref:
+      content: OASIS TAXII-v1.1.1-Overview-CS01-Pt1
 - type: hasPart
   bibitem:
-    formattedref: OASIS TAXII-v1.1.1-Services-CS01-Pt2
+    formattedref:
+      content: OASIS TAXII-v1.1.1-Services-CS01-Pt2
 - type: hasPart
   bibitem:
-    formattedref: OASIS TAXII-v1.1.1-HTTP-CS01-Pt3
+    formattedref:
+      content: OASIS TAXII-v1.1.1-HTTP-CS01-Pt3
 - type: hasPart
   bibitem:
-    formattedref: OASIS TAXII-v1.1.1-XML-Msg-CS01-Pt4
+    formattedref:
+      content: OASIS TAXII-v1.1.1-XML-Msg-CS01-Pt4
 - type: hasPart
   bibitem:
-    formattedref: OASIS TAXII-v1.1.1-Query-CS01-Pt5
+    formattedref:
+      content: OASIS TAXII-v1.1.1-Query-CS01-Pt5
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

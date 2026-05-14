@@ -1,7 +1,7 @@
 ---
 id: OASISEDXLDEv20CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,20 +57,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - elysajones@yahoo.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Elysa
+        content: Jeff
       surname:
         language: en
         script: Latn
-        content: Jones
+        content: Waters
 language:
 - en
 script:
@@ -84,7 +80,7 @@ abstract:
     (2) The DE 2.0 allows an organization to “address” the package to organizations or individuals with specified roles, located in specified locations or those interested in specified keywords.
     This version of the DE expands the ability to use local community-defined terms, uses a profile of the Geographic Markup Language (GML) , follows best practices for naming conventions, provides the capability to link content objects, supports extensions, and is reorganized for increased flexibility and reuse of common types. The DE 2.0 packages and addresses emergency information for effective distribution with improved standardization and ability to be tailored for user needs.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

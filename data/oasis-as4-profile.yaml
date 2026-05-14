@@ -1,7 +1,7 @@
 ---
 id: OASISAS4Profile
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -43,7 +43,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ebxml-msg/
+      content: https://www.oasis-open.org/committees/ebxml-msg/
     name:
     - content: OASIS ebXML Messaging Services TC
 - role:
@@ -59,48 +59,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - marao@cisco.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Makesh
-      surname:
-        language: en
-        script: Latn
-        content: Rao
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cisco.com/
-        name:
-        - content: Cisco Systems, Inc.
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - sander@fieten-it.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Sander
-      surname:
-        language: en
-        script: Latn
-        content: Fieten
-- role:
-  - type: editor
-  person:
-    email:
-    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -110,18 +69,9 @@ contributor:
         language: en
         script: Latn
         content: Durand
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://us.fujitsu.com/
-        name:
-        - content: Fujitsu America Inc.
 - role:
   - type: editor
   person:
-    email:
-    - pvde@sonnenglanz.net
     name:
       forename:
       - language: en
@@ -131,13 +81,6 @@ contributor:
         language: en
         script: Latn
         content: van
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sonnenglanz.net/
-        name:
-        - content: Sonnenglanz Consulting
 language:
 - en
 script:
@@ -152,7 +95,7 @@ abstract:
     made AS2 successful, while adding better compliance to Web Services standards,
     and features such as message pulling capability and a built-in Receipt mechanism.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

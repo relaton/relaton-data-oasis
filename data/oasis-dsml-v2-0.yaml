@@ -1,7 +1,7 @@
 ---
 id: OASISDSMLv20
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/dsml
+      content: https://www.oasis-open.org/committees/dsml
     name:
     - content: OASIS Directory Services Markup Language TC
 - role:
@@ -62,7 +62,7 @@ abstract:
     an XML document, as well as providing a method for expressing directory queries
     and updates (and the results of these operations) as XML documents
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

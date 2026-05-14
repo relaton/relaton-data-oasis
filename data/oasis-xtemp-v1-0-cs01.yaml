@@ -1,7 +1,7 @@
 ---
 id: OASISXTempV10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,27 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - hyunbo.cho@gmail.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Hyunbo
-      surname:
-        language: en
-        script: Latn
-        content: Cho
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -87,13 +67,18 @@ contributor:
         language: en
         script: Latn
         content: Durand
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stephen
+      surname:
+        language: en
+        script: Latn
+        content: D
 language:
 - en
 script:
@@ -106,7 +91,7 @@ abstract:
     It is designed for both log analysis and real-time execution. It leverages XPath
     and XSLT.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISSARIFv210CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,48 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - dmk@dmk.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: David
-      surname:
-        language: en
-        script: Latn
-        content: Keaton
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - luke@semmle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Luke
-      surname:
-        language: en
-        script: Latn
-        content: Cartey
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.semmle.com/
-        name:
-        - content: Semmle
-- role:
-  - type: editor
-  person:
-    email:
-    - mikefan@microsoft.com
     name:
       forename:
       - language: en
@@ -107,35 +66,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: C.
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com/
-        name:
-        - content: Microsoft
-- role:
-  - type: editor
-  person:
-    email:
-    - v-lgold@microsoft.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Laurence
-      surname:
-        language: en
-        script: Latn
-        content: J.
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com
-        name:
-        - content: Microsoft
+        content: C
 language:
 - en
 script:
@@ -147,7 +78,7 @@ abstract:
     format is referred to as the “Static Analysis Results Interchange Format” and
     is abbreviated as SARIF.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

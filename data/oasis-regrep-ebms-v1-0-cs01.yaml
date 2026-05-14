@@ -1,7 +1,7 @@
 ---
 id: OASISRegRepebMSv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -87,7 +87,7 @@ abstract:
     both the versions 2.0 and 3.0 of ebMS as well as the AS4 profile and complements
     the existing protocol bindings specified in OASIS RegRep Version 4.0.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

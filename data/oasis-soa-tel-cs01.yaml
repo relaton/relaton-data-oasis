@@ -1,7 +1,7 @@
 ---
 id: OASISsoatelCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,25 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - giordano@avaya.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Mike
-      surname:
-        language: en
-        script: Latn
-        content: Giordano,
-- role:
-  - type: editor
-  person:
-    email:
-    - ''
     name:
       forename:
       - language: en
@@ -84,19 +66,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Ronco,
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Not
-      surname:
-        language: en
-        script: Latn
-        content: Applicable
+        content: Ronco
 language:
 - en
 script:
@@ -109,7 +79,7 @@ abstract:
     All perceived technical issues on SOA standards contained in this document are structured with a description of the context, a use case, and a rationalization of the possible gap within the standard.
     Amongst future deliverables of the SOA-TEL TC there is a Requirements specification, which will aim to extend the current core SOA enabling stack (Web Services and/or REST, etc.) in support of Telecom needs on the basis of the issues identified within the present document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

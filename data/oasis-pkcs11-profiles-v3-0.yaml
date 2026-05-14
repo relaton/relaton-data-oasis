@@ -1,7 +1,7 @@
 ---
 id: OASISPKCS11Profilesv30
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,50 +57,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - tony.cox@cryptsoft.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Tony
+        content: Tim
       surname:
         language: en
         script: Latn
-        content: Cox
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: https://cryptsoft.com/
-        name:
-        - content: Cryptsoft Pty Ltd
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - rrelyea@redhat.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Robert
-      surname:
-        language: en
-        script: Latn
-        content: Relyea
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.redhat.com
-        name:
-        - content: Red Hat
+        content: Hudson
 language:
 - en
 script:
@@ -113,7 +79,7 @@ abstract:
     to assist developers and architects design systems and applications that conform
     to the PKCS #11 standard.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

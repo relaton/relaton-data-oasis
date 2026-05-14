@@ -1,7 +1,7 @@
 ---
 id: OASISxacmldlpnacv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,48 +58,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - bill@parducci.net
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Bill
-      surname:
-        language: en
-        script: Latn
-        content: Parducci
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - hal.lockhart@oracle.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Hal
-      surname:
-        language: en
-        script: Latn
-        content: Lockhart
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
-- role:
-  - type: editor
-  person:
-    email:
-    - john.tolbert@queraltinc.com
     name:
       forename:
       - language: en
@@ -109,18 +68,9 @@ contributor:
         language: en
         script: Latn
         content: Tolbert
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.queraltinc.com/
-        name:
-        - content: Queralt, Inc.
 - role:
   - type: editor
   person:
-    email:
-    - richard.c.hill@boeing.com
     name:
       forename:
       - language: en
@@ -130,18 +80,9 @@ contributor:
         language: en
         script: Latn
         content: Hill
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.boeing.com/
-        name:
-        - content: The Boeing Company
 - role:
   - type: editor
   person:
-    email:
-    - crystal.l.hayes@boeing.com
     name:
       forename:
       - language: en
@@ -151,18 +92,9 @@ contributor:
         language: en
         script: Latn
         content: Hayes
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.boeing.com/
-        name:
-        - content: The Boeing Company
 - role:
   - type: editor
   person:
-    email:
-    - david.brossard@axiomatics.com
     name:
       forename:
       - language: en
@@ -172,18 +104,9 @@ contributor:
         language: en
         script: Latn
         content: Brossard
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.axiomatics.com/
-        name:
-        - content: Axiomatics AB
 - role:
   - type: editor
   person:
-    email:
-    - hal.lockhart@oracle.com
     name:
       forename:
       - language: en
@@ -193,18 +116,9 @@ contributor:
         language: en
         script: Latn
         content: Lockhart
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.oracle.com/
-        name:
-        - content: Oracle
 - role:
   - type: editor
   person:
-    email:
-    - steven.legg@viewds.com
     name:
       forename:
       - language: en
@@ -214,13 +128,6 @@ contributor:
         language: en
         script: Latn
         content: Legg
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.viewds.com/
-        name:
-        - content: ViewDS
 language:
 - en
 script:
@@ -234,7 +141,7 @@ abstract:
     value ranges for certain attributes. It also defines several new functions for
     comparing IP addresses and DNS names, not provided in the XACML 3.0 core specification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

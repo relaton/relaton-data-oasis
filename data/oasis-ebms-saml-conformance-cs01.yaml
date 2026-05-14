@@ -1,7 +1,7 @@
 ---
 id: OASISebMSsamlconformanceCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,48 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - sander@fieten-it.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Sander
-      surname:
-        language: en
-        script: Latn
-        content: Fieten
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - marao@cisco.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Makesh
-      surname:
-        language: en
-        script: Latn
-        content: Rao
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cisco.com/
-        name:
-        - content: Cisco Systems
-- role:
-  - type: editor
-  person:
-    email:
-    - Ian.Otto@industry.gov.au
     name:
       forename:
       - language: en
@@ -108,13 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Otto
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.industry.gov.au/
-        name:
-        - content: Australian Department of Industry
 language:
 - en
 script:
@@ -127,7 +79,7 @@ abstract:
     The usage of the username/password and X.509 token profiles of WS-Security are defined in some detail in ebMS3 and AS4. SAML is included in ebMS3 but is not defined in detail. AS4 does not discuss SAML.
     This document will define the use of SAML in ebMS3 and apply that to the scenarios addressed by AS4.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

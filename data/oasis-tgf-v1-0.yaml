@@ -1,7 +1,7 @@
 ---
 id: OASISTGFv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -42,7 +42,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/tgf/
+      content: https://www.oasis-open.org/committees/tgf/
     name:
     - content: OASIS Transformational Government Framework TC
 - role:
@@ -72,7 +72,7 @@ abstract:
     The TGF Pattern Language is a formalization of the Framework that is both human-readable and machine-tractable. It provides a concise, structured and formal set of “patterns” using the so‑called “Alexandrian form”, where each pattern describes a core problem, a context in which the problem arises and an archetypal solution to the stated problem.
     This Work Product constitutes the initial set of patterns that form the core of the TGF Pattern Language. This set may be revised and/or extended from time to time as appropriate.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

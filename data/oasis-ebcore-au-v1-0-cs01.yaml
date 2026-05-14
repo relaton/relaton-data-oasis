@@ -1,7 +1,7 @@
 ---
 id: OASISebcoreauv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - pvde@sonnenglanz.net
     name:
       forename:
       - language: en
@@ -71,29 +67,18 @@ contributor:
         language: en
         script: Latn
         content: van
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.sonnenglanz.net/
-        name:
-        - content: Sonnenglanz Consulting
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - sander@fieten-it.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Sander
+        content: Theo
       surname:
         language: en
         script: Latn
-        content: Fieten
+        content: Kramer
 language:
 - en
 script:
@@ -113,7 +98,7 @@ abstract:
     with other protocols that have a concept of communication agreement. The specification
     is independent of storage or interchange formats for configuration information.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

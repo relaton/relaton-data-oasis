@@ -1,7 +1,7 @@
 ---
 id: OASISWSCalSOAPCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,27 +57,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - toby.considine@unc.edu
     name:
       forename:
       - language: en
         script: Latn
-        content: Toby
+        content: Michael
       surname:
         language: en
         script: Latn
-        content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu/
-        name:
-        - content: University of North Carolina at Chapel Hill
+        content: Douglass
 language:
 - en
 script:
@@ -90,7 +79,7 @@ abstract:
     can be either traditional personal and enterprise calendar information or services
     that support XML payloads developed in conformance with the WS-Calendar specification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

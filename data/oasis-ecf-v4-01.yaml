@@ -1,7 +1,7 @@
 ---
 id: OASISECFv401
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -41,7 +41,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/legalxml-courtfiling/
+      content: https://www.oasis-open.org/committees/legalxml-courtfiling/
     name:
     - content: OASIS LegalXML Electronic Court Filing TC
 - role:
@@ -57,55 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jcabral@mtgmc.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: James
-      surname:
-        language: en
-        script: Latn
-        content: Cabral
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://mtgmc.com/
-        name:
-        - content: MTG Management Consultants
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - jharris@ncsc.org
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jim
-      surname:
-        language: en
-        script: Latn
-        content: Harris
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.ncsc.org/
-        name:
-        - content: National Center for State Courts
-- role:
-  - type: editor
-  person:
-    email:
-    - aangione@courthousenews.com
     name:
       forename:
       - language: en
@@ -115,18 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Angione
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.courthousenews.com/
-        name:
-        - content: Courthouse News Service
 - role:
   - type: editor
   person:
-    email:
-    - jcabral@mtgmc.com
     name:
       forename:
       - language: en
@@ -136,13 +79,6 @@ contributor:
         language: en
         script: Latn
         content: Cabral
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mtgmc.com/
-        name:
-        - content: MTG Management Consultants
 language:
 - en
 script:
@@ -158,7 +94,7 @@ abstract:
     address several minor schema and definition issues identified by implementers
     of the ECF 4.0 specification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

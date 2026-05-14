@@ -1,7 +1,7 @@
 ---
 id: OASISSQRAPv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -77,7 +77,7 @@ abstract:
   content: Describes the use of QR Codes and a mobile phone as a replacement for a
     username and password
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

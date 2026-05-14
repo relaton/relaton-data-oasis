@@ -1,7 +1,7 @@
 ---
 id: OASISWSDMMUWSv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/wsdm
+      content: https://www.oasis-open.org/committees/wsdm
     name:
     - content: OASIS Web Services Distributed Management TC
 - role:
@@ -63,7 +63,7 @@ abstract:
     Web services resources via the former – Management Of Web 17 Services, or MOWS.
     This document is the WSDM specification defining MOWS.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

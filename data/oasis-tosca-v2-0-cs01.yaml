@@ -1,11 +1,11 @@
 ---
 id: OASISTOSCAv20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
-  content: ''
+  content: TOSCA Version 2.0
   type: main
 source:
 - type: src
@@ -19,6 +19,9 @@ docidentifier:
   type: OASIS
   primary: true
 docnumber: TOSCA-v2.0-CS01
+date:
+- type: issued
+  at: '2024-12-05'
 contributor:
 - role:
   - type: authorizer
@@ -83,7 +86,7 @@ language:
 script:
 - Latn
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

@@ -1,7 +1,7 @@
 ---
 id: OASISWSCalendarMinv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - toby.considine@unc.edu
     name:
       forename:
       - language: en
@@ -71,39 +67,9 @@ contributor:
         language: en
         script: Latn
         content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu/
-        name:
-        - content: University of North Carolina
 - role:
   - type: editor
   person:
-    email:
-    - toby.considine@unc.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Toby
-      surname:
-        language: en
-        script: Latn
-        content: Considine
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.unc.edu/
-        name:
-        - content: University of North Carolina
-- role:
-  - type: editor
-  person:
-    email:
-    - wtcox@coxsoftwarearchitects.com
     name:
       forename:
       - language: en
@@ -112,7 +78,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: T.
+        content: T
 language:
 - en
 script:
@@ -126,7 +92,7 @@ abstract:
     Because an information model is abstract, it can apply to many transmission and serialization schemas. The PIM itself does not include a transmission and serialization schemas. Through transitive conformance such PSMs themselves conform to WS-Calendar.
     The Minimal PIM-Conformant (MIN) schema defines an XML Schema that conforms with the PIM. MIN can be used by itself or as a seed-schema for other specifications.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

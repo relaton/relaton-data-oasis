@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLmetadataiopv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,18 +57,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
     name:
       forename:
       - language: en
         script: Latn
-        content: Hal
+        content: Scott
       surname:
         language: en
         script: Latn
-        content: Lockhart,
+        content: Cantor
 language:
 - en
 script:
@@ -80,7 +78,7 @@ abstract:
     such that federated relationships can be interoperably provisioned, and controlled
     at runtime in a secure, understandable, and self-contained fashion.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

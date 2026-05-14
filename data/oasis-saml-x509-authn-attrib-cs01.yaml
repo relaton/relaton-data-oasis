@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLX509authnattribCS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,54 @@ contributor:
     - name:
       - content: OASIS Security Services (SAML) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eve
+      surname:
+        language: en
+        script: Latn
+        content: Maler
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rob
+      surname:
+        language: en
+        script: Latn
+        content: Philpott
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Scavo
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ari
+      surname:
+        language: en
+        script: Latn
+        content: Kermaier
 language:
 - en
 script:
@@ -65,7 +113,7 @@ abstract:
   content: Specifies the use of SAML V2.0 attribute queries and assertions to support
     distributed authorization in support of X.509-based authentication.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

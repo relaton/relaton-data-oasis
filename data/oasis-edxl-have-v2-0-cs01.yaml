@@ -1,7 +1,7 @@
 ---
 id: OASISEDXLHAVEv20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -58,25 +58,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - elysajones@yahoo.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Elysa
-      surname:
-        language: en
-        script: Latn
-        content: Jones
-- role:
-  - type: editor
-  person:
-    email:
-    - darrell.odonnell@continuumloop.com
     name:
       forename:
       - language: en
@@ -89,8 +71,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - bwilkins@mitre.org
     name:
       forename:
       - language: en
@@ -100,18 +80,9 @@ contributor:
         language: en
         script: Latn
         content: Wilkins
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
 - role:
   - type: editor
   person:
-    email:
-    - rexb@starbourne.com
     name:
       forename:
       - language: en
@@ -124,8 +95,6 @@ contributor:
 - role:
   - type: editor
   person:
-    email:
-    - scott.m.robertson@kp.org
     name:
       forename:
       - language: en
@@ -134,14 +103,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: M.
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.kp.org/
-        name:
-        - content: Kaiser Permanente
+        content: M
 language:
 - en
 script:
@@ -156,7 +118,7 @@ abstract:
     care facilities, and the health community can provide each other with a coherent
     view of the health system.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

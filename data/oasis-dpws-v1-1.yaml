@@ -1,7 +1,7 @@
 ---
 id: OASISDPWSv11
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/ws-dd
+      content: https://www.oasis-open.org/committees/ws-dd
     name:
     - content: OASIS Web Services Discovery and Web Services Devices Profile (WS-DD)
         TC
@@ -64,7 +64,7 @@ abstract:
     service messaging, discovery, description, and eventing on resource-constrained
     endpoints.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

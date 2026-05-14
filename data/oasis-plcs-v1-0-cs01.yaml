@@ -1,7 +1,7 @@
 ---
 id: OASISPLCSv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -53,6 +53,18 @@ contributor:
     - name:
       - content: OASIS Product Life Cycle Support (PLCS) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tor
+      surname:
+        language: en
+        script: Latn
+        content: Arne
 language:
 - en
 script:
@@ -66,7 +78,7 @@ abstract:
     The identification and composition of a product design from a support viewpoint; The definition of documents and their applicability to products and support activities; The identification and composition of individual products; Configuration management activities, over the complete life cycle; Activities required to sustain product function; The resources needed to perform such activities; The planning and scheduling of such activities; The capture of feedback on the performance of such activities, including the resources used; The capture of feedback on the usage and condition of a product; The definition of the support environment in terms of people, organizations, skills, experience and facilities. The business goals of the OASIS PLCS DEXs are to satisfy three significant requirements for owners/operators of complex products and systems such as aircraft, ships and power plants, namely:
     Reduction in the total cost of ownership; Increased asset availability; Effective information management throughout the product lifecycle.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

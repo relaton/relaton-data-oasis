@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLholderofkeyv10CS02
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -55,6 +55,30 @@ contributor:
     - name:
       - content: OASIS Security Services (SAML) TC
       type: technical-committee
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Nate
+      surname:
+        language: en
+        script: Latn
+        content: Klingenstein
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Scavo
 language:
 - en
 script:
@@ -72,7 +96,7 @@ abstract:
     against credential theft. Neither the identity provider nor the service provider
     is required to validate the certificate.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

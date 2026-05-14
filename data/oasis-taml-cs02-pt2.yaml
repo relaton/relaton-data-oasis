@@ -1,7 +1,7 @@
 ---
 id: OASISTAMLCS02Pt2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,27 +57,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Jacques
+        content: Stephen
       surname:
         language: en
         script: Latn
-        content: Durand
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.fujitsu.com/
-        name:
-        - content: Fujitsu Limited
+        content: D
 language:
 - en
 script:
@@ -88,7 +77,7 @@ abstract:
   content: Defines an XML vocabulary for representing test assertions aligned with
     the Test Assertions Model.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

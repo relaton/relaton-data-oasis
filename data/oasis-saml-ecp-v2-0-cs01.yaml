@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLecpv20CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,50 +57,16 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - ndk@internet2.edu
     name:
       forename:
       - language: en
         script: Latn
-        content: Nathan
+        content: Scott
       surname:
         language: en
         script: Latn
-        content: Klingenstein
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.internet2.edu/
-        name:
-        - content: Internet2
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - hardjono@mit.edu
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Thomas
-      surname:
-        language: en
-        script: Latn
-        content: Hardjono
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mit.edu/
-        name:
-        - content: M.I.T
+        content: Cantor
 language:
 - en
 script:
@@ -115,7 +81,7 @@ abstract:
     adding support for “Holder of Key” subject confirmation [SAML2HOK] and channel
     bindings [ChanBind].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

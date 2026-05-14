@@ -1,7 +1,7 @@
 ---
 id: OASISanontermv10CS01
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,11 +57,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - rgodfrey@redhat.com
     name:
       forename:
       - language: en
@@ -71,57 +67,6 @@ contributor:
         language: en
         script: Latn
         content: Godfrey
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.redhat.com
-        name:
-        - content: Red Hat
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - clemensv@microsoft.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Clemens
-      surname:
-        language: en
-        script: Latn
-        content: Vasters
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.microsoft.com
-        name:
-        - content: Microsoft
-- role:
-  - type: editor
-  person:
-    email:
-    - rgodfrey@redhat.com
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Robert
-      surname:
-        language: en
-        script: Latn
-        content: Godfrey
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.redhat.com
-        name:
-        - content: Red Hat
 language:
 - en
 script:
@@ -138,7 +83,7 @@ abstract:
     document defines a mechanism whereby a single outgoing link can be used to transfer
     messages which are then routed using the address carried in their “to” field.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: specification
   flavor: oasis

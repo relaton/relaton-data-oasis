@@ -1,7 +1,7 @@
 ---
 id: OASISAkomaNtosoCorev10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -50,34 +50,7 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - fabio@cs.unibo.it
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Fabio
-      surname:
-        language: en
-        script: Latn
-        content: Vitali
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cirsfid.unibo.it/
-        name:
-        - content: University of Bologna-CIRSFID
-- role:
-  - type: editor
-    description:
-    - content: Chair
-  person:
-    email:
-    - monica.palmirani@unibo.it
     name:
       forename:
       - language: en
@@ -87,39 +60,9 @@ contributor:
         language: en
         script: Latn
         content: Palmirani
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cirsfid.unibo.it/
-        name:
-        - content: University of Bologna-CIRSFID
 - role:
   - type: editor
   person:
-    email:
-    - monica.palmirani@unibo.it
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Monica
-      surname:
-        language: en
-        script: Latn
-        content: Palmirani
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cirsfid.unibo.it/
-        name:
-        - content: University of Bologna-CIRSFID
-- role:
-  - type: editor
-  person:
-    email:
-    - roger.sperberg@lexisnexis.com
     name:
       forename:
       - language: en
@@ -129,18 +72,9 @@ contributor:
         language: en
         script: Latn
         content: Sperberg
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.lexisnexis.com/
-        name:
-        - content: LexisNexis, a Division of Reed Elsevier
 - role:
   - type: editor
   person:
-    email:
-    - grant.vergottini@xcential.com
     name:
       forename:
       - language: en
@@ -150,18 +84,9 @@ contributor:
         language: en
         script: Latn
         content: Vergottini
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://xcential.com/
-        name:
-        - content: Xcential Group, LLC
 - role:
   - type: editor
   person:
-    email:
-    - fabio@cs.unibo.it
     name:
       forename:
       - language: en
@@ -171,13 +96,6 @@ contributor:
         language: en
         script: Latn
         content: Vitali
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.cirsfid.unibo.it/
-        name:
-        - content: University of Bologna-CIRSFID
 language:
 - en
 script:
@@ -194,12 +112,14 @@ abstract:
 relation:
 - type: hasPart
   bibitem:
-    formattedref: OASIS AkomaNtosoCore-v1.0-Pt1-Vocabulary
+    formattedref:
+      content: OASIS AkomaNtosoCore-v1.0-Pt1-Vocabulary
 - type: hasPart
   bibitem:
-    formattedref: OASIS AkomaNtosoCore-v1.0-Pt2-Specifications
+    formattedref:
+      content: OASIS AkomaNtosoCore-v1.0-Pt2-Specifications
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis

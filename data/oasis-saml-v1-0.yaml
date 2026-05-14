@@ -1,7 +1,7 @@
 ---
 id: OASISSAMLv10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: zip
-  content: http://www.oasis-open.org/committees/download.php/2290/oasis-sstc-saml-1.0.zip
+  content: https://www.oasis-open.org/committees/download.php/2290/oasis-sstc-saml-1.0.zip
 docidentifier:
 - content: OASIS SAML-v1.0
   type: OASIS
@@ -37,7 +37,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: http://www.oasis-open.org/committees/security
+      content: https://www.oasis-open.org/committees/security
     name:
     - content: OASIS Security Services TC
 - role:
@@ -61,7 +61,7 @@ abstract:
   content: Defines the syntax and semantics for XML-encoded assertions about authentication,
     attributes, and authorization, and for the protocols that convey this information.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.0.4
   doctype:
     content: standard
   flavor: oasis
