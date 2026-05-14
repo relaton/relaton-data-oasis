@@ -56,30 +56,6 @@ contributor:
       - content: OASIS Open Document Format for Office Applications (OpenDocument)
           TC
       type: technical-committee
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Peter
-      surname:
-        language: en
-        script: Latn
-        content: Korn
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Rich
-      surname:
-        language: en
-        script: Latn
-        content: Schwerdtfeger
 language:
 - en
 script:

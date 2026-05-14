@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - jhelms@harmonia.com
     name:
       forename:
       - language: en
@@ -66,67 +70,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Helms
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Robbie
-      surname:
-        language: en
-        script: Latn
-        content: Schaefer
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Kris
-      surname:
-        language: en
-        script: Latn
-        content: Luyten
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jean
-      surname:
-        language: en
-        script: Latn
-        content: Vanderdonckt
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jo
-      surname:
-        language: en
-        script: Latn
-        content: Vermeulen
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Marc
-      surname:
-        language: en
-        script: Latn
-        content: Abrams
+        content: Helms,
 language:
 - en
 script:

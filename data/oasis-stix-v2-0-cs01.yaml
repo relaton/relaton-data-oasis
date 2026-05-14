@@ -50,31 +50,32 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - Richard.Struse@HQ.DHS.GOV
     name:
       forename:
       - language: en
         script: Latn
-        content: Rich
+        content: Richard
       surname:
         language: en
         script: Latn
-        content: Piazza
+        content: Struse
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.dhs.gov/office-cybersecurity-and-communications
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
 - role:
   - type: editor
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: John
-      surname:
-        language: en
-        script: Latn
-        content: Wunder
-- role:
-  - type: editor
-  person:
+    email:
+    - bret_jordan@symantec.com
     name:
       forename:
       - language: en
@@ -84,6 +85,55 @@ contributor:
         language: en
         script: Latn
         content: Jordan
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.symantec.com/
+        name:
+        - content: Symantec Corp.
+- role:
+  - type: editor
+  person:
+    email:
+    - rpiazza@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Piazza
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
+- role:
+  - type: editor
+  person:
+    email:
+    - jwunder@mitre.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Wunder
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
 language:
 - en
 script:

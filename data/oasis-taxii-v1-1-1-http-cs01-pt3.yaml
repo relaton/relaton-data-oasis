@@ -31,8 +31,56 @@ contributor:
     name:
     - content: OASIS
 - role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/cti/
+    name:
+    - content: OASIS Cyber Threat Intelligence (CTI) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: |-
+          OASIS Cyber Threat
+          Intelligence (CTI) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Richard.Struse@hq.dhs.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Struse
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.dhs.gov/office-cybersecurity-and-communications
+        name:
+        - content: DHS Office of Cybersecurity and Communications (CS&C)
+- role:
   - type: editor
   person:
+    email:
+    - mdavidson@mitre.org
     name:
       forename:
       - language: en
@@ -42,9 +90,18 @@ contributor:
         language: en
         script: Latn
         content: Davidson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
 - role:
   - type: editor
   person:
+    email:
+    - cmschmidt@mitre.org
     name:
       forename:
       - language: en
@@ -54,9 +111,18 @@ contributor:
         language: en
         script: Latn
         content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mitre.org/
+        name:
+        - content: MITRE Corporation
 - role:
   - type: editor
   person:
+    email:
+    - bret.jordan@bluecoat.com
     name:
       forename:
       - language: en
@@ -66,10 +132,21 @@ contributor:
         language: en
         script: Latn
         content: Jordan
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.bluecoat.com/
+        name:
+        - content: Blue Coat Systems, Inc.
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document describes HTTP Protocol Binding.
 relation:
 - type: partOf
   bibitem:

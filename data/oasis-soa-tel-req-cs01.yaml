@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - enrico.ronco@telecomitalia.it
     name:
       forename:
       - language: en
@@ -66,7 +70,21 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Ronco
+        content: Ronco,
+- role:
+  - type: editor
+  person:
+    email:
+    - enrico.ronco@telecomitalia.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Enrico
+      surname:
+        language: en
+        script: Latn
+        content: Ronco,
 language:
 - en
 script:

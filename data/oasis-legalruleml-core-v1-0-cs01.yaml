@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - monica.palmirani@unibo.it
     name:
       forename:
       - language: en
@@ -67,9 +71,20 @@ contributor:
         language: en
         script: Latn
         content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: CIRSFID, University of Bologna
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - Guido.Governatori@data61.csiro.au
     name:
       forename:
       - language: en
@@ -79,9 +94,60 @@ contributor:
         language: en
         script: Latn
         content: Governatori
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: https://www.data61.csiro.au/
+        name:
+        - content: Commonwealth Scientific and Industrial Research Organisation, Data61
 - role:
   - type: editor
   person:
+    email:
+    - monica.palmirani@unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: CIRSFID, University of Bologna
+- role:
+  - type: editor
+  person:
+    email:
+    - Guido.Governatori@data61.csiro.au
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Guido
+      surname:
+        language: en
+        script: Latn
+        content: Governatori
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: https://www.data61.csiro.au/
+        name:
+        - content: Commonwealth Scientific and Industrial Research Organisation, Data61
+- role:
+  - type: editor
+  person:
+    email:
+    - taraathan@gmail.com
     name:
       forename:
       - language: en
@@ -94,6 +160,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - harold.boley@unb.ca
     name:
       forename:
       - language: en
@@ -103,9 +171,18 @@ contributor:
         language: en
         script: Latn
         content: Boley
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ruleml.org/
+        name:
+        - content: RuleML, Inc.
 - role:
   - type: editor
   person:
+    email:
+    - paschke@inf.fu-berlin.de
     name:
       forename:
       - language: en
@@ -115,9 +192,18 @@ contributor:
         language: en
         script: Latn
         content: Paschke
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ruleml.org/
+        name:
+        - content: RuleML, Inc.
 - role:
   - type: editor
   person:
+    email:
+    - a.z.wyner@swansea.ac.uk
     name:
       forename:
       - language: en

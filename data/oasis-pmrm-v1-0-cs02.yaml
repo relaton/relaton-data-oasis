@@ -57,7 +57,25 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - john.annapolis@comcast.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Sabo
+- role:
+  - type: editor
+  person:
+    email:
+    - micheledrgon@dataprobity.com
     name:
       forename:
       - language: en
@@ -66,10 +84,12 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Drgon
+        content: Drgon,
 - role:
   - type: editor
   person:
+    email:
+    - gail.magnuson@gmail.com
     name:
       forename:
       - language: en
@@ -82,6 +102,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - john.annapolis@verizon.net
     name:
       forename:
       - language: en

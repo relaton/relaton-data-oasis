@@ -60,7 +60,25 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - shuston@riverace.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steve
+      surname:
+        language: en
+        script: Latn
+        content: Huston
+- role:
+  - type: editor
+  person:
+    email:
+    - john.fallows@kaazing.com
     name:
       forename:
       - language: en
@@ -70,9 +88,18 @@ contributor:
         language: en
         script: Latn
         content: Fallows
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://kaazing.com/
+        name:
+        - content: Kaazing
 - role:
   - type: editor
   person:
+    email:
+    - dingham@redhat.com
     name:
       forename:
       - language: en
@@ -82,9 +109,18 @@ contributor:
         language: en
         script: Latn
         content: Ingham
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com/
+        name:
+        - content: Red Hat
 - role:
   - type: editor
   person:
+    email:
+    - robert.godfrey@jpmorgan.com
     name:
       forename:
       - language: en
@@ -94,6 +130,13 @@ contributor:
         language: en
         script: Latn
         content: Godfrey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpmorganchase.com/
+        name:
+        - content: JPMorgan Chase & Co.
 language:
 - en
 script:

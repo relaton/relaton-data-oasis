@@ -57,7 +57,32 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - matthias.hub@de.ibm.com
     name:
       forename:
       - language: en
@@ -67,6 +92,13 @@ contributor:
         language: en
         script: Latn
         content: Hub
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 language:
 - en
 script:

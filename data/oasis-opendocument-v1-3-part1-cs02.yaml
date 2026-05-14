@@ -32,20 +32,34 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: editor
-  person:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/office/
     name:
-      forename:
-      - language: en
-        script: Latn
-        content: Francis
-      surname:
-        language: en
-        script: Latn
-        content: Cave
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
+      type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - patrick@durusau.net
     name:
       forename:
       - language: en
@@ -57,32 +71,36 @@ contributor:
         content: Durusau
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - jos.vanden.oever@logius.nl
     name:
       forename:
       - language: en
         script: Latn
-        content: Svante
+        content: Jos
       surname:
         language: en
         script: Latn
-        content: Schubert
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Michael
-      surname:
-        language: en
-        script: Latn
-        content: Stahl
+        content: van
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.logius.nl/
+        name:
+        - content: Logius
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is Part 1 of the Open Document Format for Office Applications
+    (OpenDocument) Version 1.3 specification.
 relation:
 - type: partOf
   bibitem:

@@ -57,88 +57,18 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
     name:
       forename:
       - language: en
         script: Latn
-        content: Luc
+        content: Dave
       surname:
         language: en
         script: Latn
-        content: Clément
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Dieter
-      surname:
-        language: en
-        script: Latn
-        content: König
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Vinkesh
-      surname:
-        language: en
-        script: Latn
-        content: Mehta
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ralf
-      surname:
-        language: en
-        script: Latn
-        content: Mueller
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ravi
-      surname:
-        language: en
-        script: Latn
-        content: Rangaswamy
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Michael
-      surname:
-        language: en
-        script: Latn
-        content: Rowley
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ivana
-      surname:
-        language: en
-        script: Latn
-        content: Trickovic
+        content: Ings,
 language:
 - en
 script:

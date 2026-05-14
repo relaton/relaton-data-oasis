@@ -51,19 +51,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Francis
-      surname:
-        language: en
-        script: Latn
-        content: Cave
-- role:
-  - type: editor
-  person:
+    email:
+    - patrick@durusau.net
     name:
       forename:
       - language: en
@@ -75,28 +67,27 @@ contributor:
         content: Durusau
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - jos.vanden.oever@logius.nl
     name:
       forename:
       - language: en
         script: Latn
-        content: Svante
+        content: Jos
       surname:
         language: en
         script: Latn
-        content: Schubert
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Michael
-      surname:
-        language: en
-        script: Latn
-        content: Stahl
+        content: van
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.logius.nl/
+        name:
+        - content: Logius
 language:
 - en
 script:

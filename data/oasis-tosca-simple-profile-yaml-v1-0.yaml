@@ -59,7 +59,55 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - paul.lipton@ca.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Lipton
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ca.com/
+        name:
+        - content: CA Technologies
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - jcrandal@brocade.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Crandall
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.brocade.com/en.html
+        name:
+        - content: Brocade Communications Systems
+- role:
+  - type: editor
+  person:
+    email:
+    - dpalma@vnomic.com
     name:
       forename:
       - language: en
@@ -69,9 +117,18 @@ contributor:
         language: en
         script: Latn
         content: Palma
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.vnomic.com/
+        name:
+        - content: Vnomic
 - role:
   - type: editor
   person:
+    email:
+    - mrutkows@us.ibm.com
     name:
       forename:
       - language: en
@@ -81,9 +138,18 @@ contributor:
         language: en
         script: Latn
         content: Rutkowski
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 - role:
   - type: editor
   person:
+    email:
+    - thomas.spatzier@de.ibm.com
     name:
       forename:
       - language: en
@@ -93,6 +159,13 @@ contributor:
         language: en
         script: Latn
         content: Spatzier
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 language:
 - en
 script:

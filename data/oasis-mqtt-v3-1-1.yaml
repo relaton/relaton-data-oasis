@@ -50,7 +50,48 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - raphael.cohn@stormmq.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raphael
+      surname:
+        language: en
+        script: Latn
+        content: J
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - coppen@uk.ibm.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: J
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
+- role:
+  - type: editor
+  person:
+    email:
+    - Andrew_Banks@uk.ibm.com
     name:
       forename:
       - language: en
@@ -60,9 +101,18 @@ contributor:
         language: en
         script: Latn
         content: Banks
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 - role:
   - type: editor
   person:
+    email:
+    - rahul.gupta@us.ibm.com
     name:
       forename:
       - language: en
@@ -72,6 +122,13 @@ contributor:
         language: en
         script: Latn
         content: Gupta
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 language:
 - en
 script:

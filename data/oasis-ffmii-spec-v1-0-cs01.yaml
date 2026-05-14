@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - thinh.nguyenphu@nsn.com
     name:
       forename:
       - language: en
@@ -67,6 +71,34 @@ contributor:
         language: en
         script: Latn
         content: Nguyenphu
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nsn.com/
+        name:
+        - content: Nokia Siemens Networks
+- role:
+  - type: editor
+  person:
+    email:
+    - thinh.nguyenphu@nsn.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Thinh
+      surname:
+        language: en
+        script: Latn
+        content: Nguyenphu
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nsn.com/
+        name:
+        - content: Nokia Siemens Networks
 language:
 - en
 script:

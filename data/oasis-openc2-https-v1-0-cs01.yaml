@@ -55,18 +55,6 @@ contributor:
     - name:
       - content: OASIS Open Command and Control (OpenC2) TC
       type: technical-committee
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: David
-      surname:
-        language: en
-        script: Latn
-        content: Lemire
 language:
 - en
 script:

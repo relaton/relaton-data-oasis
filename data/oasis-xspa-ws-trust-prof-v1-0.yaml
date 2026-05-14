@@ -59,6 +59,34 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Staggs,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anil
+      surname:
+        language: en
+        script: Latn
+        content: Saldhana,
+- role:
+  - type: editor
   person:
     name:
       forename:
@@ -68,7 +96,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Davis
+        content: Davis,
 - role:
   - type: editor
   person:
@@ -80,7 +108,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: DeCouteau
+        content: DeCouteau,
 - role:
   - type: editor
   person:
@@ -92,7 +120,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Staggs
+        content: Staggs,
 - role:
   - type: editor
   person:
@@ -104,7 +132,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Guo
+        content: Guo,
 language:
 - en
 script:

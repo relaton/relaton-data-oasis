@@ -57,28 +57,50 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - hardjono@mit.edu
     name:
       forename:
       - language: en
         script: Latn
-        content: Chad
+        content: Thomas
       surname:
         language: en
         script: Latn
-        content: La
+        content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: M.I.T.
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - ndk@internet2.edu
     name:
       forename:
       - language: en
         script: Latn
-        content: Scott
+        content: Nate
       surname:
         language: en
         script: Latn
-        content: Cantor
+        content: Klingenstein
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.internet2.edu/
+        name:
+        - content: Internet2
 language:
 - en
 script:

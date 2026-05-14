@@ -32,8 +32,72 @@ contributor:
     name:
     - content: OASIS
 - role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/xacml/
+    name:
+    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: |-
+          OASIS eXtensible Access
+          Control Markup Language (XACML) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
   - type: editor
   person:
+    email:
+    - erik@axiomatics.com
     name:
       forename:
       - language: en
@@ -43,10 +107,23 @@ contributor:
         language: en
         script: Latn
         content: Rissanen
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.axiomatics.com/
+        name:
+        - content: Axiomatics AB
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document represents the OASIS Standard eXtensible Access Control Markup
+    Language (XACML) Version 3.0 incorporating the changes defined in Approved Errata
+    01.
 relation:
 - type: partOf
   bibitem:

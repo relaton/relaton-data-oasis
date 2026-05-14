@@ -48,18 +48,6 @@ contributor:
     - name:
       - content: OASIS OSLC Lifecycle Integration Core (OSLC Core) TC
       type: technical-committee
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jim
-      surname:
-        language: en
-        script: Latn
-        content: Amsden
 language:
 - en
 script:

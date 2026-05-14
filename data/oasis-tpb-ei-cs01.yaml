@@ -58,16 +58,43 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - david.holmberg@nist.gov
     name:
       forename:
       - language: en
         script: Latn
-        content: Pim
+        content: David
       surname:
         language: en
         script: Latn
-        content: van
+        content: Holmberg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: T.
 language:
 - en
 script:

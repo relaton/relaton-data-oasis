@@ -57,7 +57,25 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - gkholman@CraneSoftwrights.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: G.
+      surname:
+        language: en
+        script: Latn
+        content: Ken
+- role:
+  - type: editor
+  person:
+    email:
+    - abcoates@mileywatts.com
     name:
       forename:
       - language: en
@@ -66,7 +84,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: B
+        content: B.
 language:
 - en
 script:

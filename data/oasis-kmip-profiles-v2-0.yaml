@@ -57,28 +57,50 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - tony.cox@cryptsoft.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Tim
+        content: Tony
       surname:
         language: en
         script: Latn
-        content: Hudson
+        content: Cox
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cryptsoft.com
+        name:
+        - content: Cryptsoft Pty Ltd.
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - Judith.Furlong@dell.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Robert
+        content: Judith
       surname:
         language: en
         script: Latn
-        content: Lockhart
+        content: Furlong
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.dell.com
+        name:
+        - content: Dell
 language:
 - en
 script:

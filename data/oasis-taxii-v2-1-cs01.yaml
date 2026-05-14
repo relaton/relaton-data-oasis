@@ -57,28 +57,50 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - rjs@mitre.org
     name:
       forename:
       - language: en
         script: Latn
-        content: Bret
+        content: Richard
       surname:
         language: en
         script: Latn
-        content: Jordan
+        content: Struse
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: https://www.mitre.org/
+        name:
+        - content: MITRE Corporation
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - trey.darley@cert.be
     name:
       forename:
       - language: en
         script: Latn
-        content: Drew
+        content: Trey
       surname:
         language: en
         script: Latn
-        content: Varner
+        content: Darley
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: https://cert.be/
+        name:
+        - content: CCB/CERT.be
 language:
 - en
 script:

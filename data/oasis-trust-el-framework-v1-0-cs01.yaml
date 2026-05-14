@@ -59,31 +59,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Peter
-      surname:
-        language: en
-        script: Latn
-        content: Alterman
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Shaheen
-      surname:
-        language: en
-        script: Latn
-        content: Abdul
-- role:
-  - type: editor
-  person:
+    email:
+    - abbie.barbir@bankofamerica.com
     name:
       forename:
       - language: en
@@ -93,9 +73,132 @@ contributor:
         language: en
         script: Latn
         content: Barbir
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.bankofamerica.com/
+        name:
+        - content: Bank of America
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - don@openidentityexchange.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Thibeau
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.openidentityexchange.org/
+        name:
+        - content: Open Identity Exchange
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Thibeau,
 - role:
   - type: editor
   person:
+    email:
+    - peter.alterman@nih.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Alterman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.safe-biopharma.org/
+        name:
+        - content: SAFE-BioPharma Assn
+- role:
+  - type: editor
+  person:
+    email:
+    - shaheen.abduljabbar@jpmchase.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shaheen
+      surname:
+        language: en
+        script: Latn
+        content: Abdul
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpmorganchase.com/
+        name:
+        - content: JPMorgan Chase Bank, N.A.
+- role:
+  - type: editor
+  person:
+    email:
+    - abbie.barbir@bankofamerica.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.bankofamerica.com/
+        name:
+        - content: Bank of America
+- role:
+  - type: editor
+  person:
+    email:
+    - mary@meristic.com
     name:
       forename:
       - language: en
@@ -105,9 +208,18 @@ contributor:
         language: en
         script: Latn
         content: Ruddy
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.identitycommons.net/
+        name:
+        - content: Identity Commons
 - role:
   - type: editor
   person:
+    email:
+    - steveo@luminagroup.com
     name:
       forename:
       - language: en

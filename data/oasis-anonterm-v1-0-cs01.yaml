@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - rgodfrey@redhat.com
     name:
       forename:
       - language: en
@@ -67,6 +71,57 @@ contributor:
         language: en
         script: Latn
         content: Godfrey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com
+        name:
+        - content: Red Hat
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - clemensv@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Clemens
+      surname:
+        language: en
+        script: Latn
+        content: Vasters
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - rgodfrey@redhat.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Godfrey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com
+        name:
+        - content: Red Hat
 language:
 - en
 script:

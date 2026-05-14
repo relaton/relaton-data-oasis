@@ -50,7 +50,55 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - Ram.Jeyaraman@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ram
+      surname:
+        language: en
+        script: Latn
+        content: Jeyaraman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - angus.telfer@inetco.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Angus
+      surname:
+        language: en
+        script: Latn
+        content: Telfer
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.inetco.com
+        name:
+        - content: INETCO Systems
+- role:
+  - type: editor
+  person:
+    email:
+    - robert.godfrey@jpmorgan.com
     name:
       forename:
       - language: en
@@ -60,9 +108,18 @@ contributor:
         language: en
         script: Latn
         content: Godfrey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpmorganchase.com
+        name:
+        - content: JPMorgan Chase & Co.
 - role:
   - type: editor
   person:
+    email:
+    - David.Ingham@microsoft.com
     name:
       forename:
       - language: en
@@ -72,9 +129,18 @@ contributor:
         language: en
         script: Latn
         content: Ingham
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
 - role:
   - type: editor
   person:
+    email:
+    - rafaels@redhat.com
     name:
       forename:
       - language: en
@@ -84,6 +150,13 @@ contributor:
         language: en
         script: Latn
         content: Schloming
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com
+        name:
+        - content: Red Hat
 language:
 - en
 script:

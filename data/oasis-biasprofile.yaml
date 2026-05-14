@@ -61,31 +61,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Kevin
-      surname:
-        language: en
-        script: Latn
-        content: Mangold
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Matthew
-      surname:
-        language: en
-        script: Latn
-        content: Swayze
-- role:
-  - type: editor
-  person:
+    email:
+    - cathy.tilton@daon.com
     name:
       forename:
       - language: en
@@ -95,6 +75,36 @@ contributor:
         language: en
         script: Latn
         content: Tilton
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.daon.com/
+        name:
+        - content: Daon
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kevin.mangold@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Mangold
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
 language:
 - en
 script:

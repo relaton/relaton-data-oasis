@@ -57,16 +57,36 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - harold.w.lochhart@gmail.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Steven
+        content: Hal
       surname:
         language: en
         script: Latn
-        content: Legg
+        content: Lochhart
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci
 language:
 - en
 script:

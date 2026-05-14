@@ -57,19 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Adam
-      surname:
-        language: en
-        script: Latn
-        content: Angione
-- role:
-  - type: editor
-  person:
+    email:
+    - jcabral@mtgmc.com
     name:
       forename:
       - language: en
@@ -79,6 +71,78 @@ contributor:
         language: en
         script: Latn
         content: Cabral
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://mtgmc.com/
+        name:
+        - content: MTG Management Consultants
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - jharris@ncsc.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jim
+      surname:
+        language: en
+        script: Latn
+        content: Harris
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ncsc.org/
+        name:
+        - content: National Center for State Courts
+- role:
+  - type: editor
+  person:
+    email:
+    - aangione@courthousenews.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Adam
+      surname:
+        language: en
+        script: Latn
+        content: Angione
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.courthousenews.com/
+        name:
+        - content: Courthouse News Service
+- role:
+  - type: editor
+  person:
+    email:
+    - jcabral@mtgmc.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Cabral
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mtgmc.com/
+        name:
+        - content: MTG Management Consultants
 language:
 - en
 script:

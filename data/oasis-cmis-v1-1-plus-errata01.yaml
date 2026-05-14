@@ -32,29 +32,26 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: editor
-  person:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/cmis/ipr.php
     name:
-      forename:
-      - language: en
-        script: Latn
-        content: Florian
-      surname:
-        language: en
-        script: Latn
-        content: Müller
+    - content: http://www.oasis-open.org/committees/cmis/ipr.php
 - role:
-  - type: editor
-  person:
+  - type: author
+    description:
+    - content: committee
+  organization:
     name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ken
-      surname:
-        language: en
-        script: Latn
-        content: Baclawski
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: http://www.oasis-open.org/committees/cmis/ipr.php
+      type: technical-committee
 language:
 - en
 script:

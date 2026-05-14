@@ -30,18 +30,6 @@ contributor:
       content: https://www.oasis-open.org/
     name:
     - content: OASIS
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jim
-      surname:
-        language: en
-        script: Latn
-        content: Amsden
 language:
 - en
 script:

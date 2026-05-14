@@ -58,7 +58,55 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - valerie.fenwick@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Valerie
+      surname:
+        language: en
+        script: Latn
+        content: Fenwick
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - rrelyea@redhat.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Relyea
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com/
+        name:
+        - content: Red Hat
+- role:
+  - type: editor
+  person:
+    email:
+    - susan.gleeson@oracle.com
     name:
       forename:
       - language: en
@@ -68,9 +116,18 @@ contributor:
         language: en
         script: Latn
         content: Gleeson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
 - role:
   - type: editor
   person:
+    email:
+    - chris@wmpp.com
     name:
       forename:
       - language: en
@@ -83,6 +140,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - robert.griffin@emc.com
     name:
       forename:
       - language: en
@@ -92,9 +151,18 @@ contributor:
         language: en
         script: Latn
         content: Griffin
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.emc.com/
+        name:
+        - content: EMC Corporation
 - role:
   - type: editor
   person:
+    email:
+    - tjh@cryptsoft.com
     name:
       forename:
       - language: en
@@ -104,6 +172,13 @@ contributor:
         language: en
         script: Latn
         content: Hudson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cryptsoft.com/
+        name:
+        - content: Cryptsoft Pty Ltd
 language:
 - en
 script:

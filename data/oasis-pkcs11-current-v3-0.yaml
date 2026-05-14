@@ -58,28 +58,50 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - tony.cox@cryptsoft.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Chris
+        content: Tony
       surname:
         language: en
         script: Latn
-        content: Zimman
+        content: Cox
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: https://cryptsoft.com/
+        name:
+        - content: Cryptsoft Pty Ltd
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - rrelyea@redhat.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Dieter
+        content: Robert
       surname:
         language: en
         script: Latn
-        content: Bong
+        content: Relyea
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com
+        name:
+        - content: Red Hat
 language:
 - en
 script:

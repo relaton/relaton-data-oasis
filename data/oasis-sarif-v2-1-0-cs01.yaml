@@ -57,7 +57,48 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - dmk@dmk.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Keaton
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - luke@semmle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Luke
+      surname:
+        language: en
+        script: Latn
+        content: Cartey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.semmle.com/
+        name:
+        - content: Semmle
+- role:
+  - type: editor
+  person:
+    email:
+    - mikefan@microsoft.com
     name:
       forename:
       - language: en
@@ -66,7 +107,35 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: C
+        content: C.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - v-lgold@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Laurence
+      surname:
+        language: en
+        script: Latn
+        content: J.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
 language:
 - en
 script:

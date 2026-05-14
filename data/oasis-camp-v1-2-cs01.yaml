@@ -57,7 +57,32 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - anish.karmarkar@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anish
+      surname:
+        language: en
+        script: Latn
+        content: Karmarkar
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -67,9 +92,18 @@ contributor:
         language: en
         script: Latn
         content: Durand
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
 - role:
   - type: editor
   person:
+    email:
+    - adrian.otto@rackspace.com
     name:
       forename:
       - language: en
@@ -79,9 +113,18 @@ contributor:
         language: en
         script: Latn
         content: Otto
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.rackspace.com/
+        name:
+        - content: Rackspace Hosting, Inc.
 - role:
   - type: editor
   person:
+    email:
+    - gilbert.pilz@oracle.com
     name:
       forename:
       - language: en
@@ -91,9 +134,18 @@ contributor:
         language: en
         script: Latn
         content: Pilz
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
 - role:
   - type: editor
   person:
+    email:
+    - trutt@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -103,6 +155,13 @@ contributor:
         language: en
         script: Latn
         content: Rutt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
 language:
 - en
 script:

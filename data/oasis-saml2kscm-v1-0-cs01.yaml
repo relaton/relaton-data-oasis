@@ -57,19 +57,34 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - hal.lockhart@oracle.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Josh
+        content: Hal
       surname:
         language: en
         script: Latn
-        content: Howlett
+        content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle, Inc.
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - hardjono@mit.edu
     name:
       forename:
       - language: en
@@ -79,6 +94,13 @@ contributor:
         language: en
         script: Latn
         content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: M.I.T.
 language:
 - en
 script:

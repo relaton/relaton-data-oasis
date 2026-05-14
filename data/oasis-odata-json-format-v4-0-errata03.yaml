@@ -31,8 +31,35 @@ contributor:
     name:
     - content: OASIS
 - role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
+    name:
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: |-
+          OASIS Open Data Protocol
+          (OData) TC
+      type: technical-committee
+- role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - ralf.handl@sap.com
     name:
       forename:
       - language: en
@@ -42,9 +69,62 @@ contributor:
         language: en
         script: Latn
         content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Ram.Jeyaraman@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ram
+      surname:
+        language: en
+        script: Latn
+        content: Jeyaraman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
 - role:
   - type: editor
   person:
+    email:
+    - ralf.handl@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ralf
+      surname:
+        language: en
+        script: Latn
+        content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
+- role:
+  - type: editor
+  person:
+    email:
+    - mikep@microsoft.com
     name:
       forename:
       - language: en
@@ -54,9 +134,18 @@ contributor:
         language: en
         script: Latn
         content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
 - role:
   - type: editor
   person:
+    email:
+    - martin.zurmuehl@sap.com
     name:
       forename:
       - language: en
@@ -66,10 +155,21 @@ contributor:
         language: en
         script: Latn
         content: Zurmuehl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document lists Errata for OData JSON Format Version 4.0.
 relation:
 - type: partOf
   bibitem:

@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - johnaborras@yahoo.co.uk
     name:
       forename:
       - language: en
@@ -70,6 +74,22 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - johnaborras@yahoo.co.uk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Borras
+- role:
+  - type: editor
+  person:
+    email:
+    - peter@peterfbrown.com
     name:
       forename:
       - language: en
@@ -82,6 +102,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - chris.parker@cstransform.com
     name:
       forename:
       - language: en
@@ -91,6 +113,13 @@ contributor:
         language: en
         script: Latn
         content: Parker
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://cstransform.com/
+        name:
+        - content: CS Transform Limited
 language:
 - en
 script:

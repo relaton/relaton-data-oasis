@@ -31,20 +31,35 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: editor
-  person:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/s-ramp/
     name:
-      forename:
-      - language: en
-        script: Latn
-        content: Martin
-      surname:
-        language: en
-        script: Latn
-        content: Smithson
+    - content: OASIS SOA Repository Artifact Model and Protocol (S-RAMP) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: |-
+          OASIS SOA Repository
+          Artifact Model and Protocol (S-RAMP) TC
+      type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - brunssen@us.ibm.com
     name:
       forename:
       - language: en
@@ -54,10 +69,71 @@ contributor:
         language: en
         script: Latn
         content: Brunssen
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
+- role:
+  - type: editor
+  person:
+    email:
+    - msmiths@uk.ibm.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Martin
+      surname:
+        language: en
+        script: Latn
+        content: Smithson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
+- role:
+  - type: editor
+  person:
+    email:
+    - brunssen@us.ibm.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vincent
+      surname:
+        language: en
+        script: Latn
+        content: Brunssen
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Vendors offer tools to facilitate various activities across the life cycle
+    of a SOA artifact, such as design, assembly, quality assurance, deployment and
+    runtime operation of SOA based applications and business processes.  The lack
+    of a standardized information model and interaction protocol for artifacts and
+    their metadata residing in a SOA repository means that tools must be customized
+    for use with each different vendor’s SOA repository product.  This reduces choice,
+    flexibility and adds costs for customers when choosing tools. This specification
+    defines a SOA artifact data model together with bindings that describe the syntax
+    for interacting with a SOA repository.
 relation:
 - type: partOf
   bibitem:

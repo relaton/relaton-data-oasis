@@ -57,19 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Detlef
-      surname:
-        language: en
-        script: Latn
-        content: Hühnlein
-- role:
-  - type: editor
-  person:
+    email:
+    - kuehne@trustable.de
     name:
       forename:
       - language: en
@@ -79,6 +71,29 @@ contributor:
         language: en
         script: Latn
         content: Kuehne
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - EJvN@Sonnenglanz.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ernst
+      surname:
+        language: en
+        script: Latn
+        content: Jan
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sonnenglanz.net/
+        name:
+        - content: Sonnenglanz Consulting
 language:
 - en
 script:

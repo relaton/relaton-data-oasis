@@ -57,55 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Aliaa
-      surname:
-        language: en
-        script: Latn
-        content: Badr
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jennifer
-      surname:
-        language: en
-        script: Latn
-        content: Alpert
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Rich
-      surname:
-        language: en
-        script: Latn
-        content: Lustig
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Catherine
-      surname:
-        language: en
-        script: Latn
-        content: Schmidt
-- role:
-  - type: editor
-  person:
+    email:
+    - zs@sureclinical.net
     name:
       forename:
       - language: en
@@ -115,9 +71,123 @@ contributor:
         language: en
         script: Latn
         content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sureclinical.com/
+        name:
+        - content: SureClinical
 - role:
   - type: editor
   person:
+    email:
+    - abadr@carelex.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Aliaa
+      surname:
+        language: en
+        script: Latn
+        content: Badr
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.carelex.org/
+        name:
+        - content: CareLex
+- role:
+  - type: editor
+  person:
+    email:
+    - jalpert@carelex.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jennifer
+      surname:
+        language: en
+        script: Latn
+        content: Alpert
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.carelex.org/
+        name:
+        - content: CareLex
+- role:
+  - type: editor
+  person:
+    email:
+    - rich.lustig@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Lustig
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/index.html
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - cms@SterlingBio.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Catherine
+      surname:
+        language: en
+        script: Latn
+        content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sterlingbio.com
+        name:
+        - content: SterlingBio
+- role:
+  - type: editor
+  person:
+    email:
+    - zs@sureclinical.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Zack
+      surname:
+        language: en
+        script: Latn
+        content: Schmidt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sureclinical.com/
+        name:
+        - content: SureClinical
+- role:
+  - type: editor
+  person:
+    email:
+    - airat@sureclinical.com
     name:
       forename:
       - language: en
@@ -126,7 +196,35 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Sadreev,Troy
+        content: Sadreev,
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sureclinical.com/
+        name:
+        - content: SureClinical
+- role:
+  - type: editor
+  person:
+    email:
+    - troy.jacobson@forteresearch.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Troy
+      surname:
+        language: en
+        script: Latn
+        content: Jacobson,
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://forteresearch.com/
+        name:
+        - content: Forte Research Systems
 - role:
   - type: editor
   person:
@@ -139,6 +237,13 @@ contributor:
         language: en
         script: Latn
         content: Vatsal
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nextdocs.com/
+        name:
+        - content: Next Docs
 language:
 - en
 script:

@@ -26,10 +26,69 @@ contributor:
       content: https://www.oasis-open.org/
     name:
     - content: OASIS
+- role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=4bf06d41-79ad-4c58-9e8e-018dc7d05da8
+    name:
+    - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - patrick@durusau.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Patrick
+      surname:
+        language: en
+        script: Latn
+        content: Durusau
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - svante.schubert@gmail.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Svante
+      surname:
+        language: en
+        script: Latn
+        content: Schubert
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is Part 1 of the Open Document Format for Office Applications
+    (OpenDocument) Version 1.4 specification.
 relation:
 - type: partOf
   bibitem:

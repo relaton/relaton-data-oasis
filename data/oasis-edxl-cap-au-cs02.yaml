@@ -58,19 +58,46 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - elysajones@yahoo.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Gret
+        content: Elysa
+      surname:
+        language: en
+        script: Latn
+        content: Jones
+- role:
+  - type: editor
+  person:
+    email:
+    - Gregory.Trott@ag.gov.au
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Greg
       surname:
         language: en
         script: Latn
         content: Trott
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ag.gov.au/
+        name:
+        - content: Australian Government Attorney-General's Department
 - role:
   - type: editor
   person:
+    email:
+    - elysajones@yahoo.com
     name:
       forename:
       - language: en

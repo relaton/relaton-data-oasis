@@ -59,7 +59,83 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - barbira@aetna.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.aetna.com
+        name:
+        - content: Aetna
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - don@openidentityexchange.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Thibeau
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.openidentityexchange.org/
+        name:
+        - content: Open Identity Exchange
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Thibeau,
+- role:
+  - type: editor
+  person:
+    email:
+    - AndrewHughes3000@gmail.com
     name:
       forename:
       - language: en
@@ -72,6 +148,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - palterman@safe-biopharma.org
     name:
       forename:
       - language: en
@@ -81,6 +159,88 @@ contributor:
         language: en
         script: Latn
         content: Alterman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.safe-biopharma.org/
+        name:
+        - content: SAFE-BioPharma Assn
+- role:
+  - type: editor
+  person:
+    email:
+    - shaheen.abduljabbar@jpmchase.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shaheen
+      surname:
+        language: en
+        script: Latn
+        content: Abdul
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.jpmorganchase.com/
+        name:
+        - content: JPMorgan Chase Bank, N.A.
+- role:
+  - type: editor
+  person:
+    email:
+    - barbira@aetna.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.aetna.com
+        name:
+        - content: Aetna
+- role:
+  - type: editor
+  person:
+    email:
+    - mary@meristic.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mary
+      surname:
+        language: en
+        script: Latn
+        content: Ruddy
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.identitycommons.net/
+        name:
+        - content: Identity Commons
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Hughes,
 - role:
   - type: editor
   person:
@@ -100,11 +260,23 @@ contributor:
       forename:
       - language: en
         script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Alterman,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
         content: Abbie
       surname:
         language: en
         script: Latn
-        content: Barbir
+        content: Barbir,
 - role:
   - type: editor
   person:
@@ -116,7 +288,187 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Ruddy
+        content: Ruddy,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Peter
+      surname:
+        language: en
+        script: Latn
+        content: Alterman,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Abbie
+      surname:
+        language: en
+        script: Latn
+        content: Barbir,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Andrew
+      surname:
+        language: en
+        script: Latn
+        content: Hughes,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Shaheen
+      surname:
+        language: en
+        script: Latn
+        content: Abdul
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eve
+      surname:
+        language: en
+        script: Latn
+        content: Maler,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Steven
+      surname:
+        language: en
+        script: Latn
+        content: Legg,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Diana
+      surname:
+        language: en
+        script: Latn
+        content: Proud-Madruga,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mary
+      surname:
+        language: en
+        script: Latn
+        content: Ruddy,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Michael
+      surname:
+        language: en
+        script: Latn
+        content: Schwartz,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Martin
+      surname:
+        language: en
+        script: Latn
+        content: Smith,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Don
+      surname:
+        language: en
+        script: Latn
+        content: Thibeau,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Cathy
+      surname:
+        language: en
+        script: Latn
+        content: Tilton,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Tolbert,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Turner,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Colin
+      surname:
+        language: en
+        script: Latn
+        content: Wallis,
 language:
 - en
 script:

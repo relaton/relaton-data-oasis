@@ -57,7 +57,48 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci
+- role:
+  - type: editor
+  person:
+    email:
+    - david.brossard@axiomatics.com
     name:
       forename:
       - language: en
@@ -67,6 +108,13 @@ contributor:
         language: en
         script: Latn
         content: Brossard
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.axiomatics.com/
+        name:
+        - content: Axiomatics AB
 language:
 - en
 script:

@@ -59,7 +59,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - kevin.mangold@nist.gov
     name:
       forename:
       - language: en
@@ -69,9 +73,39 @@ contributor:
         language: en
         script: Latn
         content: Mangold
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
 - role:
   - type: editor
   person:
+    email:
+    - kevin.mangold@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kevin
+      surname:
+        language: en
+        script: Latn
+        content: Mangold
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+- role:
+  - type: editor
+  person:
+    email:
+    - karen.marshall@nist.gov
     name:
       forename:
       - language: en
@@ -81,6 +115,13 @@ contributor:
         language: en
         script: Latn
         content: Marshall
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
 language:
 - en
 script:

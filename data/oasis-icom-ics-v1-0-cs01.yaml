@@ -60,7 +60,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - eric.s.chan@oracle.com
     name:
       forename:
       - language: en
@@ -69,7 +73,72 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: S
+        content: S.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - kenb@ccs.neu.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: P.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.neu.edu/
+        name:
+        - content: Northeastern University
+- role:
+  - type: editor
+  person:
+    email:
+    - eric.s.chan@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eric
+      surname:
+        language: en
+        script: Latn
+        content: S.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - patrick@durusau.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Patrick
+      surname:
+        language: en
+        script: Latn
+        content: Durusau
 language:
 - en
 script:

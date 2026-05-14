@@ -31,8 +31,72 @@ contributor:
     name:
     - content: OASIS
 - role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/mqtt/
+    name:
+    - content: OASIS Message Queuing Telemetry Transport (MQTT) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: |-
+          OASIS Message Queuing
+          Telemetry Transport (MQTT) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - raphael.cohn@stormmq.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Raphael
+      surname:
+        language: en
+        script: Latn
+        content: J
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - coppen@uk.ibm.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: J
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
+- role:
   - type: editor
   person:
+    email:
+    - Andrew_Banks@uk.ibm.com
     name:
       forename:
       - language: en
@@ -42,9 +106,18 @@ contributor:
         language: en
         script: Latn
         content: Banks
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 - role:
   - type: editor
   person:
+    email:
+    - rahul.gupta@us.ibm.com
     name:
       forename:
       - language: en
@@ -54,10 +127,26 @@ contributor:
         language: en
         script: Latn
         content: Gupta
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: MQTT is a Client Server publish/subscribe messaging transport protocol.
+    It is light weight, open, simple, and designed so as to be easy to implement.
+    These characteristics make it ideal for use in many situations, including constrained
+    environments such as for communication in Machine to Machine (M2M) and Internet
+    of Things (IoT) contexts where a small code footprint is required and/or network
+    bandwidth is at a premium.
 relation:
 - type: partOf
   bibitem:

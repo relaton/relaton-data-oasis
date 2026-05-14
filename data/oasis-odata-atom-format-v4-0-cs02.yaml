@@ -57,7 +57,55 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - barbara.hartel@sap.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Barbara
+      surname:
+        language: en
+        script: Latn
+        content: Hartel
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP AG
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - Ram.Jeyaraman@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ram
+      surname:
+        language: en
+        script: Latn
+        content: Jeyaraman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - martin.zurmuehl@sap.com
     name:
       forename:
       - language: en
@@ -67,9 +115,18 @@ contributor:
         language: en
         script: Latn
         content: Zurmuehl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP AG
 - role:
   - type: editor
   person:
+    email:
+    - mikep@microsoft.com
     name:
       forename:
       - language: en
@@ -79,9 +136,18 @@ contributor:
         language: en
         script: Latn
         content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
 - role:
   - type: editor
   person:
+    email:
+    - ralf.handl@sap.com
     name:
       forename:
       - language: en
@@ -91,6 +157,13 @@ contributor:
         language: en
         script: Latn
         content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP AG
 language:
 - en
 script:

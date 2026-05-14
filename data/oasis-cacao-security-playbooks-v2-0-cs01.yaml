@@ -55,7 +55,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - jordan@afero.io
     name:
       forename:
       - language: en
@@ -65,9 +69,20 @@ contributor:
         language: en
         script: Latn
         content: Jordan
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: https://afero.io/
+        name:
+        - content: Afero
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - atcyber1000@gmail.com
     name:
       forename:
       - language: en

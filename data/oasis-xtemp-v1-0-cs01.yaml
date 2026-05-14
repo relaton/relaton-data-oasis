@@ -57,7 +57,27 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - hyunbo.cho@gmail.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hyunbo
+      surname:
+        language: en
+        script: Latn
+        content: Cho
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -67,18 +87,13 @@ contributor:
         language: en
         script: Latn
         content: Durand
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Stephen
-      surname:
-        language: en
-        script: Latn
-        content: D
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
 language:
 - en
 script:

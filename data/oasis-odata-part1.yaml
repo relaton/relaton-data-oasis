@@ -31,20 +31,35 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: editor
-  person:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/odata/
     name:
-      forename:
-      - language: en
-        script: Latn
-        content: Michael
-      surname:
-        language: en
-        script: Latn
-        content: Pizzo
+    - content: OASIS Open Data Protocol (OData) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: |-
+          OASIS
+          Open Data Protocol (OData) TC
+      type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - ralf.handl@sap.com
     name:
       forename:
       - language: en
@@ -54,22 +69,48 @@ contributor:
         language: en
         script: Latn
         content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - mikep@microsoft.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Martin
+        content: Michael
       surname:
         language: en
         script: Latn
-        content: Zurmuehl
+        content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: The Open Data Protocol (OData) enables the creation of REST-based data
+    services, which allow resources, identified using Uniform Resource Locators (URLs)
+    and defined in an Entity Data Model (EDM), to be published and edited by Web clients
+    using simple HTTP messages. This document defines the core semantics and facilities
+    of the protocol.
 relation:
 - type: partOf
   bibitem:

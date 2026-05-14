@@ -50,7 +50,32 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - brunssen@us.ibm.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Vincent
+      surname:
+        language: en
+        script: Latn
+        content: Brunssen
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
+- role:
+  - type: editor
+  person:
+    email:
+    - kstam@redhat.com
     name:
       forename:
       - language: en
@@ -60,9 +85,18 @@ contributor:
         language: en
         script: Latn
         content: Stam
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com/
+        name:
+        - content: Red Hat
 - role:
   - type: editor
   person:
+    email:
+    - eric.wittmann@redhat.com
     name:
       forename:
       - language: en
@@ -72,6 +106,13 @@ contributor:
         language: en
         script: Latn
         content: Wittmann
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.redhat.com/
+        name:
+        - content: Red Hat
 language:
 - en
 script:

@@ -57,7 +57,41 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - bill@parducci.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Bill
+      surname:
+        language: en
+        script: Latn
+        content: Parducci,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart,
+- role:
+  - type: editor
+  person:
+    email:
+    - erik@axiomatics.com
     name:
       forename:
       - language: en
@@ -66,7 +100,18 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Rissanen
+        content: Rissanen,
+- role:
+  - type: editor
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: None
+      surname:
+        language: en
+        script: Latn
 language:
 - en
 script:

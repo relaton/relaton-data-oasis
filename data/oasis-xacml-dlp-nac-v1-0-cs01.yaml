@@ -58,55 +58,27 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - bill@parducci.net
     name:
       forename:
       - language: en
         script: Latn
-        content: John
+        content: Bill
       surname:
         language: en
         script: Latn
-        content: Tolbert
+        content: Parducci
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Richard
-      surname:
-        language: en
-        script: Latn
-        content: Hill
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Crystal
-      surname:
-        language: en
-        script: Latn
-        content: Hayes
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: David
-      surname:
-        language: en
-        script: Latn
-        content: Brossard
-- role:
-  - type: editor
-  person:
+    email:
+    - hal.lockhart@oracle.com
     name:
       forename:
       - language: en
@@ -116,9 +88,123 @@ contributor:
         language: en
         script: Latn
         content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
 - role:
   - type: editor
   person:
+    email:
+    - john.tolbert@queraltinc.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Tolbert
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.queraltinc.com/
+        name:
+        - content: Queralt, Inc.
+- role:
+  - type: editor
+  person:
+    email:
+    - richard.c.hill@boeing.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Richard
+      surname:
+        language: en
+        script: Latn
+        content: Hill
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.boeing.com/
+        name:
+        - content: The Boeing Company
+- role:
+  - type: editor
+  person:
+    email:
+    - crystal.l.hayes@boeing.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Crystal
+      surname:
+        language: en
+        script: Latn
+        content: Hayes
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.boeing.com/
+        name:
+        - content: The Boeing Company
+- role:
+  - type: editor
+  person:
+    email:
+    - david.brossard@axiomatics.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Brossard
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.axiomatics.com/
+        name:
+        - content: Axiomatics AB
+- role:
+  - type: editor
+  person:
+    email:
+    - hal.lockhart@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Hal
+      surname:
+        language: en
+        script: Latn
+        content: Lockhart
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - steven.legg@viewds.com
     name:
       forename:
       - language: en
@@ -128,6 +214,13 @@ contributor:
         language: en
         script: Latn
         content: Legg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.viewds.com/
+        name:
+        - content: ViewDS
 language:
 - en
 script:

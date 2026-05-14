@@ -31,17 +31,26 @@ contributor:
     name:
     - content: OASIS
 - role:
-  - type: editor
-  person:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: http://www.oasis-open.org/committees/docbook/ipr.php
     name:
-      forename:
-      - language: en
-        script: Latn
-        content: Norman
-      surname:
-        language: en
-        script: Latn
-        content: Walsh
+    - content: http://www.oasis-open.org/committees/docbook/ipr.php
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: http://www.oasis-open.org/committees/docbook/ipr.php
+      type: technical-committee
 language:
 - en
 script:

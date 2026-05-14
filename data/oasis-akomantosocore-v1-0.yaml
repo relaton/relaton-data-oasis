@@ -50,43 +50,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Monica
-      surname:
-        language: en
-        script: Latn
-        content: Palmirani
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Roger
-      surname:
-        language: en
-        script: Latn
-        content: Sperberg
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Grant
-      surname:
-        language: en
-        script: Latn
-        content: Vergottini
-- role:
-  - type: editor
-  person:
+    email:
+    - fabio@cs.unibo.it
     name:
       forename:
       - language: en
@@ -96,6 +64,120 @@ contributor:
         language: en
         script: Latn
         content: Vitali
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - monica.palmirani@unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+  person:
+    email:
+    - monica.palmirani@unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Monica
+      surname:
+        language: en
+        script: Latn
+        content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
+- role:
+  - type: editor
+  person:
+    email:
+    - roger.sperberg@lexisnexis.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Roger
+      surname:
+        language: en
+        script: Latn
+        content: Sperberg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.lexisnexis.com/
+        name:
+        - content: LexisNexis, a Division of Reed Elsevier
+- role:
+  - type: editor
+  person:
+    email:
+    - grant.vergottini@xcential.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Grant
+      surname:
+        language: en
+        script: Latn
+        content: Vergottini
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://xcential.com/
+        name:
+        - content: Xcential Group, LLC
+- role:
+  - type: editor
+  person:
+    email:
+    - fabio@cs.unibo.it
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Fabio
+      surname:
+        language: en
+        script: Latn
+        content: Vitali
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
 language:
 - en
 script:

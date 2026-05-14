@@ -58,6 +58,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - drummond.reed@cordance.net
     name:
       forename:
       - language: en
@@ -66,19 +68,49 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Reed
+        content: Reed,
 - role:
   - type: editor
   person:
+    email:
+    - peter.davis@neustar.biz
     name:
       forename:
       - language: en
         script: Latn
-        content: Dave
+        content: Peter
       surname:
         language: en
         script: Latn
-        content: McAlpin
+        content: Davis,
+- role:
+  - type: editor
+  person:
+    email:
+    - mlindels@visa.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Mike
+      surname:
+        language: en
+        script: Latn
+        content: Lindelsee,
+- role:
+  - type: editor
+  person:
+    email:
+    - gwachob@visa.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Gabe
+      surname:
+        language: en
+        script: Latn
+        content: Wachob,
 language:
 - en
 script:

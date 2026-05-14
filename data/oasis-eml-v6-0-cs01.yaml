@@ -57,6 +57,20 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: John
+      surname:
+        language: en
+        script: Latn
+        content: Borras
+- role:
+  - type: editor
   person:
     name:
       forename:

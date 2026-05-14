@@ -32,8 +32,72 @@ contributor:
     name:
     - content: OASIS
 - role:
+  - type: authorizer
+    description:
+    - content: Committee
+  organization:
+    uri:
+    - type: uri
+      content: https://www.oasis-open.org/committees/sarif/
+    name:
+    - content: OASIS Static Analysis Results Interchange Format (SARIF) TC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: OASIS
+    subdivision:
+    - name:
+      - content: |-
+          OASIS
+          Static Analysis Results Interchange Format (SARIF) TC
+      type: technical-committee
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - dmk@dmk.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Keaton
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - lcartey@github.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Luke
+      surname:
+        language: en
+        script: Latn
+        content: Cartey
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
   - type: editor
   person:
+    email:
+    - mikefan@microsoft.com
     name:
       forename:
       - language: en
@@ -42,11 +106,45 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: C
+        content: C.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - v-lgold@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Laurence
+      surname:
+        language: en
+        script: Latn
+        content: J.
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com
+        name:
+        - content: Microsoft
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document defines a standard format for the output of static analysis
+    tools. The format is referred to as the “Static Analysis Results Interchange Format”
+    and is abbreviated as SARIF.
 relation:
 - type: partOf
   bibitem:

@@ -59,16 +59,50 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - mohammad.jafari@bookzurman.com
     name:
       forename:
       - language: en
         script: Latn
-        content: John
+        content: Mohammad
       surname:
         language: en
         script: Latn
-        content: M
+        content: Jafari
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.va.gov/
+        name:
+        - content: Veterans Health Administration
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - christopher.shawn2@va.gov)
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Christopher
+      surname:
+        language: en
+        script: Latn
+        content: Shawn
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.va.gov/
+        name:
+        - content: Veterans Health Administration
 language:
 - en
 script:

@@ -57,19 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jens
-      surname:
-        language: en
-        script: Latn
-        content: Aabol
-- role:
-  - type: editor
-  person:
+    email:
+    - kenneth@alfa1lab.com
     name:
       forename:
       - language: en
@@ -79,9 +71,60 @@ contributor:
         language: en
         script: Latn
         content: Bengtsson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.alfa1lab.com/
+        name:
+        - content: Alfa1lab
 - role:
   - type: editor
   person:
+    email:
+    - jea@difi.no
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jens
+      surname:
+        language: en
+        script: Latn
+        content: Aabol
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.difi.no/
+        name:
+        - content: Difi-Agency for Public Management and eGovernment
+- role:
+  - type: editor
+  person:
+    email:
+    - kenneth@alfa1lab.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kenneth
+      surname:
+        language: en
+        script: Latn
+        content: Bengtsson
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.alfa1lab.com/
+        name:
+        - content: Alfa1lab
+- role:
+  - type: editor
+  person:
+    email:
+    - erlend.klakegg.bergheim@difi.no
     name:
       forename:
       - language: en
@@ -91,9 +134,18 @@ contributor:
         language: en
         script: Latn
         content: Klakegg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.difi.no/
+        name:
+        - content: Difi-Agency for Public Management and eGovernment
 - role:
   - type: editor
   person:
+    email:
+    - sander@fieten-it.com
     name:
       forename:
       - language: en
@@ -106,6 +158,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - svrra@digst.dk
     name:
       forename:
       - language: en
@@ -115,6 +169,13 @@ contributor:
         language: en
         script: Latn
         content: Rasmussen
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.digst.dk/
+        name:
+        - content: Danish Agency for Digitisation, Ministry of Finance
 language:
 - en
 script:

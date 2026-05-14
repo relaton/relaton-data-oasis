@@ -58,7 +58,41 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - cruellas@ac.upc.ede
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Juan
+      surname:
+        language: en
+        script: Latn
+        content: Carlos
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - stefan@drees.name
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Stefan
+      surname:
+        language: en
+        script: Latn
+        content: Drees,
+- role:
+  - type: editor
+  person:
+    email:
+    - ezer@arx.com
     name:
       forename:
       - language: en
@@ -67,7 +101,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Farhi
+        content: Farhi,
 language:
 - en
 script:

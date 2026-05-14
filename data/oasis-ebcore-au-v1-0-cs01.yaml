@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - pvde@sonnenglanz.net
     name:
       forename:
       - language: en
@@ -67,18 +71,29 @@ contributor:
         language: en
         script: Latn
         content: van
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sonnenglanz.net/
+        name:
+        - content: Sonnenglanz Consulting
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - sander@fieten-it.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Theo
+        content: Sander
       surname:
         language: en
         script: Latn
-        content: Kramer
+        content: Fieten
 language:
 - en
 script:

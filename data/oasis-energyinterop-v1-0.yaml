@@ -57,7 +57,48 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - david.holmberg@nist.gov
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Holmberg
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nist.gov/
+        name:
+        - content: NIST
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: T.
+- role:
+  - type: editor
+  person:
+    email:
+    - toby.considine@unc.edu
     name:
       forename:
       - language: en
@@ -67,6 +108,13 @@ contributor:
         language: en
         script: Latn
         content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
 language:
 - en
 script:

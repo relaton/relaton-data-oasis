@@ -50,16 +50,27 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - kris@eberleinconsulting.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Robert
+        content: Kristen
       surname:
         language: en
         script: Latn
-        content: D
+        content: James
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://eberleinconsulting.com/
+        name:
+        - content: Eberlein Consulting             LLC
 language:
 - en
 script:

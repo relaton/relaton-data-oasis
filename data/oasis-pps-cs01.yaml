@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - nishioka@hosei.ac.jp
     name:
       forename:
       - language: en
@@ -67,9 +71,39 @@ contributor:
         language: en
         script: Latn
         content: Nishioka
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.pslx.org/
+        name:
+        - content: PSLX Forum
 - role:
   - type: editor
   person:
+    email:
+    - nishioka@hosei.ac.jp
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Yasuyuki
+      surname:
+        language: en
+        script: Latn
+        content: Nishioka
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.pslx.org/
+        name:
+        - content: PSLX Forum
+- role:
+  - type: editor
+  person:
+    email:
+    - wada@kt.rim.or.jp
     name:
       forename:
       - language: en
@@ -79,6 +113,13 @@ contributor:
         language: en
         script: Latn
         content: Wada
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.pslx.org/
+        name:
+        - content: PSLX Forum
 language:
 - en
 script:

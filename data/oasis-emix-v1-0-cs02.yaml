@@ -57,7 +57,41 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: William
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - ed@cazalet.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Edward
+      surname:
+        language: en
+        script: Latn
+        content: Cazalet
+- role:
+  - type: editor
+  person:
+    email:
+    - Toby.Considine@unc.edu
     name:
       forename:
       - language: en
@@ -67,6 +101,13 @@ contributor:
         language: en
         script: Latn
         content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
 language:
 - en
 script:

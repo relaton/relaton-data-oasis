@@ -57,19 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Kiran
-      surname:
-        language: en
-        script: Latn
-        content: Thota
-- role:
-  - type: editor
-  person:
+    email:
+    - tony.cox@cryptsoft.com
     name:
       forename:
       - language: en
@@ -79,6 +71,78 @@ contributor:
         language: en
         script: Latn
         content: Cox
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cryptsoft.com
+        name:
+        - content: Cryptsoft Pty Ltd.
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - saikat.saha@oracle.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Saikat
+      surname:
+        language: en
+        script: Latn
+        content: Saha
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
+- role:
+  - type: editor
+  person:
+    email:
+    - kthota@vmware.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Kiran
+      surname:
+        language: en
+        script: Latn
+        content: Thota
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.vmware.com/
+        name:
+        - content: VMware, Inc.
+- role:
+  - type: editor
+  person:
+    email:
+    - tony.cox@cryptsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tony
+      surname:
+        language: en
+        script: Latn
+        content: Cox
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cryptsoft.com
+        name:
+        - content: Cryptsoft Pty Ltd.
 language:
 - en
 script:

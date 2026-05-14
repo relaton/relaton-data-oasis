@@ -57,31 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Ram
-      surname:
-        language: en
-        script: Latn
-        content: Jeyaraman
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Tom
-      surname:
-        language: en
-        script: Latn
-        content: Rutt
-- role:
-  - type: editor
-  person:
+    email:
+    - jdurand@us.fujitsu.com
     name:
       forename:
       - language: en
@@ -91,9 +71,81 @@ contributor:
         language: en
         script: Latn
         content: Durand
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
 - role:
   - type: editor
   person:
+    email:
+    - Ram.Jeyaraman@microsoft.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Ram
+      surname:
+        language: en
+        script: Latn
+        content: Jeyaraman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
+- role:
+  - type: editor
+  person:
+    email:
+    - trutt@us.fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Tom
+      surname:
+        language: en
+        script: Latn
+        content: Rutt
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
+- role:
+  - type: editor
+  person:
+    email:
+    - jdurand@us.fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Jacques
+      surname:
+        language: en
+        script: Latn
+        content: Durand
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
+- role:
+  - type: editor
+  person:
+    email:
+    - micah.hainline@asolutions.com
     name:
       forename:
       - language: en
@@ -103,6 +155,13 @@ contributor:
         language: en
         script: Latn
         content: Hainline
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.asolutions.com/
+        name:
+        - content: Asynchrony Solutions, Inc.
 language:
 - en
 script:

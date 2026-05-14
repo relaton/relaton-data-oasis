@@ -57,19 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Paul
-      surname:
-        language: en
-        script: Latn
-        content: Bruton
-- role:
-  - type: editor
-  person:
+    email:
+    - joss@activinsights.co.uk
     name:
       forename:
       - language: en
@@ -79,21 +71,20 @@ contributor:
         language: en
         script: Latn
         content: Langford
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.activinsights.com/
+        name:
+        - content: Activinsights Ltd
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Matthew
-      surname:
-        language: en
-        script: Latn
-        content: Reed
-- role:
-  - type: editor
-  person:
+    email:
+    - David.Snelling@UK.Fujitsu.com
     name:
       forename:
       - language: en
@@ -103,6 +94,97 @@ contributor:
         language: en
         script: Latn
         content: Snelling
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
+- role:
+  - type: editor
+  person:
+    email:
+    - Paul.Bruton@tessella.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Paul
+      surname:
+        language: en
+        script: Latn
+        content: Bruton
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://tessella.com/
+        name:
+        - content: Tessella Ltd.
+- role:
+  - type: editor
+  person:
+    email:
+    - joss@activinsights.co.uk
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Joss
+      surname:
+        language: en
+        script: Latn
+        content: Langford
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.activinsights.com/
+        name:
+        - content: Activinsights Ltd
+- role:
+  - type: editor
+  person:
+    email:
+    - matt@coelition.org
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Matthew
+      surname:
+        language: en
+        script: Latn
+        content: Reed
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.coelition.org/
+        name:
+        - content: Coelition
+- role:
+  - type: editor
+  person:
+    email:
+    - Dave.Snelling@UK.Fujitsu.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: David
+      surname:
+        language: en
+        script: Latn
+        content: Snelling
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.fujitsu.com/
+        name:
+        - content: Fujitsu Limited
 language:
 - en
 script:

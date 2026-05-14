@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - outframe@nia.or.kr
     name:
       forename:
       - language: en
@@ -67,9 +71,39 @@ contributor:
         language: en
         script: Latn
         content: Kim
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nia.or.kr/
+        name:
+        - content: National Information Society Agency
 - role:
   - type: editor
   person:
+    email:
+    - outframe@nia.or.kr
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Eunju
+      surname:
+        language: en
+        script: Latn
+        content: Kim
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nia.or.kr/
+        name:
+        - content: National Information Society Agency
+- role:
+  - type: editor
+  person:
+    email:
+    - yklee777@kpu.ac.kr
     name:
       forename:
       - language: en
@@ -82,6 +116,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - kim05@disc.co.kr
     name:
       forename:
       - language: en
@@ -91,9 +127,18 @@ contributor:
         language: en
         script: Latn
         content: Kim
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.daewoobrenic.com/
+        name:
+        - content: Daewoo Information Systems
 - role:
   - type: editor
   person:
+    email:
+    - phk@kr.ibm.com
     name:
       forename:
       - language: en
@@ -103,9 +148,18 @@ contributor:
         language: en
         script: Latn
         content: Park
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.ibm.com/
+        name:
+        - content: IBM
 - role:
   - type: editor
   person:
+    email:
+    - kjw@hanyang.ac.kr
     name:
       forename:
       - language: en
@@ -118,6 +172,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - bsmoon@gmail.com
     name:
       forename:
       - language: en
@@ -130,6 +186,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - yunjh@nia.or.kr
     name:
       forename:
       - language: en
@@ -139,9 +197,18 @@ contributor:
         language: en
         script: Latn
         content: Yun
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nia.or.kr/
+        name:
+        - content: National Information Society Agency
 - role:
   - type: editor
   person:
+    email:
+    - guilkang@nia.or.kr
     name:
       forename:
       - language: en
@@ -151,6 +218,13 @@ contributor:
         language: en
         script: Latn
         content: Kang
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.nia.or.kr/
+        name:
+        - content: National Information Society Agency
 language:
 - en
 script:

@@ -57,7 +57,32 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - os@cisco.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Omar
+      surname:
+        language: en
+        script: Latn
+        content: Santos
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cisco.com/
+        name:
+        - content: Cisco Systems
+- role:
+  - type: editor
+  person:
+    email:
+    - stefan@hagen.link
     name:
       forename:
       - language: en

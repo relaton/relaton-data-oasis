@@ -57,7 +57,48 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - sander@fieten-it.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Sander
+      surname:
+        language: en
+        script: Latn
+        content: Fieten
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    email:
+    - marao@cisco.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Makesh
+      surname:
+        language: en
+        script: Latn
+        content: Rao
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cisco.com/
+        name:
+        - content: Cisco Systems
+- role:
+  - type: editor
+  person:
+    email:
+    - Ian.Otto@industry.gov.au
     name:
       forename:
       - language: en
@@ -67,6 +108,13 @@ contributor:
         language: en
         script: Latn
         content: Otto
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.industry.gov.au/
+        name:
+        - content: Australian Department of Industry
 language:
 - en
 script:

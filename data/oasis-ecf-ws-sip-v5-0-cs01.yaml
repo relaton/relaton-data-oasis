@@ -58,7 +58,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - jcabral@mtgmc.com
     name:
       forename:
       - language: en
@@ -68,9 +72,39 @@ contributor:
         language: en
         script: Latn
         content: Cabral
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://mtgmc.com/
+        name:
+        - content: MTG Management Consultants
 - role:
   - type: editor
   person:
+    email:
+    - jcabral@mtgmc.com
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: James
+      surname:
+        language: en
+        script: Latn
+        content: Cabral
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://mtgmc.com/
+        name:
+        - content: MTG Management Consultants
+- role:
+  - type: editor
+  person:
+    email:
+    - GGraham@courts.az.gov
     name:
       forename:
       - language: en
@@ -80,18 +114,13 @@ contributor:
         language: en
         script: Latn
         content: Graham
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Philip
-      surname:
-        language: en
-        script: Latn
-        content: Baughman
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.azcourts.gov/
+        name:
+        - content: Arizona Supreme Court
 language:
 - en
 script:

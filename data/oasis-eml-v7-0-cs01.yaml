@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - johnaborras@yahoo.co.uk
     name:
       forename:
       - language: en
@@ -70,6 +74,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - david.webber@oracle.com
     name:
       forename:
       - language: en
@@ -79,6 +85,13 @@ contributor:
         language: en
         script: Latn
         content: Webber
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.oracle.com/
+        name:
+        - content: Oracle
 language:
 - en
 script:

@@ -58,52 +58,20 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - elysajones@yahoo.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Rex
+        content: Elysa
       surname:
         language: en
         script: Latn
-        content: Brooks
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Timothy
-      surname:
-        language: en
-        script: Latn
-        content: Grapes
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Werner
-      surname:
-        language: en
-        script: Latn
-        content: Joerg
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Jeff
-      surname:
-        language: en
-        script: Latn
-        content: Waters
+        content: Jones
 language:
 - en
 script:

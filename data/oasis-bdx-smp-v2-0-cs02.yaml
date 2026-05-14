@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - kbengtsson@efact.pe
     name:
       forename:
       - language: en
@@ -67,41 +71,6 @@ contributor:
         language: en
         script: Latn
         content: Bengtsson
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Erlend
-      surname:
-        language: en
-        script: Latn
-        content: Klakegg
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Sander
-      surname:
-        language: en
-        script: Latn
-        content: Fieten
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: G
-      surname:
-        language: en
-        script: Latn
 language:
 - en
 script:

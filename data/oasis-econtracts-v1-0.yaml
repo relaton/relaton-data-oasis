@@ -55,30 +55,6 @@ contributor:
     - name:
       - content: OASIS LegalXML eContracts TC
       type: technical-committee
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Laurence
-      surname:
-        language: en
-        script: Latn
-        content: Leff
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Peter
-      surname:
-        language: en
-        script: Latn
-        content: Meyer
 language:
 - en
 script:

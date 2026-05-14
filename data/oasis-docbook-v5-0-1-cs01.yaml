@@ -57,7 +57,25 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - bobs@sagehill.net
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Robert
+      surname:
+        language: en
+        script: Latn
+        content: Stayton
+- role:
+  - type: editor
+  person:
+    email:
+    - bobs@sagehill.net
     name:
       forename:
       - language: en

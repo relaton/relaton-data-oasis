@@ -50,19 +50,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Michael
-      surname:
-        language: en
-        script: Latn
-        content: Pizzo
-- role:
-  - type: editor
-  person:
+    email:
+    - ralf.handl@sap.com
     name:
       forename:
       - language: en
@@ -72,18 +64,36 @@ contributor:
         language: en
         script: Latn
         content: Handl
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.sap.com/
+        name:
+        - content: SAP SE
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - mikep@microsoft.com
     name:
       forename:
       - language: en
         script: Latn
-        content: Martin
+        content: Michael
       surname:
         language: en
         script: Latn
-        content: Zurmuehl
+        content: Pizzo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.microsoft.com/
+        name:
+        - content: Microsoft
 language:
 - en
 script:

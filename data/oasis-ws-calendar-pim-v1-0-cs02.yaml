@@ -57,7 +57,32 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - toby.considine@unc.edu
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Toby
+      surname:
+        language: en
+        script: Latn
+        content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
+- role:
+  - type: editor
+  person:
+    email:
+    - wtcox@coxsoftwarearchitects.com
     name:
       forename:
       - language: en
@@ -70,6 +95,8 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - toby.considine@unc.edu
     name:
       forename:
       - language: en
@@ -79,6 +106,13 @@ contributor:
         language: en
         script: Latn
         content: Considine
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.unc.edu/
+        name:
+        - content: University of North Carolina at Chapel Hill
 language:
 - en
 script:

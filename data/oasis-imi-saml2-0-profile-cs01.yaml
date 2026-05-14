@@ -57,6 +57,34 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Marc
+      surname:
+        language: en
+        script: Latn
+        content: Goodner,
+- role:
+  - type: editor
+    description:
+    - content: Chair
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Anthony
+      surname:
+        language: en
+        script: Latn
+        content: Nadalin,
+- role:
+  - type: editor
   person:
     name:
       forename:
@@ -66,7 +94,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Cantor
+        content: Cantor,
 - role:
   - type: editor
   person:
@@ -78,7 +106,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: B
+        content: B.
 language:
 - en
 script:

@@ -57,19 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Josh
-      surname:
-        language: en
-        script: Latn
-        content: Howlett
-- role:
-  - type: editor
-  person:
+    email:
+    - hardjono@mit.edu
     name:
       forename:
       - language: en
@@ -79,9 +71,20 @@ contributor:
         language: en
         script: Latn
         content: Hardjono
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.mit.edu/
+        name:
+        - content: M.I.T.
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - ndk@internet2.edu
     name:
       forename:
       - language: en
@@ -91,18 +94,13 @@ contributor:
         language: en
         script: Latn
         content: Klingenstein
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: Tom
-      surname:
-        language: en
-        script: Latn
-        content: Scavo
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.internet2.edu/
+        name:
+        - content: Internet2
 language:
 - en
 script:

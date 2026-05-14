@@ -57,7 +57,11 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - fabio@cs.unibo.it
     name:
       forename:
       - language: en
@@ -67,9 +71,20 @@ contributor:
         language: en
         script: Latn
         content: Vitali
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
 - role:
   - type: editor
+    description:
+    - content: Chair
   person:
+    email:
+    - monica.palmirani@unibo.it
     name:
       forename:
       - language: en
@@ -79,9 +94,18 @@ contributor:
         language: en
         script: Latn
         content: Palmirani
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://www.cirsfid.unibo.it/
+        name:
+        - content: University of Bologna-CIRSFID
 - role:
   - type: editor
   person:
+    email:
+    - V.PARISSE@aubay.lu
     name:
       forename:
       - language: en
@@ -91,6 +115,13 @@ contributor:
         language: en
         script: Latn
         content: Parisse
+    affiliation:
+    - organization:
+        uri:
+        - type: uri
+          content: http://aubay.com/
+        name:
+        - content: Aubay S.A.
 language:
 - en
 script:

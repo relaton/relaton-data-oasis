@@ -51,18 +51,6 @@ contributor:
     - name:
       - content: OASIS RELAX NG TC
       type: technical-committee
-- role:
-  - type: editor
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        content: James
-      surname:
-        language: en
-        script: Latn
-        content: Clark
 language:
 - en
 script:
