@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
-gem "relaton-oasis", github: "relaton/relaton-oasis", branch: "lutaml-integration"
+# relaton-oasis now lives in the relaton/relaton monorepo, where all flavors are
+# combined into a single `relaton` gem. Pull it from the monorepo's main branch.
+git "https://github.com/relaton/relaton.git", branch: "main" do
+  gem "relaton"
+end
 
 eval File.read("Gemfile.deploy"), nil, "Gemfile.deploy" # rubocop:disable Security/Eval
