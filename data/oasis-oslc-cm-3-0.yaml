@@ -34,7 +34,7 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: open-services.net
+      content: https://open-services.net/
     name:
     - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP
 - role:
