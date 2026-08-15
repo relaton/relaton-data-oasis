@@ -5,5 +5,3 @@ source "https://rubygems.org"
 git "https://github.com/relaton/relaton.git", branch: "main" do
   gem "relaton"
 end
-
-eval File.read("Gemfile.deploy"), nil, "Gemfile.deploy" # rubocop:disable Security/Eval
