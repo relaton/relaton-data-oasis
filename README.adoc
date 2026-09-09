@@ -4,4 +4,84 @@ This repository is used by Relaton-OASIS to represent known publications.
 
 Data is stored in Relaton YAML format.
 
-This repository contains a crawler script which runs daly. The script parses the page https://www.oasis-open.org/standards/ and store documents into the data directory.
+This repository uses the OASIS flavor of the
+https://github.com/relaton/relaton[relaton] gem to fetch the documents, and runs
+daily. `relaton-oasis` no longer exists as a gem of its own -- the flavor lives
+in the combined `relaton` gem. `crawler.rb` parses
+https://www.oasis-open.org/standards/ and stores the documents in the `data`
+directory.
+
+== Indexes
+
+Two indexes are published. `relaton/support`'s shared `crawler.yml` zips and
+commits both; nothing in this repository zips.
+
+`index-v2`:: The current, pubid-keyed index. Written by
+`Relaton::Oasis::DataFetcher` itself, with each row's `:id` a
+`Pubid::Oasis::Identifier` serialised to its `_type: pubid:oasis:standard` hash.
+The `number` field holds the specification name -- `OSLC-CoreShapes`,
+`amqp-core` -- which is the key `Relaton::Index::Type` sorts and
+binary-searches on. It deliberately clusters: every version, stage and part of
+one specification shares it. The 605 rows published today give 309 buckets, the
+largest 25.
+
+`index-v1`:: The legacy index, a flat list of `{ :id, :file }` rows whose `:id`
+is the printed identifier string -- `OASIS OSLC-CoreShapes-3.0-PS01-Pt8`. It is
+kept alive for every released `relaton` line that still reads `index-v1.zip`
+from this branch. The gem no longer writes it, so `crawler.rb` rebuilds it here
+through `index_builder.rb`.
+
+`index-v1` is rebuilt from the `data/` tree rather than derived from the
+`index-v2` rows. Each document's primary `docidentifier` content *is* the v1 row
+id, because that is the string relaton writes on both sides of the migration, so
+reading it keeps the rebuild independent of which index the gem happens to
+write, and free of pubid entirely. Only that one field is read -- no bibitem
+deserialization -- so data-model drift cannot break it. relaton-data-iana,
+relaton-data-etsi and relaton-data-bipm carry the same arrangement.
+
+A `data/` walk sees one identifier per file, though, so an identifier whose
+document was overwritten by another would vanish without trace. The builder
+therefore cross-checks against the index the fetch just wrote and fails the
+crawl, naming the lost identifiers, rather than publish a short index over a
+whole one.
+
+Run the specs that guard all of this with:
+
+[source,sh]
+----
+bundle exec rspec
+----
+
+== Dependency pins
+
+`Gemfile.lock` is git-ignored, so a crawl resolves every pin fresh. Verify with
+`bundle list | grep -E 'relaton|pubid'` before trusting a generated index.
+
+`pubid` is pinned to `pubid/pubid@main`, which carries the OASIS flavor and
+`Pubid::Oasis::Identifier#number`. The latest release, 2.0.0.pre.alpha.9,
+predates that attribute, which is why the pin is a git pin.
+
+WARNING: `relaton` currently carries a **temporary local `path:` pin** to a
+working copy of the unmerged OASIS index-v2 producer. It must be reverted to
+`git: "https://github.com/relaton/relaton.git", branch: "main"` before this
+branch merges -- the path is machine-specific, so `bundle install` fails on any
+runner while it stands.
+
+The producer is not merged and not pushed; see
+`HANDOFFS/relaton__relaton__commit-oasis-index-v2-producer.md`. The path pin is
+what lets a crawl here write `index-v2.yaml` in the meantime.
+
+`index_builder.rb` is correct either way. It reads `index-v2.yaml` when the
+resolved gem writes one and falls back to `index-v1.yaml` when it does not, so
+reverting the pin does not break the `index-v1` this repository publishes -- it
+only stops `index-v2` being produced until the producer merges.
+
+== Browsable index
+
+The `data/` directory is published as a browsable, crawler-indexable index at
+https://relaton.github.io/relaton-data-oasis/.
+
+`.github/workflows/deploy.yml` calls relaton/support's shared
+`data-deploy.yml`, which builds the page with `relaton index` (relaton-cli reads
+`data/` directly) and deploys it to GitHub Pages. The index files are not used
+by that build.
