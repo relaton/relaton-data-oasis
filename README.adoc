@@ -61,20 +61,27 @@ bundle exec rspec
 `Pubid::Oasis::Identifier#number`. The latest release, 2.0.0.pre.alpha.9,
 predates that attribute, which is why the pin is a git pin.
 
-WARNING: `relaton` currently carries a **temporary local `path:` pin** to a
-working copy of the unmerged OASIS index-v2 producer. It must be reverted to
-`git: "https://github.com/relaton/relaton.git", branch: "main"` before this
-branch merges -- the path is machine-specific, so `bundle install` fails on any
-runner while it stands.
+`relaton` is pinned to `relaton/relaton@main`, which does *not* carry the OASIS
+index-v2 producer yet. While that is true, `Relaton::Oasis::INDEXFILE` is
+`index-v1`, the gem writes that file itself, and `index_builder.rb` reads it
+back as its own reference index.
 
-The producer is not merged and not pushed; see
-`HANDOFFS/relaton__relaton__commit-oasis-index-v2-producer.md`. The path pin is
-what lets a crawl here write `index-v2.yaml` in the meantime.
+So a crawl still publishes a correct `index-v1`, and the committed
+`index-v2.yaml`/`.zip` are **not refreshed by it** -- they hold the corpus as of
+the crawl that produced them and go stale as `data/` moves.
+
+The producer is unmerged and unpushed, and its branch ref carries no commit
+above `main`, so no `git:` pin can reach it. Merging it -- see
+`HANDOFFS/relaton__relaton__commit-oasis-index-v2-producer.md` -- turns
+`index-v2` production back on here with no change to the `Gemfile`.
+
+To regenerate `index-v2` before then, override the `relaton` line locally with a
+`path:` pin to a working copy that carries the producer. Never commit that: the
+location is machine-specific, so CI fails at `bundle install`.
 
 `index_builder.rb` is correct either way. It reads `index-v2.yaml` when the
 resolved gem writes one and falls back to `index-v1.yaml` when it does not, so
-reverting the pin does not break the `index-v1` this repository publishes -- it
-only stops `index-v2` being produced until the producer merges.
+the pin never affects the `index-v1` this repository publishes.
 
 == Browsable index
 

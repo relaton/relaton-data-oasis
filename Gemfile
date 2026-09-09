@@ -6,33 +6,27 @@ source "https://rubygems.org"
 # in the combined `relaton` gem (relaton/relaton, gemspec at repo root), which
 # is where `crawler.rb`'s `require "relaton/oasis/data_fetcher"` resolves.
 #
-# !!! TEMPORARY LOCAL PATH PIN -- MUST BE REVERTED BEFORE THIS BRANCH MERGES !!!
-#
-# The OASIS index-v2 producer is not merged and not pushed. It lives as
-# uncommitted edits in a local relaton worktree, and the branch ref
-# `feat/oasis-pubid-index-v2-producer` carries no commit above `main`, so no
-# `git:` pin can reach that work -- only a `path:` pin, which reads the working
-# tree. This is what makes a crawl here write `index-v2.yaml`.
-#
-# The path is ABSOLUTE deliberately: bundler resolves `path:` against the
-# Gemfile's own directory, which is not the repo root when the Gemfile is read
-# from a git worktree.
-#
-# CI CANNOT RESOLVE THIS. The location is machine-specific and the worktree is
-# transient, so every crawl and every check on a runner fails at `bundle
-# install` while this line stands. Restore the pin below before merging:
-#
-#   gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
-#
-# `main` is pinned explicitly rather than left bare, for the reason
+# Pin `main` explicitly rather than leaving `github:` bare, for the reason
 # relaton-data-bipm documents: an unpinned `github:` freezes whatever branch was
 # current into Gemfile.lock, and relaton's remote churns many transient feature
 # branches, so a later `bundle update` can fail fetching a deleted branch.
 #
-# Once the producer merges to relaton `main`, the git pin above is all that is
-# needed -- see HANDOFFS/relaton__relaton__commit-oasis-index-v2-producer.md.
-gem "relaton",
-    path: "/Users/andrej/RubyProjects/ribose/relaton/relaton/.claude/worktrees/feat/oasis-pubid-index-v2-producer"
+# NOTE: `main` does not carry the OASIS index-v2 producer yet. While that is
+# true, `Relaton::Oasis::INDEXFILE` is "index-v1", the gem writes that file
+# itself, and `index_builder.rb` reads it back as its own reference index -- so
+# a crawl still publishes a correct `index-v1`, and the committed
+# `index-v2.yaml`/`.zip` are NOT refreshed by it and go stale.
+#
+# The producer is unmerged and unpushed; the branch ref
+# `feat/oasis-pubid-index-v2-producer` carries no commit above `main`, so no
+# `git:` pin can reach it. Merging it -- see
+# HANDOFFS/relaton__relaton__commit-oasis-index-v2-producer.md -- is what turns
+# index-v2 production back on here, with no change to this file.
+#
+# To regenerate index-v2 before then, override this line locally with a `path:`
+# pin to a working copy that carries the producer, and never commit it: the
+# location is machine-specific, so CI fails at `bundle install`.
+gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
 
 # This repo has to pin pubid itself: bundler reads a git gem's gemspec, never
 # its Gemfile, so relaton's own pubid pin does not reach this bundle and a

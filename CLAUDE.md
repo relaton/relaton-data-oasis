@@ -114,18 +114,24 @@ crawler as source text.
 `pubid` is pinned to `pubid/pubid@main`, which carries the OASIS flavor and
 `#number`; the latest release does not.
 
-**`relaton` carries a temporary local `path:` pin** to a working copy of the
-OASIS index-v2 producer, which is unmerged and unpushed (the branch ref holds no
-commit above `main`, so only a `path:` pin can reach it). That pin is what makes
-a crawl write `index-v2.yaml` today.
+`relaton` is pinned to `relaton/relaton@main`, which does **not** carry the
+OASIS index-v2 producer. So `Relaton::Oasis::INDEXFILE` is `index-v1` today, the
+gem writes that file itself, and `index_builder.rb` reads it back as its own
+reference index.
 
-It **must be reverted** to
-`git: "https://github.com/relaton/relaton.git", branch: "main"` before this
-branch merges: the path is machine-specific, so `bundle install` fails on any
-runner while it stands. See
+**The committed `index-v2.yaml`/`.zip` are therefore not refreshed by a crawl.**
+They hold the corpus as of the crawl that produced them, and go stale as `data/`
+moves. That is the one thing to watch while the pin stands.
+
+The producer is unmerged and unpushed, and its branch ref holds no commit above
+`main`, so no `git:` pin can reach it. Merging it turns index-v2 production back
+on with no change to the Gemfile — see
 `HANDOFFS/relaton__relaton__commit-oasis-index-v2-producer.md`.
 
-Reverting it is safe for the published `index-v1`. `index_builder.rb` reads
-whichever index the resolved gem wrote — `REFERENCE_FILES` prefers
-`index-v2.yaml` and falls back to `index-v1.yaml` — so the revert only stops
-`index-v2` being produced, until the producer merges.
+To regenerate index-v2 before then, override the `relaton` line locally with a
+`path:` pin to a working copy that carries the producer. **Never commit that** —
+the location is machine-specific, so CI fails at `bundle install`.
+
+The pin never affects the published `index-v1`. `index_builder.rb` reads
+whichever index the resolved gem wrote: `REFERENCE_FILES` prefers
+`index-v2.yaml` and falls back to `index-v1.yaml`.
