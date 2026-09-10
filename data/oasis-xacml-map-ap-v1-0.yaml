@@ -41,9 +41,9 @@ contributor:
   organization:
     uri:
     - type: uri
-      content: https://www.oasis-open.org/committees/xacml/
+      content: https://www.oasis-open.org/committees/acal/
     name:
-    - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+    - content: OASIS ACAL [XACML] TC
 - role:
   - type: author
     description:
@@ -53,7 +53,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS eXtensible Access Control Markup Language (XACML) TC
+      - content: OASIS ACAL [XACML] TC
       type: technical-committee
 language:
 - en

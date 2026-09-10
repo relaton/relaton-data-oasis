@@ -18,20 +18,20 @@
   :file: data/oasis-akomantosocore-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: AkomaNtosoCore-v1.0-Pt2-Specifications
-    number: AkomaNtosoCore
-    version: v1.0
-    part: Pt2
-    label: Specifications
-  :file: data/oasis-akomantosocore-v1-0-pt2-specifications.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: AkomaNtosoCore-v1.0-Pt1-Vocabulary
     number: AkomaNtosoCore
     version: v1.0
     part: Pt1
     label: Vocabulary
   :file: data/oasis-akomantosocore-v1-0-pt1-vocabulary.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: AkomaNtosoCore-v1.0-Pt2-Specifications
+    number: AkomaNtosoCore
+    version: v1.0
+    part: Pt2
+    label: Specifications
+  :file: data/oasis-akomantosocore-v1-0-pt2-specifications.yaml
 - :id:
     _type: pubid:oasis:standard
     original: AkomaNtosoNaming-v1.0
@@ -138,17 +138,17 @@
   :file: data/oasis-basicsecurityprofile-v1-1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: Business-Document-NDR-v1.0
-    number: Business-Document-NDR
-    version: v1.0
-  :file: data/oasis-business-document-ndr-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: Business-Document-NDR-v1.1-CS01
     number: Business-Document-NDR
     version: v1.1
     stage: CS01
   :file: data/oasis-business-document-ndr-v1-1-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: Business-Document-NDR-v1.0
+    number: Business-Document-NDR
+    version: v1.0
+  :file: data/oasis-business-document-ndr-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: CACAO-Layout-Extension-v1.0-CS01
@@ -158,11 +158,11 @@
   :file: data/oasis-cacao-layout-extension-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: CACAO-Security-Playbooks-v1.0-CS02
+    original: CACAO-Security-Playbooks-v2.0-CS01
     number: CACAO-Security-Playbooks
-    version: v1.0
-    stage: CS02
-  :file: data/oasis-cacao-security-playbooks-v1-0-cs02.yaml
+    version: v2.0
+    stage: CS01
+  :file: data/oasis-cacao-security-playbooks-v2-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: CACAO-Security-Playbooks-v1.0-CS01
@@ -172,11 +172,11 @@
   :file: data/oasis-cacao-security-playbooks-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: CACAO-Security-Playbooks-v2.0-CS01
+    original: CACAO-Security-Playbooks-v1.0-CS02
     number: CACAO-Security-Playbooks
-    version: v2.0
-    stage: CS01
-  :file: data/oasis-cacao-security-playbooks-v2-0-cs01.yaml
+    version: v1.0
+    stage: CS02
+  :file: data/oasis-cacao-security-playbooks-v1-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
     original: CAM-v1.1
@@ -212,16 +212,16 @@
   :file: data/oasis-cap-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: CAP-v1.2
-    number: CAP
-    version: v1.2
-  :file: data/oasis-cap-v1-2.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: CAP-v1.1
     number: CAP
     version: v1.1
   :file: data/oasis-cap-v1-1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: CAP-v1.2
+    number: CAP
+    version: v1.2
+  :file: data/oasis-cap-v1-2.yaml
 - :id:
     _type: pubid:oasis:standard
     original: CDP-v1.0-CS01
@@ -231,10 +231,30 @@
   :file: data/oasis-cdp-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: CMIS-v1.0
+    number: CMIS
+    version: v1.0
+  :file: data/oasis-cmis-v1-0.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: CMIS-v1.1
     number: CMIS
     version: v1.1
   :file: data/oasis-cmis-v1-1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: CMIS-v1.1-Pt
+    number: CMIS
+    version: v1.1
+    part: Pt
+  :file: data/oasis-cmis-v1-1-pt.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: CMIS-v1.1-Errata01
+    number: CMIS
+    version: v1.1
+    stage: Errata01
+  :file: data/oasis-cmis-v1-1-errata01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: CMIS-v1.1-Plus-Errata01
@@ -245,24 +265,11 @@
   :file: data/oasis-cmis-v1-1-plus-errata01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: CMIS-v1.1-Pt
-    number: CMIS
-    version: v1.1
-    part: Pt
-  :file: data/oasis-cmis-v1-1-pt.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: CMIS-v1.0
-    number: CMIS
+    original: COEL-COEL-v1.0-CS01
+    number: COEL-COEL
     version: v1.0
-  :file: data/oasis-cmis-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: CMIS-v1.1-Errata01
-    number: CMIS
-    version: v1.1
-    stage: Errata01
-  :file: data/oasis-cmis-v1-1-errata01.yaml
+    stage: CS01
+  :file: data/oasis-coel-coel-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: COEL-COEL-v1.0-CS02
@@ -276,13 +283,6 @@
     number: COEL-COEL
     version: v1.0
   :file: data/oasis-coel-coel-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: COEL-COEL-v1.0-CS01
-    number: COEL-COEL
-    version: v1.0
-    stage: CS01
-  :file: data/oasis-coel-coel-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: CPPA3-CS01
@@ -311,16 +311,16 @@
   :file: data/oasis-cvrf-v1-2-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: DB-v4.5
-    number: DB
-    version: v4.5
-  :file: data/oasis-db-v4-5.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: DB-v4.1
     number: DB
     version: v4.1
   :file: data/oasis-db-v4-1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: DB-v4.5
+    number: DB
+    version: v4.5
+  :file: data/oasis-db-v4-5.yaml
 - :id:
     _type: pubid:oasis:standard
     original: DBS-CS01
@@ -329,10 +329,10 @@
   :file: data/oasis-dbs-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: DITA-v1.2
+    original: DITA-v1.0
     number: DITA
-    version: v1.2
-  :file: data/oasis-dita-v1-2.yaml
+    version: v1.0
+  :file: data/oasis-dita-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: DITA-v1.1
@@ -341,42 +341,16 @@
   :file: data/oasis-dita-v1-1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: DITA-v1.3-Errata02
+    original: DITA-v1.2
     number: DITA
-    version: v1.3
-    stage: Errata02
-  :file: data/oasis-dita-v1-3-errata02.yaml
+    version: v1.2
+  :file: data/oasis-dita-v1-2.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: DITA-v1.3-Errata01
+    original: DITA-v1.3
     number: DITA
     version: v1.3
-    stage: Errata01
-  :file: data/oasis-dita-v1-3-errata01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: DITA-v1.3-part3-all-inclusive
-    number: DITA
-    version: v1.3
-    part: part3
-    label: all-inclusive
-  :file: data/oasis-dita-v1-3-part3-all-inclusive.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: DITA-v1.3-part2-tech-content
-    number: DITA
-    version: v1.3
-    part: part2
-    label: tech-content
-  :file: data/oasis-dita-v1-3-part2-tech-content.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: DITA-v1.3-part1-base
-    number: DITA
-    version: v1.3
-    part: part1
-    label: base
-  :file: data/oasis-dita-v1-3-part1-base.yaml
+  :file: data/oasis-dita-v1-3.yaml
 - :id:
     _type: pubid:oasis:standard
     original: DITA-v1.3-part0-overview
@@ -387,16 +361,42 @@
   :file: data/oasis-dita-v1-3-part0-overview.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: DITA-v1.3
+    original: DITA-v1.3-part1-base
     number: DITA
     version: v1.3
-  :file: data/oasis-dita-v1-3.yaml
+    part: part1
+    label: base
+  :file: data/oasis-dita-v1-3-part1-base.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: DITA-v1.0
+    original: DITA-v1.3-part2-tech-content
     number: DITA
-    version: v1.0
-  :file: data/oasis-dita-v1-0.yaml
+    version: v1.3
+    part: part2
+    label: tech-content
+  :file: data/oasis-dita-v1-3-part2-tech-content.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: DITA-v1.3-part3-all-inclusive
+    number: DITA
+    version: v1.3
+    part: part3
+    label: all-inclusive
+  :file: data/oasis-dita-v1-3-part3-all-inclusive.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: DITA-v1.3-Errata01
+    number: DITA
+    version: v1.3
+    stage: Errata01
+  :file: data/oasis-dita-v1-3-errata01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: DITA-v1.3-Errata02
+    number: DITA
+    version: v1.3
+    stage: Errata02
+  :file: data/oasis-dita-v1-3-errata02.yaml
 - :id:
     _type: pubid:oasis:standard
     original: DMLex-1.0
@@ -458,20 +458,6 @@
   :file: data/oasis-dss-md-v1-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: DocBook-5.0-Errata01
-    number: DocBook
-    version: '5.0'
-    stage: Errata01
-  :file: data/oasis-docbook-5-0-errata01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: DocBook-v5.0.1-CS01
-    number: DocBook
-    version: v5.0.1
-    stage: CS01
-  :file: data/oasis-docbook-v5-0-1-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: DocBook-v5.2
     number: DocBook
     version: v5.2
@@ -491,10 +477,24 @@
   :file: data/oasis-docbook-5-0-pt.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: DocBook-5.0-Errata01
+    number: DocBook
+    version: '5.0'
+    stage: Errata01
+  :file: data/oasis-docbook-5-0-errata01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: DocBook-5.1
     number: DocBook
     version: '5.1'
   :file: data/oasis-docbook-5-1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: DocBook-v5.0.1-CS01
+    number: DocBook
+    version: v5.0.1
+    stage: CS01
+  :file: data/oasis-docbook-v5-0-1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: EC-US-v1.0
@@ -510,13 +510,6 @@
   :file: data/oasis-ecf-v4-1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: ECF-v5.01-CS01
-    number: ECF
-    version: v5.01
-    stage: CS01
-  :file: data/oasis-ecf-v5-01-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: ECF-v5.0-CS01
     number: ECF
     version: v5.0
@@ -524,9 +517,23 @@
   :file: data/oasis-ecf-v5-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: ECF-v5.01-CS01
+    number: ECF
+    version: v5.01
+    stage: CS01
+  :file: data/oasis-ecf-v5-01-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: ECF v4.01
     number: ECF v4.01
   :file: data/oasis-ecf-v4-01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: ECF-WS-SIP-v4.1-CS01
+    number: ECF-WS-SIP
+    version: v4.1
+    stage: CS01
+  :file: data/oasis-ecf-ws-sip-v4-1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: ECF-WS-SIP-v5.0-CS01
@@ -543,22 +550,15 @@
   :file: data/oasis-ecf-ws-sip-v5-01-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: ECF-WS-SIP-v4.1-CS01
-    number: ECF-WS-SIP
-    version: v4.1
-    stage: CS01
-  :file: data/oasis-ecf-ws-sip-v4-1-cs01.yaml
+    original: EDXL-v1.0
+    number: EDXL
+    version: v1.0
+  :file: data/oasis-edxl-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: EDXL
     number: EDXL
   :file: data/oasis-edxl.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: EDXL-v1.0
-    number: EDXL
-    version: v1.0
-  :file: data/oasis-edxl-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: EDXL-CAP-AU-CS02
@@ -574,18 +574,18 @@
   :file: data/oasis-edxl-de-v2-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: EDXL-HAVE-v2.0-CS02
-    number: EDXL-HAVE
-    version: v2.0
-    stage: CS02
-  :file: data/oasis-edxl-have-v2-0-cs02.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: EDXL-HAVE-v2.0-CS01
     number: EDXL-HAVE
     version: v2.0
     stage: CS01
   :file: data/oasis-edxl-have-v2-0-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: EDXL-HAVE-v2.0-CS02
+    number: EDXL-HAVE
+    version: v2.0
+    stage: CS02
+  :file: data/oasis-edxl-have-v2-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
     original: EDXL-RM-v1.0
@@ -621,16 +621,11 @@
   :file: data/oasis-emix-v1-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: EML-v5.0
+    original: EML-v6.0-CS01
     number: EML
-    version: v5.0
-  :file: data/oasis-eml-v5-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: EML-v4.0
-    number: EML
-    version: v4.0
-  :file: data/oasis-eml-v4-0.yaml
+    version: v6.0
+    stage: CS01
+  :file: data/oasis-eml-v6-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: EML-v7.0-CS01
@@ -640,11 +635,16 @@
   :file: data/oasis-eml-v7-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: EML-v6.0-CS01
+    original: EML-v4.0
     number: EML
-    version: v6.0
-    stage: CS01
-  :file: data/oasis-eml-v6-0-cs01.yaml
+    version: v4.0
+  :file: data/oasis-eml-v4-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: EML-v5.0
+    number: EML
+    version: v5.0
+  :file: data/oasis-eml-v5-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: EnergyInterop-v1.0
@@ -743,16 +743,16 @@
   :file: data/oasis-kmip-omosp-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: KMIP-Profiles-v1.4
-    number: KMIP-Profiles
-    version: v1.4
-  :file: data/oasis-kmip-profiles-v1-4.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: KMIP-Profiles-v1.3
     number: KMIP-Profiles
     version: v1.3
   :file: data/oasis-kmip-profiles-v1-3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: KMIP-Profiles-v1.4
+    number: KMIP-Profiles
+    version: v1.4
+  :file: data/oasis-kmip-profiles-v1-4.yaml
 - :id:
     _type: pubid:oasis:standard
     original: KMIP-SASEDP-v1.0
@@ -773,28 +773,22 @@
   :file: data/oasis-kmip-tlp-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: KMIPP-v1.1
-    number: KMIPP
-    version: v1.1
-  :file: data/oasis-kmipp-v1-1.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: KMIPP-v1.0
     number: KMIPP
     version: v1.0
   :file: data/oasis-kmipp-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: KMIPP-v1.1
+    number: KMIPP
+    version: v1.1
+  :file: data/oasis-kmipp-v1-1.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: KMIPP-v1.2
     number: KMIPP
     version: v1.2
   :file: data/oasis-kmipp-v1-2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: KMIPS-v1.2
-    number: KMIPS
-    version: v1.2
-  :file: data/oasis-kmips-v1-2.yaml
 - :id:
     _type: pubid:oasis:standard
     original: KMIPS-v1.0
@@ -809,6 +803,12 @@
   :file: data/oasis-kmips-v1-1.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: KMIPS-v1.2
+    number: KMIPS
+    version: v1.2
+  :file: data/oasis-kmips-v1-2.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: LVCS-v1.0-CS01
     number: LVCS
     version: v1.0
@@ -816,18 +816,18 @@
   :file: data/oasis-lvcs-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: LegalRuleML-Core-v1.0-CS02
-    number: LegalRuleML-Core
-    version: v1.0
-    stage: CS02
-  :file: data/oasis-legalruleml-core-v1-0-cs02.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: LegalRuleML-Core-v1.0-CS01
     number: LegalRuleML-Core
     version: v1.0
     stage: CS01
   :file: data/oasis-legalruleml-core-v1-0-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: LegalRuleML-Core-v1.0-CS02
+    number: LegalRuleML-Core
+    version: v1.0
+    stage: CS02
+  :file: data/oasis-legalruleml-core-v1-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
     original: LegalRuleML-Core-v1.0
@@ -922,16 +922,16 @@
   :file: data/oasis-odata.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OData-Part2
-    number: OData
-    part: Part2
-  :file: data/oasis-odata-part2.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OData-Part1
     number: OData
     part: Part1
   :file: data/oasis-odata-part1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OData-Part2
+    number: OData
+    part: Part2
+  :file: data/oasis-odata-part2.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OData-Atom-Format-v4.0-CS02
@@ -974,33 +974,17 @@
   :file: data/oasis-odata-data-agg-v4-0-cs04.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OData-JSON-Format-v4.0-plus-Errata02
+    original: OData-JSON-Format-v4.0
     number: OData-JSON-Format
     version: v4.0
-    stage: Errata02
-    label: plus
-  :file: data/oasis-odata-json-format-v4-0-plus-errata02.yaml
+  :file: data/oasis-odata-json-format-v4-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OData-JSON-Format-v4.01
-    number: OData-JSON-Format
-    version: v4.01
-  :file: data/oasis-odata-json-format-v4-01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OData-JSON-Format-v4.0-plus-Errata03
+    original: OData-JSON-Format-v4.0-Pt
     number: OData-JSON-Format
     version: v4.0
-    stage: Errata03
-    label: plus
-  :file: data/oasis-odata-json-format-v4-0-plus-errata03.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OData-JSON-Format-v4.0-Errata03
-    number: OData-JSON-Format
-    version: v4.0
-    stage: Errata03
-  :file: data/oasis-odata-json-format-v4-0-errata03.yaml
+    part: Pt
+  :file: data/oasis-odata-json-format-v4-0-pt.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OData-JSON-Format-v4.0-plus-Errata01
@@ -1011,17 +995,33 @@
   :file: data/oasis-odata-json-format-v4-0-plus-errata01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OData-JSON-Format-v4.0-Pt
+    original: OData-JSON-Format-v4.0-plus-Errata02
     number: OData-JSON-Format
     version: v4.0
-    part: Pt
-  :file: data/oasis-odata-json-format-v4-0-pt.yaml
+    stage: Errata02
+    label: plus
+  :file: data/oasis-odata-json-format-v4-0-plus-errata02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OData-JSON-Format-v4.0
+    original: OData-JSON-Format-v4.0-Errata03
     number: OData-JSON-Format
     version: v4.0
-  :file: data/oasis-odata-json-format-v4-0.yaml
+    stage: Errata03
+  :file: data/oasis-odata-json-format-v4-0-errata03.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OData-JSON-Format-v4.0-plus-Errata03
+    number: OData-JSON-Format
+    version: v4.0
+    stage: Errata03
+    label: plus
+  :file: data/oasis-odata-json-format-v4-0-plus-errata03.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OData-JSON-Format-v4.01
+    number: OData-JSON-Format
+    version: v4.01
+  :file: data/oasis-odata-json-format-v4-01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OData-Temporal-v4.0-CS01
@@ -1031,21 +1031,16 @@
   :file: data/oasis-odata-temporal-v4-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-PS01
-    number: OSLC
-    stage: PS01
-  :file: data/oasis-oslc-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC
-    number: OSLC
-  :file: data/oasis-oslc.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OSLC-CS01
     number: OSLC
     stage: CS01
   :file: data/oasis-oslc-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PS01
+    number: OSLC
+    stage: PS01
+  :file: data/oasis-oslc-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-PS02
@@ -1054,34 +1049,16 @@
   :file: data/oasis-oslc-ps02.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: OSLC
+    number: OSLC
+  :file: data/oasis-oslc.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: OSLC-AM-2.1-CS01
     number: OSLC-AM
     version: '2.1'
     stage: CS01
   :file: data/oasis-oslc-am-2-1-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-AM-3.0-Part2-PS01
-    number: OSLC-AM
-    version: '3.0'
-    stage: PS01
-    part: Part2
-  :file: data/oasis-oslc-am-3-0-part2-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-AM-3.0-Part1-PS01
-    number: OSLC-AM
-    version: '3.0'
-    stage: PS01
-    part: Part1
-  :file: data/oasis-oslc-am-3-0-part1-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-AM-3.0-PS01
-    number: OSLC-AM
-    version: '3.0'
-    stage: PS01
-  :file: data/oasis-oslc-am-3-0-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-AM-2.1-CS01-Pt1
@@ -1092,31 +1069,27 @@
   :file: data/oasis-oslc-am-2-1-cs01-pt1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-AM-3.0-Part3
+    original: OSLC-AM-3.0-PS01
     number: OSLC-AM
     version: '3.0'
-    part: Part3
-  :file: data/oasis-oslc-am-3-0-part3.yaml
+    stage: PS01
+  :file: data/oasis-oslc-am-3-0-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-AM-3.0-Part2
+    original: OSLC-AM-3.0-Part1-PS01
     number: OSLC-AM
     version: '3.0'
-    part: Part2
-  :file: data/oasis-oslc-am-3-0-part2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-AM-3.0-Part1
-    number: OSLC-AM
-    version: '3.0'
+    stage: PS01
     part: Part1
-  :file: data/oasis-oslc-am-3-0-part1.yaml
+  :file: data/oasis-oslc-am-3-0-part1-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-AM-3.0
+    original: OSLC-AM-3.0-Part2-PS01
     number: OSLC-AM
     version: '3.0'
-  :file: data/oasis-oslc-am-3-0.yaml
+    stage: PS01
+    part: Part2
+  :file: data/oasis-oslc-am-3-0-part2-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-AM-3.0-Part3-PS01
@@ -1127,12 +1100,31 @@
   :file: data/oasis-oslc-am-3-0-part3-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-Attachments-3.0-PS01-Pt5
-    number: OSLC-Attachments
+    original: OSLC-AM-3.0
+    number: OSLC-AM
     version: '3.0'
-    stage: PS01
-    part: Pt5
-  :file: data/oasis-oslc-attachments-3-0-ps01-pt5.yaml
+  :file: data/oasis-oslc-am-3-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-AM-3.0-Part1
+    number: OSLC-AM
+    version: '3.0'
+    part: Part1
+  :file: data/oasis-oslc-am-3-0-part1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-AM-3.0-Part2
+    number: OSLC-AM
+    version: '3.0'
+    part: Part2
+  :file: data/oasis-oslc-am-3-0-part2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-AM-3.0-Part3
+    number: OSLC-AM
+    version: '3.0'
+    part: Part3
+  :file: data/oasis-oslc-am-3-0-part3.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-Attachments-3.0-CS01-Pt5
@@ -1141,6 +1133,14 @@
     stage: CS01
     part: Pt5
   :file: data/oasis-oslc-attachments-3-0-cs01-pt5.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-Attachments-3.0-PS01-Pt5
+    number: OSLC-Attachments
+    version: '3.0'
+    stage: PS01
+    part: Pt5
+  :file: data/oasis-oslc-attachments-3-0-ps01-pt5.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-Attachments-3.0-PS02-Pt5
@@ -1156,12 +1156,6 @@
     version: '3.0'
     part: Pt5
   :file: data/oasis-oslc-attachments-3-0-pt5.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-CM-3.0
-    number: OSLC-CM
-    version: '3.0'
-  :file: data/oasis-oslc-cm-3-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-CM-3.0-CS01
@@ -1241,6 +1235,12 @@
   :file: data/oasis-oslc-cm-3-0-part3-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: OSLC-CM-3.0
+    number: OSLC-CM
+    version: '3.0'
+  :file: data/oasis-oslc-cm-3-0.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: OSLC-CM-3.0-Part1
     number: OSLC-CM
     version: '3.0'
@@ -1268,22 +1268,6 @@
   :file: data/oasis-oslc-cm-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-Config-1.0-Part4-PS01
-    number: OSLC-Config
-    version: '1.0'
-    stage: PS01
-    part: Part4
-  :file: data/oasis-oslc-config-1-0-part4-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-Config-1.0-Part2-PS01
-    number: OSLC-Config
-    version: '1.0'
-    stage: PS01
-    part: Part2
-  :file: data/oasis-oslc-config-1-0-part2-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OSLC-Config-1.0-PS01
     number: OSLC-Config
     version: '1.0'
@@ -1299,6 +1283,14 @@
   :file: data/oasis-oslc-config-1-0-part1-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: OSLC-Config-1.0-Part2-PS01
+    number: OSLC-Config
+    version: '1.0'
+    stage: PS01
+    part: Part2
+  :file: data/oasis-oslc-config-1-0-part2-ps01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: OSLC-Config-1.0-Part3-PS01
     number: OSLC-Config
     version: '1.0'
@@ -1307,19 +1299,12 @@
   :file: data/oasis-oslc-config-1-0-part3-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-Core-3.0-Part1
-    number: OSLC-Core
-    version: '3.0'
-    part: Part1
-  :file: data/oasis-oslc-core-3-0-part1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-Core-3.0-Part1-PS02
-    number: OSLC-Core
-    version: '3.0'
-    stage: PS02
-    part: Part1
-  :file: data/oasis-oslc-core-3-0-part1-ps02.yaml
+    original: OSLC-Config-1.0-Part4-PS01
+    number: OSLC-Config
+    version: '1.0'
+    stage: PS01
+    part: Part4
+  :file: data/oasis-oslc-config-1-0-part4-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-Core-3.0-CS01-Pt1
@@ -1338,19 +1323,27 @@
   :file: data/oasis-oslc-core-3-0-part1-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: OSLC-Core-3.0-Part1-PS02
+    number: OSLC-Core
+    version: '3.0'
+    stage: PS02
+    part: Part1
+  :file: data/oasis-oslc-core-3-0-part1-ps02.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-Core-3.0-Part1
+    number: OSLC-Core
+    version: '3.0'
+    part: Part1
+  :file: data/oasis-oslc-core-3-0-part1.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: OSLC-CoreShapes-3.0-PS01-Pt8
     number: OSLC-CoreShapes
     version: '3.0'
     stage: PS01
     part: Pt8
   :file: data/oasis-oslc-coreshapes-3-0-ps01-pt8.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-CoreShapes-3.0-Pt8
-    number: OSLC-CoreShapes
-    version: '3.0'
-    part: Pt8
-  :file: data/oasis-oslc-coreshapes-3-0-pt8.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-CoreShapes-3.0-PS02-Pt8
@@ -1361,12 +1354,27 @@
   :file: data/oasis-oslc-coreshapes-3-0-ps02-pt8.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: OSLC-CoreShapes-3.0-Pt8
+    number: OSLC-CoreShapes
+    version: '3.0'
+    part: Pt8
+  :file: data/oasis-oslc-coreshapes-3-0-pt8.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: OSLC-CoreVocab-3.0-CS01-Pt7
     number: OSLC-CoreVocab
     version: '3.0'
     stage: CS01
     part: Pt7
   :file: data/oasis-oslc-corevocab-3-0-cs01-pt7.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-CoreVocab-3.0-PS01-Pt7
+    number: OSLC-CoreVocab
+    version: '3.0'
+    stage: PS01
+    part: Pt7
+  :file: data/oasis-oslc-corevocab-3-0-ps01-pt7.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-CoreVocab-3.0-PS02-Pt7
@@ -1382,21 +1390,6 @@
     version: '3.0'
     part: Pt7
   :file: data/oasis-oslc-corevocab-3-0-pt7.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-CoreVocab-3.0-PS01-Pt7
-    number: OSLC-CoreVocab
-    version: '3.0'
-    stage: PS01
-    part: Pt7
-  :file: data/oasis-oslc-corevocab-3-0-ps01-pt7.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-Dialogs-3.0-Pt4
-    number: OSLC-Dialogs
-    version: '3.0'
-    part: Pt4
-  :file: data/oasis-oslc-dialogs-3-0-pt4.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-Dialogs-3.0-CS01-Pt4
@@ -1423,27 +1416,19 @@
   :file: data/oasis-oslc-dialogs-3-0-ps02-pt4.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: OSLC-Dialogs-3.0-Pt4
+    number: OSLC-Dialogs
+    version: '3.0'
+    part: Pt4
+  :file: data/oasis-oslc-dialogs-3-0-pt4.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: OSLC-Discovery-3.0-CS01-Pt2
     number: OSLC-Discovery
     version: '3.0'
     stage: CS01
     part: Pt2
   :file: data/oasis-oslc-discovery-3-0-cs01-pt2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-Discovery-3.0-Pt2
-    number: OSLC-Discovery
-    version: '3.0'
-    part: Pt2
-  :file: data/oasis-oslc-discovery-3-0-pt2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-Discovery-3.0-PS02-Pt2
-    number: OSLC-Discovery
-    version: '3.0'
-    stage: PS02
-    part: Pt2
-  :file: data/oasis-oslc-discovery-3-0-ps02-pt2.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-Discovery-3.0-PS01-Pt2
@@ -1454,46 +1439,19 @@
   :file: data/oasis-oslc-discovery-3-0-ps01-pt2.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0-Vocab-CS03-Pt2
-    number: OSLC-PROMCODE
-    version: v1.0
-    stage: CS03
+    original: OSLC-Discovery-3.0-PS02-Pt2
+    number: OSLC-Discovery
+    version: '3.0'
+    stage: PS02
     part: Pt2
-    label: Vocab
-  :file: data/oasis-oslc-promcode-v1-0-vocab-cs03-pt2.yaml
+  :file: data/oasis-oslc-discovery-3-0-ps02-pt2.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0-Shapes-CS03-Pt3
-    number: OSLC-PROMCODE
-    version: v1.0
-    stage: CS03
-    part: Pt3
-    label: Shapes
-  :file: data/oasis-oslc-promcode-v1-0-shapes-cs03-pt3.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0-CS03
-    number: OSLC-PROMCODE
-    version: v1.0
-    stage: CS03
-  :file: data/oasis-oslc-promcode-v1-0-cs03.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0-Spec-CS03-Pt1
-    number: OSLC-PROMCODE
-    version: v1.0
-    stage: CS03
-    part: Pt1
-    label: Spec
-  :file: data/oasis-oslc-promcode-v1-0-spec-cs03-pt1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0-Shapes-Pt3
-    number: OSLC-PROMCODE
-    version: v1.0
-    part: Pt3
-    label: Shapes
-  :file: data/oasis-oslc-promcode-v1-0-shapes-pt3.yaml
+    original: OSLC-Discovery-3.0-Pt2
+    number: OSLC-Discovery
+    version: '3.0'
+    part: Pt2
+  :file: data/oasis-oslc-discovery-3-0-pt2.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-PROMCODE-v1.0-CS02
@@ -1503,22 +1461,6 @@
   :file: data/oasis-oslc-promcode-v1-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0-Vocab-Pt2
-    number: OSLC-PROMCODE
-    version: v1.0
-    part: Pt2
-    label: Vocab
-  :file: data/oasis-oslc-promcode-v1-0-vocab-pt2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0-Spec-Pt1
-    number: OSLC-PROMCODE
-    version: v1.0
-    part: Pt1
-    label: Spec
-  :file: data/oasis-oslc-promcode-v1-0-spec-pt1.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OSLC-PROMCODE-v1.0-Spec-CS02-Pt1
     number: OSLC-PROMCODE
     version: v1.0
@@ -1526,12 +1468,6 @@
     part: Pt1
     label: Spec
   :file: data/oasis-oslc-promcode-v1-0-spec-cs02-pt1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-PROMCODE-v1.0
-    number: OSLC-PROMCODE
-    version: v1.0
-  :file: data/oasis-oslc-promcode-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-PROMCODE-v1.0-Vocab-CS02-Pt2
@@ -1552,12 +1488,68 @@
   :file: data/oasis-oslc-promcode-v1-0-shapes-cs02-pt3.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-QM-2.1-Part1-PS01
-    number: OSLC-QM
-    version: '2.1'
-    stage: PS01
-    part: Part1
-  :file: data/oasis-oslc-qm-2-1-part1-ps01.yaml
+    original: OSLC-PROMCODE-v1.0-CS03
+    number: OSLC-PROMCODE
+    version: v1.0
+    stage: CS03
+  :file: data/oasis-oslc-promcode-v1-0-cs03.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PROMCODE-v1.0-Spec-CS03-Pt1
+    number: OSLC-PROMCODE
+    version: v1.0
+    stage: CS03
+    part: Pt1
+    label: Spec
+  :file: data/oasis-oslc-promcode-v1-0-spec-cs03-pt1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PROMCODE-v1.0-Vocab-CS03-Pt2
+    number: OSLC-PROMCODE
+    version: v1.0
+    stage: CS03
+    part: Pt2
+    label: Vocab
+  :file: data/oasis-oslc-promcode-v1-0-vocab-cs03-pt2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PROMCODE-v1.0-Shapes-CS03-Pt3
+    number: OSLC-PROMCODE
+    version: v1.0
+    stage: CS03
+    part: Pt3
+    label: Shapes
+  :file: data/oasis-oslc-promcode-v1-0-shapes-cs03-pt3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PROMCODE-v1.0
+    number: OSLC-PROMCODE
+    version: v1.0
+  :file: data/oasis-oslc-promcode-v1-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PROMCODE-v1.0-Spec-Pt1
+    number: OSLC-PROMCODE
+    version: v1.0
+    part: Pt1
+    label: Spec
+  :file: data/oasis-oslc-promcode-v1-0-spec-pt1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PROMCODE-v1.0-Vocab-Pt2
+    number: OSLC-PROMCODE
+    version: v1.0
+    part: Pt2
+    label: Vocab
+  :file: data/oasis-oslc-promcode-v1-0-vocab-pt2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-PROMCODE-v1.0-Shapes-Pt3
+    number: OSLC-PROMCODE
+    version: v1.0
+    part: Pt3
+    label: Shapes
+  :file: data/oasis-oslc-promcode-v1-0-shapes-pt3.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-QM-2.1-PS01
@@ -1565,6 +1557,14 @@
     version: '2.1'
     stage: PS01
   :file: data/oasis-oslc-qm-2-1-ps01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-QM-2.1-Part1-PS01
+    number: OSLC-QM
+    version: '2.1'
+    stage: PS01
+    part: Part1
+  :file: data/oasis-oslc-qm-2-1-part1-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-QM-2.1
@@ -1586,6 +1586,29 @@
   :file: data/oasis-oslc-query-3-0.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: OSLC-RM-2.1-CS01
+    number: OSLC-RM
+    version: '2.1'
+    stage: CS01
+  :file: data/oasis-oslc-rm-2-1-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-RM-2.1-Part1-CS01
+    number: OSLC-RM
+    version: '2.1'
+    stage: CS01
+    part: Part1
+  :file: data/oasis-oslc-rm-2-1-part1-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-RM-2.1-Part2-CS01
+    number: OSLC-RM
+    version: '2.1'
+    stage: CS01
+    part: Part2
+  :file: data/oasis-oslc-rm-2-1-part2-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: OSLC-RM-2.1-PS01
     number: OSLC-RM
     version: '2.1'
@@ -1593,11 +1616,28 @@
   :file: data/oasis-oslc-rm-2-1-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-RM-2.1-CS01
+    original: OSLC-RM-2.1-Part1-PS01
     number: OSLC-RM
     version: '2.1'
-    stage: CS01
-  :file: data/oasis-oslc-rm-2-1-cs01.yaml
+    stage: PS01
+    part: Part1
+  :file: data/oasis-oslc-rm-2-1-part1-ps01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-RM-2.1-Part2-PS01
+    number: OSLC-RM
+    version: '2.1'
+    stage: PS01
+    part: Part2
+  :file: data/oasis-oslc-rm-2-1-part2-ps01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-RM-2.1-Part3-PS01
+    number: OSLC-RM
+    version: '2.1'
+    stage: PS01
+    part: Part3
+  :file: data/oasis-oslc-rm-2-1-part3-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-RM-2.1
@@ -1642,54 +1682,6 @@
   :file: data/oasis-oslc-rm-2-1-part1-ps02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-RM-2.1-Part3-PS02
-    number: OSLC-RM
-    version: '2.1'
-    stage: PS02
-    part: Part3
-  :file: data/oasis-oslc-rm-2-1-part3-ps02.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-RM-2.1-Part1-PS01
-    number: OSLC-RM
-    version: '2.1'
-    stage: PS01
-    part: Part1
-  :file: data/oasis-oslc-rm-2-1-part1-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-RM-2.1-Part2-CS01
-    number: OSLC-RM
-    version: '2.1'
-    stage: CS01
-    part: Part2
-  :file: data/oasis-oslc-rm-2-1-part2-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-RM-2.1-Part1-CS01
-    number: OSLC-RM
-    version: '2.1'
-    stage: CS01
-    part: Part1
-  :file: data/oasis-oslc-rm-2-1-part1-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-RM-2.1-Part2-PS01
-    number: OSLC-RM
-    version: '2.1'
-    stage: PS01
-    part: Part2
-  :file: data/oasis-oslc-rm-2-1-part2-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-RM-2.1-Part3-PS01
-    number: OSLC-RM
-    version: '2.1'
-    stage: PS01
-    part: Part3
-  :file: data/oasis-oslc-rm-2-1-part3-ps01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OSLC-RM-2.1-Part2-PS02
     number: OSLC-RM
     version: '2.1'
@@ -1698,11 +1690,12 @@
   :file: data/oasis-oslc-rm-2-1-part2-ps02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-ResourcePreview-3.0-Pt3
-    number: OSLC-ResourcePreview
-    version: '3.0'
-    part: Pt3
-  :file: data/oasis-oslc-resourcepreview-3-0-pt3.yaml
+    original: OSLC-RM-2.1-Part3-PS02
+    number: OSLC-RM
+    version: '2.1'
+    stage: PS02
+    part: Part3
+  :file: data/oasis-oslc-rm-2-1-part3-ps02.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-ResourcePreview-3.0-CS01-Pt3
@@ -1713,14 +1706,6 @@
   :file: data/oasis-oslc-resourcepreview-3-0-cs01-pt3.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-ResourcePreview-3.0-PS02-Pt3
-    number: OSLC-ResourcePreview
-    version: '3.0'
-    stage: PS02
-    part: Pt3
-  :file: data/oasis-oslc-resourcepreview-3-0-ps02-pt3.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OSLC-ResourcePreview-3.0-PS01-Pt3
     number: OSLC-ResourcePreview
     version: '3.0'
@@ -1729,12 +1714,19 @@
   :file: data/oasis-oslc-resourcepreview-3-0-ps01-pt3.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-Shapes-3.0-PS01-Pt6
-    number: OSLC-Shapes
+    original: OSLC-ResourcePreview-3.0-PS02-Pt3
+    number: OSLC-ResourcePreview
     version: '3.0'
-    stage: PS01
-    part: Pt6
-  :file: data/oasis-oslc-shapes-3-0-ps01-pt6.yaml
+    stage: PS02
+    part: Pt3
+  :file: data/oasis-oslc-resourcepreview-3-0-ps02-pt3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-ResourcePreview-3.0-Pt3
+    number: OSLC-ResourcePreview
+    version: '3.0'
+    part: Pt3
+  :file: data/oasis-oslc-resourcepreview-3-0-pt3.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-Shapes-3.0-CS01-Pt6
@@ -1743,6 +1735,14 @@
     stage: CS01
     part: Pt6
   :file: data/oasis-oslc-shapes-3-0-cs01-pt6.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-Shapes-3.0-PS01-Pt6
+    number: OSLC-Shapes
+    version: '3.0'
+    stage: PS01
+    part: Pt6
+  :file: data/oasis-oslc-shapes-3-0-ps01-pt6.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-Shapes-3.0-PS02-Pt6
@@ -1760,57 +1760,11 @@
   :file: data/oasis-oslc-shapes-3-0-pt6.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0-PS01-Pt3
+    original: OSLC-TRS-v3.0-PS01
     number: OSLC-TRS
     version: v3.0
     stage: PS01
-    part: Pt3
-  :file: data/oasis-oslc-trs-v3-0-ps01-pt3.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0
-    number: OSLC-TRS
-    version: v3.0
-  :file: data/oasis-oslc-trs-v3-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0-PS02-Pt3
-    number: OSLC-TRS
-    version: v3.0
-    stage: PS02
-    part: Pt3
-  :file: data/oasis-oslc-trs-v3-0-ps02-pt3.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0-PS02-Pt2
-    number: OSLC-TRS
-    version: v3.0
-    stage: PS02
-    part: Pt2
-  :file: data/oasis-oslc-trs-v3-0-ps02-pt2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0-PS02-Pt1
-    number: OSLC-TRS
-    version: v3.0
-    stage: PS02
-    part: Pt1
-  :file: data/oasis-oslc-trs-v3-0-ps02-pt1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0-PS02
-    number: OSLC-TRS
-    version: v3.0
-    stage: PS02
-  :file: data/oasis-oslc-trs-v3-0-ps02.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0-PS01-Pt2
-    number: OSLC-TRS
-    version: v3.0
-    stage: PS01
-    part: Pt2
-  :file: data/oasis-oslc-trs-v3-0-ps01-pt2.yaml
+  :file: data/oasis-oslc-trs-v3-0-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-TRS-v3.0-PS01-Pt1
@@ -1821,11 +1775,57 @@
   :file: data/oasis-oslc-trs-v3-0-ps01-pt1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OSLC-TRS-v3.0-PS01
+    original: OSLC-TRS-v3.0-PS01-Pt2
     number: OSLC-TRS
     version: v3.0
     stage: PS01
-  :file: data/oasis-oslc-trs-v3-0-ps01.yaml
+    part: Pt2
+  :file: data/oasis-oslc-trs-v3-0-ps01-pt2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-TRS-v3.0-PS01-Pt3
+    number: OSLC-TRS
+    version: v3.0
+    stage: PS01
+    part: Pt3
+  :file: data/oasis-oslc-trs-v3-0-ps01-pt3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-TRS-v3.0-PS02
+    number: OSLC-TRS
+    version: v3.0
+    stage: PS02
+  :file: data/oasis-oslc-trs-v3-0-ps02.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-TRS-v3.0-PS02-Pt1
+    number: OSLC-TRS
+    version: v3.0
+    stage: PS02
+    part: Pt1
+  :file: data/oasis-oslc-trs-v3-0-ps02-pt1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-TRS-v3.0-PS02-Pt2
+    number: OSLC-TRS
+    version: v3.0
+    stage: PS02
+    part: Pt2
+  :file: data/oasis-oslc-trs-v3-0-ps02-pt2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-TRS-v3.0-PS02-Pt3
+    number: OSLC-TRS
+    version: v3.0
+    stage: PS02
+    part: Pt3
+  :file: data/oasis-oslc-trs-v3-0-ps02-pt3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OSLC-TRS-v3.0
+    number: OSLC-TRS
+    version: v3.0
+  :file: data/oasis-oslc-trs-v3-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OSLC-am-2.1-Part2-CS01
@@ -1852,18 +1852,18 @@
   :file: data/oasis-oslc-qm-2-1-part3-ps01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OpenC2-HTTPS-v1.1-CS01
-    number: OpenC2-HTTPS
-    version: v1.1
-    stage: CS01
-  :file: data/oasis-openc2-https-v1-1-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OpenC2-HTTPS-v1.0-CS01
     number: OpenC2-HTTPS
     version: v1.0
     stage: CS01
   :file: data/oasis-openc2-https-v1-0-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenC2-HTTPS-v1.1-CS01
+    number: OpenC2-HTTPS
+    version: v1.1
+    stage: CS01
+  :file: data/oasis-openc2-https-v1-1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OpenC2-Lang-v1.0-CS01
@@ -1893,154 +1893,23 @@
   :file: data/oasis-openc2-slpf-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OpenDocument-v1.0
-    number: OpenDocument
-    version: v1.0
-  :file: data/oasis-opendocument-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.4-part4
-    number: OpenDocument
-    version: v1.4
-    part: part4
-  :file: data/oasis-opendocument-v1-4-part4.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.4-part3
-    number: OpenDocument
-    version: v1.4
-    part: part3
-  :file: data/oasis-opendocument-v1-4-part3.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: OpenDocument-v1.1
     number: OpenDocument
     version: v1.1
   :file: data/oasis-opendocument-v1-1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OpenDocument-v1.4
+    original: OpenDocument-v1.2
     number: OpenDocument
-    version: v1.4
-  :file: data/oasis-opendocument-v1-4.yaml
+    version: v1.2
+  :file: data/oasis-opendocument-v1-2.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OpenDocument-v1.4-part2
-    number: OpenDocument
-    version: v1.4
-    part: part2
-  :file: data/oasis-opendocument-v1-4-part2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.4-part1
-    number: OpenDocument
-    version: v1.4
-    part: part1
-  :file: data/oasis-opendocument-v1-4-part1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.4-CS01
-    number: OpenDocument
-    version: v1.4
-    stage: CS01
-  :file: data/oasis-opendocument-v1-4-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part4
-    number: OpenDocument
-    version: v1.3
-    part: part4
-  :file: data/oasis-opendocument-v1-3-part4.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part3
-    number: OpenDocument
-    version: v1.3
-    part: part3
-  :file: data/oasis-opendocument-v1-3-part3.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part2
-    number: OpenDocument
-    version: v1.3
-    part: part2
-  :file: data/oasis-opendocument-v1-3-part2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part1
-    number: OpenDocument
-    version: v1.3
-    part: part1
-  :file: data/oasis-opendocument-v1-3-part1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3
-    number: OpenDocument
-    version: v1.3
-  :file: data/oasis-opendocument-v1-3.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part4-CS02
-    number: OpenDocument
-    version: v1.3
-    stage: CS02
-    part: part4
-  :file: data/oasis-opendocument-v1-3-part4-cs02.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part3-CS02
-    number: OpenDocument
-    version: v1.3
-    stage: CS02
-    part: part3
-  :file: data/oasis-opendocument-v1-3-part3-cs02.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part2-CS02
-    number: OpenDocument
-    version: v1.3
-    stage: CS02
-    part: part2
-  :file: data/oasis-opendocument-v1-3-part2-cs02.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part1-CS02
-    number: OpenDocument
-    version: v1.3
-    stage: CS02
-    part: part1
-  :file: data/oasis-opendocument-v1-3-part1-cs02.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-CS02
-    number: OpenDocument
-    version: v1.3
-    stage: CS02
-  :file: data/oasis-opendocument-v1-3-cs02.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part4-CS01
+    original: OpenDocument-v1.3-CS01
     number: OpenDocument
     version: v1.3
     stage: CS01
-    part: part4
-  :file: data/oasis-opendocument-v1-3-part4-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part3-CS01
-    number: OpenDocument
-    version: v1.3
-    stage: CS01
-    part: part3
-  :file: data/oasis-opendocument-v1-3-part3-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-part2-CS01
-    number: OpenDocument
-    version: v1.3
-    stage: CS01
-    part: part2
-  :file: data/oasis-opendocument-v1-3-part2-cs01.yaml
+  :file: data/oasis-opendocument-v1-3-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: OpenDocument-v1.3-part1-CS01
@@ -2051,17 +1920,148 @@
   :file: data/oasis-opendocument-v1-3-part1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OpenDocument-v1.3-CS01
+    original: OpenDocument-v1.3-part2-CS01
     number: OpenDocument
     version: v1.3
     stage: CS01
-  :file: data/oasis-opendocument-v1-3-cs01.yaml
+    part: part2
+  :file: data/oasis-opendocument-v1-3-part2-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: OpenDocument-v1.2
+    original: OpenDocument-v1.3-part3-CS01
     number: OpenDocument
-    version: v1.2
-  :file: data/oasis-opendocument-v1-2.yaml
+    version: v1.3
+    stage: CS01
+    part: part3
+  :file: data/oasis-opendocument-v1-3-part3-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part4-CS01
+    number: OpenDocument
+    version: v1.3
+    stage: CS01
+    part: part4
+  :file: data/oasis-opendocument-v1-3-part4-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-CS02
+    number: OpenDocument
+    version: v1.3
+    stage: CS02
+  :file: data/oasis-opendocument-v1-3-cs02.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part1-CS02
+    number: OpenDocument
+    version: v1.3
+    stage: CS02
+    part: part1
+  :file: data/oasis-opendocument-v1-3-part1-cs02.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part2-CS02
+    number: OpenDocument
+    version: v1.3
+    stage: CS02
+    part: part2
+  :file: data/oasis-opendocument-v1-3-part2-cs02.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part3-CS02
+    number: OpenDocument
+    version: v1.3
+    stage: CS02
+    part: part3
+  :file: data/oasis-opendocument-v1-3-part3-cs02.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part4-CS02
+    number: OpenDocument
+    version: v1.3
+    stage: CS02
+    part: part4
+  :file: data/oasis-opendocument-v1-3-part4-cs02.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3
+    number: OpenDocument
+    version: v1.3
+  :file: data/oasis-opendocument-v1-3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part1
+    number: OpenDocument
+    version: v1.3
+    part: part1
+  :file: data/oasis-opendocument-v1-3-part1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part2
+    number: OpenDocument
+    version: v1.3
+    part: part2
+  :file: data/oasis-opendocument-v1-3-part2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part3
+    number: OpenDocument
+    version: v1.3
+    part: part3
+  :file: data/oasis-opendocument-v1-3-part3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.3-part4
+    number: OpenDocument
+    version: v1.3
+    part: part4
+  :file: data/oasis-opendocument-v1-3-part4.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.4-CS01
+    number: OpenDocument
+    version: v1.4
+    stage: CS01
+  :file: data/oasis-opendocument-v1-4-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.4-part1
+    number: OpenDocument
+    version: v1.4
+    part: part1
+  :file: data/oasis-opendocument-v1-4-part1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.4-part2
+    number: OpenDocument
+    version: v1.4
+    part: part2
+  :file: data/oasis-opendocument-v1-4-part2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.4-part3
+    number: OpenDocument
+    version: v1.4
+    part: part3
+  :file: data/oasis-opendocument-v1-4-part3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.4-part4
+    number: OpenDocument
+    version: v1.4
+    part: part4
+  :file: data/oasis-opendocument-v1-4-part4.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.4
+    number: OpenDocument
+    version: v1.4
+  :file: data/oasis-opendocument-v1-4.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: OpenDocument-v1.0
+    number: OpenDocument
+    version: v1.0
+  :file: data/oasis-opendocument-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: PKCS-P-v3.1-CS01
@@ -2079,17 +2079,17 @@
   :file: data/oasis-pkcs-p-v3-1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: PKCS-S-v3.1
-    number: PKCS-S
-    version: v3.1
-  :file: data/oasis-pkcs-s-v3-1.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: PKCS-S-v3.1-CS01
     number: PKCS-S
     version: v3.1
     stage: CS01
   :file: data/oasis-pkcs-s-v3-1-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: PKCS-S-v3.1
+    number: PKCS-S
+    version: v3.1
+  :file: data/oasis-pkcs-s-v3-1.yaml
 - :id:
     _type: pubid:oasis:standard
     original: PKCS11-Base-v3.0
@@ -2116,13 +2116,6 @@
   :file: data/oasis-pkcs11-historical-v3-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: PKCS11-Profiles-v3.2-CS01
-    number: PKCS11-Profiles
-    version: v3.2
-    stage: CS01
-  :file: data/oasis-pkcs11-profiles-v3-2-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: PKCS11-Profiles-v2.40
     number: PKCS11-Profiles
     version: v2.40
@@ -2133,6 +2126,13 @@
     number: PKCS11-Profiles
     version: v3.0
   :file: data/oasis-pkcs11-profiles-v3-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: PKCS11-Profiles-v3.2-CS01
+    number: PKCS11-Profiles
+    version: v3.2
+    stage: CS01
+  :file: data/oasis-pkcs11-profiles-v3-2-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: PKCS11-Spec-v3.2-CS01
@@ -2220,15 +2220,6 @@
   :file: data/oasis-repeatablerequests-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: S-RAMP-v1.0-atom-binding-CS01-Pt2
-    number: S-RAMP
-    version: v1.0
-    stage: CS01
-    part: Pt2
-    label: atom-binding
-  :file: data/oasis-s-ramp-v1-0-atom-binding-cs01-pt2.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: S-RAMP-v1.0-CS01
     number: S-RAMP
     version: v1.0
@@ -2245,17 +2236,19 @@
   :file: data/oasis-s-ramp-v1-0-foundation-cs01-pt1.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: S-RAMP-v1.0-atom-binding-CS01-Pt2
+    number: S-RAMP
+    version: v1.0
+    stage: CS01
+    part: Pt2
+    label: atom-binding
+  :file: data/oasis-s-ramp-v1-0-atom-binding-cs01-pt2.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: SAF-v1.0
     number: SAF
     version: v1.0
   :file: data/oasis-saf-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: SAM-TSS-v1.0-CS03
-    number: SAM-TSS
-    version: v1.0
-    stage: CS03
-  :file: data/oasis-sam-tss-v1-0-cs03.yaml
 - :id:
     _type: pubid:oasis:standard
     original: SAM-TSS-v1.0-CS01
@@ -2272,22 +2265,17 @@
   :file: data/oasis-sam-tss-v1-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: SAM-TSS-v1.0-CS03
+    number: SAM-TSS
+    version: v1.0
+    stage: CS03
+  :file: data/oasis-sam-tss-v1-0-cs03.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: SAM-TSS-v1.0
     number: SAM-TSS
     version: v1.0
   :file: data/oasis-sam-tss-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: SAML-v2.0
-    number: SAML
-    version: v2.0
-  :file: data/oasis-saml-v2-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: SAML-v1.1
-    number: SAML
-    version: v1.1
-  :file: data/oasis-saml-v1-1.yaml
 - :id:
     _type: pubid:oasis:standard
     original: SAML
@@ -2299,6 +2287,18 @@
     number: SAML
     version: v1.0
   :file: data/oasis-saml-v1-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: SAML-v1.1
+    number: SAML
+    version: v1.1
+  :file: data/oasis-saml-v1-1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: SAML-v2.0
+    number: SAML
+    version: v2.0
+  :file: data/oasis-saml-v2-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: SAML-Async-SLO-CS01
@@ -2508,13 +2508,6 @@
   :file: data/oasis-saml2krbsso-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: SARIF-v2.1.0-Errata01
-    number: SARIF
-    version: v2.1.0
-    stage: Errata01
-  :file: data/oasis-sarif-v2-1-0-errata01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: SARIF-v2.1.0-CS01
     number: SARIF
     version: v2.1.0
@@ -2526,6 +2519,13 @@
     number: SARIF
     version: v2.1.0
   :file: data/oasis-sarif-v2-1-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: SARIF-v2.1.0-Errata01
+    number: SARIF
+    version: v2.1.0
+    stage: Errata01
+  :file: data/oasis-sarif-v2-1-0-errata01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: SDDS1.0
@@ -2570,83 +2570,22 @@
   :file: data/oasis-soap-udp-v1-1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: SPML-v2.0
-    number: SPML
-    version: v2.0
-  :file: data/oasis-spml-v2-0.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: SPML-v1.0
     number: SPML
     version: v1.0
   :file: data/oasis-spml-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: SPML-v2.0
+    number: SPML
+    version: v2.0
+  :file: data/oasis-spml-v2-0.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: SQRAP-v1.0
     number: SQRAP
     version: v1.0
   :file: data/oasis-sqrap-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: STIX-v1.2.1-UML-Model-CS01-Pt15
-    number: STIX
-    version: v1.2.1
-    stage: CS01
-    part: Pt15
-    label: UML-Model
-  :file: data/oasis-stix-v1-2-1-uml-model-cs01-pt15.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: STIX-v2.0-Pt5-Patterning-CS01
-    number: STIX
-    version: v2.0
-    stage: CS01
-    part: Pt5
-    label: Patterning
-  :file: data/oasis-stix-v2-0-pt5-patterning-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: STIX-v2.0-Pt4-Cyb-Objects-CS01
-    number: STIX
-    version: v2.0
-    stage: CS01
-    part: Pt4
-    label: Cyb-Objects
-  :file: data/oasis-stix-v2-0-pt4-cyb-objects-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: STIX-v2.0-Pt3-Cyb-Core-CS01
-    number: STIX
-    version: v2.0
-    stage: CS01
-    part: Pt3
-    label: Cyb-Core
-  :file: data/oasis-stix-v2-0-pt3-cyb-core-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: STIX-v2.0-Pt2-Objects-CS01
-    number: STIX
-    version: v2.0
-    stage: CS01
-    part: Pt2
-    label: Objects
-  :file: data/oasis-stix-v2-0-pt2-objects-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: STIX-v2.0-Pt1-Core-CS01
-    number: STIX
-    version: v2.0
-    stage: CS01
-    part: Pt1
-    label: Core
-  :file: data/oasis-stix-v2-0-pt1-core-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: STIX-v2.0-CS01
-    number: STIX
-    version: v2.0
-    stage: CS01
-  :file: data/oasis-stix-v2-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: STIX-v2.1-CS01
@@ -2801,6 +2740,67 @@
   :file: data/oasis-stix-v1-2-1-vocabularies-cs01-pt14.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: STIX-v1.2.1-UML-Model-CS01-Pt15
+    number: STIX
+    version: v1.2.1
+    stage: CS01
+    part: Pt15
+    label: UML-Model
+  :file: data/oasis-stix-v1-2-1-uml-model-cs01-pt15.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: STIX-v2.0-CS01
+    number: STIX
+    version: v2.0
+    stage: CS01
+  :file: data/oasis-stix-v2-0-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: STIX-v2.0-Pt1-Core-CS01
+    number: STIX
+    version: v2.0
+    stage: CS01
+    part: Pt1
+    label: Core
+  :file: data/oasis-stix-v2-0-pt1-core-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: STIX-v2.0-Pt2-Objects-CS01
+    number: STIX
+    version: v2.0
+    stage: CS01
+    part: Pt2
+    label: Objects
+  :file: data/oasis-stix-v2-0-pt2-objects-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: STIX-v2.0-Pt3-Cyb-Core-CS01
+    number: STIX
+    version: v2.0
+    stage: CS01
+    part: Pt3
+    label: Cyb-Core
+  :file: data/oasis-stix-v2-0-pt3-cyb-core-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: STIX-v2.0-Pt4-Cyb-Objects-CS01
+    number: STIX
+    version: v2.0
+    stage: CS01
+    part: Pt4
+    label: Cyb-Objects
+  :file: data/oasis-stix-v2-0-pt4-cyb-objects-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: STIX-v2.0-Pt5-Patterning-CS01
+    number: STIX
+    version: v2.0
+    stage: CS01
+    part: Pt5
+    label: Patterning
+  :file: data/oasis-stix-v2-0-pt5-patterning-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: TAM-v1.0
     number: TAM
     version: v1.0
@@ -2814,10 +2814,24 @@
   :file: data/oasis-taml-cs02-pt2.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: TAXII-v2.1-CS01
+    number: TAXII
+    version: v2.1
+    stage: CS01
+  :file: data/oasis-taxii-v2-1-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: TAXII-v2.1
     number: TAXII
     version: v2.1
   :file: data/oasis-taxii-v2-1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: TAXII-v1.1.1-CS01
+    number: TAXII
+    version: v1.1.1
+    stage: CS01
+  :file: data/oasis-taxii-v1-1-1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: TAXII-v1.1.1-Overview-CS01-Pt1
@@ -2829,20 +2843,13 @@
   :file: data/oasis-taxii-v1-1-1-overview-cs01-pt1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: TAXII-v1.1.1-CS01
+    original: TAXII-v1.1.1-Services-CS01-Pt2
     number: TAXII
     version: v1.1.1
     stage: CS01
-  :file: data/oasis-taxii-v1-1-1-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: TAXII-v1.1.1-XML-Msg-CS01-Pt4
-    number: TAXII
-    version: v1.1.1
-    stage: CS01
-    part: Pt4
-    label: XML-Msg
-  :file: data/oasis-taxii-v1-1-1-xml-msg-cs01-pt4.yaml
+    part: Pt2
+    label: Services
+  :file: data/oasis-taxii-v1-1-1-services-cs01-pt2.yaml
 - :id:
     _type: pubid:oasis:standard
     original: TAXII-v1.1.1-HTTP-CS01-Pt3
@@ -2854,27 +2861,13 @@
   :file: data/oasis-taxii-v1-1-1-http-cs01-pt3.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: TAXII-v1.1.1-Services-CS01-Pt2
+    original: TAXII-v1.1.1-XML-Msg-CS01-Pt4
     number: TAXII
     version: v1.1.1
     stage: CS01
-    part: Pt2
-    label: Services
-  :file: data/oasis-taxii-v1-1-1-services-cs01-pt2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: TAXII-v2.1-CS01
-    number: TAXII
-    version: v2.1
-    stage: CS01
-  :file: data/oasis-taxii-v2-1-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: TAXII-v2.0-CS01
-    number: TAXII
-    version: v2.0
-    stage: CS01
-  :file: data/oasis-taxii-v2-0-cs01.yaml
+    part: Pt4
+    label: XML-Msg
+  :file: data/oasis-taxii-v1-1-1-xml-msg-cs01-pt4.yaml
 - :id:
     _type: pubid:oasis:standard
     original: TAXII-v1.1.1-Query-CS01-Pt5
@@ -2886,11 +2879,11 @@
   :file: data/oasis-taxii-v1-1-1-query-cs01-pt5.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: TGF-v2.0-CS01
-    number: TGF
+    original: TAXII-v2.0-CS01
+    number: TAXII
     version: v2.0
     stage: CS01
-  :file: data/oasis-tgf-v2-0-cs01.yaml
+  :file: data/oasis-taxii-v2-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: TGF-v1.0
@@ -2899,11 +2892,11 @@
   :file: data/oasis-tgf-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: TOSCA-v2.0-CS01
-    number: TOSCA
+    original: TGF-v2.0-CS01
+    number: TGF
     version: v2.0
     stage: CS01
-  :file: data/oasis-tosca-v2-0-cs01.yaml
+  :file: data/oasis-tgf-v2-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: TOSCA-v1.0
@@ -2912,23 +2905,11 @@
   :file: data/oasis-tosca-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: TOSCA-Simple-Profile-YAML-v1.2
-    number: TOSCA-Simple-Profile-YAML
-    version: v1.2
-  :file: data/oasis-tosca-simple-profile-yaml-v1-2.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: TOSCA-Simple-Profile-YAML-v1.3-CS01
-    number: TOSCA-Simple-Profile-YAML
-    version: v1.3
+    original: TOSCA-v2.0-CS01
+    number: TOSCA
+    version: v2.0
     stage: CS01
-  :file: data/oasis-tosca-simple-profile-yaml-v1-3-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: TOSCA-Simple-Profile-YAML-v1.3
-    number: TOSCA-Simple-Profile-YAML
-    version: v1.3
-  :file: data/oasis-tosca-simple-profile-yaml-v1-3.yaml
+  :file: data/oasis-tosca-v2-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: TOSCA-Simple-Profile-YAML-v1.0
@@ -2950,6 +2931,25 @@
   :file: data/oasis-tosca-simple-profile-yaml-v1-2-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: TOSCA-Simple-Profile-YAML-v1.2
+    number: TOSCA-Simple-Profile-YAML
+    version: v1.2
+  :file: data/oasis-tosca-simple-profile-yaml-v1-2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: TOSCA-Simple-Profile-YAML-v1.3-CS01
+    number: TOSCA-Simple-Profile-YAML
+    version: v1.3
+    stage: CS01
+  :file: data/oasis-tosca-simple-profile-yaml-v1-3-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: TOSCA-Simple-Profile-YAML-v1.3
+    number: TOSCA-Simple-Profile-YAML
+    version: v1.3
+  :file: data/oasis-tosca-simple-profile-yaml-v1-3.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: TPB-EI-CS01
     number: TPB-EI
     stage: CS01
@@ -2962,16 +2962,22 @@
   :file: data/oasis-trust-el-protocol-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: UBL-2.4
+    original: UBL-v1.0
     number: UBL
-    version: '2.4'
-  :file: data/oasis-ubl-2-4.yaml
+    version: v1.0
+  :file: data/oasis-ubl-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: UBL-2.3
+    original: UBL-v2.0
     number: UBL
-    version: '2.3'
-  :file: data/oasis-ubl-2-3.yaml
+    version: v2.0
+  :file: data/oasis-ubl-v2-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: UBL-2.1
+    number: UBL
+    version: '2.1'
+  :file: data/oasis-ubl-2-1.yaml
 - :id:
     _type: pubid:oasis:standard
     original: UBL-2.2-CS01
@@ -2979,13 +2985,6 @@
     version: '2.2'
     stage: CS01
   :file: data/oasis-ubl-2-2-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: UBL-v2.4-CS01
-    number: UBL
-    version: v2.4
-    stage: CS01
-  :file: data/oasis-ubl-v2-4-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: UBL-2.2
@@ -3001,22 +3000,23 @@
   :file: data/oasis-ubl-2-3-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: UBL-v1.0
+    original: UBL-2.3
     number: UBL
-    version: v1.0
-  :file: data/oasis-ubl-v1-0.yaml
+    version: '2.3'
+  :file: data/oasis-ubl-2-3.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: UBL-2.1
+    original: UBL-v2.4-CS01
     number: UBL
-    version: '2.1'
-  :file: data/oasis-ubl-2-1.yaml
+    version: v2.4
+    stage: CS01
+  :file: data/oasis-ubl-v2-4-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: UBL-v2.0
+    original: UBL-2.4
     number: UBL
-    version: v2.0
-  :file: data/oasis-ubl-v2-0.yaml
+    version: '2.4'
+  :file: data/oasis-ubl-2-4.yaml
 - :id:
     _type: pubid:oasis:standard
     original: UBL-NDR-v1.0
@@ -3088,16 +3088,16 @@
   :file: data/oasis-virtio-v1-2-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: W-v2.1
-    number: W
-    version: v2.1
-  :file: data/oasis-w-v2-1.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: W-v2.0
     number: W
     version: v2.0
   :file: data/oasis-w-v2-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: W-v2.1
+    number: W
+    version: v2.1
+  :file: data/oasis-w-v2-1.yaml
 - :id:
     _type: pubid:oasis:standard
     original: WS-AT-v1.2
@@ -3199,16 +3199,16 @@
   :file: data/oasis-ws-sc-v1-4.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: WS-SP-v1.3
-    number: WS-SP
-    version: v1.3
-  :file: data/oasis-ws-sp-v1-3.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: WS-SP-v1.2
     number: WS-SP
     version: v1.2
   :file: data/oasis-ws-sp-v1-2.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: WS-SP-v1.3
+    number: WS-SP
+    version: v1.3
+  :file: data/oasis-ws-sp-v1-3.yaml
 - :id:
     _type: pubid:oasis:standard
     original: WS-Security-2004-v1.0
@@ -3217,16 +3217,16 @@
   :file: data/oasis-ws-security-2004-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: WS-T-v1.4
-    number: WS-T
-    version: v1.4
-  :file: data/oasis-ws-t-v1-4.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: WS-T-v1.3
     number: WS-T
     version: v1.3
   :file: data/oasis-ws-t-v1-3.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: WS-T-v1.4
+    number: WS-T
+    version: v1.4
+  :file: data/oasis-ws-t-v1-4.yaml
 - :id:
     _type: pubid:oasis:standard
     original: WSBD-v1.0-CS01
@@ -3290,16 +3290,21 @@
   :file: data/oasis-wsrmp-v1-2.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: WSRP-v1.0
+    number: WSRP
+    version: v1.0
+  :file: data/oasis-wsrp-v1-0.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: WSRP-v2.0
     number: WSRP
     version: v2.0
   :file: data/oasis-wsrp-v2-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: WSRP-v1.0
-    number: WSRP
-    version: v1.0
-  :file: data/oasis-wsrp-v1-0.yaml
+    original: WSS
+    number: WSS
+  :file: data/oasis-wss.yaml
 - :id:
     _type: pubid:oasis:standard
     original: WSS-v1.1
@@ -3314,21 +3319,10 @@
   :file: data/oasis-wss-v1-1-1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: WSS
-    number: WSS
-  :file: data/oasis-wss.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: WST-v1.1
     number: WST
     version: v1.1
   :file: data/oasis-wst-v1-1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: XACML-V3.0
-    number: XACML
-    version: V3.0
-  :file: data/oasis-xacml-v3-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: XACML-v1.0
@@ -3337,20 +3331,17 @@
   :file: data/oasis-xacml-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: XACML-3.0-Admin-CS01
+    original: XACML-V3.0
     number: XACML
-    version: '3.0'
-    stage: CS01
-    label: Admin
-  :file: data/oasis-xacml-3-0-admin-cs01.yaml
+    version: V3.0
+  :file: data/oasis-xacml-v3-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: XACML-3.0-RBAC-CS02
+    original: XACML-V3.0-Pt
     number: XACML
-    version: '3.0'
-    stage: CS02
-    label: RBAC
-  :file: data/oasis-xacml-3-0-rbac-cs02.yaml
+    version: V3.0
+    part: Pt
+  :file: data/oasis-xacml-v3-0-pt.yaml
 - :id:
     _type: pubid:oasis:standard
     original: XACML-v3.0-Errata01
@@ -3374,11 +3365,20 @@
   :file: data/oasis-xacml-v2-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: XACML-V3.0-Pt
+    original: XACML-3.0-Admin-CS01
     number: XACML
-    version: V3.0
-    part: Pt
-  :file: data/oasis-xacml-v3-0-pt.yaml
+    version: '3.0'
+    stage: CS01
+    label: Admin
+  :file: data/oasis-xacml-3-0-admin-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: XACML-3.0-RBAC-CS02
+    number: XACML
+    version: '3.0'
+    stage: CS02
+    label: RBAC
+  :file: data/oasis-xacml-3-0-rbac-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
     original: XACML-Duties-v1.0-CS01
@@ -3420,24 +3420,11 @@
   :file: data/oasis-xcbf-v1-1.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: XHE-V1.0
-    number: XHE
-    version: V1.0
-  :file: data/oasis-xhe-v1-0.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: XHE-V1.0-CS01
     number: XHE
     version: V1.0
     stage: CS01
   :file: data/oasis-xhe-v1-0-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: XHE-V1.0-CS03
-    number: XHE
-    version: V1.0
-    stage: CS03
-  :file: data/oasis-xhe-v1-0-cs03.yaml
 - :id:
     _type: pubid:oasis:standard
     original: XHE-V1.0-CS02
@@ -3447,16 +3434,29 @@
   :file: data/oasis-xhe-v1-0-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: XLIFF-2.1
-    number: XLIFF
-    version: '2.1'
-  :file: data/oasis-xliff-2-1.yaml
+    original: XHE-V1.0-CS03
+    number: XHE
+    version: V1.0
+    stage: CS03
+  :file: data/oasis-xhe-v1-0-cs03.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: XHE-V1.0
+    number: XHE
+    version: V1.0
+  :file: data/oasis-xhe-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: XLIFF-v2.0
     number: XLIFF
     version: v2.0
   :file: data/oasis-xliff-v2-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: XLIFF-2.1
+    number: XLIFF
+    version: '2.1'
+  :file: data/oasis-xliff-2-1.yaml
 - :id:
     _type: pubid:oasis:standard
     original: XLIFF-v2.2
@@ -3714,16 +3714,16 @@
   :file: data/oasis-ebxml-mss-v2-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: ebXML-RIM-v3.0
-    number: ebXML-RIM
-    version: v3.0
-  :file: data/oasis-ebxml-rim-v3-0.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: ebXML-RIM-v2.0
     number: ebXML-RIM
     version: v2.0
   :file: data/oasis-ebxml-rim-v2-0.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: ebXML-RIM-v3.0
+    number: ebXML-RIM
+    version: v3.0
+  :file: data/oasis-ebxml-rim-v3-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: ebXML-RR-v4.0
@@ -3751,20 +3751,20 @@
   :file: data/oasis-ebcore-au-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: ebxml-msg-srv-part2-v3.0-CS01
-    number: ebxml-msg-srv
-    version: v3.0
-    stage: CS01
-    part: part2
-  :file: data/oasis-ebxml-msg-srv-part2-v3-0-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: ebxml-msg-srv-3.0-conf-CS01
     number: ebxml-msg-srv
     version: '3.0'
     stage: CS01
     label: conf
   :file: data/oasis-ebxml-msg-srv-3-0-conf-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: ebxml-msg-srv-part2-v3.0-CS01
+    number: ebxml-msg-srv
+    version: v3.0
+    stage: CS01
+    part: part2
+  :file: data/oasis-ebxml-msg-srv-part2-v3-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: econtracts-v1.0
@@ -3783,13 +3783,6 @@
   :file: data/oasis-frag-interchg.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: genericode-v1.0-CS01
-    number: genericode
-    version: v1.0
-    stage: CS01
-  :file: data/oasis-genericode-v1-0-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
     original: genericode-v1.0-CS02
     number: genericode
     version: v1.0
@@ -3803,11 +3796,11 @@
   :file: data/oasis-genericode-v1-0.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: kmip-profiles-v2.1-CS01
-    number: kmip-profiles
-    version: v2.1
+    original: genericode-v1.0-CS01
+    number: genericode
+    version: v1.0
     stage: CS01
-  :file: data/oasis-kmip-profiles-v2-1-cs01.yaml
+  :file: data/oasis-genericode-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: kmip-profiles-v2.0
@@ -3816,10 +3809,23 @@
   :file: data/oasis-kmip-profiles-v2-0.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: kmip-profiles-v2.1-CS01
+    number: kmip-profiles
+    version: v2.1
+    stage: CS01
+  :file: data/oasis-kmip-profiles-v2-1-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: kmip-profiles-v2.1
     number: kmip-profiles
     version: v2.1
   :file: data/oasis-kmip-profiles-v2-1.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: kmip-spec-v1.3
+    number: kmip-spec
+    version: v1.3
+  :file: data/oasis-kmip-spec-v1-3.yaml
 - :id:
     _type: pubid:oasis:standard
     original: kmip-spec-v1.4
@@ -3828,17 +3834,10 @@
   :file: data/oasis-kmip-spec-v1-4.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: kmip-spec-v2.1
+    original: kmip-spec-v2.0
     number: kmip-spec
-    version: v2.1
-  :file: data/oasis-kmip-spec-v2-1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: kmip-spec-v2.1-CS02
-    number: kmip-spec
-    version: v2.1
-    stage: CS02
-  :file: data/oasis-kmip-spec-v2-1-cs02.yaml
+    version: v2.0
+  :file: data/oasis-kmip-spec-v2-0.yaml
 - :id:
     _type: pubid:oasis:standard
     original: kmip-spec-v2.1-CS01
@@ -3848,16 +3847,17 @@
   :file: data/oasis-kmip-spec-v2-1-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: kmip-spec-v1.3
+    original: kmip-spec-v2.1-CS02
     number: kmip-spec
-    version: v1.3
-  :file: data/oasis-kmip-spec-v1-3.yaml
+    version: v2.1
+    stage: CS02
+  :file: data/oasis-kmip-spec-v2-1-cs02.yaml
 - :id:
     _type: pubid:oasis:standard
-    original: kmip-spec-v2.0
+    original: kmip-spec-v2.1
     number: kmip-spec
-    version: v2.0
-  :file: data/oasis-kmip-spec-v2-0.yaml
+    version: v2.1
+  :file: data/oasis-kmip-spec-v2-1.yaml
 - :id:
     _type: pubid:oasis:standard
     original: localsig-v1.0-CS02
@@ -3872,14 +3872,6 @@
     version: v1.0
     stage: CS01
   :file: data/oasis-localsig-v1-0-cs01.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: mqtt-v3.1.1-plus-Errata01
-    number: mqtt
-    version: v3.1.1
-    stage: Errata01
-    label: plus
-  :file: data/oasis-mqtt-v3-1-1-plus-errata01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: mqtt-v3.1.1
@@ -3900,6 +3892,14 @@
     version: v3.1.1
     stage: Errata01
   :file: data/oasis-mqtt-v3-1-1-errata01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: mqtt-v3.1.1-plus-Errata01
+    number: mqtt
+    version: v3.1.1
+    stage: Errata01
+    label: plus
+  :file: data/oasis-mqtt-v3-1-1-plus-errata01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: mqtt-v5.0-CS01
@@ -4074,6 +4074,13 @@
   :file: data/oasis-xacml-dlp-nac-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: xacml-json-v1.0-CS01
+    number: xacml-json
+    version: v1.0
+    stage: CS01
+  :file: data/oasis-xacml-json-v1-0-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: xacml-json-v1.1-CS01
     number: xacml-json
     version: v1.1
@@ -4085,13 +4092,6 @@
     number: xacml-json
     version: v1.1
   :file: data/oasis-xacml-json-v1-1.yaml
-- :id:
-    _type: pubid:oasis:standard
-    original: xacml-json-v1.0-CS01
-    number: xacml-json
-    version: v1.0
-    stage: CS01
-  :file: data/oasis-xacml-json-v1-0-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
     original: xacml-rest-v1.1-CS01
