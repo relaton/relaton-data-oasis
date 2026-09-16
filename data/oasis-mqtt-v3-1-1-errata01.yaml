@@ -1,4 +1,3 @@
----
 id: OASISmqttv311Errata01
 schema_version: v1.5.6
 type: standard
@@ -49,9 +48,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: |-
-          OASIS Message Queuing
-          Telemetry Transport (MQTT) TC
+      - content: "OASIS Message Queuing\nTelemetry Transport (MQTT) TC"
       type: technical-committee
 - role:
   - type: editor

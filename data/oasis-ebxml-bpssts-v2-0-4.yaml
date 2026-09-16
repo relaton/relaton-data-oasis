@@ -1,4 +1,3 @@
----
 id: OASISebXMLBPSSTSv204
 schema_version: v1.5.6
 type: standard
@@ -60,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a standards-based business process foundation that promotes the
-    automation and predictable exchange of Business Collaboration definitions using
-    XML.
+  content: Defines a standards-based business process foundation that promotes the automation and predictable exchange of Business Collaboration definitions using XML.
 ext:
   schema_version: v1.0.4
   doctype:

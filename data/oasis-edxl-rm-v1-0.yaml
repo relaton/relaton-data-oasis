@@ -1,12 +1,10 @@
----
 id: OASISEDXLRMv10
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Emergency Data Exchange Language Resource Messaging (EDXL-RM) v1.0 incorporating
-    Approved Errata
+  content: Emergency Data Exchange Language Resource Messaging (EDXL-RM) v1.0 incorporating Approved Errata
   type: main
 source:
 - type: src
@@ -65,10 +63,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes a suite of standard messages for data sharing among emergency
-    and other information systems that deal in requesting and providing emergency
-    equipment, supplies, people and teams. This format may be used over any data transmission
-    system, including but not limited to the SOAP HTTP binding.
+  content: Describes a suite of standard messages for data sharing among emergency and other information systems that deal in requesting and providing emergency equipment, supplies, people and teams. This format may be used over any data transmission system, including but not limited to the SOAP HTTP binding.
 ext:
   schema_version: v1.0.4
   doctype:

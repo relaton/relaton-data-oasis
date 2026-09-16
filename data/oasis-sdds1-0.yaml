@@ -1,4 +1,3 @@
----
 id: OASISSDDS10
 schema_version: v1.5.6
 type: standard
@@ -58,14 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Defines schema for two XML document types: Package Descriptors and Deployment
-    Descriptors. Package Descriptors define characteristics of a package used to deploy
-    a solution. Deployment Descriptors define characteristics of the content of a
-    solution package, including the requirements that are relevant for creation, configuration
-    and maintenance of the solution content. The semantics of the descriptors are
-    fully defined, allowing software implementations to precisely understand the intent
-    of the descriptor authors and to use the information provided in the descriptors
-    to support solution deployment.'
+  content: 'Defines schema for two XML document types: Package Descriptors and Deployment Descriptors. Package Descriptors define characteristics of a package used to deploy a solution. Deployment Descriptors define characteristics of the content of a solution package, including the requirements that are relevant for creation, configuration and maintenance of the solution content. The semantics of the descriptors are fully defined, allowing software implementations to precisely understand the intent of the descriptor authors and to use the information provided in the descriptors to support solution deployment.'
 ext:
   schema_version: v1.0.4
   doctype:

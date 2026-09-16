@@ -1,4 +1,3 @@
----
 id: OASISDBv41
 schema_version: v1.5.6
 type: standard
@@ -86,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: DocBook is a general purpose [XML] schema particularly well suited to books
-    and papers about computer hardware and software (though it is by no means limited
-    to these applications).
+  content: DocBook is a general purpose [XML] schema particularly well suited to books and papers about computer hardware and software (though it is by no means limited to these applications).
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,4 +1,3 @@
----
 id: OASISTAXIIv111XMLMsgCS01Pt4
 schema_version: v1.5.6
 type: standard
@@ -49,9 +48,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: |-
-          OASIS Cyber Threat
-          Intelligence (CTI) TC
+      - content: "OASIS Cyber Threat\nIntelligence (CTI) TC"
       type: technical-committee
 - role:
   - type: editor
@@ -146,10 +143,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Trusted Automated eXchange of Indicator Information (TAXII™) specifies
-    mechanisms for exchanging structured cyber threat information between parties
-    over the network. This document describes how to express TAXII messages using
-    an XML binding.
+  content: The Trusted Automated eXchange of Indicator Information (TAXII™) specifies mechanisms for exchanging structured cyber threat information between parties over the network. This document describes how to express TAXII messages using an XML binding.
 relation:
 - type: partOf
   bibitem:

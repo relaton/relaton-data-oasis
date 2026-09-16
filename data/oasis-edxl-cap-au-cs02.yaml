@@ -1,12 +1,10 @@
----
 id: OASISEDXLCAPAUCS02
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Emergency Data Exchange Language (EDXL) Common Alerting Protocol (CAP)
-    v1.2 Australia (AU) Profile Version 1.0
+  content: Emergency Data Exchange Language (EDXL) Common Alerting Protocol (CAP) v1.2 Australia (AU) Profile Version 1.0
   type: main
 source:
 - type: src
@@ -114,8 +112,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes an interpretation of the OASIS CAP v1.2 standard necessary to
-    meet the needs of the Australian Government.
+  content: Describes an interpretation of the OASIS CAP v1.2 standard necessary to meet the needs of the Australian Government.
 ext:
   schema_version: v1.0.4
   doctype:

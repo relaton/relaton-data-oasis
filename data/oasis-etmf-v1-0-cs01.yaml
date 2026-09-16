@@ -1,4 +1,3 @@
----
 id: OASISeTMFv10CS01
 schema_version: v1.5.6
 type: standard
@@ -251,9 +250,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Publishes details of an interoperable content classification system with rules, policies and procedures for how electronic content can be shared and customized for clinical trials.  Machine readable, open standards-based technologies are used in a vendor neutral approach.
-    Instructions on converting the eTMF schema spreadsheet to an OWL RDF/XML ontology are available from IEEE.
+  content: "Publishes details of an interoperable content classification system with rules, policies and procedures for how electronic content can be shared and customized for clinical trials.  Machine readable, open standards-based technologies are used in a vendor neutral approach.\nInstructions on converting the eTMF schema spreadsheet to an OWL RDF/XML ontology are available from IEEE."
 ext:
   schema_version: v1.0.4
   doctype:

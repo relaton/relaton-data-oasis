@@ -1,12 +1,10 @@
----
 id: OASISxacmldlpnacv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: XACML Data Loss Prevention / Network Access Control (DLP/NAC) Profile Version
-    1.0
+  content: XACML Data Loss Prevention / Network Access Control (DLP/NAC) Profile Version 1.0
   type: main
 source:
 - type: src
@@ -228,11 +226,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a profile for the use of XACML in expressing policies for data
-    loss prevention and network access control tools and technologies.  It defines
-    standard attribute identifiers useful in such policies, and recommends attribute
-    value ranges for certain attributes. It also defines several new functions for
-    comparing IP addresses and DNS names, not provided in the XACML 3.0 core specification.
+  content: Defines a profile for the use of XACML in expressing policies for data loss prevention and network access control tools and technologies.  It defines standard attribute identifiers useful in such policies, and recommends attribute value ranges for certain attributes. It also defines several new functions for comparing IP addresses and DNS names, not provided in the XACML 3.0 core specification.
 ext:
   schema_version: v1.0.4
   doctype:

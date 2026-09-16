@@ -1,4 +1,3 @@
----
 id: OASISTAMLCS02Pt2
 schema_version: v1.5.6
 type: standard
@@ -85,8 +84,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines an XML vocabulary for representing test assertions aligned with
-    the Test Assertions Model.
+  content: Defines an XML vocabulary for representing test assertions aligned with the Test Assertions Model.
 ext:
   schema_version: v1.0.4
   doctype:

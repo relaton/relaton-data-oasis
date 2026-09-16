@@ -1,4 +1,3 @@
----
 id: OASISebXMLRSPv30
 schema_version: v1.5.6
 type: standard
@@ -60,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Defines the services and protocols for an ebXML Registry. A separate document,
-    ebXML Registry: Information Model [ebRIM], defines the types of metadata and content
-    that can be stored in an ebXML Registry.'
+  content: 'Defines the services and protocols for an ebXML Registry. A separate document, ebXML Registry: Information Model [ebRIM], defines the types of metadata and content that can be stored in an ebXML Registry.'
 ext:
   schema_version: v1.0.4
   doctype:

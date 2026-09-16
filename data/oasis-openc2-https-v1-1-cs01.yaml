@@ -1,12 +1,10 @@
----
 id: OASISOpenC2HTTPSv11CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification for Transfer of OpenC2 Messages via HTTPS Version 1.1 – Committee
-    Specification 01
+  content: Specification for Transfer of OpenC2 Messages via HTTPS Version 1.1 – Committee Specification 01
   type: main
 source:
 - type: src
@@ -75,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies the use of HTTP over TLS as a transfer mechanism for OpenC2 Messages.
-    A Testing conformance target is provided to support interoperability testing without
-    security mechanisms.
+  content: Specifies the use of HTTP over TLS as a transfer mechanism for OpenC2 Messages. A Testing conformance target is provided to support interoperability testing without security mechanisms.
 ext:
   schema_version: v1.0.4
   doctype:

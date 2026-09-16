@@ -1,4 +1,3 @@
----
 id: OASISPKCS11Profilesv240
 schema_version: v1.5.6
 type: standard
@@ -129,9 +128,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Intended for developers and architects who wish to design systems and applications that conform to the PKCS #11 Cryptographic Token Interface standard.
-    The PKCS #11 Cryptographic Token Interface standard documents an API for devices that may hold cryptographic information and may perform cryptographic functions.
+  content: "Intended for developers and architects who wish to design systems and applications that conform to the PKCS #11 Cryptographic Token Interface standard.\nThe PKCS #11 Cryptographic Token Interface standard documents an API for devices that may hold cryptographic information and may perform cryptographic functions."
 ext:
   schema_version: v1.0.4
   doctype:

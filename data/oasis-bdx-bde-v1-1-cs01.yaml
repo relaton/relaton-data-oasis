@@ -1,4 +1,3 @@
----
 id: OASISBDXBDEV11CS01
 schema_version: v1.5.6
 type: standard
@@ -62,10 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining a business-oriented artefact enveloping a payload of one or more
-    business documents or other artefacts with supplemental semantic information about
-    the collection of payloads as a whole. This is distinct from any transport-layer
-    infrastructure envelope that may be required.
+  content: Defining a business-oriented artefact enveloping a payload of one or more business documents or other artefacts with supplemental semantic information about the collection of payloads as a whole. This is distinct from any transport-layer infrastructure envelope that may be required.
 ext:
   schema_version: v1.0.4
   doctype:

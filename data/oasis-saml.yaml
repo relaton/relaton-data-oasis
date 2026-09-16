@@ -1,12 +1,10 @@
----
 id: OASISSAML
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Metadata Profile for the OASIS Security Assertion Markup Language (SAML)
-    V1.x
+  content: Metadata Profile for the OASIS Security Assertion Markup Language (SAML) V1.x
   type: main
 source:
 - type: src
@@ -63,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a profile of the OASIS SAML V2.0 metadata specification for use
-    in describing SAML V1.0 and V1.1 entities. Readers should be familiar with the
-    SAML V2.0 metadata specification [SAML2Meta] before reading this document.
+  content: Defines a profile of the OASIS SAML V2.0 metadata specification for use in describing SAML V1.0 and V1.1 entities. Readers should be familiar with the SAML V2.0 metadata specification [SAML2Meta] before reading this document.
 ext:
   schema_version: v1.0.4
   doctype:

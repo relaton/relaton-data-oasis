@@ -1,4 +1,3 @@
----
 id: OASISXTempV10CS01
 schema_version: v1.5.6
 type: standard
@@ -101,10 +100,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: XTemp is an XML mark-up language that is event-centric and intended for
-    the analysis of a sequence of events that represent traces of business processes.
-    It is designed for both log analysis and real-time execution. It leverages XPath
-    and XSLT.
+  content: XTemp is an XML mark-up language that is event-centric and intended for the analysis of a sequence of events that represent traces of business processes. It is designed for both log analysis and real-time execution. It leverages XPath and XSLT.
 ext:
   schema_version: v1.0.4
   doctype:

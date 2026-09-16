@@ -1,4 +1,3 @@
----
 id: OASISebMSsamlconformanceCS01
 schema_version: v1.5.6
 type: standard
@@ -122,10 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Provides a specification as to how an ebMS3/AS4 MSH can support SAML in addition to the username/password and X.509 token profiles of WS-Security for authentication.
-    The usage of the username/password and X.509 token profiles of WS-Security are defined in some detail in ebMS3 and AS4. SAML is included in ebMS3 but is not defined in detail. AS4 does not discuss SAML.
-    This document will define the use of SAML in ebMS3 and apply that to the scenarios addressed by AS4.
+  content: "Provides a specification as to how an ebMS3/AS4 MSH can support SAML in addition to the username/password and X.509 token profiles of WS-Security for authentication.\nThe usage of the username/password and X.509 token profiles of WS-Security are defined in some detail in ebMS3 and AS4. SAML is included in ebMS3 but is not defined in detail. AS4 does not discuss SAML.\nThis document will define the use of SAML in ebMS3 and apply that to the scenarios addressed by AS4."
 ext:
   schema_version: v1.0.4
   doctype:

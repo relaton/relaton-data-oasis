@@ -1,4 +1,3 @@
----
 id: OASISPMRMv10CS02
 schema_version: v1.5.6
 type: standard
@@ -120,11 +119,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Provides a model and a methodology to
-    ·         understand and analyze privacy policies and their privacy management requirements in defined Use Cases; and
-    ·         select the technical Services, Functions and Mechanisms that must be implemented to support requisite Privacy Controls.
-    It is particularly valuable for Use Cases in which Personal Information (PI) flows across regulatory, policy, jurisdictional, and system boundaries.
+  content: "Provides a model and a methodology to\n·         understand and analyze privacy policies and their privacy management requirements in defined Use Cases; and\n·         select the technical Services, Functions and Mechanisms that must be implemented to support requisite Privacy Controls.\nIt is particularly valuable for Use Cases in which Personal Information (PI) flows across regulatory, policy, jurisdictional, and system boundaries."
 ext:
   schema_version: v1.0.4
   doctype:

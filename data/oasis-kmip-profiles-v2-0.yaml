@@ -1,4 +1,3 @@
----
 id: OASISkmipprofilesv20
 schema_version: v1.5.6
 type: standard
@@ -108,10 +107,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a set of normative constraints for employing KMIP within a particular
-    environment or context of use. They may, optionally, require the use of specific
-    KMIP functionality or in other respects define the processing rules to be followed
-    by profile actors.
+  content: Defines a set of normative constraints for employing KMIP within a particular environment or context of use. They may, optionally, require the use of specific KMIP functionality or in other respects define the processing rules to be followed by profile actors.
 ext:
   schema_version: v1.0.4
   doctype:

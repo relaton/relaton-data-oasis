@@ -1,4 +1,3 @@
----
 id: OASISSAMLSESSIONTOKENv10CS01
 schema_version: v1.5.6
 type: standard
@@ -62,12 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Web Servers and Application Servers generally maintain security state information
-    for currently active users, particularly once some type of authentication has
-    occurred. This specification defines a format for communicating such security
-    session state based on the OASIS SAML Assertion. It also specifies two different
-    mechanisms for communicating this information between servers via a standard Web
-    browser.
+  content: Web Servers and Application Servers generally maintain security state information for currently active users, particularly once some type of authentication has occurred. This specification defines a format for communicating such security session state based on the OASIS SAML Assertion. It also specifies two different mechanisms for communicating this information between servers via a standard Web browser.
 ext:
   schema_version: v1.0.4
   doctype:

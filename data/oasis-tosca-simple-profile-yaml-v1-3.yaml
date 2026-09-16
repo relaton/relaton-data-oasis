@@ -1,4 +1,3 @@
----
 id: OASISTOSCASimpleProfileYAMLv13
 schema_version: v1.5.6
 type: standard
@@ -43,8 +42,7 @@ contributor:
     - type: uri
       content: https://www.oasis-open.org/committees/tosca/
     name:
-    - content: OASIS Topology and Orchestration Specification for Cloud Applications
-        (TOSCA) TC
+    - content: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA) TC
 - role:
   - type: author
     description:
@@ -54,8 +52,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Topology and Orchestration Specification for Cloud Applications
-          (TOSCA) TC
+      - content: OASIS Topology and Orchestration Specification for Cloud Applications (TOSCA) TC
       type: technical-committee
 - role:
   - type: editor
@@ -96,10 +93,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies a rendering of TOSCA which aims to provide a more accessible
-    syntax as well as a more concise and incremental expressiveness of the TOSCA DSL
-    in order to minimize the learning curve and speed the adoption of the use of TOSCA
-    to portably describe cloud applications.
+  content: Specifies a rendering of TOSCA which aims to provide a more accessible syntax as well as a more concise and incremental expressiveness of the TOSCA DSL in order to minimize the learning curve and speed the adoption of the use of TOSCA to portably describe cloud applications.
 ext:
   schema_version: v1.0.4
   doctype:

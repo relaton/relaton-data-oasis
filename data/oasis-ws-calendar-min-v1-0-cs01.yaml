@@ -1,4 +1,3 @@
----
 id: OASISWSCalendarMinv10CS01
 schema_version: v1.5.6
 type: standard
@@ -120,11 +119,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The WS-Calendar MIN is a WS-Calendar conformant schema optimized for use in machine-to-machine (M2M) schedule negotiations.
-    iCalendar (RFC5545) and its peer specification XCAL (also in WS-Calendar 1.0) is a well-known and long used means to convey schedule-related information. iCalendar makes extensive use of extension and recursion. The WS-Calendar Platform Independent Model (PIM) constrains iCalendar and defines a simpler information model which shares iCalendar semantics and can be used to create as the common basis for any number of Platform Specific Models (PSMs).
-    Because an information model is abstract, it can apply to many transmission and serialization schemas. The PIM itself does not include a transmission and serialization schemas. Through transitive conformance such PSMs themselves conform to WS-Calendar.
-    The Minimal PIM-Conformant (MIN) schema defines an XML Schema that conforms with the PIM. MIN can be used by itself or as a seed-schema for other specifications.
+  content: "The WS-Calendar MIN is a WS-Calendar conformant schema optimized for use in machine-to-machine (M2M) schedule negotiations.\niCalendar (RFC5545) and its peer specification XCAL (also in WS-Calendar 1.0) is a well-known and long used means to convey schedule-related information. iCalendar makes extensive use of extension and recursion. The WS-Calendar Platform Independent Model (PIM) constrains iCalendar and defines a simpler information model which shares iCalendar semantics and can be used to create as the common basis for any number of Platform Specific Models (PSMs).\nBecause an information model is abstract, it can apply to many transmission and serialization schemas. The PIM itself does not include a transmission and serialization schemas. Through transitive conformance such PSMs themselves conform to WS-Calendar.\nThe Minimal PIM-Conformant (MIN) schema defines an XML Schema that conforms with the PIM. MIN can be used by itself or as a seed-schema for other specifications."
 ext:
   schema_version: v1.0.4
   doctype:

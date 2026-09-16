@@ -1,4 +1,3 @@
----
 id: OASISAS4Profile
 schema_version: v1.5.6
 type: standard
@@ -145,12 +144,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OASIS ebMS 3.0 Standard combined multiple Web Service standards to
-    create a single comprehensive specification for defining the secure and reliable
-    exchange of documents using Web Services. The AS4 profile of the ebMS 3.0 specification
-    was developed in order to bring continuity to the principles and simplicity that
-    made AS2 successful, while adding better compliance to Web Services standards,
-    and features such as message pulling capability and a built-in Receipt mechanism.
+  content: The OASIS ebMS 3.0 Standard combined multiple Web Service standards to create a single comprehensive specification for defining the secure and reliable exchange of documents using Web Services. The AS4 profile of the ebMS 3.0 specification was developed in order to bring continuity to the principles and simplicity that made AS2 successful, while adding better compliance to Web Services standards, and features such as message pulling capability and a built-in Receipt mechanism.
 ext:
   schema_version: v1.0.4
   doctype:

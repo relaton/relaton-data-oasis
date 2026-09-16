@@ -1,4 +1,3 @@
----
 id: OASISSTIXv20Pt2ObjectsCS01
 schema_version: v1.5.6
 type: standard
@@ -49,9 +48,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: |-
-          OASIS Cyber Threat
-          Intelligence (CTI) TC
+      - content: "OASIS Cyber Threat\nIntelligence (CTI) TC"
       type: technical-committee
 - role:
   - type: editor
@@ -146,9 +143,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Structured Threat Information Expression (STIX™) is a language for expressing
-    cyber threat and observable information. This document defines the set of domain
-    objects and relationship objects that STIX uses to represent cyber threat information.
+  content: Structured Threat Information Expression (STIX™) is a language for expressing cyber threat and observable information. This document defines the set of domain objects and relationship objects that STIX uses to represent cyber threat information.
 relation:
 - type: partOf
   bibitem:

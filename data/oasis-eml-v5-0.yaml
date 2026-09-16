@@ -1,4 +1,3 @@
----
 id: OASISEMLv50
 schema_version: v1.5.6
 type: standard
@@ -55,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes the background and purpose of the Election Markup Language, the
-    electoral processes from which it derives its structure and the security and audit
-    mechanisms it is designed to support. It also provides an explanation of the core
-    schemas used throughout, definitions of the simple and complex datatypes, plus
-    the EML schemas themselves. It also covers the conventions used in the specification
-    and the use of namespaces, as well as the guidance on the constraints, extendibility,
-    and splitting of messages.
+  content: Describes the background and purpose of the Election Markup Language, the electoral processes from which it derives its structure and the security and audit mechanisms it is designed to support. It also provides an explanation of the core schemas used throughout, definitions of the simple and complex datatypes, plus the EML schemas themselves. It also covers the conventions used in the specification and the use of namespaces, as well as the guidance on the constraints, extendibility, and splitting of messages.
 ext:
   schema_version: v1.0.4
   doctype:

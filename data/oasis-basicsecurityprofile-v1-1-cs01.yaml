@@ -1,4 +1,3 @@
----
 id: OASISBasicSecurityProfilev11CS01
 schema_version: v1.5.6
 type: standard
@@ -169,9 +168,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Extends the Basic Profile (either v1.1 or v1.0), consisting of a set of
-    clarifications, refinements, interpretations and amplifications to a combination
-    of non-proprietary Web services specifications in order to promote interoperability.
+  content: Extends the Basic Profile (either v1.1 or v1.0), consisting of a set of clarifications, refinements, interpretations and amplifications to a combination of non-proprietary Web services specifications in order to promote interoperability.
 ext:
   schema_version: v1.0.4
   doctype:

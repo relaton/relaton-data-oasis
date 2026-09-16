@@ -1,12 +1,10 @@
----
 id: OASISCMISv11Errata01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Content Management Interoperability Services (CMIS) Version 1.1 Errata
-    01
+  content: Content Management Interoperability Services (CMIS) Version 1.1 Errata 01
   type: main
 source:
 - type: src
@@ -50,9 +48,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: |-
-          OASIS Content Management
-          Interoperability Services (CMIS) TC
+      - content: "OASIS Content Management\nInteroperability Services (CMIS) TC"
       type: technical-committee
 - role:
   - type: editor
@@ -119,8 +115,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document lists errata for the OASIS Standard Content Management Interoperability
-    Services (CMIS) Version 1.1.
+  content: This document lists errata for the OASIS Standard Content Management Interoperability Services (CMIS) Version 1.1.
 relation:
 - type: partOf
   bibitem:

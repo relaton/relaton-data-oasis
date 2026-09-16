@@ -1,4 +1,3 @@
----
 id: OASISODFInteropv10CS01
 schema_version: v1.5.6
 type: standard
@@ -53,8 +52,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Document Format Interoperability and Conformance (OIC)
-          TC
+      - content: OASIS Open Document Format Interoperability and Conformance (OIC) TC
       type: technical-committee
 language:
 - en
@@ -63,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Discusses interoperability with respect to the OASIS OpenDocument Format
-    (ODF) and notes specific areas where implementors might focus in order to improve
-    interoperability among ODF-supporting applications.
+  content: Discusses interoperability with respect to the OASIS OpenDocument Format (ODF) and notes specific areas where implementors might focus in order to improve interoperability among ODF-supporting applications.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,4 +1,3 @@
----
 id: OASISOpenDocumentv13CS02
 schema_version: v1.5.6
 type: standard
@@ -46,8 +45,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Document Format for Office Applications (OpenDocument)
-          TC
+      - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
       type: technical-committee
 - role:
   - type: editor
@@ -95,8 +93,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: An open XML-based document file format for office applications that produce
-    documents containing text, spreadsheets, charts, and graphical elements.
+  content: An open XML-based document file format for office applications that produce documents containing text, spreadsheets, charts, and graphical elements.
 relation:
 - type: hasPart
   bibitem:
