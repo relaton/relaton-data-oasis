@@ -1,3 +1,4 @@
+---
 id: OASISSOAEERPbSLAv10CS01
 schema_version: v1.5.6
 type: standard
@@ -42,7 +43,8 @@ contributor:
     - type: uri
       content: https://www.oasis-open.org/committees/soa-eerp/
     name:
-    - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP) TC
+    - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
+        TC
 - role:
   - type: author
     description:
@@ -52,7 +54,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP) TC
+      - content: OASIS Service-Oriented Architecture End-to-End Resource Planning
+          (SOA-EERP) TC
       type: technical-committee
 - role:
   - type: editor
@@ -101,7 +104,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies the XML vocabulary for business service level agreement (bSLA), one of three Specifications for end-to-end resource planning (EERP). Business service level agreement describes the agreement between two parties, service requester and service provider, on business-related characteristics or attributes of a service.
+  content: Specifies the XML vocabulary for business service level agreement (bSLA),
+    one of three Specifications for end-to-end resource planning (EERP). Business
+    service level agreement describes the agreement between two parties, service requester
+    and service provider, on business-related characteristics or attributes of a service.
 ext:
   schema_version: v1.0.4
   doctype:

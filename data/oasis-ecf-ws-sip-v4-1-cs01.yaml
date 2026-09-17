@@ -1,10 +1,12 @@
+---
 id: OASISECFWSSIPv41CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electronic Court Filing Web Services Service Interaction Profile Version 4.1
+  content: Electronic Court Filing Web Services Service Interaction Profile Version
+    4.1
   type: main
 source:
 - type: doc
@@ -101,7 +103,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Electronic Court Filing Web Services Service Interaction Profile defines a Service Interaction Profile, as defined in section 5 of the ECF v4.1 specification. The Web Services Service Interaction Profile may be used to transmit ECF 4.1 messages between Internet-connected systems.
+  content: Electronic Court Filing Web Services Service Interaction Profile defines
+    a Service Interaction Profile, as defined in section 5 of the ECF v4.1 specification.
+    The Web Services Service Interaction Profile may be used to transmit ECF 4.1 messages
+    between Internet-connected systems.
 ext:
   schema_version: v1.0.4
   doctype:

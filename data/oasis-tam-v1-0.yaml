@@ -1,3 +1,4 @@
+---
 id: OASISTAMv10
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a model for Test Assertions that are associated with a specification, and defines their use and semantics.
+  content: Defines a model for Test Assertions that are associated with a specification,
+    and defines their use and semantics.
 ext:
   schema_version: v1.0.4
   doctype:

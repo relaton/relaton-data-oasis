@@ -1,3 +1,4 @@
+---
 id: OASISXCBFv11
 schema_version: v1.5.6
 type: standard
@@ -57,7 +58,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a common set of secure XML encodings for the patron formats specified in CBEFF, the Common Biometric Exchange File Format (NISTIR 6529). These XML encodings are based on the ASN.1 schema defined in ANSI X9.84 Biometric Information Management and Security.
+  content: Defines a common set of secure XML encodings for the patron formats specified
+    in CBEFF, the Common Biometric Exchange File Format (NISTIR 6529). These XML encodings
+    are based on the ASN.1 schema defined in ANSI X9.84 Biometric Information Management
+    and Security.
 ext:
   schema_version: v1.0.4
   doctype:

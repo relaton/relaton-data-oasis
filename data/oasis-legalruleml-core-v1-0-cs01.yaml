@@ -1,3 +1,4 @@
+---
 id: OASISLegalRuleMLCorev10CS01
 schema_version: v1.5.6
 type: standard
@@ -219,7 +220,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Extends RuleML with formal features specific to legal norms, guidelines, policies and reasoning. It defines a specification (expressed with XML-schema and Relax NG) that is able to represent the particularities of the legal normative rules with a rich, articulated, and meaningful markup language.
+  content: Extends RuleML with formal features specific to legal norms, guidelines,
+    policies and reasoning. It defines a specification (expressed with XML-schema
+    and Relax NG) that is able to represent the particularities of the legal normative
+    rules with a rich, articulated, and meaningful markup language.
 ext:
   schema_version: v1.0.4
   doctype:

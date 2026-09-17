@@ -1,3 +1,4 @@
+---
 id: OASISAkomaNtosoCorev10
 schema_version: v1.5.6
 type: standard
@@ -184,7 +185,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining a common legal document standard for the specification of parliamentary, legislative, and judicial documents, for their interchange between institutions anywhere in the world, and for the creation of a common data and metadata model that allows experience, expertise, and tools to be shared and extended by all participating peers, courts, Parliaments, Assemblies, Congresses, and administrative branches of governments.
+  content: Defining a common legal document standard for the specification of parliamentary,
+    legislative, and judicial documents, for their interchange between institutions
+    anywhere in the world, and for the creation of a common data and metadata model
+    that allows experience, expertise, and tools to be shared and extended by all
+    participating peers, courts, Parliaments, Assemblies, Congresses, and administrative
+    branches of governments.
 relation:
 - type: hasPart
   bibitem:

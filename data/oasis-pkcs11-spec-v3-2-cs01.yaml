@@ -1,3 +1,4 @@
+---
 id: OASISPKCS11Specv32CS01
 schema_version: v1.5.6
 type: standard
@@ -81,7 +82,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document defines data types, functions and other basic components of the PKCS #11 Cryptoki interface.'
+  content: 'This document defines data types, functions and other basic components
+    of the PKCS #11 Cryptoki interface.'
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISDSSv10
 schema_version: v1.5.6
 type: standard
@@ -131,7 +132,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines XML request/response protocols for signing and verifying XML documents and other data.  It also defines an XML timestamp format, and an XML signature property for use with these protocols.  Finally, it defines transport and security bindings for the protocols.
+  content: Defines XML request/response protocols for signing and verifying XML documents
+    and other data.  It also defines an XML timestamp format, and an XML signature
+    property for use with these protocols.  Finally, it defines transport and security
+    bindings for the protocols.
 ext:
   schema_version: v1.0.4
   doctype:

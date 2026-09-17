@@ -1,3 +1,4 @@
+---
 id: OASISSAML20bindingsimplesignCS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a SAML HTTP protocol binding, specifically using the HTTP POST method, and not using XML Digital Signature for SAML message data origination authentication. Rather, a “sign the BLOB” technique is employed wherein a conveyed SAML message is treated as a simple octet string if it is signed. Conveyed SAML assertions may be individually signed using XMLdsig. Security is optional in this binding.
+  content: Defines a SAML HTTP protocol binding, specifically using the HTTP POST
+    method, and not using XML Digital Signature for SAML message data origination
+    authentication. Rather, a “sign the BLOB” technique is employed wherein a conveyed
+    SAML message is treated as a simple octet string if it is signed. Conveyed SAML
+    assertions may be individually signed using XMLdsig. Security is optional in this
+    binding.
 ext:
   schema_version: v1.0.4
   doctype:

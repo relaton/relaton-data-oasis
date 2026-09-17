@@ -1,10 +1,12 @@
+---
 id: OASISICOMicsv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Integrated Collaboration Object Model (ICOM) for Interoperable Collaboration Services Version 1.0
+  content: Integrated Collaboration Object Model (ICOM) for Interoperable Collaboration
+    Services Version 1.0
   type: main
 source:
 - type: src
@@ -42,7 +44,8 @@ contributor:
     - type: uri
       content: https://www.oasis-open.org/committees/icom/
     name:
-    - content: OASIS Integrated Collaboration Object Model for Interoperable Collaboration Services (ICOM) TC
+    - content: OASIS Integrated Collaboration Object Model for Interoperable Collaboration
+        Services (ICOM) TC
 - role:
   - type: author
     description:
@@ -52,7 +55,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Integrated Collaboration Object Model for Interoperable Collaboration Services (ICOM) TC
+      - content: OASIS Integrated Collaboration Object Model for Interoperable Collaboration
+          Services (ICOM) TC
       type: technical-committee
 - role:
   - type: editor
@@ -142,7 +146,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a framework for integrating a broad range of domain models for collaboration activities in an integrated and interoperable collaboration environment.
+  content: Defines a framework for integrating a broad range of domain models for
+    collaboration activities in an integrated and interoperable collaboration environment.
 ext:
   schema_version: v1.0.4
   doctype:

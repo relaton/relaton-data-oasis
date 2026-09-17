@@ -1,3 +1,4 @@
+---
 id: OASISOBIXEncodingsCS01
 schema_version: v1.5.6
 type: standard
@@ -105,7 +106,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies different encodings for OBIX objects adhering to the OBIX object model. OBIX provides the core information model and interaction pattern for communication with building control systems.
+  content: Specifies different encodings for OBIX objects adhering to the OBIX object
+    model. OBIX provides the core information model and interaction pattern for communication
+    with building control systems.
 ext:
   schema_version: v1.0.4
   doctype:

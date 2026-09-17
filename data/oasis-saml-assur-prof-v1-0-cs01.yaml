@@ -1,3 +1,4 @@
+---
 id: OASISSAMLassurprofv10CS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies methods of representing assurance information in two different aspects of SAML. It provides guidelines for the use of SAML’s Authentication Context [SAMLAC] mechanisms to express authentication assurance information within authentication requests and assertions. Separately, it defines an attribute suitable for inclusion in SAML Metadata [SAMLMeta] for enumerating an Identity Provider’s assurance certifications.
+  content: Specifies methods of representing assurance information in two different
+    aspects of SAML. It provides guidelines for the use of SAML’s Authentication Context
+    [SAMLAC] mechanisms to express authentication assurance information within authentication
+    requests and assertions. Separately, it defines an attribute suitable for inclusion
+    in SAML Metadata [SAMLMeta] for enumerating an Identity Provider’s assurance certifications.
 ext:
   schema_version: v1.0.4
   doctype:

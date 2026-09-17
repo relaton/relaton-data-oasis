@@ -1,3 +1,4 @@
+---
 id: OASISSAML2CNPV10CS01
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes request and response messages for informing SAML endpoints about available changes to subjects and attributes associated with subjects.
+  content: Describes request and response messages for informing SAML endpoints about
+    available changes to subjects and attributes associated with subjects.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISWSTv11
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes an extensible framework for providing protocols that coordinate the actions of distributed applications. Such coordination protocols are used to support a number of applications, including those that need to reach consistent agreement on the outcome of distributed activities.
+  content: Describes an extensible framework for providing protocols that coordinate
+    the actions of distributed applications. Such coordination protocols are used
+    to support a number of applications, including those that need to reach consistent
+    agreement on the outcome of distributed activities.
 ext:
   schema_version: v1.0.4
   doctype:

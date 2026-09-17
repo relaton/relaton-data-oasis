@@ -1,3 +1,4 @@
+---
 id: OASISLVCSv10CS01
 schema_version: v1.5.6
 type: standard
@@ -38,7 +39,8 @@ contributor:
     - type: uri
       content: https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=d518c57f-50d4-4694-aad8-018dc7d3f54c
     name:
-    - content: OASIS Lightweight Verifiable Credential Schema and Process (LVCSP) TC
+    - content: OASIS Lightweight Verifiable Credential Schema and Process (LVCSP)
+        TC
 - role:
   - type: author
     description:
@@ -48,7 +50,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Lightweight Verifiable Credential Schema and Process (LVCSP) TC
+      - content: OASIS Lightweight Verifiable Credential Schema and Process (LVCSP)
+          TC
       type: technical-committee
 - role:
   - type: editor
@@ -93,7 +96,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining a lightweight identity credential schema, based on the W3C Verifiable Credential (VC) standard, to enable individuals (VC subjects) to share their verified identity attestations across different platforms and services.
+  content: Defining a lightweight identity credential schema, based on the W3C Verifiable
+    Credential (VC) standard, to enable individuals (VC subjects) to share their verified
+    identity attestations across different platforms and services.
 ext:
   schema_version: v1.0.4
   doctype:

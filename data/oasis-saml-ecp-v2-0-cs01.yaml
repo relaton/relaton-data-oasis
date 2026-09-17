@@ -1,3 +1,4 @@
+---
 id: OASISSAMLecpv20CS01
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The SAML V2.0 Enhanced Client or Proxy profile is a SSO profile for use with HTTP, and clients with the capability to directly contact a principal’s identity provider(s) without requiring discovery and redirection by the service provider, as in the case of a browser. This specification updates the original profile by adding support for “Holder of Key” subject confirmation [SAML2HOK] and channel bindings [ChanBind].
+  content: The SAML V2.0 Enhanced Client or Proxy profile is a SSO profile for use
+    with HTTP, and clients with the capability to directly contact a principal’s identity
+    provider(s) without requiring discovery and redirection by the service provider,
+    as in the case of a browser. This specification updates the original profile by
+    adding support for “Holder of Key” subject confirmation [SAML2HOK] and channel
+    bindings [ChanBind].
 ext:
   schema_version: v1.0.4
   doctype:

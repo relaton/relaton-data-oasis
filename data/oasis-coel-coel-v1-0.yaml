@@ -1,3 +1,4 @@
+---
 id: OASISCOELCOELv10
 schema_version: v1.5.6
 type: standard
@@ -191,7 +192,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the Classification of Everyday Living (COEL) version 1.0 specification for the complete implementation of a compliant system. Examples and non-normative material are also offered as guidance.
+  content: Defines the Classification of Everyday Living (COEL) version 1.0 specification
+    for the complete implementation of a compliant system. Examples and non-normative
+    material are also offered as guidance.
 ext:
   schema_version: v1.0.4
   doctype:

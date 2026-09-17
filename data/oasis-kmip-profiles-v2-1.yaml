@@ -1,3 +1,4 @@
+---
 id: OASISkmipprofilesv21
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies conformance clauses that define the use of objects, attributes, operations, message elements and authentication methods within specific contexts of KMIP server and client interaction.
+  content: Specifies conformance clauses that define the use of objects, attributes,
+    operations, message elements and authentication methods within specific contexts
+    of KMIP server and client interaction.
 ext:
   schema_version: v1.0.4
   doctype:

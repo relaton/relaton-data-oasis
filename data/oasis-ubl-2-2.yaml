@@ -1,3 +1,4 @@
+---
 id: OASISUBL22
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining a generic XML interchange format for business documents that can be restricted or extended to meet the requirements of particular industries.
+  content: Defining a generic XML interchange format for business documents that can
+    be restricted or extended to meet the requirements of particular industries.
 ext:
   schema_version: v1.0.4
   doctype:

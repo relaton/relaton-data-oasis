@@ -1,3 +1,4 @@
+---
 id: OASISODFAccessGuidelinesv10CS01
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
       type: technical-committee
 language:
 - en
@@ -61,7 +63,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A guide for Office Applications, that support version 1.1 of the OpenDocument format, to promote and preserve accessible ODF documents. This guide is not a comprehensive guide for content mapping to platform accessibility APIs.
+  content: A guide for Office Applications, that support version 1.1 of the OpenDocument
+    format, to promote and preserve accessible ODF documents. This guide is not a
+    comprehensive guide for content mapping to platform accessibility APIs.
 ext:
   schema_version: v1.0.4
   doctype:

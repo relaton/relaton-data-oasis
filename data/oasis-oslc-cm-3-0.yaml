@@ -1,3 +1,4 @@
+---
 id: OASISOSLCCM30
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining the constraints for using the OSLC Change Management vocabulary in OSLC. Different sets of constraints may be applied to a vocabulary in order to tailor its use.
+  content: Defining the constraints for using the OSLC Change Management vocabulary
+    in OSLC. Different sets of constraints may be applied to a vocabulary in order
+    to tailor its use.
 relation:
 - type: hasPart
   bibitem:

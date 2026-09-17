@@ -1,3 +1,4 @@
+---
 id: OASISSAMTSSv10CS02
 schema_version: v1.5.6
 type: standard
@@ -85,7 +86,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: For developers and architects who wish to design systems and applications that utilize threshold sharing schemes in an interoperable manner.
+  content: For developers and architects who wish to design systems and applications
+    that utilize threshold sharing schemes in an interoperable manner.
 ext:
   schema_version: v1.0.4
   doctype:

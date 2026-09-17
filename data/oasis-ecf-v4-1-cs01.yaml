@@ -1,3 +1,4 @@
+---
 id: OASISECFv41CS01
 schema_version: v1.5.6
 type: standard
@@ -101,7 +102,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: LegalXML Electronic Court Filing Version 4.1 (ECF v4.1) consists of a set of non-proprietary XML and Web Services specifications, along with clarifying explanations and amendments to those specifications, that have been added for the purpose of promoting interoperability among electronic court filing vendors and systems. ECF Version 4.1 is a maintenance release to address several minor schema and definition issues identified by implementers of the ECF 4.0 and 4.01 specifications.
+  content: LegalXML Electronic Court Filing Version 4.1 (ECF v4.1) consists of a set
+    of non-proprietary XML and Web Services specifications, along with clarifying
+    explanations and amendments to those specifications, that have been added for
+    the purpose of promoting interoperability among electronic court filing vendors
+    and systems. ECF Version 4.1 is a maintenance release to address several minor
+    schema and definition issues identified by implementers of the ECF 4.0 and 4.01
+    specifications.
 ext:
   schema_version: v1.0.4
   doctype:

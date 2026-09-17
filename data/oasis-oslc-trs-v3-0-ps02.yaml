@@ -1,3 +1,4 @@
+---
 id: OASISOSLCTRSv30PS02
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Tracked Resource Set protocol allows a server to expose a set of resources in a way that allows clients to discover that set of resources, to track additions to and removals from the set, and to track state changes to the resources in the set.
+  content: The Tracked Resource Set protocol allows a server to expose a set of resources
+    in a way that allows clients to discover that set of resources, to track additions
+    to and removals from the set, and to track state changes to the resources in the
+    set.
 relation:
 - type: hasPart
   bibitem:

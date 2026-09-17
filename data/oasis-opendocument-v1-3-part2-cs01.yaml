@@ -1,10 +1,12 @@
+---
 id: OASISOpenDocumentv13part2CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Open Document Format for Office Applications (OpenDocument) Version 1.3. Part 2: Packages'
+  content: 'Open Document Format for Office Applications (OpenDocument) Version 1.3.
+    Part 2: Packages'
   type: main
 source:
 - type: src
@@ -48,7 +50,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
       type: technical-committee
 - role:
   - type: editor
@@ -96,7 +99,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is Part 2 of the Open Document Format for Office Applications (OpenDocument) Version 1.3 specification and defines a package format for OpenDocument documents, the digital signing of such documents, along with metadata that may be supplied with them.
+  content: This document is Part 2 of the Open Document Format for Office Applications
+    (OpenDocument) Version 1.3 specification and defines a package format for OpenDocument
+    documents, the digital signing of such documents, along with metadata that may
+    be supplied with them.
 relation:
 - type: partOf
   bibitem:

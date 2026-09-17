@@ -1,10 +1,12 @@
+---
 id: OASISdxxsprofilevrv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OASIS DSS v1.0 Profile for Comprehensive Multi-Signature Verification Reports Version 1.0
+  content: OASIS DSS v1.0 Profile for Comprehensive Multi-Signature Verification Reports
+    Version 1.0
   type: main
 source:
 - type: src
@@ -107,7 +109,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a protocol and processing profile of the DSS Verifying Protocol specified in Section 4 of [DSSCore], which allows to return individual signature verification reports for each signature in a verification request and include detailed information of the different steps taken during verification.
+  content: Defines a protocol and processing profile of the DSS Verifying Protocol
+    specified in Section 4 of [DSSCore], which allows to return individual signature
+    verification reports for each signature in a verification request and include
+    detailed information of the different steps taken during verification.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,10 +1,12 @@
+---
 id: OASISJADNv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification for JSON Abstract Data Notation (JADN) Version 1.0 – Committee Specification 01
+  content: Specification for JSON Abstract Data Notation (JADN) Version 1.0 – Committee
+    Specification 01
   type: main
 source:
 - type: md
@@ -73,7 +75,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: JADN is an information modeling language. It has several purposes including defining data structures, validating data instances, informing user interfaces working with structured data, and facilitating protocol internationalization.
+  content: JADN is an information modeling language. It has several purposes including
+    defining data structures, validating data instances, informing user interfaces
+    working with structured data, and facilitating protocol internationalization.
 ext:
   schema_version: v1.0.4
   doctype:

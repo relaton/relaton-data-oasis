@@ -1,3 +1,4 @@
+---
 id: OASISCDPv10CS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Aims to standardize exchange of customer data across systems and silos by defining a web-based API using GraphQL. The GraphQL api is a self-documented and strongly typed interface. It is designed to be dynamically extended, and allows extensive implementation specific customization.
+  content: Aims to standardize exchange of customer data across systems and silos
+    by defining a web-based API using GraphQL. The GraphQL api is a self-documented
+    and strongly typed interface. It is designed to be dynamically extended, and allows
+    extensive implementation specific customization.
 ext:
   schema_version: v1.0.4
   doctype:

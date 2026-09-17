@@ -1,3 +1,4 @@
+---
 id: OASISUBLv24CS01
 schema_version: v1.5.6
 type: standard
@@ -78,7 +79,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: UBL v2.4 is a minor revision to v2.3 that preserves backwards compatibility with previous v2.# versions. It adds new document types, bringing the total number of UBL business documents to 93.
+  content: UBL v2.4 is a minor revision to v2.3 that preserves backwards compatibility
+    with previous v2.# versions. It adds new document types, bringing the total number
+    of UBL business documents to 93.
 ext:
   schema_version: v1.0.4
   doctype:

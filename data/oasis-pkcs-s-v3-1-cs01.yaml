@@ -1,3 +1,4 @@
+---
 id: OASISPKCSSv31CS01
 schema_version: v1.5.6
 type: standard
@@ -85,7 +86,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Defines data types, functions and other basic components of the PKCS #11 Cryptoki interface for devices that may hold cryptographic information and may perform cryptographic functions.'
+  content: 'Defines data types, functions and other basic components of the PKCS #11
+    Cryptoki interface for devices that may hold cryptographic information and may
+    perform cryptographic functions.'
 ext:
   schema_version: v1.0.4
   doctype:

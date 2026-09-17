@@ -1,10 +1,12 @@
+---
 id: OASISEDXLTEPv11CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Emergency Data Exchange Language (EDXL) Tracking of Emergency Patients (TEP) Version 1.1
+  content: Emergency Data Exchange Language (EDXL) Tracking of Emergency Patients
+    (TEP) Version 1.1
   type: main
 source:
 - type: src
@@ -77,7 +79,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: An XML messaging standard primarily for exchange of emergency patient and tracking information from the point of patient encounter through definitive care admission or field release. TEP supports patient tracking across the Emergency Medical Services (EMS) care continuum, as well as hospital evacuations and patient transfers, providing real-time information to responders, Emergency Management, coordinating organizations and care facilities in the chain of care and transport.
+  content: An XML messaging standard primarily for exchange of emergency patient and
+    tracking information from the point of patient encounter through definitive care
+    admission or field release. TEP supports patient tracking across the Emergency
+    Medical Services (EMS) care continuum, as well as hospital evacuations and patient
+    transfers, providing real-time information to responders, Emergency Management,
+    coordinating organizations and care facilities in the chain of care and transport.
 ext:
   schema_version: v1.0.4
   doctype:

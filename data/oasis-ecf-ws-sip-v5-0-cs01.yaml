@@ -1,10 +1,12 @@
+---
 id: OASISECFWSSIPv50CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electronic Court Filing Web Services Service Interaction Profile Version 5.0
+  content: Electronic Court Filing Web Services Service Interaction Profile Version
+    5.0
   type: main
 source:
 - type: src
@@ -126,7 +128,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a Service Interaction Profile, as defined in section 6 of the LegalXML Electronic Court Filing Version 5.0 (ECF 5.0) specification. The Web Services Service Interaction Profile may be used to transmit ECF 5.0 messages between Internet-connected systems.
+  content: Defines a Service Interaction Profile, as defined in section 6 of the LegalXML
+    Electronic Court Filing Version 5.0 (ECF 5.0) specification. The Web Services
+    Service Interaction Profile may be used to transmit ECF 5.0 messages between Internet-connected
+    systems.
 ext:
   schema_version: v1.0.4
   doctype:

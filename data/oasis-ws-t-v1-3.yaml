@@ -1,3 +1,4 @@
+---
 id: OASISWSTv13
 schema_version: v1.5.6
 type: standard
@@ -65,7 +66,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines extensions that build on [WS-Security] to provide a framework for requesting and issuing security tokens, and to broker trust relationships.
+  content: Defines extensions that build on [WS-Security] to provide a framework for
+    requesting and issuing security tokens, and to broker trust relationships.
 ext:
   schema_version: v1.0.4
   doctype:

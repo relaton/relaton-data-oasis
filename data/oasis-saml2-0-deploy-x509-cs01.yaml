@@ -1,3 +1,4 @@
+---
 id: OASISSAML20deployx509CS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies how a principal who has been issued an X.509 identity certificate is represented as a SAML Subject, how an assertion regarding such a principal is produced and consumed, and finally how two entities exchange attributes about such a principal.
+  content: Specifies how a principal who has been issued an X.509 identity certificate
+    is represented as a SAML Subject, how an assertion regarding such a principal
+    is produced and consumed, and finally how two entities exchange attributes about
+    such a principal.
 ext:
   schema_version: v1.0.4
   doctype:

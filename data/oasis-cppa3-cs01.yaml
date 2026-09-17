@@ -1,3 +1,4 @@
+---
 id: OASISCPPA3CS01
 schema_version: v1.5.6
 type: standard
@@ -100,7 +101,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines XML-based trading agreements between trading partners as part of the ebXML family of standards.
+  content: Defines XML-based trading agreements between trading partners as part of
+    the ebXML family of standards.
 ext:
   schema_version: v1.0.4
   doctype:

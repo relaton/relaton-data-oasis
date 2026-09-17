@@ -1,3 +1,4 @@
+---
 id: OASISWSBAv12
 schema_version: v1.5.6
 type: standard
@@ -63,7 +64,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Provides the definition of two Business Activity coordination types: AtomicOutcome or MixedOutcome, that are to be used with the extensible coordination framework described in the WS-Coordination specification. This specification also defines two specific Business Activity agreement coordination protocols for the Business Activity coordination types: BusinessAgreementWithParticipantCompletion, and BusinessAgreementWithCoordinatorCompletion. Developers can use these protocols when building applications that require consistent agreement on the outcome of long-running distributed activities.'
+  content: 'Provides the definition of two Business Activity coordination types: AtomicOutcome
+    or MixedOutcome, that are to be used with the extensible coordination framework
+    described in the WS-Coordination specification. This specification also defines
+    two specific Business Activity agreement coordination protocols for the Business
+    Activity coordination types: BusinessAgreementWithParticipantCompletion, and BusinessAgreementWithCoordinatorCompletion.
+    Developers can use these protocols when building applications that require consistent
+    agreement on the outcome of long-running distributed activities.'
 ext:
   schema_version: v1.0.4
   doctype:

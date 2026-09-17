@@ -1,10 +1,12 @@
+---
 id: OASISXSPAv20
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of XACML v2.0 for Healthcare v1.0
+  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of XACML
+    v2.0 for Healthcare v1.0
   type: main
 source:
 - type: src
@@ -57,7 +59,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A profile of XACML used to support cross-enterprise security and privacy authorization.
+  content: A profile of XACML used to support cross-enterprise security and privacy
+    authorization.
 ext:
   schema_version: v1.0.4
   doctype:

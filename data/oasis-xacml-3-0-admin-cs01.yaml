@@ -1,3 +1,4 @@
+---
 id: OASISXACML30AdminCS01
 schema_version: v1.5.6
 type: standard
@@ -118,7 +119,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes a profile for XACML 3.0 to enable it to express administration and delegation policies.
+  content: Describes a profile for XACML 3.0 to enable it to express administration
+    and delegation policies.
 ext:
   schema_version: v1.0.4
   doctype:

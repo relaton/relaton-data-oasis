@@ -1,3 +1,4 @@
+---
 id: OASISWSBDv10CS01
 schema_version: v1.5.6
 type: standard
@@ -128,7 +129,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: WS-Biometric Devices is a protocol for the command and control of biometric sensors using the same protocols that underlie the web.
+  content: WS-Biometric Devices is a protocol for the command and control of biometric
+    sensors using the same protocols that underlie the web.
 ext:
   schema_version: v1.0.4
   doctype:

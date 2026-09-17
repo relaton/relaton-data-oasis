@@ -1,3 +1,4 @@
+---
 id: OASISAVDLv10
 schema_version: v1.5.6
 type: standard
@@ -57,7 +58,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: AVDL is a security interoperability standard for creating a uniform method of describing application security vulnerabilities using XML.
+  content: AVDL is a security interoperability standard for creating a uniform method
+    of describing application security vulnerabilities using XML.
 ext:
   schema_version: v1.0.4
   doctype:

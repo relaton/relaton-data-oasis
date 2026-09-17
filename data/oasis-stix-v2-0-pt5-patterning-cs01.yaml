@@ -1,3 +1,4 @@
+---
 id: OASISSTIXv20Pt5PatterningCS01
 schema_version: v1.5.6
 type: standard
@@ -48,7 +49,9 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: "OASIS Cyber Threat\nIntelligence (CTI) TC"
+      - content: |-
+          OASIS Cyber Threat
+          Intelligence (CTI) TC
       type: technical-committee
 - role:
   - type: editor
@@ -122,7 +125,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Structured Threat Information Expression (STIX™) is a language for expressing cyber threat and observable information. This document defines a patterning language to enable the detection of possibly malicious activity on networks and endpoints.
+  content: Structured Threat Information Expression (STIX™) is a language for expressing
+    cyber threat and observable information. This document defines a patterning language
+    to enable the detection of possibly malicious activity on networks and endpoints.
 relation:
 - type: partOf
   bibitem:

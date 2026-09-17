@@ -1,3 +1,4 @@
+---
 id: OASISBusinessDocumentNDRv11CS01
 schema_version: v1.5.6
 type: standard
@@ -96,7 +97,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Prescribes a set of naming and design rules used to create complete CCTS models of interoperable business documents.
+  content: Prescribes a set of naming and design rules used to create complete CCTS
+    models of interoperable business documents.
 ext:
   schema_version: v1.0.4
   doctype:

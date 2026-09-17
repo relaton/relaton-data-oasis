@@ -1,3 +1,4 @@
+---
 id: OASISPKCS11Profilesv30
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'PKCS #11 specifications define a platform-independent API to cryptographic tokens, such as hardware security modules and smart cards. “Profiles” is intended to assist developers and architects design systems and applications that conform to the PKCS #11 standard.'
+  content: 'PKCS #11 specifications define a platform-independent API to cryptographic
+    tokens, such as hardware security modules and smart cards. “Profiles” is intended
+    to assist developers and architects design systems and applications that conform
+    to the PKCS #11 standard.'
 ext:
   schema_version: v1.0.4
   doctype:

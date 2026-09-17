@@ -1,3 +1,4 @@
+---
 id: OASISxacml30dsigv10CS02
 schema_version: v1.5.6
 type: standard
@@ -121,7 +122,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This specification profiles use of the W3C XML-Signature Syntax and Processing Standard in providing authentication and integrity protection for XACML schema instances.
+  content: This specification profiles use of the W3C XML-Signature Syntax and Processing
+    Standard in providing authentication and integrity protection for XACML schema
+    instances.
 ext:
   schema_version: v1.0.4
   doctype:

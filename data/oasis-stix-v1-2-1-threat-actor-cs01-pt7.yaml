@@ -1,3 +1,4 @@
+---
 id: OASISSTIXv121ThreatactorCS01Pt7
 schema_version: v1.5.6
 type: standard
@@ -48,7 +49,9 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: "OASIS Cyber Threat\nIntelligence (CTI) TC"
+      - content: |-
+          OASIS Cyber Threat
+          Intelligence (CTI) TC
       type: technical-committee
 - role:
   - type: editor
@@ -164,7 +167,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Structured Threat Information Expression (STIX) framework defines nine core constructs and the relationships between them for the purposes of modeling cyber threat information and enabling cyber threat information analysis and sharing.  This specification document defines the Threat Actor construct, which captures characterizations of malicious actors (or adversaries) representing a cyber attack threat including presumed intent and historically observed behavior.
+  content: The Structured Threat Information Expression (STIX) framework defines nine
+    core constructs and the relationships between them for the purposes of modeling
+    cyber threat information and enabling cyber threat information analysis and sharing. 
+    This specification document defines the Threat Actor construct, which captures
+    characterizations of malicious actors (or adversaries) representing a cyber attack
+    threat including presumed intent and historically observed behavior.
 relation:
 - type: partOf
   bibitem:

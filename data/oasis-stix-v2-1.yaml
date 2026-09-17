@@ -1,3 +1,4 @@
+---
 id: OASISSTIXv21
 schema_version: v1.5.6
 type: standard
@@ -97,7 +98,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A language for expressing cyber threat and observable information. This document defines concepts that apply across all of STIX and defines the overall structure of the STIX language.
+  content: A language for expressing cyber threat and observable information. This
+    document defines concepts that apply across all of STIX and defines the overall
+    structure of the STIX language.
 ext:
   schema_version: v1.0.4
   doctype:

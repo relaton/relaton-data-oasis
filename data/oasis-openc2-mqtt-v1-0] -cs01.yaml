@@ -1,10 +1,12 @@
+---
 id: OASISOpenC2MQTTv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification for Transfer of OpenC2 Messages via MQTT Version 1.0 – Committee Specification 01
+  content: Specification for Transfer of OpenC2 Messages via MQTT Version 1.0 – Committee
+    Specification 01
   type: main
 source:
 - type: src
@@ -73,7 +75,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes the use of MQTT Version 5.0 as a transfer mechanism for OpenC2 messages.
+  content: Describes the use of MQTT Version 5.0 as a transfer mechanism for OpenC2
+    messages.
 ext:
   schema_version: v1.0.4
   doctype:

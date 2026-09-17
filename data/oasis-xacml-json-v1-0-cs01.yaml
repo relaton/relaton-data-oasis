@@ -1,3 +1,4 @@
+---
 id: OASISxacmljsonv10CS01
 schema_version: v1.5.6
 type: standard
@@ -121,7 +122,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Proposes a standardized interface between a policy enforcement point and a policy decision point using JSON. The decision request and response structure is specified in the core XACML specification. This profile leverages it.
+  content: Proposes a standardized interface between a policy enforcement point and
+    a policy decision point using JSON. The decision request and response structure
+    is specified in the core XACML specification. This profile leverages it.
 ext:
   schema_version: v1.0.4
   doctype:

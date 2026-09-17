@@ -1,3 +1,4 @@
+---
 id: OASISOpenDocumentv13
 schema_version: v1.5.6
 type: standard
@@ -45,7 +46,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
       type: technical-committee
 - role:
   - type: editor
@@ -93,7 +95,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifying the characteristics of an XML-based application-independent and platform-independent digital document file format, as well as the characteristics of software applications which read, write and process such documents.
+  content: Specifying the characteristics of an XML-based application-independent
+    and platform-independent digital document file format, as well as the characteristics
+    of software applications which read, write and process such documents.
 relation:
 - type: hasPart
   bibitem:

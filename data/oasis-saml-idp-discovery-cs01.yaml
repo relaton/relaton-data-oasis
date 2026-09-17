@@ -1,3 +1,4 @@
+---
 id: OASISSAMLidpdiscoveryCS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a generic browser-based protocol by which a centralized discovery service implemented independently of a given service provider can provide a requesting service provider with the unique identifier of an identity provider that can authenticate a principal.
+  content: Defines a generic browser-based protocol by which a centralized discovery
+    service implemented independently of a given service provider can provide a requesting
+    service provider with the unique identifier of an identity provider that can authenticate
+    a principal.
 ext:
   schema_version: v1.0.4
   doctype:

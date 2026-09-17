@@ -1,3 +1,4 @@
+---
 id: OASISgenericodev10CS01
 schema_version: v1.5.6
 type: standard
@@ -91,7 +92,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes the OASIS Code List Representation model and W3C XML Schema, known collectively as “genericode”.
+  content: Describes the OASIS Code List Representation model and W3C XML Schema,
+    known collectively as “genericode”.
 ext:
   schema_version: v1.0.4
   doctype:

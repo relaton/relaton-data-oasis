@@ -1,3 +1,4 @@
+---
 id: OASISSTIXv121COACS01Pt9
 schema_version: v1.5.6
 type: standard
@@ -48,7 +49,9 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: "OASIS Cyber Threat\nIntelligence (CTI) TC"
+      - content: |-
+          OASIS Cyber Threat
+          Intelligence (CTI) TC
       type: technical-committee
 - role:
   - type: editor
@@ -164,7 +167,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Structured Threat Information Expression (STIX) framework defines nine core constructs and the relationships between them for the purposes of modeling cyber threat information and enabling cyber threat information analysis and sharing.  This specification document defines the Course of Action construct, which conveys specific measures to be taken to address threats whether they are corrective or preventative to address Exploit Targets, or responsive to counter or mitigate the potential impacts of Incidents.
+  content: The Structured Threat Information Expression (STIX) framework defines nine
+    core constructs and the relationships between them for the purposes of modeling
+    cyber threat information and enabling cyber threat information analysis and sharing.
+     This specification document defines the Course of Action construct, which conveys
+    specific measures to be taken to address threats whether they are corrective or
+    preventative to address Exploit Targets, or responsive to counter or mitigate
+    the potential impacts of Incidents.
 relation:
 - type: partOf
   bibitem:

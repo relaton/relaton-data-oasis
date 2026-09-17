@@ -1,3 +1,4 @@
+---
 id: OASISWSCalendarPIMv10CS02
 schema_version: v1.5.6
 type: standard
@@ -119,7 +120,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Defines conformance and improves interoperation of calendar and schedule models with each other and with WS-Calendar and Xcal, which are in turn based on IETF RFCs.\nThis is a Platform Independent Model under the Object Management Group’s Model-Driven Architecture. The Platform Dependent Model to which this specification relates is the full model for WS-Calendar as expressed in XML (xCal).\nThe focus of this Platform Independent Model is on describing and passing schedule and interval information with information attachments."
+  content: |-
+    Defines conformance and improves interoperation of calendar and schedule models with each other and with WS-Calendar and Xcal, which are in turn based on IETF RFCs.
+    This is a Platform Independent Model under the Object Management Group’s Model-Driven Architecture. The Platform Dependent Model to which this specification relates is the full model for WS-Calendar as expressed in XML (xCal).
+    The focus of this Platform Independent Model is on describing and passing schedule and interval information with information attachments.
 ext:
   schema_version: v1.0.4
   doctype:

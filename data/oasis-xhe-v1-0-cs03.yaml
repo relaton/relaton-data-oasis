@@ -1,3 +1,4 @@
+---
 id: OASISXHEV10CS03
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a business-oriented artifact either referencing (as a header) or containing (as an envelope) a payload of one or more business documents or other artifacts with supplemental semantic information about the collection of payloads as a whole.
+  content: Defines a business-oriented artifact either referencing (as a header) or
+    containing (as an envelope) a payload of one or more business documents or other
+    artifacts with supplemental semantic information about the collection of payloads
+    as a whole.
 ext:
   schema_version: v1.0.4
   doctype:

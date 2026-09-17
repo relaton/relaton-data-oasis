@@ -1,3 +1,4 @@
+---
 id: OASISDSMLv20
 schema_version: v1.5.6
 type: standard
@@ -57,7 +58,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Providing a means for representing directory structural information as an XML document, as well as providing a method for expressing directory queries and updates (and the results of these operations) as XML documents
+  content: Providing a means for representing directory structural information as
+    an XML document, as well as providing a method for expressing directory queries
+    and updates (and the results of these operations) as XML documents
 ext:
   schema_version: v1.0.4
   doctype:

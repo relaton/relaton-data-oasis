@@ -1,3 +1,4 @@
+---
 id: OASISPartyIdTypev10CS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'A mechanism for the identification of business partners in business documents based on XML (or other structured formats) and message headers using URN-based identifier types is required in many electronic business exchanges. This specification specifies a formal URN-based mechanism for referencing party types from the ISO 6523, ISO 9735 and ISO 20022 identification scheme catalogs using the oasis URN namespace. Sample applications include (but are not limited to): ebXML message headers; ebXML collaboration protocol profiles and agreements; UBL, UN/CEFACT and OAGIS XML business documents; the UN/CEFACT SBDH; and XBRL documents.'
+  content: 'A mechanism for the identification of business partners in business documents
+    based on XML (or other structured formats) and message headers using URN-based
+    identifier types is required in many electronic business exchanges. This specification
+    specifies a formal URN-based mechanism for referencing party types from the ISO
+    6523, ISO 9735 and ISO 20022 identification scheme catalogs using the oasis URN
+    namespace. Sample applications include (but are not limited to): ebXML message
+    headers; ebXML collaboration protocol profiles and agreements; UBL, UN/CEFACT
+    and OAGIS XML business documents; the UN/CEFACT SBDH; and XBRL documents.'
 ext:
   schema_version: v1.0.4
   doctype:

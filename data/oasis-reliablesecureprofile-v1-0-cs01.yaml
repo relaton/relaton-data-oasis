@@ -1,3 +1,4 @@
+---
 id: OASISReliableSecureProfilev10CS01
 schema_version: v1.5.6
 type: standard
@@ -168,7 +169,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the WS-I Reliable Secure Profile Version 1.0 consisting of a set clarifications, refinements, interpretations and amplifications to a combination of non-proprietary Web services specifications in order to promote interoperability. In particular it profiles the use of WS-SecureConversation, WS-ReliableMessaging and WS-MakeConnection. This profile extends either one of the Basic Profiles BP1.2 or BP2.0.
+  content: Defines the WS-I Reliable Secure Profile Version 1.0 consisting of a set
+    clarifications, refinements, interpretations and amplifications to a combination
+    of non-proprietary Web services specifications in order to promote interoperability.
+    In particular it profiles the use of WS-SecureConversation, WS-ReliableMessaging
+    and WS-MakeConnection. This profile extends either one of the Basic Profiles BP1.2
+    or BP2.0.
 ext:
   schema_version: v1.0.4
   doctype:

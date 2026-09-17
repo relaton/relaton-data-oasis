@@ -1,3 +1,4 @@
+---
 id: OASISCACAOLayoutExtensionv10CS01
 schema_version: v1.5.6
 type: standard
@@ -38,7 +39,8 @@ contributor:
     - type: uri
       content: https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=b75cccb8-adc6-4de5-8b99-018dc7d322b6
     name:
-    - content: OASIS Collaborative Automated Course of Action Operations (CACAO) for Cyber Security TC
+    - content: OASIS Collaborative Automated Course of Action Operations (CACAO) for
+        Cyber Security TC
 - role:
   - type: author
     description:
@@ -48,7 +50,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Collaborative Automated Course of Action Operations (CACAO) for Cyber Security TC
+      - content: OASIS Collaborative Automated Course of Action Operations (CACAO)
+          for Cyber Security TC
       type: technical-committee
 - role:
   - type: editor

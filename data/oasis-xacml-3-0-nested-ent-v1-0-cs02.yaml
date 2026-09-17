@@ -1,3 +1,4 @@
+---
 id: OASISxacml30nestedentv10CS02
 schema_version: v1.5.6
 type: standard
@@ -73,7 +74,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This profile defines the means to reference attributes from within XACML policies for processing by a policy decision point.
+  content: This profile defines the means to reference attributes from within XACML
+    policies for processing by a policy decision point.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISDBSCS01
 schema_version: v1.5.6
 type: standard
@@ -8,7 +9,12 @@ title:
   type: main
 source:
 - type: zip
-  content: http://DocX:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.docxHTML:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.htmlPDF:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.pdf Relax NG schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/rng/Schematron schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/sch/XML catalog: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/catalog.xmlNVDL schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/ For your convenience, OASIS provides a complete package of the specification document and any related files in ZIP distribution files. You can download the ZIP file at:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.zip
+  content: http://DocX:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.docxHTML:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.htmlPDF:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.pdf
+    Relax NG schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/rng/Schematron
+    schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/sch/XML catalog: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/catalog.xmlNVDL
+    schemas: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/ For your convenience,
+    OASIS provides a complete package of the specification document and any related
+    files in ZIP distribution files. You can download the ZIP file at:https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.zip
 - type: src
   content: https://docs.oasis-open.org/docbook/docbook/v5.2/cs01/docbook-v5.2-cs01.html
 - type: pdf

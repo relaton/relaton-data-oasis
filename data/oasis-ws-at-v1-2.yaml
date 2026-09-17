@@ -1,3 +1,4 @@
+---
 id: OASISWSATv12
 schema_version: v1.5.6
 type: standard
@@ -63,7 +64,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Provides the definition of the Atomic Transaction coordination type that is to be used with the extensible coordination framework described in WS-Coordination. This specification defines three specific agreement coordination protocols for the Atomic Transaction coordination type: completion, volatile two-phase commit, and durable two-phase commit. Developers can use any or all of these protocols when building applications that require consistent agreement on the outcome of short-lived distributed activities that have the all-or-nothing property.'
+  content: 'Provides the definition of the Atomic Transaction coordination type that
+    is to be used with the extensible coordination framework described in WS-Coordination.
+    This specification defines three specific agreement coordination protocols for
+    the Atomic Transaction coordination type: completion, volatile two-phase commit,
+    and durable two-phase commit. Developers can use any or all of these protocols
+    when building applications that require consistent agreement on the outcome of
+    short-lived distributed activities that have the all-or-nothing property.'
 ext:
   schema_version: v1.0.4
   doctype:

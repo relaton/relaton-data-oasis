@@ -1,3 +1,4 @@
+---
 id: OASISOv40
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: OData enables the creation and consumption of REST-based data services which allow resources, identified using Uniform Resource Locators (URLs) and defined in a data model, to be published and edited by Web clients using simple HTTP messages. OData helps create a more open, programmable Web, and simplifies the querying and sharing of data across applications for re-use in the enterprise, cloud, and mobile devices.
+  content: OData enables the creation and consumption of REST-based data services
+    which allow resources, identified using Uniform Resource Locators (URLs) and defined
+    in a data model, to be published and edited by Web clients using simple HTTP messages.
+    OData helps create a more open, programmable Web, and simplifies the querying
+    and sharing of data across applications for re-use in the enterprise, cloud, and
+    mobile devices.
 ext:
   schema_version: v1.0.4
   doctype:

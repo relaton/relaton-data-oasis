@@ -1,3 +1,4 @@
+---
 id: OASISECFv501CS01
 schema_version: v1.5.6
 type: standard
@@ -93,7 +94,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Electronic Court Filing Version 5.01 (ECF v5.01) consists of a set of non-proprietary XML and Web Services specifications developed to promote interoperability among electronic court filing vendors and systems. ECF v5.01 is a minor release that adds new functionality and capabilities beyond the scope of the ECF 5,0, 4.0 and 4.01 specifications that it supersedes
+  content: Electronic Court Filing Version 5.01 (ECF v5.01) consists of a set of non-proprietary
+    XML and Web Services specifications developed to promote interoperability among
+    electronic court filing vendors and systems. ECF v5.01 is a minor release that
+    adds new functionality and capabilities beyond the scope of the ECF 5,0, 4.0 and
+    4.01 specifications that it supersedes
 ext:
   schema_version: v1.0.4
   doctype:

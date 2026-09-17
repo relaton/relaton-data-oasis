@@ -1,3 +1,4 @@
+---
 id: OASISfraginterchg
 schema_version: v1.5.6
 type: standard
@@ -84,7 +85,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining a way to send fragments of an SGML document—regardless of whether the fragments are predetermined entities or not—without having to send everything up to the part in question.
+  content: Defining a way to send fragments of an SGML document—regardless of whether
+    the fragments are predetermined entities or not—without having to send everything
+    up to the part in question.
 ext:
   schema_version: v1.0.4
   doctype:

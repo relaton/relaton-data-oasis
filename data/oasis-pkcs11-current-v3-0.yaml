@@ -1,10 +1,12 @@
+---
 id: OASISPKCS11Currentv30
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'PKCS #11 Cryptographic Token Interface Current Mechanisms Specification Version 3.0'
+  content: 'PKCS #11 Cryptographic Token Interface Current Mechanisms Specification
+    Version 3.0'
   type: main
 source:
 - type: doc
@@ -107,7 +109,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'PKCS #11 specifications define a platform-independent API to cryptographic tokens, such as hardware security modules and smart cards. “Current Mechanisms” defines mechanisms that are used with the current version of PKCS #11.'
+  content: 'PKCS #11 specifications define a platform-independent API to cryptographic
+    tokens, such as hardware security modules and smart cards. “Current Mechanisms”
+    defines mechanisms that are used with the current version of PKCS #11.'
 ext:
   schema_version: v1.0.4
   doctype:

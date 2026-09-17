@@ -1,3 +1,4 @@
+---
 id: OASISEDXLv10
 schema_version: v1.5.6
 type: standard
@@ -59,7 +60,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes a standard message distribution framework for data sharing among emergency information systems using the XML-based Emergency Data Exchange Language (EDXL). This format may be used over any data transmission system, including but not limited to the SOAP HTTP binding.
+  content: Describes a standard message distribution framework for data sharing among
+    emergency information systems using the XML-based Emergency Data Exchange Language
+    (EDXL). This format may be used over any data transmission system, including but
+    not limited to the SOAP HTTP binding.
 ext:
   schema_version: v1.0.4
   doctype:

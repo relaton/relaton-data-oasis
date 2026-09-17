@@ -1,10 +1,12 @@
+---
 id: OASISODataTemporalv40CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OData Extension for Temporal Data Version 4.0 – Committee Specification 01
+  content: OData Extension for Temporal Data Version 4.0 – Committee Specification
+    01
   type: main
 source:
 - type: doc
@@ -133,7 +135,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines how to represent and interact with time-dependent data using the Open Data Protocol (OData).
+  content: Defines how to represent and interact with time-dependent data using the
+    Open Data Protocol (OData).
 ext:
   schema_version: v1.0.4
   doctype:

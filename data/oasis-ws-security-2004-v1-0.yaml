@@ -1,3 +1,4 @@
+---
 id: OASISWSSecurity2004v10
 schema_version: v1.5.6
 type: standard
@@ -57,7 +58,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Builds on the Web Services security foundations as described in the WS-Security specification
+  content: Builds on the Web Services security foundations as described in the WS-Security
+    specification
 ext:
   schema_version: v1.0.4
   doctype:

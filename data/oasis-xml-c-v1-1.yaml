@@ -1,3 +1,4 @@
+---
 id: OASISXMLCv11
 schema_version: v1.5.6
 type: standard
@@ -57,7 +58,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines an entity catalog that maps both external identifiers and arbitrary URI references to URI references.
+  content: Defines an entity catalog that maps both external identifiers and arbitrary
+    URI references to URI references.
 ext:
   schema_version: v1.0.4
   doctype:

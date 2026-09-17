@@ -1,3 +1,4 @@
+---
 id: OASISrelaxngdtdcompatibility
 schema_version: v1.5.6
 type: standard
@@ -57,7 +58,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines datatypes and annotations for use in [RELAX NG] schemas. The purpose of these datatypes and annotations is to support some of the features of XML 1.0 DTDs that are not supported directly by RELAX NG.
+  content: Defines datatypes and annotations for use in [RELAX NG] schemas. The purpose
+    of these datatypes and annotations is to support some of the features of XML 1.0
+    DTDs that are not supported directly by RELAX NG.
 ext:
   schema_version: v1.0.4
   doctype:

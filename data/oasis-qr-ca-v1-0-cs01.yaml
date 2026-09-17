@@ -1,3 +1,4 @@
+---
 id: OASISQRCAv10CS01
 schema_version: v1.5.6
 type: standard
@@ -73,7 +74,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes the use of QR Codes and a mobile phone as a replacement for a username and password
+  content: Describes the use of QR Codes and a mobile phone as a replacement for a
+    username and password
 ext:
   schema_version: v1.0.4
   doctype:

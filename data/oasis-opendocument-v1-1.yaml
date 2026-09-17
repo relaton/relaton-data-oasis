@@ -1,10 +1,12 @@
+---
 id: OASISOpenDocumentv11
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Open Document Format for Office Applications (OpenDocument) Specification v1.1
+  content: Open Document Format for Office Applications (OpenDocument) Specification
+    v1.1
   type: main
 source:
 - type: odt
@@ -52,7 +54,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
       type: technical-committee
 language:
 - en
@@ -61,7 +64,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: An open, XML-based file format for office applications, based on OpenOffice.org XML [OOo].
+  content: An open, XML-based file format for office applications, based on OpenOffice.org
+    XML [OOo].
 ext:
   schema_version: v1.0.4
   doctype:

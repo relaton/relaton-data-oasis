@@ -1,3 +1,4 @@
+---
 id: OASISOSLC
 schema_version: v1.5.6
 type: standard
@@ -45,7 +46,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP - OASIS Standard
+      - content: OASIS Open Services for Lifecycle Collaboration (OSLC) OP - OASIS
+          Standard
       type: technical-committee
 language:
 - en
@@ -54,7 +56,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining the overall approach to Open Services for Lifecycle Collaboration (OSLC) based specifications and capabilities that extend and complement W3C Linked Data Platform.
+  content: Defining the overall approach to Open Services for Lifecycle Collaboration
+    (OSLC) based specifications and capabilities that extend and complement W3C Linked
+    Data Platform.
 relation:
 - type: hasPart
   bibitem:

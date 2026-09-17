@@ -1,10 +1,12 @@
+---
 id: OASISODataCSDLXMLv401
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OData Common Schema Definition Language (CSDL) XML Representation Version 4.01
+  content: OData Common Schema Definition Language (CSDL) XML Representation Version
+    4.01
   type: main
 source:
 - type: src
@@ -107,7 +109,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Common Schema Definition Language (CSDL) defines specific representations of the entity data model exposed by an OData service. This document specifically defines the XML representation of CSDL.
+  content: The Common Schema Definition Language (CSDL) defines specific representations
+    of the entity data model exposed by an OData service. This document specifically
+    defines the XML representation of CSDL.
 ext:
   schema_version: v1.0.4
   doctype:

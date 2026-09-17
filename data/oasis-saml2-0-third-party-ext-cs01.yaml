@@ -1,3 +1,4 @@
+---
 id: OASISSAML20thirdpartyextCS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines an extension to the SAML V2.0 protocol specification [SAML2Core] that facilitates requests made by parties other than the intended response recipient. Protocol extensions enable extension-aware SAML requesters and responders to modify protocol behavior in a generic, layered fashion. Readers should be familiar with [SAML2Core] before reading this document.
+  content: Defines an extension to the SAML V2.0 protocol specification [SAML2Core]
+    that facilitates requests made by parties other than the intended response recipient.
+    Protocol extensions enable extension-aware SAML requesters and responders to modify
+    protocol behavior in a generic, layered fashion. Readers should be familiar with
+    [SAML2Core] before reading this document.
 ext:
   schema_version: v1.0.4
   doctype:

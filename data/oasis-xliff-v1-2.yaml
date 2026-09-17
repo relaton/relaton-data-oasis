@@ -1,3 +1,4 @@
+---
 id: OASISXLIFFv12
 schema_version: v1.5.6
 type: standard
@@ -59,7 +60,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the XML Localization Interchange File Format (XLIFF). The purpose of this vocabulary is to store localizable data and carry it from one step of the localization process to the other, while allowing interoperability between tools.
+  content: Defines the XML Localization Interchange File Format (XLIFF). The purpose
+    of this vocabulary is to store localizable data and carry it from one step of
+    the localization process to the other, while allowing interoperability between
+    tools.
 ext:
   schema_version: v1.0.4
   doctype:

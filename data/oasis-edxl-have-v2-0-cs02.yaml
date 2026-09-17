@@ -1,10 +1,12 @@
+---
 id: OASISEDXLHAVEv20CS02
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange (HAVE) Version 2.0
+  content: Emergency Data Exchange Language (EDXL) Hospital AVailability Exchange
+    (HAVE) Version 2.0
   type: main
 source:
 - type: src
@@ -147,7 +149,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: An XML messaging standard primarily for exchange of information related to health facilities in the context of emergency management. HAVE supports sharing information about facility services, bed counts, operations, capacities, and resource needs so first responders, emergency managers, coordinating organizations, hospitals, care facilities, and the health community can provide each other with a coherent view of the health system.
+  content: An XML messaging standard primarily for exchange of information related
+    to health facilities in the context of emergency management. HAVE supports sharing
+    information about facility services, bed counts, operations, capacities, and resource
+    needs so first responders, emergency managers, coordinating organizations, hospitals,
+    care facilities, and the health community can provide each other with a coherent
+    view of the health system.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISWSDMv11
 schema_version: v1.5.6
 type: standard
@@ -59,7 +60,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "There are two specifications produced by the Web Services Distributed Management technical committee: Management Using Web services (MUWS) and Management Of Web Services (MOWS, see [[MOWS]]). This document is part of MUWS.\nMUWS defines how an Information Technology resource connected to a network provides manageability interfaces such that the IT resource can be managed locally and from remote locations using Web services technologies.\nMUWS is composed of two parts. This document is MUWS part 1 and provides the fundamental concepts for management using Web services. MUWS part 2 [MUWS Part 2] provides specific messaging formats used to enable the interoperability of MUWS implementations. MUWS part 2 depends on MUWS part 1, while part 1 is independent from part 2."
+  content: |-
+    There are two specifications produced by the Web Services Distributed Management technical committee: Management Using Web services (MUWS) and Management Of Web Services (MOWS, see [[MOWS]]). This document is part of MUWS.
+    MUWS defines how an Information Technology resource connected to a network provides manageability interfaces such that the IT resource can be managed locally and from remote locations using Web services technologies.
+    MUWS is composed of two parts. This document is MUWS part 1 and provides the fundamental concepts for management using Web services. MUWS part 2 [MUWS Part 2] provides specific messaging formats used to enable the interoperability of MUWS implementations. MUWS part 2 depends on MUWS part 1, while part 1 is independent from part 2.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISODataJSONFormatv401
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: OData enables the creation and consumption of REST-based data services which allow resources, identified using Uniform Resource Locators (URLs) and defined in a data model, to be published and edited by Web clients using simple HTTP messages. This document extends the core specification by defining representations for OData requests and responses using a JSON format.
+  content: OData enables the creation and consumption of REST-based data services
+    which allow resources, identified using Uniform Resource Locators (URLs) and defined
+    in a data model, to be published and edited by Web clients using simple HTTP messages.
+    This document extends the core specification by defining representations for OData
+    requests and responses using a JSON format.
 ext:
   schema_version: v1.0.4
   doctype:

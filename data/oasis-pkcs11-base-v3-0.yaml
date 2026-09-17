@@ -1,3 +1,4 @@
+---
 id: OASISPKCS11Basev30
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a platform-independent API to cryptographic tokens, such as hardware security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic token interface” and pronounced as “crypto-key”).
+  content: Defines a platform-independent API to cryptographic tokens, such as hardware
+    security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic
+    token interface” and pronounced as “crypto-key”).
 ext:
   schema_version: v1.0.4
   doctype:

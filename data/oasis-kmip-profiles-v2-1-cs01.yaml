@@ -1,3 +1,4 @@
+---
 id: OASISkmipprofilesv21CS01
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Intended for developers and architects who wish to design systems and applications that interoperate using the Key Management Interoperability Protocol Specification
+  content: Intended for developers and architects who wish to design systems and applications
+    that interoperate using the Key Management Interoperability Protocol Specification
 ext:
   schema_version: v1.0.4
   doctype:

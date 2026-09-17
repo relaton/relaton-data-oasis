@@ -1,10 +1,12 @@
+---
 id: OASISXACMLv30Errata01complete
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: eXtensible Access Control Markup Language (XACML) Version 3.0 Plus Errata 01
+  content: eXtensible Access Control Markup Language (XACML) Version 3.0 Plus Errata
+    01
   type: main
 source:
 - type: src
@@ -48,7 +50,9 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: "OASIS eXtensible Access\nControl Markup Language (XACML) TC"
+      - content: |-
+          OASIS eXtensible Access
+          Control Markup Language (XACML) TC
       type: technical-committee
 - role:
   - type: editor
@@ -117,7 +121,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document represents the OASIS Standard eXtensible Access Control Markup Language (XACML) Version 3.0 incorporating the changes defined in Approved Errata 01.
+  content: This document represents the OASIS Standard eXtensible Access Control Markup
+    Language (XACML) Version 3.0 incorporating the changes defined in Approved Errata
+    01.
 relation:
 - type: partOf
   bibitem:

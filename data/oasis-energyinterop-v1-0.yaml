@@ -1,3 +1,4 @@
+---
 id: OASISEnergyInteropv10
 schema_version: v1.5.6
 type: standard
@@ -121,7 +122,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Describes an information model and a communication model to enable collaborative and transactive use of energy, service definitions consistent with the OASIS SOA Reference Model [SOA-RM], and XML vocabularies for the interoperable and standard exchange of:\n·         Dynamic price signals\n·         Reliability signals\n·         Emergency signals\n·         Communication of market participation information such as bids\n·         Load predictability and generation information\nThis work facilitates enterprise interaction with energy markets, which:\n·         Allows effective response to emergency and reliability events\n·         Allows taking advantage of lower energy costs by deferring or accelerating usage\n·         Enables trading of curtailment and generation\n·         Supports symmetry of interaction between providers and consumers of energy\n·         Provides for aggregation of provision, curtailment, and use\nThe definition of a price and of reliability information depends on the market context in which it exists. It is not in scope for this TC to define specifications for markets or for pricing models, but the TC has coordinated with others to ensure that commonly used market and pricing models are supported.\nWhile this specification uses Web Services to describe the services, no requirement or expectation of specific messaging implementation is assumed."
+  content: |-
+    Describes an information model and a communication model to enable collaborative and transactive use of energy, service definitions consistent with the OASIS SOA Reference Model [SOA-RM], and XML vocabularies for the interoperable and standard exchange of:
+    ·         Dynamic price signals
+    ·         Reliability signals
+    ·         Emergency signals
+    ·         Communication of market participation information such as bids
+    ·         Load predictability and generation information
+    This work facilitates enterprise interaction with energy markets, which:
+    ·         Allows effective response to emergency and reliability events
+    ·         Allows taking advantage of lower energy costs by deferring or accelerating usage
+    ·         Enables trading of curtailment and generation
+    ·         Supports symmetry of interaction between providers and consumers of energy
+    ·         Provides for aggregation of provision, curtailment, and use
+    The definition of a price and of reliability information depends on the market context in which it exists. It is not in scope for this TC to define specifications for markets or for pricing models, but the TC has coordinated with others to ensure that commonly used market and pricing models are supported.
+    While this specification uses Web Services to describe the services, no requirement or expectation of specific messaging implementation is assumed.
 ext:
   schema_version: v1.0.4
   doctype:

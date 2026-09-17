@@ -1,3 +1,4 @@
+---
 id: OASISDITAv10
 schema_version: v1.5.6
 type: standard
@@ -59,7 +60,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines both a) a set of document types for authoring and organizing topic-oriented information; and b) a set of mechanisms for combining and extending document types using a process called specialization.
+  content: Defines both a) a set of document types for authoring and organizing topic-oriented
+    information; and b) a set of mechanisms for combining and extending document types
+    using a process called specialization.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISDMLex10
 schema_version: v1.5.6
 type: standard
@@ -114,7 +115,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document defines the 1st version of a data model in support of the high-priority technical goals described in the LEXIDMA TC’s charter, including:\n– A serialization-independent Data Model for Lexicography (DMLex) – An XML serialization of DMLex – A JSON serialization of DMLex – A relational database serialization of DMLex – An RDF serialization of DMLex – An informative NVH serialization of DMLex"
+  content: |-
+    This document defines the 1st version of a data model in support of the high-priority technical goals described in the LEXIDMA TC’s charter, including:
+    – A serialization-independent Data Model for Lexicography (DMLex) – An XML serialization of DMLex – A JSON serialization of DMLex – A relational database serialization of DMLex – An RDF serialization of DMLex – An informative NVH serialization of DMLex
 ext:
   schema_version: v1.0.4
   doctype:

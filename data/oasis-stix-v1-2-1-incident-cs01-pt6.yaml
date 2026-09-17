@@ -1,3 +1,4 @@
+---
 id: OASISSTIXv121IncidentCS01Pt6
 schema_version: v1.5.6
 type: standard
@@ -48,7 +49,9 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: "OASIS Cyber Threat\nIntelligence (CTI) TC"
+      - content: |-
+          OASIS Cyber Threat
+          Intelligence (CTI) TC
       type: technical-committee
 - role:
   - type: editor
@@ -164,7 +167,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Structured Threat Information Expression (STIX) is a collaborative, community-driven effort to define and develop a framework for expressing cyber threat information to enable cyber threat information sharing and cyber threat analysis. The STIX framework comprises a collection of extensible component specifications along with an overarching core specification and supporting specifications. This document serves as an overview of those specifications and defines how they are used within the broader STIX framework.
+  content: The Structured Threat Information Expression (STIX) is a collaborative,
+    community-driven effort to define and develop a framework for expressing cyber
+    threat information to enable cyber threat information sharing and cyber threat
+    analysis. The STIX framework comprises a collection of extensible component specifications
+    along with an overarching core specification and supporting specifications. This
+    document serves as an overview of those specifications and defines how they are
+    used within the broader STIX framework.
 relation:
 - type: partOf
   bibitem:

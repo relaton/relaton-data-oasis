@@ -1,3 +1,4 @@
+---
 id: OASISWSCalSOAPCS01
 schema_version: v1.5.6
 type: standard
@@ -84,7 +85,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes standard messages and interactions for service interactions with a system that hosts calendar-based information using SOAP. Hosted information can be either traditional personal and enterprise calendar information or services that support XML payloads developed in conformance with the WS-Calendar specification.
+  content: Describes standard messages and interactions for service interactions with
+    a system that hosts calendar-based information using SOAP. Hosted information
+    can be either traditional personal and enterprise calendar information or services
+    that support XML payloads developed in conformance with the WS-Calendar specification.
 ext:
   schema_version: v1.0.4
   doctype:

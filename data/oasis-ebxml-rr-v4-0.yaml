@@ -1,3 +1,4 @@
+---
 id: OASISebXMLRRv40
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A a standard defining the service interfaces, protocols and information model for an integrated registry and repository. The repository stores digital content while the registry stores metadata that describes the content in the repository.
+  content: A a standard defining the service interfaces, protocols and information
+    model for an integrated registry and repository. The repository stores digital
+    content while the registry stores metadata that describes the content in the repository.
 ext:
   schema_version: v1.0.4
   doctype:

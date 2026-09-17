@@ -1,3 +1,4 @@
+---
 id: OASISXHEV10CS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a business-oriented artefact either referencing (as a header) or containing (as an envelope) a payload of one or more business documents or other artefacts with supplemental semantic information about the collection of payloads as a whole. This is distinct from any transport-layer infrastructure header or envelope that may be required to propagate documents from one system to another. An exchange header envelope describes contextual information important to the sender and receiver about the payloads, without having to modify the payloads in any fashion.
+  content: Defines a business-oriented artefact either referencing (as a header) or
+    containing (as an envelope) a payload of one or more business documents or other
+    artefacts with supplemental semantic information about the collection of payloads
+    as a whole. This is distinct from any transport-layer infrastructure header or
+    envelope that may be required to propagate documents from one system to another.
+    An exchange header envelope describes contextual information important to the
+    sender and receiver about the payloads, without having to modify the payloads
+    in any fashion.
 ext:
   schema_version: v1.0.4
   doctype:

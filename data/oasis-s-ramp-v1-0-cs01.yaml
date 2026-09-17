@@ -1,3 +1,4 @@
+---
 id: OASISSRAMPv10CS01
 schema_version: v1.5.6
 type: standard
@@ -119,7 +120,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Vendors offer tools to facilitate various activities across the life cycle of a SOA artifact, such as design, assembly, quality assurance, deployment and runtime operation of SOA based applications and business processes.  The lack of a standardized information model and interaction protocol for artifacts and their metadata residing in a SOA repository means that tools must be customized for use with each different vendor’s SOA repository product.  This reduces choice, flexibility and adds costs for customers when choosing tools. This specification defines a SOA artifact data model together with bindings that describe the syntax for interacting with a SOA repository.
+  content: Vendors offer tools to facilitate various activities across the life cycle
+    of a SOA artifact, such as design, assembly, quality assurance, deployment and
+    runtime operation of SOA based applications and business processes.  The lack
+    of a standardized information model and interaction protocol for artifacts and
+    their metadata residing in a SOA repository means that tools must be customized
+    for use with each different vendor’s SOA repository product.  This reduces choice,
+    flexibility and adds costs for customers when choosing tools. This specification
+    defines a SOA artifact data model together with bindings that describe the syntax
+    for interacting with a SOA repository.
 relation:
 - type: hasPart
   bibitem:

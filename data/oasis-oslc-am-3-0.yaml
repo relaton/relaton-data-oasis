@@ -1,3 +1,4 @@
+---
 id: OASISOSLCAM30
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining a RESTful web services interface for managing architectural resources and their relationships to related resources
+  content: Defining a RESTful web services interface for managing architectural resources
+    and their relationships to related resources
 relation:
 - type: hasPart
   bibitem:

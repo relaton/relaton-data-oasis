@@ -1,10 +1,12 @@
+---
 id: OASISciqxprlv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Customer Information Quality Party Relationships (xPRL) Specification Version 3.0
+  content: Customer Information Quality Party Relationships (xPRL) Specification Version
+    3.0
   type: main
 source:
 - type: src
@@ -87,7 +89,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the extensible Party Relationships Language (xPRL) specifications of OASIS Customer Information Quality Specifications Version 3.0, a standard way of defining party information and relationships between parties that is vendor neutral and open (i.e., independent of tools, systems, languages and platforms) and enabled portability and interoperability of data, then it would be possible to reduce the expensive and complex Integration problems associated with new business initiatives.
+  content: Defines the extensible Party Relationships Language (xPRL) specifications
+    of OASIS Customer Information Quality Specifications Version 3.0, a standard way
+    of defining party information and relationships between parties that is vendor
+    neutral and open (i.e., independent of tools, systems, languages and platforms)
+    and enabled portability and interoperability of data, then it would be possible
+    to reduce the expensive and complex Integration problems associated with new business
+    initiatives.
 ext:
   schema_version: v1.0.4
   doctype:

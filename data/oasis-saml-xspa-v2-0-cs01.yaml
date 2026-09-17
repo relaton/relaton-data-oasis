@@ -1,10 +1,12 @@
+---
 id: OASISSAMLXSPAv20CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of SAML v2.0 for Healthcare Version 2.0
+  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of SAML
+    v2.0 for Healthcare Version 2.0
   type: main
 source:
 - type: src
@@ -52,7 +54,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
+      - content: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA)
+          TC
       type: technical-committee
 - role:
   - type: editor
@@ -107,7 +110,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a set of SAML attributes and corresponding vocabularies for healthcare information exchange applications.
+  content: Defines a set of SAML attributes and corresponding vocabularies for healthcare
+    information exchange applications.
 ext:
   schema_version: v1.0.4
   doctype:

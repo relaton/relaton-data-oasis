@@ -1,10 +1,12 @@
+---
 id: OASISUBLidd01CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'UBL 2.0 International Data Dictionary, Volume 1: Japanese, Italian, and Spanish'
+  content: 'UBL 2.0 International Data Dictionary, Volume 1: Japanese, Italian, and
+    Spanish'
   type: main
 source:
 - type: src
@@ -61,7 +63,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Provides informative translations of the UBL 2.0 data dictionary into Japanese, Italian, and Spanish.
+  content: Provides informative translations of the UBL 2.0 data dictionary into Japanese,
+    Italian, and Spanish.
 ext:
   schema_version: v1.0.4
   doctype:

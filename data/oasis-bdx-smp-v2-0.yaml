@@ -1,3 +1,4 @@
+---
 id: OASISBDXSMPv20
 schema_version: v1.5.6
 type: standard
@@ -108,7 +109,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Standard describes the request/response exchanges between a Service Metadata Publisher and a client wishing to discover endpoint information in a 4-corner network
+  content: Standard describes the request/response exchanges between a Service Metadata
+    Publisher and a client wishing to discover endpoint information in a 4-corner
+    network
 ext:
   schema_version: v1.0.4
   doctype:

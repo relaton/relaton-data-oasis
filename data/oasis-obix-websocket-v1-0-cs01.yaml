@@ -1,3 +1,4 @@
+---
 id: OASISOBIXWebSocketv10CS01
 schema_version: v1.5.6
 type: standard
@@ -105,7 +106,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: OBIX provides the core information model and interaction pattern for communication with building control systems. Specific implementations of OBIX must choose how to bind OBIX interactions. This document specifies WebSocket binding for OBIX.
+  content: OBIX provides the core information model and interaction pattern for communication
+    with building control systems. Specific implementations of OBIX must choose how
+    to bind OBIX interactions. This document specifies WebSocket binding for OBIX.
 ext:
   schema_version: v1.0.4
   doctype:

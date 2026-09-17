@@ -1,3 +1,4 @@
+---
 id: OASISOSLCPS02
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defining the overall approach to Open Services for Lifecycle Collaboration (OSLC) based specifications and capabilities that extend and complement W3C Linked Data Platform.
+  content: Defining the overall approach to Open Services for Lifecycle Collaboration
+    (OSLC) based specifications and capabilities that extend and complement W3C Linked
+    Data Platform.
 relation:
 - type: hasPart
   bibitem:

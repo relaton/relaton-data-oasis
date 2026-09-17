@@ -1,3 +1,4 @@
+---
 id: OASISSOAEERPbratingCS01
 schema_version: v1.5.6
 type: standard
@@ -42,7 +43,8 @@ contributor:
     - type: uri
       content: https://www.oasis-open.org/committees/soa-eerp/
     name:
-    - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP) TC
+    - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP)
+        TC
 - role:
   - type: author
     description:
@@ -52,7 +54,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Service-Oriented Architecture End-to-End Resource Planning (SOA-EERP) TC
+      - content: OASIS Service-Oriented Architecture End-to-End Resource Planning
+          (SOA-EERP) TC
       type: technical-committee
 - role:
   - type: editor
@@ -101,7 +104,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies the XML vocabulary for business rating, one of three Specifications for end-to-end resource planning (EERP). Business rating describes the business-related rating and credentials for a service.
+  content: Specifies the XML vocabulary for business rating, one of three Specifications
+    for end-to-end resource planning (EERP). Business rating describes the business-related
+    rating and credentials for a service.
 ext:
   schema_version: v1.0.4
   doctype:

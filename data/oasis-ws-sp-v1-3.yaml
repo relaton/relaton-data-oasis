@@ -1,3 +1,4 @@
+---
 id: OASISWSSPv13
 schema_version: v1.5.6
 type: standard
@@ -63,7 +64,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Indicates the policy assertions for use with [WS-Policy] which apply to WSS: SOAP Message Security [WSS10, WSS11], [WS-Trust] and [WS-SecureConversation]. This document incorporates Approved Errata approved by the Technical Committee on 25 April 2012.'
+  content: 'Indicates the policy assertions for use with [WS-Policy] which apply to
+    WSS: SOAP Message Security [WSS10, WSS11], [WS-Trust] and [WS-SecureConversation].
+    This document incorporates Approved Errata approved by the Technical Committee
+    on 25 April 2012.'
 ext:
   schema_version: v1.0.4
   doctype:

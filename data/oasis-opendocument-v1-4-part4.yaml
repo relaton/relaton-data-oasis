@@ -1,3 +1,4 @@
+---
 id: OASISOpenDocumentv14part4
 schema_version: v1.5.6
 type: standard
@@ -44,7 +45,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Open Document Format for Office Applications (OpenDocument) TC
+      - content: OASIS Open Document Format for Office Applications (OpenDocument)
+          TC
       type: technical-committee
 - role:
   - type: editor
@@ -85,7 +87,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is Part 4 of the Open Document Format for Office Applications (OpenDocument) Version 1.4 specification.
+  content: This document is Part 4 of the Open Document Format for Office Applications
+    (OpenDocument) Version 1.4 specification.
 relation:
 - type: partOf
   bibitem:

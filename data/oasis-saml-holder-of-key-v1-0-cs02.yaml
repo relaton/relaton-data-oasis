@@ -1,3 +1,4 @@
+---
 id: OASISSAMLholderofkeyv10CS02
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Allows for transport of holder-of-key assertions by standard HTTP user agents with no modification of client software and maximum compatibility with existing deployments. The flow is similar to standard Web Browser SSO, but an X.509 certificate presented by the user agent via a TLS handshake supplies a key to be used in a holder-of-key assertion. Proof of possession of the private key corresponding to the public key in the certificate resulting from the TLS handshake strengthens the assurance of the resulting authentication context and protects against credential theft. Neither the identity provider nor the service provider is required to validate the certificate.
+  content: Allows for transport of holder-of-key assertions by standard HTTP user
+    agents with no modification of client software and maximum compatibility with
+    existing deployments. The flow is similar to standard Web Browser SSO, but an
+    X.509 certificate presented by the user agent via a TLS handshake supplies a key
+    to be used in a holder-of-key assertion. Proof of possession of the private key
+    corresponding to the public key in the certificate resulting from the TLS handshake
+    strengthens the assurance of the resulting authentication context and protects
+    against credential theft. Neither the identity provider nor the service provider
+    is required to validate the certificate.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISwshumantaskv11CS01
 schema_version: v1.5.6
 type: standard
@@ -75,7 +76,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Introduces the definition of human tasks, including their properties, behavior and a set of operations used to manipulate human tasks. A coordination protocol is introduced in order to control autonomy and life cycle of service-enabled human tasks in an interoperable manner.
+  content: Introduces the definition of human tasks, including their properties, behavior
+    and a set of operations used to manipulate human tasks. A coordination protocol
+    is introduced in order to control autonomy and life cycle of service-enabled human
+    tasks in an interoperable manner.
 ext:
   schema_version: v1.0.4
   doctype:

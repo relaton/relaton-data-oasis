@@ -1,3 +1,4 @@
+---
 id: OASISSAMLmetadataiopv10CS01
 schema_version: v1.5.6
 type: standard
@@ -75,7 +76,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes a set of rules for SAML metadata producers and consumers to follow such that federated relationships can be interoperably provisioned, and controlled at runtime in a secure, understandable, and self-contained fashion.
+  content: Describes a set of rules for SAML metadata producers and consumers to follow
+    such that federated relationships can be interoperably provisioned, and controlled
+    at runtime in a secure, understandable, and self-contained fashion.
 ext:
   schema_version: v1.0.4
   doctype:

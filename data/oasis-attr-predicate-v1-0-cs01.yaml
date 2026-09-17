@@ -1,3 +1,4 @@
+---
 id: OASISAttrPredicateV10CS01
 schema_version: v1.5.6
 type: standard
@@ -128,7 +129,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Provides a mechanism to allow a SAML authority to certify that a given Boolean predicate holds over one or more of a subject’s attribute values, without revealing the exact values of these attributes. The profile further defines a query format for attribute predicates.
+  content: Provides a mechanism to allow a SAML authority to certify that a given
+    Boolean predicate holds over one or more of a subject’s attribute values, without
+    revealing the exact values of these attributes. The profile further defines a
+    query format for attribute predicates.
 ext:
   schema_version: v1.0.4
   doctype:

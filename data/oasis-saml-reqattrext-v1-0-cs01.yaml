@@ -1,10 +1,12 @@
+---
 id: OASISSAMLReqAttrExtv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: SAML V2.0 Protocol Extension for Requesting Attributes per Request Version 1.0
+  content: SAML V2.0 Protocol Extension for Requesting Attributes per Request Version
+    1.0
   type: main
 source:
 - type: src
@@ -107,7 +109,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines an extension to the SAML V2.0 protocol specification [SAML2Core]. The extension allows Service Providers to specify ad-hoc sets of attributes per request. This brings more flexibility than existing mechanisms, which are based on signaling pre-defined sets of requested attributes.
+  content: Defines an extension to the SAML V2.0 protocol specification [SAML2Core].
+    The extension allows Service Providers to specify ad-hoc sets of attributes per
+    request. This brings more flexibility than existing mechanisms, which are based
+    on signaling pre-defined sets of requested attributes.
 ext:
   schema_version: v1.0.4
   doctype:

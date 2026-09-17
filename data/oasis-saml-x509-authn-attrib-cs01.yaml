@@ -1,3 +1,4 @@
+---
 id: OASISSAMLX509authnattribCS01
 schema_version: v1.5.6
 type: standard
@@ -61,7 +62,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies the use of SAML V2.0 attribute queries and assertions to support distributed authorization in support of X.509-based authentication.
+  content: Specifies the use of SAML V2.0 attribute queries and assertions to support
+    distributed authorization in support of X.509-based authentication.
 ext:
   schema_version: v1.0.4
   doctype:

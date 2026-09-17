@@ -1,3 +1,4 @@
+---
 id: OASIStrustelframeworkv10CS01
 schema_version: v1.5.6
 type: standard
@@ -42,7 +43,8 @@ contributor:
     - type: uri
       content: https://www.oasis-open.org/committees/trust-el/
     name:
-    - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC
+    - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust
+        Elevation) TC
 - role:
   - type: author
     description:
@@ -52,7 +54,8 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC
+      - content: OASIS Electronic Identity Credential Trust Elevation Methods (Trust
+          Elevation) TC
       type: technical-committee
 - role:
   - type: editor
@@ -233,7 +236,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommends particular methods as satisfying defined degrees of assurance for elevating trust in an electronic identity credential, to assure the submitter’s identity sufficiently to support elevation between each pair of assurance levels to transact business where material amounts of economic value or personally identifiable data are involved. Alternative and optional methods may be included. The description of each recommended method shall include functional definitions of the types of identity and assertion data employed by each method, and may include specification of the data services required in each elevation, substantive data exchange patterns or models, message exchange patterns or models, and such other elements as the TC deems useful.
+  content: Recommends particular methods as satisfying defined degrees of assurance
+    for elevating trust in an electronic identity credential, to assure the submitter’s
+    identity sufficiently to support elevation between each pair of assurance levels
+    to transact business where material amounts of economic value or personally identifiable
+    data are involved. Alternative and optional methods may be included. The description
+    of each recommended method shall include functional definitions of the types of
+    identity and assertion data employed by each method, and may include specification
+    of the data services required in each elevation, substantive data exchange patterns
+    or models, message exchange patterns or models, and such other elements as the
+    TC deems useful.
 ext:
   schema_version: v1.0.4
   doctype:

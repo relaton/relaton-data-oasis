@@ -1,3 +1,4 @@
+---
 id: OASISODataJSONFormatv40Errata03
 schema_version: v1.5.6
 type: standard
@@ -48,7 +49,9 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: "OASIS Open Data Protocol\n(OData) TC"
+      - content: |-
+          OASIS Open Data Protocol
+          (OData) TC
       type: technical-committee
 - role:
   - type: editor

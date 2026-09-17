@@ -1,3 +1,4 @@
+---
 id: OASISkmipspecv21CS01
 schema_version: v1.5.6
 type: standard
@@ -107,7 +108,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies the protocol used for the communication between clients and servers performing certain management operations on objects stored and maintained by a key management system, including symmetric and asymmetric cryptographic keys and digital certificates.
+  content: Specifies the protocol used for the communication between clients and servers
+    performing certain management operations on objects stored and maintained by a
+    key management system, including symmetric and asymmetric cryptographic keys and
+    digital certificates.
 ext:
   schema_version: v1.0.4
   doctype:

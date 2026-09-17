@@ -1,3 +1,4 @@
+---
 id: OASISxacmltimeextv10CS01
 schema_version: v1.5.6
 type: standard
@@ -93,7 +94,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines XACML functions for comparing time values that are not sensitive to the time zone chosen for those values, defines functions for performing arithmetic on date and time values and defines a data-type for representing the day of the week along with functions to operate on values of the data‑type.
+  content: Defines XACML functions for comparing time values that are not sensitive
+    to the time zone chosen for those values, defines functions for performing arithmetic
+    on date and time values and defines a data-type for representing the day of the
+    week along with functions to operate on values of the data‑type.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISSAFv10
 schema_version: v1.5.6
 type: standard
@@ -57,7 +58,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a reference architecture for the Symptoms Automation Framework, a tool in the automatic detection, optimization, and remediation of operational aspects of complex systems, notably data centers. It also provides a non-normative XML data model, based on a pseudo schema and an XSD.
+  content: Defines a reference architecture for the Symptoms Automation Framework,
+    a tool in the automatic detection, optimization, and remediation of operational
+    aspects of complex systems, notably data centers. It also provides a non-normative
+    XML data model, based on a pseudo schema and an XSD.
 ext:
   schema_version: v1.0.4
   doctype:

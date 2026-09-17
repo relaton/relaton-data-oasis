@@ -1,10 +1,12 @@
+---
 id: OASISPKCS11Histv240
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'PKCS #11 Cryptographic Token Interface Historical Mechanisms Specification Version 2.40'
+  content: 'PKCS #11 Cryptographic Token Interface Historical Mechanisms Specification
+    Version 2.40'
   type: main
 source:
 - type: src

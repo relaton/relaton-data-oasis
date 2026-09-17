@@ -1,3 +1,4 @@
+---
 id: OASISWSCv12
 schema_version: v1.5.6
 type: standard
@@ -63,7 +64,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Describes an extensible framework for providing protocols that coordinate the actions of distributed applications. Such coordination protocols are used to support a number of applications, including those that need to reach consistent agreement on the outcome of distributed activities.\nThe framework defined in this specification enables an application service to create a context needed to propagate an activity to other services and to register for coordination protocols. The framework enables existing transaction processing, workflow, and other systems for coordination to hide their proprietary protocols and to operate in a heterogeneous environment.\nAdditionally this specification describes a definition of the structure of context and the requirements for propagating context between cooperating services."
+  content: |-
+    Describes an extensible framework for providing protocols that coordinate the actions of distributed applications. Such coordination protocols are used to support a number of applications, including those that need to reach consistent agreement on the outcome of distributed activities.
+    The framework defined in this specification enables an application service to create a context needed to propagate an activity to other services and to register for coordination protocols. The framework enables existing transaction processing, workflow, and other systems for coordination to hide their proprietary protocols and to operate in a heterogeneous environment.
+    Additionally this specification describes a definition of the structure of context and the requirements for propagating context between cooperating services.
 ext:
   schema_version: v1.0.4
   doctype:

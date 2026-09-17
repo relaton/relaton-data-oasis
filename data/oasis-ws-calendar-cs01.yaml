@@ -1,3 +1,4 @@
+---
 id: OASISWSCalendarCS01
 schema_version: v1.5.6
 type: standard
@@ -126,7 +127,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Describes: .       A semantic (or information) model for exchange of calendar information to coordinate activities .       A means of synchronizing and maintaining calendars\nThe specification includes XML vocabularies for the interoperable and standard exchange of:\n.       Schedules, including sequences of schedules\n.       Intervals, including sequences of Intervals\n.       Other calendar information consistent with the IETF iCalendar standards\nThese vocabularies describe schedules and Intervals future, present, or past (historical).\nThe specification is divided into three parts.\n1) The information model and XML vocabularies for exchanging schedule information\n2) RESTful Services for calendar update and synchronization\n3) Web services for calendar update and synchronization\nThe Technical Committee has decided not to publish Parts 2 and 3 until a later version."
+  content: |-
+    Describes: .       A semantic (or information) model for exchange of calendar information to coordinate activities .       A means of synchronizing and maintaining calendars
+    The specification includes XML vocabularies for the interoperable and standard exchange of:
+    .       Schedules, including sequences of schedules
+    .       Intervals, including sequences of Intervals
+    .       Other calendar information consistent with the IETF iCalendar standards
+    These vocabularies describe schedules and Intervals future, present, or past (historical).
+    The specification is divided into three parts.
+    1) The information model and XML vocabularies for exchanging schedule information
+    2) RESTful Services for calendar update and synchronization
+    3) Web services for calendar update and synchronization
+    The Technical Committee has decided not to publish Parts 2 and 3 until a later version.
 ext:
   schema_version: v1.0.4
   doctype:

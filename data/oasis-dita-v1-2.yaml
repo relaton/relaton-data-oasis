@@ -1,3 +1,4 @@
+---
 id: OASISDITAv12
 schema_version: v1.5.6
 type: standard
@@ -63,7 +64,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines both a) a set of document types for authoring and organizing topic-oriented information; and b) a set of mechanisms for combining, extending, and constraining document types.
+  content: Defines both a) a set of document types for authoring and organizing topic-oriented
+    information; and b) a set of mechanisms for combining, extending, and constraining
+    document types.
 ext:
   schema_version: v1.0.4
   doctype:

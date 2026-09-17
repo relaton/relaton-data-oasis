@@ -1,3 +1,4 @@
+---
 id: OASISBIASProfilev20CS01
 schema_version: v1.5.6
 type: standard
@@ -128,7 +129,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies a SOAP profile that implements the Biometric Identity Assurance Services (BIAS) abstract operations specified in INCITS 442 as SOAP messages.
+  content: Specifies a SOAP profile that implements the Biometric Identity Assurance
+    Services (BIAS) abstract operations specified in INCITS 442 as SOAP messages.
 ext:
   schema_version: v1.0.4
   doctype:

@@ -1,3 +1,4 @@
+---
 id: OASISNIEMMv60PS01
 schema_version: v1.5.6
 type: standard
@@ -69,7 +70,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: NIEM is a data model that enables efficient information exchange across diverse public and private organizations. NIEM can improve interoperability among message exchange partners by providing consistent rules, reusable data components, and repeatable processes.
+  content: NIEM is a data model that enables efficient information exchange across
+    diverse public and private organizations. NIEM can improve interoperability among
+    message exchange partners by providing consistent rules, reusable data components,
+    and repeatable processes.
 ext:
   schema_version: v1.0.4
   doctype:
