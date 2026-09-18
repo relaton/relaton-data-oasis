@@ -1,12 +1,10 @@
----
 id: OASISSARIFv210Errata01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0 Plus Errata
-    01.
+  content: Static Analysis Results Interchange Format (SARIF) Version 2.1.0 Plus Errata 01.
   type: main
 source:
 - type: src
@@ -142,9 +140,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document defines a standard format for the output of static analysis
-    tools. The format is referred to as the “Static Analysis Results Interchange Format”
-    and is abbreviated as SARIF.
+  content: This document defines a standard format for the output of static analysis tools. The format is referred to as the “Static Analysis Results Interchange Format” and is abbreviated as SARIF.
 relation:
 - type: partOf
   bibitem:

@@ -1,4 +1,3 @@
----
 id: OASISSAMLholderofkeyassertv10CS02
 schema_version: v1.5.6
 type: standard
@@ -62,11 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes the issuing and processing of holder-of-key SAML assertions.
-    Specifically, we show how a SAML issuer binds X.509 data to a  element and how
-    a relying party confirms that a  element matches given X.509 data. The binding
-    material used by the SAML issuer and the matching data used by the relying party
-    are obtained from an X.509 certificate.
+  content: Describes the issuing and processing of holder-of-key SAML assertions. Specifically, we show how a SAML issuer binds X.509 data to a  element and how a relying party confirms that a  element matches given X.509 data. The binding material used by the SAML issuer and the matching data used by the relying party are obtained from an X.509 certificate.
 ext:
   schema_version: v1.0.4
   doctype:

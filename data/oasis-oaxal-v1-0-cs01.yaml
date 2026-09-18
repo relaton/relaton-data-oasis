@@ -1,12 +1,10 @@
----
 id: OASISoaxalv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Reference Model for Open Architecture for XML Authoring and Localization
-    Version 1.0
+  content: Reference Model for Open Architecture for XML Authoring and Localization Version 1.0
   type: main
 source:
 - type: src
@@ -73,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Provides a comprehensive, efficient, and cost-effective model for building
-    an XML lifecycle production framework based completely on Open Standards from
-    OASIS, LISA OSCAR and W3C.
+  content: Provides a comprehensive, efficient, and cost-effective model for building an XML lifecycle production framework based completely on Open Standards from OASIS, LISA OSCAR and W3C.
 ext:
   schema_version: v1.0.4
   doctype:

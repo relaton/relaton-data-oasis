@@ -1,12 +1,10 @@
----
 id: OASISECFWSSIPv501CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electronic Court Filing Web Services Service Interaction Profile Version
-    5.01
+  content: Electronic Court Filing Web Services Service Interaction Profile Version 5.01
   type: main
 source:
 - type: doc
@@ -103,10 +101,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Electronic Court Filing Web Services Service Interaction Profile defines
-    a Service Interaction Profile (SIP), as defined in section 7 of the ECF v5.01
-    specification. The Web Services SIP may be used to transmit ECF 5.01 messages
-    between Internet-connected systems.
+  content: Electronic Court Filing Web Services Service Interaction Profile defines a Service Interaction Profile (SIP), as defined in section 7 of the ECF v5.01 specification. The Web Services SIP may be used to transmit ECF 5.01 messages between Internet-connected systems.
 ext:
   schema_version: v1.0.4
   doctype:

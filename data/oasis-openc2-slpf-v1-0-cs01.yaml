@@ -1,12 +1,10 @@
----
 id: OASISOpenC2SLPFv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Open Command and Control (OpenC2) Profile for Stateless Packet Filtering
-    Version 1.0
+  content: Open Command and Control (OpenC2) Profile for Stateless Packet Filtering Version 1.0
   type: main
 source:
 - type: src
@@ -63,14 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A concise and extensible language to enable the command and control of
-    cyber defense components, subsystems and/or systems in a manner that is agnostic
-    of the underlying products, technologies, transport mechanisms or other aspects
-    of the implementation. Stateless packet filtering is a cyber defense mechanism
-    that denies or allows traffic based on static properties of the traffic, such
-    as address, port, protocol, etc. This profile defines the Actions, Targets, Specifiers
-    and Options that are consistent with the version 1.0 of the OpenC2 Language Specification
-    ([OpenC2-Lang-v1.0]) in the context of stateless packet filtering (SLPF).
+  content: A concise and extensible language to enable the command and control of cyber defense components, subsystems and/or systems in a manner that is agnostic of the underlying products, technologies, transport mechanisms or other aspects of the implementation. Stateless packet filtering is a cyber defense mechanism that denies or allows traffic based on static properties of the traffic, such as address, port, protocol, etc. This profile defines the Actions, Targets, Specifiers and Options that are consistent with the version 1.0 of the OpenC2 Language Specification ([OpenC2-Lang-v1.0]) in the context of stateless packet filtering (SLPF).
 ext:
   schema_version: v1.0.4
   doctype:

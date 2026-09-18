@@ -1,4 +1,3 @@
----
 id: OASISRegRepebMSv10CS01
 schema_version: v1.5.6
 type: standard
@@ -82,10 +81,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specifies a messaging protocol binding for the Registry Services of the
-    OASIS ebXML RegRep Version 4.0 OASIS Standard. This binding is compatible with
-    both the versions 2.0 and 3.0 of ebMS as well as the AS4 profile and complements
-    the existing protocol bindings specified in OASIS RegRep Version 4.0.
+  content: Specifies a messaging protocol binding for the Registry Services of the OASIS ebXML RegRep Version 4.0 OASIS Standard. This binding is compatible with both the versions 2.0 and 3.0 of ebMS as well as the AS4 profile and complements the existing protocol bindings specified in OASIS RegRep Version 4.0.
 ext:
   schema_version: v1.0.4
   doctype:

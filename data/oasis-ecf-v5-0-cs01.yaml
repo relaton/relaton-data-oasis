@@ -1,4 +1,3 @@
----
 id: OASISECFv50CS01
 schema_version: v1.5.6
 type: standard
@@ -127,10 +126,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Consists of a set of non-proprietary XML and Web services specifications
-    developed to promote interoperability among electronic court filing vendors and
-    systems. ECF v5.0 is a major release that adds new functionality and capabilities
-    beyond the scope of the ECF 4.0 and 4.01 specifications that it supersedes.
+  content: Consists of a set of non-proprietary XML and Web services specifications developed to promote interoperability among electronic court filing vendors and systems. ECF v5.0 is a major release that adds new functionality and capabilities beyond the scope of the ECF 4.0 and 4.01 specifications that it supersedes.
 ext:
   schema_version: v1.0.4
   doctype:

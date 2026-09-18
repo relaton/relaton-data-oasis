@@ -1,12 +1,10 @@
----
 id: OASISSAMLMetadataUIv10
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: SAML V2.0 Metadata Extensions for Login and Discovery User Interface Version
-    1.0
+  content: SAML V2.0 Metadata Extensions for Login and Discovery User Interface Version 1.0
   type: main
 source:
 - type: src
@@ -86,9 +84,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a set of extensions to SAML metadata that provide information necessary
-    for user agents to present effective user interfaces and, in the case of identity
-    provider discovery, recommend appropriate choices to the user.
+  content: Defines a set of extensions to SAML metadata that provide information necessary for user agents to present effective user interfaces and, in the case of identity provider discovery, recommend appropriate choices to the user.
 ext:
   schema_version: v1.0.4
   doctype:

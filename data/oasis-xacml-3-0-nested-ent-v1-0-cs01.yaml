@@ -1,4 +1,3 @@
----
 id: OASISxacml30nestedentv10CS01
 schema_version: v1.5.6
 type: standard
@@ -122,11 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: It is not unusual for access control policy to be dependent on attributes
-    that are not naturally properties of the access subject or resource, but rather
-    are properties of entities that are related to the access subject or resource.
-    This profile defines the means to reference such attributes from within XACML
-    policies for processing by a policy decision point.
+  content: It is not unusual for access control policy to be dependent on attributes that are not naturally properties of the access subject or resource, but rather are properties of entities that are related to the access subject or resource. This profile defines the means to reference such attributes from within XACML policies for processing by a policy decision point.
 ext:
   schema_version: v1.0.4
   doctype:

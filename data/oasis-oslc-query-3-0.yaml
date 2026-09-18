@@ -1,4 +1,3 @@
----
 id: OASISOSLCQuery30
 schema_version: v1.5.6
 type: standard
@@ -60,10 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Provides a mechanism for a client to query or search for RDF resources
-    that match a given criteria. The response to a successful query includes the RDF
-    of a query result container that references the member resources found by the
-    query, and optionally includes selected properties of each member resource.
+  content: Provides a mechanism for a client to query or search for RDF resources that match a given criteria. The response to a successful query includes the RDF of a query result container that references the member resources found by the query, and optionally includes selected properties of each member resource.
 ext:
   schema_version: v1.0.4
   doctype:

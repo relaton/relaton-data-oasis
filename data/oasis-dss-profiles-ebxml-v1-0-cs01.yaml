@@ -1,12 +1,10 @@
----
 id: OASISdssprofilesebxmlv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OASIS ebXML Messaging Transport Binding for Digital Signature Services
-    Version 1.0
+  content: OASIS ebXML Messaging Transport Binding for Digital Signature Services Version 1.0
   type: main
 source:
 - type: src
@@ -123,12 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Mappings from DSS messages into standard communication protocols are called
-    DSS bindings. A transport binding specifies how DSS messages are encoded and carried
-    using a transport protocol. The DSS Core standard [DSS Core] specifies two transport
-    bindings. This document specifies an alternative transport binding that uses the
-    OASIS ebXML Messaging Service. This profile supports is compatible with both the
-    version 2.0 [ebMS 2.0] and version 3.0 [ebMS 3.0] ebXML Messaging OASIS standards.
+  content: Mappings from DSS messages into standard communication protocols are called DSS bindings. A transport binding specifies how DSS messages are encoded and carried using a transport protocol. The DSS Core standard [DSS Core] specifies two transport bindings. This document specifies an alternative transport binding that uses the OASIS ebXML Messaging Service. This profile supports is compatible with both the version 2.0 [ebMS 2.0] and version 3.0 [ebMS 3.0] ebXML Messaging OASIS standards.
 ext:
   schema_version: v1.0.4
   doctype:

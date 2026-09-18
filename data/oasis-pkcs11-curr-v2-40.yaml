@@ -1,12 +1,10 @@
----
 id: OASISPKCS11currv240
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'PKCS #11 Cryptographic Token Interface Current Mechanisms Specification
-    Version 2.40'
+  content: 'PKCS #11 Cryptographic Token Interface Current Mechanisms Specification Version 2.40'
   type: main
 source:
 - type: src
@@ -186,8 +184,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Defines mechanisms that are anticipated for use with the current version
-    of PKCS #11.'
+  content: 'Defines mechanisms that are anticipated for use with the current version of PKCS #11.'
 ext:
   schema_version: v1.0.4
   doctype:

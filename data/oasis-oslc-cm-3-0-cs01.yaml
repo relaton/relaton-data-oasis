@@ -1,4 +1,3 @@
----
 id: OASISOSLCCM30CS01
 schema_version: v1.5.6
 type: standard
@@ -55,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Defines the OSLC Change Management domain, a RESTful web services interface
-    for the management of product change requests, activities, tasks and relationships
-    between those and related resources such as requirements, test cases, or architectural
-    resources. To support these scenarios, this specification defines a set of HTTP-based
-    RESTful interfaces in terms of HTTP methods: GET, POST, PUT and DELETE, HTTP response
-    codes, content type handling and resource formats.'
+  content: 'Defines the OSLC Change Management domain, a RESTful web services interface for the management of product change requests, activities, tasks and relationships between those and related resources such as requirements, test cases, or architectural resources. To support these scenarios, this specification defines a set of HTTP-based RESTful interfaces in terms of HTTP methods: GET, POST, PUT and DELETE, HTTP response codes, content type handling and resource formats.'
 relation:
 - type: hasPart
   bibitem:

@@ -1,4 +1,3 @@
----
 id: OASISSAML20X500CS01
 schema_version: v1.5.6
 type: standard
@@ -62,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A replacement for the X.500/LDAP Attribute Profile found in the original
-    SAML 2.0 Profiles specification [SAML2Prof]. The original profile results in well-formed
-    but schema-invalid XML and cannot be corrected without a normative change.
+  content: A replacement for the X.500/LDAP Attribute Profile found in the original SAML 2.0 Profiles specification [SAML2Prof]. The original profile results in well-formed but schema-invalid XML and cannot be corrected without a normative change.
 ext:
   schema_version: v1.0.4
   doctype:

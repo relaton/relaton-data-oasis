@@ -1,12 +1,10 @@
----
 id: OASISSAML20contextextCS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: SAML 2.0 Shared Credentials Authentication Context Extension and Related
-    Classes
+  content: SAML 2.0 Shared Credentials Authentication Context Extension and Related Classes
   type: main
 source:
 - type: src

@@ -1,4 +1,3 @@
----
 id: OASISWSRFv12
 schema_version: v1.5.6
 type: standard
@@ -58,9 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A family of OASIS-published specifications for web services. Web Services
-    Resource Framework provides a set of operations that web services can use to implement
-    stateful interactions.
+  content: A family of OASIS-published specifications for web services. Web Services Resource Framework provides a set of operations that web services can use to implement stateful interactions.
 ext:
   schema_version: v1.0.4
   doctype:

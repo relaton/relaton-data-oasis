@@ -1,4 +1,3 @@
----
 id: OASISSPMLv10
 schema_version: v1.5.6
 type: standard
@@ -55,8 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines an XML-based framework for exchanging user, resource, and service
-    provisioning information within and between organizations.
+  content: Defines an XML-based framework for exchanging user, resource, and service provisioning information within and between organizations.
 ext:
   schema_version: v1.0.4
   doctype:

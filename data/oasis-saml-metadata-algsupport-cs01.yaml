@@ -1,4 +1,3 @@
----
 id: OASISSAMLmetadataalgsupportCS01
 schema_version: v1.5.6
 type: standard
@@ -62,11 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Includes an element allowing entities to describe the XML Encryption [XMLEnc]
-    algorithms they support. This specification defines metadata extension elements
-    to enable entities to describe the XML Signature [XMLSig] algorithms they support,
-    and a profile for using both elements to enable better algorithm agility for profiles
-    that rely on metadata.
+  content: Includes an element allowing entities to describe the XML Encryption [XMLEnc] algorithms they support. This specification defines metadata extension elements to enable entities to describe the XML Signature [XMLSig] algorithms they support, and a profile for using both elements to enable better algorithm agility for profiles that rely on metadata.
 ext:
   schema_version: v1.0.4
   doctype:

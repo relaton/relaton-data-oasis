@@ -1,12 +1,10 @@
----
 id: OASISXSPAWSTRUSTPROFV10
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of WS-Trust
-    for Healthcare v1.0
+  content: Cross-Enterprise Security and Privacy Authorization (XSPA) Profile of WS-Trust for Healthcare v1.0
   type: main
 source:
 - type: src
@@ -54,8 +52,7 @@ contributor:
     - content: OASIS
     subdivision:
     - name:
-      - content: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA)
-          TC
+      - content: OASIS Cross-Enterprise Security and Privacy Authorization (XSPA) TC
       type: technical-committee
 - role:
   - type: editor
@@ -140,9 +137,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes a framework in which WS-Trust is leveraged by cross-enterprise
-    security and privacy authorization (XSPA) to satisfy requirements pertaining to
-    information-centric security within the healthcare community.
+  content: Describes a framework in which WS-Trust is leveraged by cross-enterprise security and privacy authorization (XSPA) to satisfy requirements pertaining to information-centric security within the healthcare community.
 ext:
   schema_version: v1.0.4
   doctype:

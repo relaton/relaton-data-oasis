@@ -1,4 +1,3 @@
----
 id: OASISSTIXv21CS01
 schema_version: v1.5.6
 type: standard
@@ -57,34 +56,31 @@ contributor:
       type: technical-committee
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - rjs@mitre.org
     name:
       forename:
       - language: en
         script: Latn
-        content: Richard
+        content: Bret
       surname:
         language: en
         script: Latn
-        content: Struse
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: http://www.mitre.org/
-        name:
-        - content: MITRE Corporation
+        content: Jordan
 - role:
   - type: editor
-    description:
-    - content: Chair
   person:
-    email:
-    - trey.darley@cert.be
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: Rich
+      surname:
+        language: en
+        script: Latn
+        content: Piazza
+- role:
+  - type: editor
+  person:
     name:
       forename:
       - language: en
@@ -94,13 +90,6 @@ contributor:
         language: en
         script: Latn
         content: Darley
-    affiliation:
-    - organization:
-        uri:
-        - type: uri
-          content: https://cert.be/
-        name:
-        - content: CCB/CERT.be
 language:
 - en
 script:
@@ -108,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A language for expressing cyber threat and observable information. This
-    document defines concepts that apply across all of STIX and defines the overall
-    structure of the STIX language.
+  content: A language for expressing cyber threat and observable information. This document defines concepts that apply across all of STIX and defines the overall structure of the STIX language.
 ext:
   schema_version: v1.0.4
   doctype:

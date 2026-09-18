@@ -1,4 +1,3 @@
----
 id: OASISPKCSSv31
 schema_version: v1.5.6
 type: standard
@@ -86,11 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Defines a platform-independent API to cryptographic tokens, such as hardware
-    security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic
-    token interface”) and pronounced “crypto-key”. The specification defines data
-    types, functions and other basic components of the interface and also defines
-    mechanisms that are anticipated for use with the current version of PKCS #11.'
+  content: 'Defines a platform-independent API to cryptographic tokens, such as hardware security modules and smart cards. The API itself is named “Cryptoki” (from “cryptographic token interface”) and pronounced “crypto-key”. The specification defines data types, functions and other basic components of the interface and also defines mechanisms that are anticipated for use with the current version of PKCS #11.'
 ext:
   schema_version: v1.0.4
   doctype:

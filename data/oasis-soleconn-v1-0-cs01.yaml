@@ -1,12 +1,10 @@
----
 id: OASISsoleconnv10CS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Advanced Message Queuing Protocol (AMQP) Enforcing Connection Uniqueness
-    Version 1.0
+  content: Advanced Message Queuing Protocol (AMQP) Enforcing Connection Uniqueness Version 1.0
   type: main
 source:
 - type: src
@@ -130,8 +128,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Enables two processes via AMQP v1.0 to enforce that only one open AMQP
-    connection exists between the two of them.
+  content: Enables two processes via AMQP v1.0 to enforce that only one open AMQP connection exists between the two of them.
 ext:
   schema_version: v1.0.4
   doctype:

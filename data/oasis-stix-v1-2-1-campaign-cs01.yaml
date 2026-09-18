@@ -1,4 +1,3 @@
----
 id: OASISSTIXv121CampaignCS01
 schema_version: v1.5.6
 type: standard
@@ -167,12 +166,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Structured Threat Information Expression (STIX) framework defines nine
-    core constructs and the relationships between them for the purposes of modeling
-    cyber threat information and enabling cyber threat information analysis and sharing. 
-    This specification document defines the Campaign construct, which encompasses
-    one or more Threat Actors pursuing an Intended Effect as observed through sets
-    of Incidents and/or TTP, potentially across organizations.
+  content: The Structured Threat Information Expression (STIX) framework defines nine core constructs and the relationships between them for the purposes of modeling cyber threat information and enabling cyber threat information analysis and sharing.  This specification document defines the Campaign construct, which encompasses one or more Threat Actors pursuing an Intended Effect as observed through sets of Incidents and/or TTP, potentially across organizations.
 relation:
 - type: partOf
   bibitem:

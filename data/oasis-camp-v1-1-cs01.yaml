@@ -1,4 +1,3 @@
----
 id: OASISCAMPv11CS01
 schema_version: v1.5.6
 type: standard
@@ -169,14 +168,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the artifacts and APIs that need to be offered by a Platform as
-    a Service (PaaS) cloud to manage the building, running, administration, monitoring
-    and patching of applications in the cloud. Its purpose is to enable interoperability
-    among self-service interfaces to PaaS clouds by defining artifacts and formats
-    that can be used with any conforming cloud and enable independent vendors to create
-    tools and services that interact with any conforming cloud using the defined interfaces.
-    Cloud vendors can use these interfaces to develop new PaaS offerings that will
-    interact with independently developed tools and components.
+  content: Defines the artifacts and APIs that need to be offered by a Platform as a Service (PaaS) cloud to manage the building, running, administration, monitoring and patching of applications in the cloud. Its purpose is to enable interoperability among self-service interfaces to PaaS clouds by defining artifacts and formats that can be used with any conforming cloud and enable independent vendors to create tools and services that interact with any conforming cloud using the defined interfaces. Cloud vendors can use these interfaces to develop new PaaS offerings that will interact with independently developed tools and components.
 ext:
   schema_version: v1.0.4
   doctype:

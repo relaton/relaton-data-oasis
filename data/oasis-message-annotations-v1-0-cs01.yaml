@@ -1,4 +1,3 @@
----
 id: OASISMessageAnnotationsv10CS01
 schema_version: v1.5.6
 type: standard
@@ -70,10 +69,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: AMQP is a vendor-neutral, platform-agnostic protocol for passing real-time
-    data streams and business transactions. This document defines mechanisms to allow
-    messages which transit boundaries to be annotated with sufficient information
-    to allow responses to be directed back to the intended recipient.
+  content: AMQP is a vendor-neutral, platform-agnostic protocol for passing real-time data streams and business transactions. This document defines mechanisms to allow messages which transit boundaries to be annotated with sufficient information to allow responses to be directed back to the intended recipient.
 ext:
   schema_version: v1.0.4
   doctype:

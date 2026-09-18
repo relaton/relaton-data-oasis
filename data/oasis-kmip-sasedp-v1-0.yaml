@@ -1,4 +1,3 @@
----
 id: OASISKMIPSASEDPv10
 schema_version: v1.5.6
 type: standard
@@ -62,8 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes a profile for Storage Arrays with Self-Encrypting Drives as KMIP
-    clients interacting with KMIP servers.
+  content: Describes a profile for Storage Arrays with Self-Encrypting Drives as KMIP clients interacting with KMIP servers.
 ext:
   schema_version: v1.0.4
   doctype:

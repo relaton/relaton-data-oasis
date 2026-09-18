@@ -1,4 +1,3 @@
----
 id: OASISxmilev10
 schema_version: v1.5.6
 type: standard
@@ -213,11 +212,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines an open XML protocol for the sharing, interoperability, and reuse
-    of SD models and simulations. This document describes the XMILE language and format
-    anyone who wishes to use SD models or embed them in their applications, such as
-    vendors of SD software, Big Data, cloud, mobile, and social media solutions, as
-    well as end users and consultants in the SD field.
+  content: Defines an open XML protocol for the sharing, interoperability, and reuse of SD models and simulations. This document describes the XMILE language and format anyone who wishes to use SD models or embed them in their applications, such as vendors of SD software, Big Data, cloud, mobile, and social media solutions, as well as end users and consultants in the SD field.
 ext:
   schema_version: v1.0.4
   doctype:

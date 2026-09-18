@@ -1,12 +1,10 @@
----
 id: OASISSOARAFCS01
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Reference Architecture Foundation for Service Oriented Architecture Version
-    1.0
+  content: Reference Architecture Foundation for Service Oriented Architecture Version 1.0
   type: main
 source:
 - type: src

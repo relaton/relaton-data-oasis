@@ -1,4 +1,3 @@
----
 id: OASISUDDIv302
 schema_version: v1.5.6
 type: standard
@@ -58,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Universal Description Discovery & Integration (UDDI) is the definition
-    of a set of services supporting the description and discovery of businesses, organizations,
-    and other Web services providers, the Web services they make available, and the
-    technical interfaces which may be used to access those services.
+  content: Universal Description Discovery & Integration (UDDI) is the definition of a set of services supporting the description and discovery of businesses, organizations, and other Web services providers, the Web services they make available, and the technical interfaces which may be used to access those services.
 ext:
   schema_version: v1.0.4
   doctype:
