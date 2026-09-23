@@ -2135,11 +2135,23 @@
   :file: data/oasis-pkcs11-profiles-v3-2-cs01.yaml
 - :id:
     _type: pubid:oasis:standard
+    original: PKCS11-Profiles-v3.2
+    number: PKCS11-Profiles
+    version: v3.2
+  :file: data/oasis-pkcs11-profiles-v3-2.yaml
+- :id:
+    _type: pubid:oasis:standard
     original: PKCS11-Spec-v3.2-CS01
     number: PKCS11-Spec
     version: v3.2
     stage: CS01
   :file: data/oasis-pkcs11-spec-v3-2-cs01.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: PKCS11-Spec-v3.2
+    number: PKCS11-Spec
+    version: v3.2
+  :file: data/oasis-pkcs11-spec-v3-2.yaml
 - :id:
     _type: pubid:oasis:standard
     original: PKCS11-base-v2.40
@@ -3017,6 +3029,12 @@
     number: UBL
     version: '2.4'
   :file: data/oasis-ubl-2-4.yaml
+- :id:
+    _type: pubid:oasis:standard
+    original: UBL-2.5
+    number: UBL
+    version: '2.5'
+  :file: data/oasis-ubl-2-5.yaml
 - :id:
     _type: pubid:oasis:standard
     original: UBL-NDR-v1.0

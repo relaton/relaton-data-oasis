@@ -739,8 +739,12 @@
   :file: data/oasis-pkcs11-profiles-v3-0.yaml
 - :id: OASIS PKCS11-Profiles-v3.2-CS01
   :file: data/oasis-pkcs11-profiles-v3-2-cs01.yaml
+- :id: OASIS PKCS11-Profiles-v3.2
+  :file: data/oasis-pkcs11-profiles-v3-2.yaml
 - :id: OASIS PKCS11-Spec-v3.2-CS01
   :file: data/oasis-pkcs11-spec-v3-2-cs01.yaml
+- :id: OASIS PKCS11-Spec-v3.2
+  :file: data/oasis-pkcs11-spec-v3-2.yaml
 - :id: OASIS PLCS-DEXLIB-VR5-CS01
   :file: data/oasis-plcs-dexlib-vr5-cs01.yaml
 - :id: OASIS PLCS v1.0-CS01
@@ -1003,6 +1007,8 @@
   :file: data/oasis-ubl-2-3.yaml
 - :id: OASIS UBL-2.4
   :file: data/oasis-ubl-2-4.yaml
+- :id: OASIS UBL-2.5
+  :file: data/oasis-ubl-2-5.yaml
 - :id: OASIS UBL-customization-CS01
   :file: data/oasis-ubl-customization-cs01.yaml
 - :id: OASIS UBL-idd01-CS01
